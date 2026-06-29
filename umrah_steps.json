@@ -51,8 +51,8 @@
     "description": "[en]Making the intention for Umrah and entering the state of Ihram at the designated Miqat boundary.[/en] \n[ms]Berniat untuk Umrah dan memasuki keadaan Ihram di sempadan Miqat yang ditetapkan.[/ms] \n[ml]നിശ്ചിത മീഖാത്ത് അതിർത്തിയിൽ വെച്ച് ഉംറയ്ക്ക് നിയ്യത്ത് ചെയ്യുകയും ഇഹ്‌റാമിൽ പ്രവേശിക്കുകയും ചെയ്യൽ.[/ml] \n[ta]நிர்ணயிக்கப்பட்ட மீகாத் எல்லையில் உம்றாவிற்கு நிய்யத் செய்து இஹ்றாம் நிலையில் நுழைதல்.[/ta]",
     "type": "ihramNiyyah",
     "status": "Wajib",
-    "lat": 21.423,
-    "lng": 39.825,
+    "lat": 21.4925,
+    "lng": 39.7744,
     "details": [
       {
         "card": 1,
