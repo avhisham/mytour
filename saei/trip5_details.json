@@ -1,0 +1,15 @@
+[
+  {
+    "card": 1,
+    "title": "Trip 5",
+    "description": "Allahumma inni as'aluka al-'afwa wal-'afiyah fid-dunya wal-akhirah. (Safa → Marwah, Trip 5)",
+    "lat": 21.4221,
+    "lng": 39.8275,
+    "mediaItems": [
+      {
+        "type": "map",
+        "caption": "Specific Location"
+      }
+    ]
+  }
+]

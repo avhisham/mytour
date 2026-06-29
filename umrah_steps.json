@@ -1,0 +1,378 @@
+[
+  {
+    "id": "u0a",
+    "title": "[en]1. At Home (Departure Preparation)[/en]\n[ms]1. Di Rumah (Persediaan Keberangkatan)[/ms]\n[ml]1. വീട്ടിൽ വെച്ച് (പുറപ്പെടുന്നതിനായുള്ള തയ്യാറെടുപ്പ്)[/ml]\n[ta]1. வீட்டில் (புறப்படுவதற்கான தயாரிப்பு)[/ta]",
+    "description": "[en]Preparation steps before leaving for Umrah, including Sunnah bathing and prayer.[/en] \n[ms]Langkah-langkah persediaan sebelum berangkat untuk Umrah, termasuk mandi sunat dan solat.[/ms] \n[ml]ഉംറയ്ക്കായി പുറപ്പെടുന്നതിന് മുമ്പുള്ള തയ്യാറെടുപ്പുകൾ, സുന്നത്ത് കുളിയും നിസ്കാരവും ഉൾപ്പെടെ.[/ml] \n[ta]உம்றാവிற்குப் புறப்படுவதற்கு முன்னதான தயாரிப்புப் படிகள், சுன்னத்தான குளியல் மற்றும் தொழுகை உட்பட.[/ta]",
+    "type": "generalInfo",
+    "status": "Sunnat",
+    "lat": 21.4187,
+    "lng": 39.8257,
+    "details": [
+      {
+        "card": 1,
+        "title": "[en]Sunnah Bath of Ihram[/en]\n[ms]Mandi Sunat Ihram[/ms]\n[ml]ഇഹ്‌റാമിൻ്റെ സുന്നത്ത് കുളി[/ml]\n[ta]இஹ்ராமிற்கான சுன்னத்தான കുളിയൽ[/ta]",
+        "description": "[ar]نَوَيْتُ الْغُسْلَ لِسُنَّةِ الإِحْرَامِ لِلّٰهِ تَعَالَىٰ[/ar] \n[ms](Sengaja aku mandi sunat ihram kerana Allah Ta’ala).[/ms] \n[en](I intend to perform the Sunnah bath of Ihram for the sake of Allah the Almighty).[/en] \n[ml](അല്ലാഹുവിൻ്റെ പ്രീതിക്കായി ഇഹ്‌റാമിൻ്റെ സുന്നത്തായ കുളി ഞാൻ കരുതി).[/ml] \n[ta](அல்லாஹ்வின் திருப்திக்காக இஹ்ராமிற்கக்கான சுன்னத்தான குளியலை நான் நாடுகிறேன்).[/ta]",
+        "mediaItems": [],
+        "audio": {
+          "url": "audio/home_prep.mp3",
+          "subtitles": "audio/home_prep.json"
+        },
+        "autoPlay": true
+      },
+      {
+        "card": 2,
+        "title": "[en]Sunnah Prayer of Ihram[/en]\n[ms]Solat Sunat Ihram[/ms]\n[ml]ഇഹ്‌റാമിൻ്റെ സുന്നത്ത് നിസ്കാരം[/ml]\n[ta]இஹ்ராமிற்கான சுன்னத்தான தொழுகை[/ta]",
+        "description": "[ar]أُصَلِّي سُنَّةَ الإِحْرَامِ رَكْعَتَيْنِ لِلّٰهِ تَعَالَىٰ[/ar] \n[ms](Sengaja aku solat sunat Ihram dua rakaat kerana Allah Ta’ala).[/ms] \n[en](I intend to perform two raka'ahs of the Sunnah prayer of Ihram for the sake of Allah the Almighty).[/en] \n[ml](അല്ലാഹുവിൻ്റെ പ്രീതിക്കായി ഇഹ്‌റാമിൻ്റെ സുന്നത്തായ രണ്ട് റക്അത്ത് നിസ്കാരം ഞാൻ കരുതി).[/ml] \n[ta](அல்லாஹ்வின் திருப்திக்காக இஹ்ராமிற்கான சுன்னத்தான இரண்டு ரக்அத் தொழுகையை நான் நாடுகிறேன்).[/ta]",
+        "mediaItems": [
+          {
+            "type": "video",
+            "url": "video/solat_guide.mp4"
+          }
+        ],
+        "audio": {
+          "url": "audio/solat_ihram.mp3",
+          "subtitles": null
+        },
+        "autoPlay": true
+      }
+    ],
+    "media": [
+      {
+        "type": "map",
+        "caption": "Location Overview"
+      }
+    ],
+    "timelineLabel": "Step",
+    "autoPlay": false
+  },
+  {
+    "id": "u0b",
+    "title": "[en]2. At the Miqat (Ihram Preparation)[/en]\n[ms]2. Di Miqat (Persediaan Berihram)[/ms]\n[ml]2. മീഖാത്തിൽ വെച്ച് (ഇഹ്‌റാമിനായുള്ള തയ്യാറെടുപ്പ്)[/ml]\n[ta]2. மீகாத்தில் (இஹ்ராமிற்கான தயாரிப்பு)[/ta]",
+    "description": "[en]Making the intention for Umrah and entering the state of Ihram at the designated Miqat boundary.[/en] \n[ms]Berniat untuk Umrah dan memasuki keadaan Ihram di sempadan Miqat yang ditetapkan.[/ms] \n[ml]നിശ്ചിത മീഖാത്ത് അതിർത്തിയിൽ വെച്ച് ഉംറയ്ക്ക് നിയ്യത്ത് ചെയ്യുകയും ഇഹ്‌റാമിൽ പ്രവേശിക്കുകയും ചെയ്യൽ.[/ml] \n[ta]நிர்ணயிக்கப்பட்ட மீகாத் எல்லையில் உம்றாவிற்கு நிய்யத் செய்து இஹ்றாம் நிலையில் நுழைதல்.[/ta]",
+    "type": "ihramNiyyah",
+    "status": "Wajib",
+    "lat": 21.423,
+    "lng": 39.825,
+    "details": [
+      {
+        "card": 1,
+        "title": "[en]Niyyah for Umrah[/en]\n[ms]Niat Umrah[/ms]\n[ml]ഉംറയ്ക്കുള്ള നിയ്യത്ത്[/ml]\n[ta]உம்றாவிற்கான நிய்யத்[/ta]",
+        "description": "[ar]نَوَيْتُ العُمْرَةَ وَأَحْرَمْتُ بِهَا لِلّٰهِ تَعَالَىٰ[/ar] \n[ms](Sahaja aku berniat UMRAH dan aku berihram dengannya kerana Allah Ta’ala).[/ms] \n[en](I intend to perform Umrah and enter into the state of Ihram for it for the sake of Allah the Almighty).[/en] \n[ml](അല്ലാഹുവിൻ്റെ പ്രീതിക്കായി ഉംറയെ ഞാൻ കരുതി, അത് കൊണ്ട് ഞാൻ ഇഹ്‌റാമിൽ പ്രവേശിക്കുകയും ചെയ്തു).[/ml] \n[ta](அல்லாஹ்வின் திருப்திக்காக உம்றாவை நான் நாடுகிறேன், மேலும் அதற்காக இஹ்ராமில் நுழைகிறேன்).[/ta]",
+        "mediaItems": [
+          {
+            "type": "map",
+            "url": "https://maps.google.com/?q=Bir+Ali+Miqat"
+          }
+        ],
+        "audio": {
+          "url": "audio/niyyah_umrah.mp3",
+          "subtitles": null
+        },
+        "autoPlay": true
+      },
+      {
+        "card": 2,
+        "title": "[en]Prohibitions of Ihram[/en]\n[ms]Larangan Ihram[/ms]\n[ml]ഇഹ്‌റാമിലെ വിലക്കുകൾ[/ml]\n[ta]இஹ்ராமில் உள்ள தடைகள்[/ta]",
+        "description": "[en]A guide to actions and behaviors forbidden to pilgrims in the state of Ihram, maintaining total devotion and equality.[/en]\n[ms]Panduan tindakan dan tingkah laku yang dilarang bagi jemaah dalam keadaan Ihram, mengekalkan ketaatan dan kesamarataan.[/ms]\n[ml]ഇഹ്‌റാം അവസ്ഥയിലുള്ള തീർത്ഥാടകർക്ക് നിരോധിച്ചിട്ടുള്ള പ്രവർത്തനങ്ങളെയും പെരുമാറ്റങ്ങളെയും കുറിച്ചുള്ള ഒരു വഴികാട്ടി.[/ml]\n[ta]இஹ்ராம் நிலையில் உள்ள யாத்ரீகர்களுக்கு தடைசெய்யப்பட்ட செயல்கள் மற்றும் நடத்தைகள் பற்றிய வழிகாட்டி.[/ta]",
+        "dataSource": "tour_data/ihramimage.json",
+        "mediaItems": [
+          {
+            "type": "image",
+            "url": "image/ihramblank.png"
+          }
+        ],
+        "autoPlay": false
+      },
+      {
+        "card": 3,
+        "title": "[en]Talbiyah[/en]\n[ms]Talbiyah[/ms]\n[ml]തൽബിയത്ത്[/ml]\n[ta]தல்பியா[/ta]",
+        "description": "[ar]لَبَّيْكَ اللهمَّ لَبَّيْكَ، لَبَّيْكَ لَا شَرِيْكَ لَكَ لَبَّيْكَ، إِنَّ الْحَمْدَ وَالنِّعْمَةَ لَكَ وَالْمُلْكَ، لَا شَرِيْكَ لَكَ[/ar] \n[ms](Hamba-Mu datang menyahut panggilan-Mu ya Allah, hamba-Mu datang menyahut panggilan-Mu. Hamba-Mu datang menyahut panggilan-Mu, tiada sekutu bagi-Mu, hamba-Mu datang menyahut panggilan-Mu. Sesungguhnya segala pujian, nikmat dan pemerintahan adalah kepunyaan-Mu, tiada sekutu bagi-Mu).[/ms] \n[en](Here I am at Thy service, O Allah, here I am. Here I am, there is no partner unto Thee, here I am. Truly the praise and the grace are Thine, and the dominion, there is no partner unto Thee).[/en] \n[ml](അല്ലാഹുവേ, നിൻ്റെ വിളിക്ക് ഉത്തരം നൽകി ഞാനിതാ വന്നിരിക്കുന്നു... നിനക്ക് പങ്കുകാരില്ല...).[/ml] \n[ta](யா அல்லாஹ், உன்னுடைய அழைப்பை ஏற்று இதோ நான் வந்துவிட்டேன்... உனக்கு இணையாளர்கள் எவருமில்லை...).[/ta]",
+        "mediaItems": [],
+        "audio": {
+          "url": "audio/talbiyah.mp3",
+          "subtitles": null
+        },
+        "autoPlay": true
+      },
+      {
+        "card": 4,
+        "title": "[en]Prayer for Entering the Sanctuary[/en]\n[ms]Doa Masuk Tanah Haram[/ms]\n[ml]പുണ്യഭൂമിയിൽ പ്രവേശിക്കുമ്പോഴുള്ള ദുആ[/ml]\n[ta]புனித பூமிக்குள் நுழையும் போது ஓதும் துஆ[/ta]",
+        "description": "[ar]اللهمَّ إِنَّ هَذَا الْحَرَمَ حَرَمُكَ، وَالْبَلَدَ بَلَدُكَ، وَالأَمْنَ أَمْنُكَ[/ar] \n[ms](Ya Allah, tanah haram ini tanah haram-Mu, negeri ini negeri-Mu, dan keamanan ini keamanan-Mu).[/ms] \n[en](O Allah, this sanctuary is Your sanctuary, this land is Your land, and this peace is Your peace).[/en] \n[ml](അല്ലാഹുവേ, ഈ പുണ്യഭൂമി നിൻ്റെ പുണ്യഭൂമിയാണ്, ഈ നാട് നിൻ്റെ നാടാണ്, ഈ അഭയം നിൻ്റെ അഭയമാണ്).[/ml] \n[ta](யா அல்லாஹ், இந்த புனித பூமி உன்னுடைய புனித பூமி, இந்த ஊர் உன்னுடைய ஊர், இந்த பாதுகாப்பு உன்னுடைய பாதுகாப்பு).[/ta]",
+        "mediaItems": [
+          {
+            "type": "map",
+            "url": "https://maps.google.com/?q=Masjid+al-Haram"
+          }
+        ],
+        "audio": {
+          "url": "audio/doa_haram.mp3",
+          "subtitles": null
+        },
+        "autoPlay": true
+      }
+    ],
+    "media": [
+      {
+        "type": "map",
+        "caption": "Location Overview"
+      }
+    ],
+    "timelineLabel": "Step",
+    "autoPlay": false
+  },
+  {
+    "id": "u0d",
+    "title": "[en]3. Seeing the Kaaba[/en]\n[ms]3. Melihat Kaabah[/ms]\n[ml]3. കഅബ കാണുന്നത്[/ml]\n[ta]3. கஃபாவைப் பார்த்தல்[/ta]",
+    "description": "[en]The first sight of the Holy Kaaba and the associated Sunnah prayers and supplications.[/en] \n[ms]Penglihatan pertama Kaabah yang suci dan doa-doa serta solat sunat yang berkaitan.[/ms] \n[ml]പരിശുദ്ധ കഅബയെ ആദ്യമായി കാണുന്നതും അതുമായി ബന്ധപ്പെട്ട സുന്നത്ത് പ്രാർത്ഥനകളും ദുആകളും.[/ml] \n[ta]பரிசுத்த கஃபாவின் முதல் தரிசனம் மற்றும் அதனுடன் தொடர்புடைய சுன்னத்தான தொழுகைகள் மற்றும் பிரார்த்தனைகள்.[/ta]",
+    "type": "generalInfo",
+    "status": "Sunnat",
+    "lat": 21.4211,
+    "lng": 39.8262,
+    "details": [
+      {
+        "card": 1,
+        "title": "[en]Supplication upon Seeing the Kaaba[/en]\n[ms]Doa Melihat Kaabah[/ms]\n[ml]കഅബ കാണുമ്പോഴുള്ള ദുആ[/ml]\n[ta]கஃபாவைப் பார்க்கும் போது ஓதும் துஆ[/ta]",
+        "description": "[ar]اللهمَّ زِدْ هَذَا الْبَيْتَ تَشْرِيْفًا وَتَعْظِيْمًا وَتَكْرِيْمًا وَمَهَابَةً[/ar] \n[ms](Ya Allah, tambahkanlah rumah ini dengan kemuliaan, keagungan, kehormatan, dan kehebatan).[/ms] \n[en](O Allah, increase this House in honor, greatness, respect, and awe).[/en] \n[ml](അല്ലാഹുവേ, ഈ ഭവനത്തിന് കൂടുതൽ ആദരവും മഹനീയതയും ബഹുമാനവും ഗാംഭീര്യവും നീ വർദ്ധിപ്പിക്കേണമേ).[/ml] \n[ta](யா அல்லாஹ், இந்த இல்லத்திற்கு கண்ணியத்தையும், மகத்துவத்தையும், மரியாதையையும், அச்சத்தையும் அதிகப்படுத்துவாயாக).[/ta]",
+        "mediaItems": [
+          {
+            "type": "image",
+            "url": "image/seekaabah.png"
+          }
+        ],
+        "audio": {
+          "url": "audio/seeing_kaaba.mp3",
+          "subtitles": null
+        },
+        "autoPlay": true
+      }
+    ],
+    "media": [
+      {
+        "type": "map",
+        "caption": "Location Overview"
+      }
+    ],
+    "timelineLabel": "Step",
+    "autoPlay": false
+  },
+  {
+    "id": "u2",
+    "title": "[en]4. Tawaf[/en]\n[ms]4. Tawaf[/ms]\n[ml]4. ത്വവാഫ്[/ml]\n[ta]4. தவாஃப்[/ta]",
+    "description": "[en]Circumambulate the Kaabah 7 times in a counter-clockwise direction[/en] \n[ms]Mengelilingi Kaabah sebanyak 7 kali mengikut arah lawan jam.[/ms] \n[ml]കഅബയെ 7 തവണ അപ്രദക്ഷിണ ദിശയിൽ പ്രദക്ഷിണം ചെയ്യുക.[/ml] \n[ta]கஃபாவை இடஞ்சுழியாக 7 முறை சுற்றி வருதல்.[/ta]",
+    "videoUrl": null,
+    "type": "tawaf",
+    "lat": 21.422402,
+    "lng": 39.826523,
+    "details": [
+      {
+        "card": 1,
+        "title": "[en]Round 1[/en]\n[ms]Pusingan 1[/ms]\n[ml]ഒന്നാം ചുറ്റ്[/ml]\n[ta]முதல் சுற்று[/ta]",
+        "description": "[ar]سُبْحَانَ اللهِ وَالْحَمْدُ لِلهِ وَلَا إِلٰهَ إِلَّا اللهُ وَاللهُ أَكْبَرُ وَلَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللهِ[/ar] \n[en](Glory be to Allah, and praise be to Allah, and there is no god but Allah, and Allah is the Greatest, and there is no power nor strength except with Allah).[/en] \n[ms](Maha Suci Allah, segala puji bagi Allah, tiada tuhan melainkan Allah, Allah Maha Besar, dan tiada daya serta upaya melainkan dengan kekuatan Allah).[/ms] \n[ml](അല്ലാഹു എത്ര പരിശുദ്ധൻ, സർവ്വ സ്തുതിയും അല്ലാഹുവിനാണ്, അല്ലാഹു അല്ലാതെ മറ്റൊരു ദൈവവുമില്ല, അല്ലാഹു ഏറ്റവും വലിയവനാണ്, അല്ലാഹുവിനെക്കൊണ്ടല്ലാതെ യാതൊരു കഴിവും കരുത്തുമില്ല).[/ml] \n[ta](அல்லாஹ் மிகவும் தூய்மையானவன், புகழனைத்தும் அல்லாஹ்வுக்கே, அல்லாஹ்வைத் தவிர வேறு இறைவனில்லை, அல்லாஹ்வே மிகப்பெரியவன், அல்லாஹ்வின் உதவியின்றி எந்த ஆற்றலும் சக்தியும் இல்லை).[/ta]",
+        "dataSource": "tawaf/round1_details.json",
+        "autoPlay": false
+      },
+      {
+        "card": 2,
+        "title": "[en]Round 2[/en]\n[ms]Pusingan 2[/ms]\n[ml]രണ്ടാം ചുറ്റ്[/ml]\n[ta]இரண்டாம் சுற்று[/ta]",
+        "description": "[ar]اللهمَّ إِنِّي أَسْأَلُكَ الْعَفْوَ وَالْعَافِيَةَ فِي الدُّنْيَا وَالآخِرَةِ[/ar] \n[en](O Allah, I ask You for forgiveness and well-being in this world and the Hereafter).[/en] \n[ms](Ya Allah, sesungguhnya aku memohon keampunan dan kesejahteraan-Mu di dunia dan di akhirat).[/ms] \n[ml](അല്ലാഹുവേ, ദുനിയാവിലും ആഖിറത്തിലും മാപ്പും സമാധാനവും ഞാൻ നിന്നോട് ചോദിക്കുന്നു).[/ml] \n[ta](யா அல்லாஹ், இம்மையிலும் மறுமையிலும் மன்னிப்பையும் ஆரோக்கியத்தையும் உன்னிடத்தில் வேண்டுகிறேன்).[/ta]",
+        "dataSource": "tawaf/round2_details.json",
+        "autoPlay": false
+      },
+      {
+        "card": 3,
+        "title": "[en]Round 3[/en]\n[ms]Pusingan 3[/ms]\n[ml]മൂന്നാം ചുറ്റ്[/ml]\n[ta]மூன்றாம் சுற்று[/ta]",
+        "description": "[ar]رَبَّنَا آتِنَا فِي الدُّنْيَا حَسَنَةً وَفِي الآخِرَةِ حَسَنَةً وَقِنَا عَذَابَ النَّارِ[/ar] \n[en](Our Lord, give us in this world that which is good and in the Hereafter that which is good, and save us from the punishment of the Fire).[/en] \n[ms](Wahai Tuhan kami, berilah kami kebaikan di dunia dan kebaikan di akhirat, dan peliharalah kami daripada azab neraka).[/ms] \n[ml](ഞങ്ങളുടെ രക്ഷിതാവേ, ഞങ്ങൾക്ക് ഈ ലോകത്ത് നന്മയും പരലോകത്ത് നന്മയും നൽകേണമേ, നരകശിക്ഷയിൽ നിന്ന് ഞങ്ങളെ കാക്കേണമേ).[/ml] \n[ta](எங்கள் இறைவா! எங்களுக்கு இம்மையிலும் மறுமையிலும் நன்மையை வழங்குவாயாக, நரக வேதனையிலிருந்து எங்களைக் காப்பாற்றுவாயாக).[/ta]",
+        "dataSource": "tawaf/round3_details.json",
+        "autoPlay": false
+      },
+      {
+        "card": 4,
+        "title": "[en]Round 4[/en]\n[ms]Pusingan 4[/ms]\n[ml]നാലാം ചുറ്റ്[/ml]\n[ta]நான்காம் சுற்று[/ta]",
+        "description": "[ar]اللهمَّ اجْعَلْهُ حَجًّا مَبْرُوْرًا وَذَنْبًا مَغْفُوْرًا وَسَعْيًا مَشْكُوْرًا[/ar] \n[en](O Allah, make it an accepted Hajj, a forgiven sin, and a recognized effort).[/en] \n[ms](Ya Allah, jadikanlah ia haji yang mabrur, dosa yang diampuni, dan usaha yang diterima).[/ms] \n[ml](അല്ലാഹുവേ, ഇതിനെ സ്വീകരിക്കപ്പെട്ട ഹജ്ജും പൊറുക്കപ്പെട്ട പാപവും നന്ദി പറയപ്പെട്ട പരിശ്രമവുമാക്കേണമേ).[/ml] \n[ta](யா அல்லாஹ், இதை அங்கீகரிக்கப்பட்ட ஹஜ்ஜாகவும், மன்னிக்கப்பட்ட பாவமாகவும், நற்கூலி வழங்கப்பட்ட முயற்சியாகவும் ஆக்குவாயாக).[/ta]",
+        "dataSource": "tawaf/round4_details.json",
+        "autoPlay": false
+      },
+      {
+        "card": 5,
+        "title": "[en]Round 5[/en]\n[ms]Pusingan 5[/ms]\n[ml]അഞ്ചാം ചുറ്റ്[/ml]\n[ta]ஐந்தாம் சுற்று[/ta]",
+        "description": "[ar]اللهمَّ إِنِّي أَعُوْذُ بِكَ مِنَ الْكُفْرِ وَالْفَقْرِ وَعَذَابِ الْقَبْرِ[/ar] \n[en](O Allah, I seek refuge in You from disbelief, poverty, and the punishment of the grave).[/en] \n[ms](Ya Allah, aku berlindung dengan-Mu daripada kekufuran, kefakiran, dan azab kubur).[/ms] \n[ml](അല്ലാഹുവേ, കുഫ്‌റിൽ നിന്നും ദാരിദ്ര്യത്തിൽ നിന്നും ഖബർ ശിക്ഷയിൽ നിന്നും ഞാൻ നിന്നോട് കാവൽ തേടുന്നു).[/ml] \n[ta](யா அல்லாஹ், குஃப்ர், வறுமை மற்றும் கபுруடைய வேதனையிலிருந்து உன்னிடத்தில் பாதுகாப்புத் தேடுகிறேன்).[/ta]",
+        "dataSource": "tawaf/round5_details.json",
+        "autoPlay": false
+      },
+      {
+        "card": 6,
+        "title": "[en]Round 6[/en]\n[ms]Pusingan 6[/ms]\n[ml]ആറാം ചുറ്റ്[/ml]\n[ta]ஆറாம் சுற்று[/ta]",
+        "description": "[ar]اللهمَّ هَذَا بَيْتُكَ الْحَرَمُ وَأَنَا عَبْدُكَ الْحَقِيْرُ[/ar] \n[en](O Allah, this is Your Sacred House, and I am Your humble servant).[/en] \n[ms](Ya Allah, rumah ini adalah rumah-Mu yang haram, dan aku adalah hamba-Mu yang hina).[/ms] \n[ml](അല്ലാഹുവേ, ഇത് നിൻ്റെ പരിശുദ്ധ ഭവനമാണ്, ഞാൻ നിൻ്റെ എളിയ അടിമയാണ്).[/ml] \n[ta](யா அல்லாஹ், இது உன்னுடைய புனித இல்லம், நான் உன்னுடைய பலவீனமான அடியான்).[/ta]",
+        "dataSource": "tawaf/round6_details.json",
+        "autoPlay": false
+      },
+      {
+        "card": 7,
+        "title": "[en]Round 7[/en]\n[ms]Pusingan 7[/ms]\n[ml]ഏഴാം ചുറ്റ്[/ml]\n[ta]ஏழாம் சுற்று[/ta]",
+        "description": "[ar]اللهمَّ تَقَبَّلْ مِنَّا وَعَافِنَا وَاعْفُ عَنَّا وَأَدْخِلْنَا الْجَنَّةَ مَعَ الأَبْرَارِ[/ar] \n[en](O Allah, accept from us, grant us well-being, forgive us, and admit us into Paradise with the righteous).[/en] \n[ms](Ya Allah, terimalah daripada kami, sejahterakanlah kami, ampunilah kami, dan masukkanlah kami ke dalam syurga bersama orang-orang yang berbakti).[/ms] \n[ml](അല്ലാഹുവേ, ഞങ്ങളിൽ നിന്ന് ഇത് സ്വീകരിക്കേണമേ, ഞങ്ങൾക്ക് മാപ്പ് നൽകേണമേ, പുണ്യവാന്മാരോടൊപ്പം ഞങ്ങളെ സ്വർഗ്ഗത്തിൽ പ്രവേശിപ്പിക്കേണമേ).[/ml] \n[ta](யா அல்லாஹ், எங்களிடமிருந்து இதை ஏற்றுக்கொள்வாயாக, எங்களை மன்னிப்பாயாக, நல்லவர்களுடன் எங்களை சொர்க்கத்தில் சேர்ப்பாயாக).[/ta]",
+        "dataSource": "tawaf/round7_details.json",
+        "autoPlay": false
+      }
+    ],
+    "media": [
+      {
+        "type": "map",
+        "caption": "Location Overview"
+      }
+    ],
+    "timelineLabel": "Step",
+    "autoPlay": false
+  },
+  {
+    "id": "u3",
+    "title": "[en]5. Sunnah Prayer at Maqam Ibrahim[/en]\n[ms]5. Solat Sunat di Maqam Ibrahim[/ms]\n[ml]5. മഖാം ഇബ്രാഹിമിൽ വെച്ചുള്ള സുന്നത്ത് നിസ്കാരം[/ml]\n[ta]5. மகாமு இப்ராஹீமில் சுன்னத்தான தொழுகை[/ta]",
+    "description": "[en]After completing Tawaf, perform 2 rak'ahs of Sunnah prayer behind Maqam Ibrahim (the Station of Ibrahim).[/en] \n[ms]Selepas selesai Tawaf, tunaikan solat sunat 2 rakaat di belakang Maqam Ibrahim.[/ms] \n[ml]ത്വവാഫ് പൂർത്തിയാക്കിയ ശേഷം മഖാം ഇബ്രാഹിമിന് പിന്നിൽ 2 റക്അത്ത് സുന്നത്ത് നിസ്കാരം നിർവ്വഹിക്കുക.[/ml] \n[ta]தவாஃப் முடிந்ததும், மகாமு இப்ராஹீமுக்குப் பின்னால் 2 ரக்அத்கள் சுன்னத்தான தொழுகையை நிறைவேற்றவும்.[/ta]",
+    "type": "sunnahPrayer",
+    "lat": 21.422724,
+    "lng": 39.826542,
+    "showDescription": true,
+    "details": [
+      {
+        "card": 1,
+        "title": "[en]The Multazam and Hajar al-Aswad (The Black Stone)[/en]\n[ms]Multazam dan Hajar Aswad[/ms]\n[ml]മുൽതസവും ഹജറുൽ അസ്വദും[/ml]\n[ta]முல்தஸம் மற்றும் ஹஜருல் அஸ்வத்[/ta]",
+        "description": "[ar]بِسْمِ اللَّهِ، اَللَّهُ أَكْبَرُ[/ar] \n[en]As you complete your seventh and final round of Tawaf, you will find yourself back near the Black Stone. The Multazam (optional) is the specific area located between the Black Stone and the door of the Kaaba. It is considered a highly virtuous place where supplications (duas) are accepted. Many of the companions used to cling to this wall with their chests and forearms to make earnest dua. Kissing Hajar al-Aswad (optional): It is a noble Sunnah to kiss, touch, or point to the Black Stone upon completing your Tawaf. However, the sources strongly emphasize that harming others is Haram (forbidden). If the area around the Multazam or the Black Stone is dangerously crowded, you must not push or hurt others to get there. Instead, you can simply face it from a distance, raise your right hand, point to it, say \"Bismillah, Allahu Akbar\" (In the name of Allah, Allah is the Greatest), and move on.[/en] \n[ms]Sebaik sahaja anda melengkapkan pusingan Tawaf ketujuh dan terakhir, anda akan berada berhampiran Hajarul Aswad. Multazam (pilihan) ialah kawasan antara Hajarul Aswad dan pintu Kaabah. Ia merupakan tempat yang sangat mulia di mana doa dimakbulkan. Para sahabat sering merapatkan dada dan lengan ke dinding ini untuk berdoa dengan bersungguh-sungguh. Mencium Hajar Aswad (pilihan) adalah sunnah yang mulia. Namun, mencederakan orang lain adalah Haram. Jika kawasan tersebut terlalu sesak dan berbahaya, jangan tolak atau cederakan orang lain. Sebaliknya, menghadaplah dari jauh, angkat tangan kanan, tunjuk ke arahnya, sebut \"Bismillah, Allahu Akbar\", dan teruskan berjalan.[/ms] \n[ml]ത്വവാഫിന്റെ ഏഴാമത്തെയും അവസാനത്തെയും ചുറ്റ് പൂർത്തിയാക്കുമ്പോൾ നിങ്ങൾ ഹജറുൽ അസ്വദിന് സമീപമെത്തും. മുൽതസം (ഹജറുൽ അസ്വദിനും കഅബയുടെ വാതിലിനും ഇടയിലുള്ള സ്ഥലം) ദുആ സ്വീകരിക്കപ്പെടുന്ന പുണ്യസ്ഥലമാണ്. ഹജറുൽ അസ്വദ് ചുംബിക്കുകയോ തൊടുകയോ ചൂണ്ടുകയോ ചെയ്യുന്നത് സുന്നത്താണ്. എന്നാൽ മറ്റുള്ളവരെ ഉപദ്രവിക്കുന്നത് ഹറാമാണ്. തിരക്കാണെങ്കിൽ ദൂരെ നിന്ന് അതിന് നേരെ തിരിഞ്ഞ് വലതു കൈ ഉയർത്തി ചൂണ്ടി \"ബിസ്മില്ലാഹ്, അല്ലാഹു അക്ബർ\" എന്ന് പറഞ്ഞ് മുന്നോട്ട് പോകുക.[/ml] \n[ta]உங்கள் தவாஃபின் ஏழாவது மற்றும் இறுதிச் சுற்றை முடிக்கும் போது, நீங்கள் ஹஜருல் அஸ்வத் அருகே இருப்பீர்கள். முல்தஸம் (ஹஜருல் அஸ்வத் மற்றும் கஃபா கதவுக்கும் இடையிலான இடம்) துஆ ஏற்கப்படும் புனிதமான இடமாகும். ஹஜருல் அஸ்வத்தை முத்தமிடுவது, தொடுவது அல்லது சைகை காட்டுவது சுன்னத் ஆகும். ஆனால் மற்றவர்களுக்கு தீங்கு செய்வது ஹராம். கூட்டம் ஆபத்தான முறையில் அதிகமாக இருந்தால், தூரத்திலிருந்து அதை நோக்கி வலது கையை உயர்த்தி \"பிஸ்மில்லாஹ், அல்லாஹு அக்பர்\" என்று கூறி முன்னேறவும்.[/ta]",
+        "mediaItems": [],
+        "autoPlay": false
+      },
+      {
+        "card": 2,
+        "title": "[en]Visiting and Praying in Hijr Ismail (The Hatim)[/en]\n[ms]Ziarah dan Solat di Hijir Ismail[/ms]\n[ml]ഹിജ്ർ ഇസ്മായിൽ സന്ദർശനവും നിസ്കാരവും[/ml]\n[ta]ஹிஜ்ர் இஸ்மாயிலில் வருகை மற்றும் தொழுகை[/ta]",
+        "description": "[ar]اللَّهُمَّ أَنْتَ رَبِّي لاَ إِلَهَ إِلاَّ أَنْتَ خَلَقْتَنِي وَأَنَا عَبْدُكَ، وَأَنَا عَلَى عَهْدِكَ وَوَعْدِكَ مَا اسْتَطَعْتُ، أَعُوذُ بِكَ مِنْ شَرِّ مَا صَنَعْتُ، أَبُوءُ لَكَ بِنِعْمَتِكَ عَلَيَّ، وَأَبُوءُ بِذَنْبِي فَاغْفِرْ لِي فَإِنَّهُ لاَ يَغْفِرُ الذُّنُوبَ إِلاَّ أَنْتَ[/ar] \n[en]Visiting and Praying in Hijr Ismail (optional): Hijr Ismail is the semi-circular wall adjacent to the Kaaba. The first 3 meters of this enclosed area are actually part of the original footprint of the Kaaba. Because it is technically inside the Kaaba, it is considered a highly virtuous place to visit. Making Dua: It is an excellent place for supplication. Standing under the Mizab al-Rahman (the water spout located inside the Hijr Ismail area) is specifically listed as one of the 15 places where dua is most readily accepted (mustajab). A recommended dua is the Sayyidul Istighfar: \"O Allah, You are my Lord, none has the right to be worshipped except You, You created me and I am Your servant, and I abide to Your covenant and promise as best I can, I take refuge in You from the evil of which I have committed... forgive me, for none forgives sins except You.\" Solat (Praying) in Hijr Ismail: Many pilgrims queue up to perform prayers inside this area because it is part of the Kaaba.[/en] \n[ms]Ziarah dan solat di Hijir Ismail (pilihan): Hijir Ismail adalah dinding separuh bulatan bersebelahan Kaabah. 3 meter pertama kawasan ini merupakan sebahagian daripada tapak asal Kaabah, menjadikannya tempat yang sangat mulia untuk diziarahi. Ia adalah tempat yang mustajab untuk berdoa, terutamanya jika berdiri di bawah Mizab al-Rahman (pancur air emas). Doa yang sangat digalakkan ialah Penghulu Istighfar: \"Ya Allah! Engkau Tuhanku, tiada Tuhan melainkan Engkau yang menjadikan aku... maka ampunilah aku, kerana tiada siapa yang dapat mengampuni dosa melainkan Engkau.\" Ramai jemaah beratur untuk mendirikan solat di sini kerana ia adalah sebahagian daripada Kaabah.[/ms] \n[ml]കഅബയോട് ചേർന്നുള്ള അർദ്ധവൃത്താകൃതിയിലുള്ള മതിലാണ് ഹിജ്ർ ഇസ്മായിൽ. ഇതിന്റെ ആദ്യത്തെ 3 മീറ്റർ കഅബയുടെ ഭാഗമാണ്, അതിനാൽ ഇവിടെ സന്ദർശിക്കുന്നതും നിസ്കരിക്കുന്നതും പുണ്യകരമാണ്. പ്രാർത്ഥിക്കാൻ ഏറ്റവും ഉത്തമമായ സ്ഥലമാണിത്, പ്രത്യേകിച്ച് മീസാബുർറഹ്മാന്റെ (വെള്ളം വീഴുന്ന പാത്തി) താഴെ നിൽക്കുന്നത് ദുആ സ്വീകരിക്കപ്പെടുന്ന 15 സ്ഥലങ്ങളിൽ ഒന്നാണ്. (ദുആ: അല്ലാഹുവേ, നീയാണ് എന്റെ രക്ഷിതാവ്, നീയല്ലാതെ ആരാധനയ്ക്കർഹനായി മറ്റാരുമില്ല...). ധാരാളം തീർത്ഥാടകർ ഇവിടെ നിസ്കരിക്കാനായി വരി നിൽക്കാറുണ്ട്.[/ml] \n[ta]ஹிஜ்ர் இஸ்மாயில் என்பது கஃபாவை ஒட்டியுள்ள அரை வட்ட சுவராகும். இதன் முதல் 3 மீட்டர் கஃபாவின் ஒரு பகுதியாகும், இதனால் இங்கு தொழுவதும் துஆ செய்வதும் மிகவும் சிறந்தது. இங்கு துஆ செய்வது, குறிப்பாக மீஸாப் அர்-ரஹ்மான் (நீர்வீழ்ச்சி) கீழே நின்று கேட்பது, துஆ ஏற்கப்படும் 15 இடங்களில் ஒன்றாகும். (துஆ: யா அல்லாஹ்! நீயே என் இறைவன், உன்னைத் தவிர வணக்கத்திற்குரியவன் யாருமில்லை, நீயே என்னைப் படைத்தாய்...). பல யாத்ரீகர்கள் இந்த பகுதிக்குள் தொழுகை நடத்த வரிசையில் நிற்கிறார்கள், ஏனெனில் இது கஃபாவின் ஒரு பகுதியாகும்.[/ta]",
+        "mediaItems": [],
+        "autoPlay": false
+      },
+      {
+        "card": 3,
+        "title": "[en]Covering the Shoulder (For Men)[/en]\n[ms]Menutup Bahu (Untuk Lelaki)[/ms]\n[ml]ചുമൽ മറയ്ക്കൽ (പുരുഷന്മാർക്ക്)[/ml]\n[ta]தோள்பட்டையை மூடுதல் (ஆண்களுக்கு)[/ta]",
+        "description": "[en]Before proceeding to the prayer, men must end the practice of Idhtiba' (keeping the right shoulder uncovered). You must pull your Ihram garment up to cover both shoulders before you begin to pray.[/en] \n[ms]Sebelum meneruskan solat sunat, jemaah lelaki mesti menamatkan amalan Idhtiba' (membiarkan bahu kanan terdedah). Anda mesti menarik kain Ihram ke atas untuk menutup kedua-dua bahu sebelum mula bersolat.[/ms] \n[ml]നിസ്കാരത്തിലേക്ക് കടക്കുന്നതിന് മുമ്പ്, പുരുഷന്മാർ ഇദ്തിബാഅ് (വലത്ത് ചുമൽ വെളിപ്പെടുത്തുന്നത്) അവസാനിപ്പിക്കണം. നിസ്കരിക്കാൻ തുടങ്ങുന്നതിന് മുമ്പ് രണ്ട് ചുമലുകളും മറയ്ക്കുന്ന രീതിയിൽ ഇഹ്റാം വസ്ത്രം വലിച്ചിടണം.[/ml] \n[ta]தொழுகைக்குச் செல்வதற்கு முன், ஆண்கள் இத்திபாஃ (வலது தோள்பட்டையைத் திறந்து வைப்பது) செய்வதை முடிக்க வேண்டும். தொழுகையைத் தொடங்குவதற்கு முன் இரு தோள்பட்டைகளையும் மூடும்படி இஹ்ராம் ஆடையை சரிசெய்ய வேண்டும்.[/ta]",
+        "mediaItems": [],
+        "autoPlay": false
+      },
+      {
+        "card": 4,
+        "title": "[en]Solat Sunnat behind Maqam Ibrahim[/en]\n[ms]Solat Sunat Maqam Ibrahim[/ms]\n[ml]മഖാമു ഇബ്രാഹിമിന് പിന്നിലെ സുന്നത്ത് നിസ്കാരം[/ml]\n[ta]மகாமு இப்ராஹீம் பின்னால் சுன்னத் தொழுகை[/ta]",
+        "description": "[ar]وَاتَّخِذُوا مِنْ مَقَامِ إِبْرَاهِيمَ مُصَلَّى[/ar] \n[en]If the area directly behind Maqam Ibrahim is too crowded—which is often the case—you are permitted to perform this prayer anywhere else within the Masjid al-Haram. As you walk towards it, you should recite: \"Wattakhidhū min maqāmi Ibrāhīma muṣallā\" (And take the standing place of Ibrahim as a place of prayer). During the prayer, it is Sunnah to recite Surah Al-Fatihah and Surah Al-Kafirun in the first rakaat, and Surah Al-Fatihah and Surah Al-Ikhlas in the second rakaat.[/en] \n[ms]Semasa anda berjalan ke arahnya, anda harus membaca: \"Dan jadikanlah Maqam Ibrahim itu tempat solat\". Semasa solat, disunatkan membaca Surah Al-Fatihah dan Surah Al-Kafirun pada rakaat pertama, dan Surah Al-Fatihah and Surah Al-Ikhlas pada rakaat kedua. Jika kawasan betul-betul di belakang Maqam Ibrahim terlalu sesak—yang sering berlaku—anda dibenarkan solat di mana-mana sahaja di dalam Masjidil Haram.[/ms] \n[ml]മഖാമു ഇബ്രാഹിമിന് അടുത്തേക്ക് നടക്കുമ്പോൾ പാരായണം ചെയ്യുക: \"ഇബ്രാഹിം നിന്ന സ്ഥലത്തെ നിങ്ങൾ നമസ്കാര കേന്ദ്രമാക്കുക\". നിസ്കാരത്തിൽ, ഒന്നാമത്തെ റക്അത്തിൽ സൂറത്തുൽ ഫാത്തിഹയും സൂറത്തുൽ കാഫിറൂനും, രണ്ടാമത്തെ റക്അത്തിൽ സൂറത്തുൽ ഫാത്തിഹയും സൂറത്തുൽ ഇഖ്ലാസും ഓതുന്നത് സുന്നത്താണ്. അവിടെ തിരക്കാണെങ്കിൽ മസ്ജിദുൽ ഹറാമിൽ എവിടെയും നിങ്ങൾക്ക് ഈ നിസ്കാരം നിർവ്വഹിക്കാം.[/ml] \n[ta]அதை நோக்கி நடக்கும் போது: \"இப்ராஹீம் நின்ற இடத்தை தொழும் இடமாக ஆக்கிக் கொள்ளுங்கள்\" என்று ஓதவும். தொழுகையின் போது, 1வது ரக்அத்தில் சூரா அல்-பாத்திஹா மற்றும் சூரா அல்-காபிரூன், 2வது ரக்அத்தில் சூரா அல்-பாத்திஹா மற்றும் சூரா அல்-இக்லாஸ் ஓதுவது சுன்னத் ஆகும். கூட்டம் அதிகமாக இருந்தால், மஸ்ஜிதுல் ஹராமில் எங்கு வேண்டுமானாலும் இந்த தொழுகையைத் தொழலாம்.[/ta]",
+        "mediaItems": [],
+        "autoPlay": false
+      },
+      {
+        "card": 5,
+        "title": "[en]The Sunnah of Zamzam[/en]\n[ms]Sunnah Air Zamzam[/ms]\n[ml]സംസം സുന്നത്ത്[/ml]\n[ta]ஜம்ஜம் சுன்னத்[/ta]",
+        "description": "[en]Drinking Zamzam water is a sacred act. This guide outlines the specific physical etiquettes and the powerful Prophetic dua.[/en]\n[ms]Meminum air Zamzam adalah perbuatan suci. Panduan ini menggariskan adab fizikal yang khusus dan doa Nabi.[/ms]\n[ml]സംസം കുടിക്കുന്നത് ഒരു പുണ്യകർമ്മമാണ്. പ്രത്യേക മര്യാദകളും പ്രവാചകൻ പഠിപ്പിച്ച ദുആയും ഈ ഗൈഡ് വിശദീകരിക്കുന്നു.[/ml]\n[ta]ஜம்ஜம் நீர் அருந்துவது ஒரு புனிதமான செயலாகும். இந்த வழிகாட்டி குறிப்பிட்ட ஒழுங்குமுறைகளையும் நபிவழி துஆவையும் விவரிக்கிறது.[/ta]",
+        "dataSource": "tour_data/zamzamimage.json",
+        "mediaItems": [
+          {
+            "type": "image",
+            "url": "image/zamzamcup.png"
+          }
+        ],
+        "autoPlay": false
+      },
+      {
+        "card": 6,
+        "title": "[en]Making Your Way to Safa to Begin Sa'ie[/en]\n[ms]Menuju ke Safa untuk Mula Sa'ie[/ms]\n[ml]സഅയ് ആരംഭിക്കാൻ സഫയിലേക്ക് പോകൽ[/ml]\n[ta]ஸயீயை தொடங்க ஸஃபாவை நோக்கிச் செல்லுதல்[/ta]",
+        "description": "[ar]إِنَّ الصَّفَا وَالْمَرْوَةَ مِن شَعَائِرِ اللَّهِ[/ar] \n[en]Once you have prayed and refreshed yourself with Zamzam, you will head toward the Mas'aa (the area where Sa'ie is performed). Before heading there, you may put your slippers or comfortable walking shoes back on, as the Sa'ie area spans a long distance. As you approach Safa, you recite: \"Indeed, Safa and Marwah are among the symbols of Allah.\"[/en] \n[ms]Setelah anda selesai bersolat dan menyegarkan diri dengan air Zamzam, anda akan menuju ke Mas'aa (kawasan di mana Sa'ie dilakukan). Sebelum ke sana, anda boleh memakai semula selipar atau kasut berjalan yang selesa, memandangkan kawasan Sa'ie meliputi jarak yang jauh. Ketika menghampiri Safa, bacalah: \"Sesungguhnya Safa dan Marwah adalah sebahagian daripada syiar-syiar Allah.\"[/ms] \n[ml]നിസ്കരിച്ച് സംസം കുടിച്ച് ഉന്മേഷവാനായ ശേഷം, സഅയ് ചെയ്യുന്ന സ്ഥലത്തേക്ക് (മസ്അ) നടക്കുക. സഅയ് ചെയ്യുന്ന ദൂരം കൂടുതലായതിനാൽ അതിനുമുമ്പ് നിങ്ങൾക്ക് സുഖപ്രദമായ പാദരക്ഷകൾ വീണ്ടും ധരിക്കാവുന്നതാണ്. സഫയിലേക്ക് നടക്കുമ്പോൾ ഈ ദുആ ചൊല്ലുക: \"തീർച്ചയായും സഫയും മർവയും അല്ലാഹുവിന്റെ അടയാളങ്ങളിൽ പെട്ടതാണ്.\"[/ml] \n[ta]தொழுது ஜம்ஜம் நீர் குடித்து புத்துணர்ச்சி அடைந்தவுடன், ஸயீ செய்யும் இடத்தை (மஸ்ஆ) நோக்கிச் செல்லவும். ஸயீ செய்யும் தூரம் நீண்டது என்பதால், அங்கு செல்வதற்கு முன் நீங்கள் வசதியான நடக்கும் காலணிகளை மீண்டும் அணிந்து கொள்ளலாம். ஸஃபாவை நெருங்கும் போது: \"நிச்சயமாக ஸஃபா மற்றும் மர்வா அல்லாஹ்வின் அடையாளங்களில் உள்ளவைகளாகும்\" என்று ஓதவும்.[/ta]",
+        "mediaItems": [],
+        "autoPlay": false
+      }
+    ],
+    "media": [
+      {
+        "type": "map",
+        "caption": "Location Overview"
+      }
+    ],
+    "timelineLabel": "Step",
+    "autoPlay": false
+  },
+  {
+    "id": "u4",
+    "title": "[en]6. Sa'i (Safa & Marwah)[/en]\n[ms]6. Sa'i (Safa & Marwah)[/ms]\n[ml]6. സഅയ് (സഫയും മർവയ്ക്കും ഇടയിൽ)[/ml]\n[ta]6. ஸயீ (ஸஃபா & மர்வா மலைகளுக்கு இடையே)[/ta]",
+    "description": "[en]Walk 7 times between the hills of Safa and Marwah.[/en] \n[ms]Berjalan sebanyak 7 kali di antara bukit Safa dan Marwah.[/ms] \n[ml]സഫയ്ക്കും മർവയ്ക്കും ഇടയിൽ 7 തവണ നടക്കുക.[/ml] \n[ta]ஸஃபா மற்றும் மர்வா மலைகளுக்கு இடையே 7 முறை நடத்தல்.[/ta]",
+    "type": "saie",
+    "lat": 21.4221,
+    "lng": 39.8275,
+    "details": [
+      {
+        "card": 1,
+        "title": "[en]Trip 1[/en]\n[ms]Perjalanan 1[/ms]\n[ml]ഒന്നാം ഘട്ടം[/ml]\n[ta]முதல் நடை[/ta]",
+        "description": "[ar]إِنَّ الصَّفَا وَالْمَرْوَةَ مِنْ شَعَائِرِ اللهِ. أَبْدَأُ بِمَا بَدَأَ اللهُ بِهِ[/ar] \n[en](Verily, Safa and Marwah are among the signs of Allah. I begin with that which Allah began with).[/en] \n[ms](Sesungguhnya Safa dan Marwah adalah sebahagian daripada syiar Allah. Aku mulakan dengan apa yang Allah mulakan).[/ms] \n[ml](തീർച്ചയായും സഫയും മർവയും അല്ലാഹുവിൻ്റെ ചിഹ്നങ്ങളിൽ പെട്ടതാണ്. അല്ലാഹു ആരംഭിച്ചത് കൊണ്ട് ഞാൻ ആരംഭിക്കുന്നു).[/ml] \n[ta](நிச்சயமாக ஸஃபாவும் மர்வாவும் அல்லாஹ்வின் அடையாளங்களில் உள்ளவை. அல்லாஹ் எதைக் கொண்டு ஆரம்பித்தானோ அதைக் கொண்டே நானும் ஆரம்பிக்கிறேன்).[/ta]",
+        "dataSource": "saei/trip1_details.json",
+        "autoPlay": false
+      },
+      {
+        "card": 2,
+        "title": "[en]Trip 2[/en]\n[ms]Perjalanan 2[/ms]\n[ml]രണ്ടാം ഘട്ടം[/ml]\n[ta]இரண்டாம் நடை[/ta]",
+        "description": "[ar]اللهُ أَكْبَرُ، اللهُ أَكْبَرُ، اللهُ أَكْبَرُ وَلِلهِ الْحَمْدُ[/ar] \n[en](Allah is the Greatest, Allah is the Greatest, Allah is the Greatest, and for Allah is all praise).[/en] \n[ms](Allah Maha Besar, Allah Maha Besar, Allah Maha Besar, dan bagi Allah segala puji).[/ms] \n[ml](അല്ലാഹു ഏറ്റവും വലിയവനാണ്, അല്ലാഹു ഏറ്റവും വലിയവനാണ്, അല്ലാഹു ഏറ്റവും വലിയവനാണ്, സർവ്വ സ്തുതിയും അല്ലാഹുവിനാണ്).[/ml] \n[ta](அல்லாஹ் மிகப்பெரியவன், அல்லாஹ் மிகப்பெரியவன், அல்லாஹ் மிகப்பெரியவன், புகழனைத்தும் அல்லாஹ்வுக்கே).[/ta]",
+        "dataSource": "saei/trip2_details.json",
+        "autoPlay": false
+      },
+      {
+        "card": 3,
+        "title": "[en]Trip 3[/en]\n[ms]Perjalanan 3[/ms]\n[ml]മൂന്നാം ഘട്ടം[/ml]\n[ta]மூன்றாம் நடை[/ta]",
+        "description": "[ar]رَبِّ اغْفِرْ وَارْحَمْ وَتَجَاوَزْ عَمَّا تَعْلَمُ إِنَّكَ أَنْتَ الأَعَزُّ الأَكْرَمُ[/ar] \n[en](My Lord, forgive and have mercy and overlook that which You know, for You are the Most Mighty, the Most Noble).[/en] \n[ms](Wahai Tuhanku, ampunilah dan rahmatilah, dan maafkanlah apa yang Engkau ketahui, sesungguhnya Engkau Maha Perkasa lagi Maha Pemurah).[/ms] \n[ml](എൻ്റെ രക്ഷിതാവേ, എനിക്ക് പൊറുത്തു തരികയും കരുണ ചെയ്യുകയും ചെയ്യേണമേ, നീ അറിയുന്ന ഞങ്ങളുടെ തെറ്റുകൾ നീ മാപ്പാക്കേണമേ).[/ml] \n[ta](என் இறைவா! என்னை மன்னிப்பாயாக, என் மீது கருணை காட்டுவாயாக, நீ அறிந்த எங்களுடைய பிழைகளைப் பொறுத்தருள்வாயாக).[/ta]",
+        "dataSource": "saei/trip3_details.json",
+        "autoPlay": false
+      },
+      {
+        "card": 4,
+        "title": "[en]Trip 4[/en]\n[ms]Perjalanan 4[/ms]\n[ml]നാലാം ഘട്ടം[/ml]\n[ta]நான்காம் நடை[/ta]",
+        "description": "[ar]لَا إِلٰهَ إِلَّا اللهُ وَحْدَهُ لَا شَرِيْكَ لَهُ، لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ وَهُوَ عَلَىٰ كُلِّ شَيْءٍ قَدِيْرٌ[/ar] \n[en](There is no god but Allah alone, no partner has He, to Him belongs the dominion and to Him belongs the praise, and He is over all things Powerful).[/en] \n[ms](Tiada tuhan melainkan Allah Yang Maha Esa, tiada sekutu bagi-Nya, bagi-Nya segala kekuasaan dan bagi-Nya segala pujian, dan Dia Maha Kuasa atas segala sesuatu).[/ms] \n[ml](അല്ലാഹു അല്ലാതെ മറ്റൊരു ദൈവവുമില്ല, അവൻ ഏകനാണ്, അവന് പങ്കുകാരില്ല. സർവ്വ ആധിപത്യവും സ്തുതിയും അവനാണ്).[/ml] \n[ta](அல்லாஹ்வைத் தவிர வேறு இறைவனில்லை, அவன் தனித்தவன், அவனுக்கு இணையாளர்கள் எவருமில்லை. அவனுக்கே ஆட்சியதிகாரமும் புகழும் உரியன).[/ta]",
+        "dataSource": "saei/trip4_details.json",
+        "autoPlay": false
+      },
+      {
+        "card": 5,
+        "title": "[en]Trip 5[/en]\n[ms]Perjalanan 5[/ms]\n[ml]അഞ്ചാം ഘട്ടം[/ml]\n[ta]ஐந்தாம் நடை[/ta]",
+        "description": "[ar]اللهمَّ إِنِّي أَسْأَلُكَ الْعَفْوَ وَالْعَافِيَةَ فِي الدُّنْيَا وَالآخِرَةِ[/ar] \n[en](O Allah, I ask You for forgiveness and well-being in this world and the Hereafter).[/en] \n[ms](Ya Allah, sesungguhnya aku memohon keampunan dan kesejahteraan-Mu di dunia dan di akhirat).[/ms] \n[ml](അല്ലാഹുവേ, ദുനിയാവിലും ആഖിറത്തിലും മാപ്പും സമാധാനവും ഞാൻ നിന്നോട് ചോദിക്കുന്നു).[/ml] \n[ta](யா அல்லாஹ், இம்மையிலும் மறுமையிலும் மன்னிப்பையும் ஆரோக்கியத்தையும் உன்னிடத்தில் வேண்டுகிறேன்).[/ta]",
+        "dataSource": "saei/trip5_details.json",
+        "autoPlay": false
+      },
+      {
+        "card": 6,
+        "title": "[en]Trip 6[/en]\n[ms]Perjalanan 6[/ms]\n[ml]ആറാം ഘട്ടം[/ml]\n[ta]ஆறாம் நடை[/ta]",
+        "description": "[ar]رَبَّنَا آتِنَا فِي الدُّنْيَا حَسَنَةً وَفِي الآخِرَةِ حَسَنَةً وَقِنَا عَذَابَ النَّارِ[/ar] \n[en](Our Lord, give us in this world that which is good and in the Hereafter that which is good, and save us from the punishment of the Fire).[/en] \n[ms](Wahai Tuhan kami, berilah kami kebaikan di dunia dan kebaikan di akhirat, dan peliharalah kami daripada azab neraka).[/ms] \n[ml](ഞങ്ങളുടെ രക്ഷിതാവേ, ഞങ്ങൾക്ക് ഈ ലോകത്ത് നന്മയും പരലോകത്ത് നന്മയും നൽകേണമേ).[/ml] \n[ta](எங்கள் இறைவா! எங்களுக்கு இம்மையிலும் மறுமையிலும் நன்மையை வழங்குவாயாக, நரக வேதனையிலிருந்து எங்களைக் காப்பாற்றுவாயாக).[/ta]",
+        "dataSource": "saei/trip6_details.json",
+        "autoPlay": false
+      },
+      {
+        "card": 7,
+        "title": "[en]Trip 7[/en]\n[ms]Perjalanan 7[/ms]\n[ml]ഏഴാം ഘട്ടം[/ml]\n[ta]ஏழாம் நடை[/ta]",
+        "description": "[ar]اللهمَّ تَقَبَّلْ مِنَّا سَعْيَنَا كَمَا تَقَبَّلْتَ مِنْ نَبِيِّكَ إِبْرَاهِيْمَ عَلَيْهِ السَّلَامُ[/ar] \n[en](O Allah, accept our Sa'i as You accepted from Your Prophet Ibrahim, peace be upon him).[/en] \n[ms](Ya Allah, terimalah Sa'i kami sepertimana Engkau menerima daripada Nabi-Mu Ibrahim alayhis-salam).[/ms] \n[ml](അല്ലാഹുവേ, നിൻ്റെ പ്രവാചകൻ ഇബ്രാഹിം നബിയിൽ നിന്ന് സ്വീകരിച്ചത് പോലെ ഞങ്ങളുടെ ഈ സഅയ് സ്വീകരിക്കേണമേ).[/ml] \n[ta](யா அல்லாஹ், உன்னுடைய நபி இப்ராஹீம் (அலை) அவர்களிடம் ஏற்றுக்கொண்டதைப்போல எங்கள் ஸயீயை ஏற்றுக்கொள்வாயாக).[/ta]",
+        "dataSource": "saei/trip7_details.json",
+        "autoPlay": false
+      }
+    ],
+    "media": [
+      {
+        "type": "map",
+        "caption": "Location Overview"
+      }
+    ],
+    "timelineLabel": "Step",
+    "autoPlay": false
+  },
+  {
+    "id": "u5",
+    "title": "[en]7. Halq or Taqsir (Exiting Ihram)[/en]\n[ms]7. Bergunting atau Bercukur (Selesai Ihram)[/ms]\n[ml]7. ഹൽഖ് അല്ലെങ്കിൽ തഖ്‌സീർ (ഇഹ്‌റാമിൽ നിന്ന് പുറത്തു കടക്കൽ)[/ml]\n[ta]7. மொட்டை அடித்தல் அல்லது கத்தரித்தல் (இஹ்ராமிலிருந்து வெளியேறுதல்)[/ta]",
+    "description": "[en]Men shave their heads or cut hair. This marks the completion of Umrah.[/en] \n[ms]Lelaki mencukur kepala atau memotong rambut. Ini menandakan selesainya ibadah Umrah.[/ms] \n[ml]പുരുഷന്മാർ തല മുണ്ഡനം ചെയ്യുകയോ മുടി വെട്ടുകയോ ചെയ്യുക. ഇത് ഉംറയുടെ പൂർത്തീകരണത്തെ കുറിക്കുന്നു.[/ml] \n[ta]ஆண்கள் மொட்டை அடிக்கலாம் அல்லது முடியைக் கத்தரிக்கலாம். இது உம்றாவின் நிறைவைக் குறிக்கிறது.[/ta]",
+    "type": "exitIhram",
+    "lat": 21.4252,
+    "lng": 39.8272,
+    "showDescription": true,
+    "details": [],
+    "media": [
+      {
+        "type": "map",
+        "caption": "Location Overview"
+      }
+    ],
+    "timelineLabel": "Step",
+    "autoPlay": false
+  }
+]

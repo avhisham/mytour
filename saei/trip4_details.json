@@ -1,0 +1,15 @@
+[
+  {
+    "card": 1,
+    "title": "Trip 4",
+    "description": "La ilaha ill-Allahu wahdahu la sharika lahu, lahul-mulku wa lahul-hamdu wa huwa 'ala kulli shay'in qadir. (Marwah → Safa, Trip 4)",
+    "lat": 21.4252,
+    "lng": 39.8272,
+    "mediaItems": [
+      {
+        "type": "map",
+        "caption": "Specific Location"
+      }
+    ]
+  }
+]

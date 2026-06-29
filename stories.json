@@ -1,0 +1,15 @@
+[
+  {
+    "id": "uhud_comprehensive_journey",
+    "locationId": "battlefield_uhud",
+    "title": {
+      "en": "The Battle of Uhud: Purified and Resilient",
+      "ms": "Pertempuran Uhud: Suci dan Tabah",
+      "ml": "ഉഹുദ് യുദ്ധം: ശുദ്ധീകരണവും അതിജീവനവും",
+      "ta": "உஹுத் போர்: தூய்மையும் மீள்தன்மையும்"
+    },
+    "description": "An immersive journey through the landscape of Uhud, following the path of the Prophet ﷺ and his companions from the mosque to the mountain slopes.",
+    "thumbnail": "",
+    "dataFile": "story_uhud.json"
+  }
+]

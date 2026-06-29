@@ -1,0 +1,16 @@
+[
+  {
+    "card": 1,
+    "title": "Green (Trip 1)",
+    "description": "When passing through the area marked by the green lights (the Masa’a) during the Sa’i between Safa and Marwah, the specific instruction is for men only to perform a brisk pace or light jog. This practice commemorates the actions of Hajar (peace be upon her) when she ran through the valley while searching for water for her son, Ismail. There is no single 'mandatory' dua specifically for the green lines, but it is highly recommended to recite the supplication used by the sahabah:",
+    "mediaItems": [
+      {
+        "type": "image",
+        "url": "image/seaigreen.png"
+      }
+    ],
+    "audio": {
+      "subtitles": "saei/saeigreen.json"
+    }
+  }
+]

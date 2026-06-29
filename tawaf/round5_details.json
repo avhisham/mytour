@@ -1,0 +1,47 @@
+[
+  {
+    "card": 1,
+    "title": "Aswad (Round 5)",
+    "description": "Face the Hajarul Aswad, raise your right hand, and say Bismillahi Allahu Akbar.",
+    "mediaItems": [
+      {
+        "type": "image",
+        "url": "image/tawafaswad.png"
+      }
+    ],
+    "audio": {
+      "url": "audio/tawafaswad.mp3",
+      "subtitles": "tawaf/tawafaswad.json"
+    }
+  },
+  {
+    "card": 2,
+    "title": "Tawaf (Round 5)",
+    "description": "Read any doa or zikir until rukun yamani. one is provided here with the meaning.",
+    "mediaItems": [
+      {
+        "type": "image",
+        "url": "image/tawaf.png"
+      }
+    ],
+    "audio": {
+      "url": "audio/tawaf5.mp3",
+      "subtitles": "tawaf/tawaf5.json"
+    }
+  },
+  {
+    "card": 3,
+    "title": "Yamani (Round 5)",
+    "description": "Between the Yemeni Corner and the Hajarul Aswad, recite: Rabbana atina fid-dunya hasanatan wa fil-akhirati hasanatan wa qina 'adhaban-nar.",
+    "mediaItems": [
+      {
+        "type": "image",
+        "url": "image/tawafyamani.png"
+      }
+    ],
+    "audio": {
+      "url": "audio/tawafyamani.mp3",
+      "subtitles": "tawaf/tawafyamani.json"
+    }
+  }
+]

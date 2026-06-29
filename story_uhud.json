@@ -1,0 +1,487 @@
+{
+  "id": "uhud_comprehensive_journey",
+  "locationId": "darul_nadwah",
+  "autoPlay": false,
+  "tacticalUnits": [
+    {
+      "id": "meccan",
+      "count": 30,
+      "color": "#FF0000",
+      "size": 5.0,
+      "spacing": 8.0,
+      "discipline": 0.6
+    },
+    {
+      "id": "muslim",
+      "count": 10,
+      "color": "#43A047",
+      "size": 5.0,
+      "spacing": 8.0,
+      "discipline": 0.8
+    },
+    {
+      "id": "courier",
+      "count": 1,
+      "color": "#FDD835",
+      "size": 5.0,
+      "spacing": 0.0,
+      "banner": "image/message.png",
+      "discipline": 1.0
+    }
+  ],
+  "title": {
+    "en": "The Battle of Uhud: Purified and Resilient",
+    "ms": "Pertempuran Uhud: Suci dan Tabah",
+    "ml": "ഉഹുദ് യുദ്ധം: ശുദ്ധീകരണവും അതിജീവനവും",
+    "ta": "உஹுத் போர்: தூய்மையும் மீள்தன்மையும்"
+  },
+  "description": "An immersive journey through the landscape of Uhud, following the path of the Prophet ﷺ and his companions from the mosque to the mountain slopes.",
+  "languageCode": "en",
+  "pages": [
+    {
+      "card": 1,
+      "title": {
+        "en": "The Meccan Quraish schemes to attack Madinah",
+        "ms": "Rancangan Quraish Makkah untuk menyerang Madinah",
+        "ml": "മദീനയെ ആക്രമിക്കാൻ മക്കയിലെ ഖുറൈശികൾ ഗൂഢാലോചന നടത്തുന്നു",
+        "ta": "மதீனாவைத் தாக்க மக்கா குரைஷிகள் சதி செய்கிறார்கள்"
+      },
+      "locationId": "darul_nadwah",
+      "sentences": [
+        {
+          "text": {
+            "en": "The Battle of Uhud took place in the 3rd year of He-jrah, a year after Badr. The Meccans were ashamed as many of their leaders had died. Their new leader was Abu Sufyan.",
+            "ms": "Pertempuran Uhud berlaku pada tahun ke-3 Hijrah, setahun selepas Badar. Tentera Makkah berasa aib kerana ramai pemimpin mereka terkorban. Pemimpin baharu mereka ialah Abu Sufyan.",
+            "ml": "ബദർ യുദ്ധത്തിന് ഒരു വർഷത്തിന് ശേഷം ഹിജ്റ മൂന്നാം വർഷത്തിലാണ് ഉഹുദ് യുദ്ധം നടന്നത്. തങ്ങളുടെ നേതാക്കളിൽ പലരും മരിച്ചതിനാൽ മക്കക്കാർ ലജ്ജിതരായി. അവരുടെ പുതിയ നേതാവ് അബു സുഫിയാൻ ആയിരുന്നു.",
+            "ta": "உஹுத் போர் ஹிஜ்ரி 3-ம் ஆண்டில், பத்ர் போருக்கு ஒரு வருடத்திற்குப் பிறகு நடந்தது. மக்காவினர் தங்கள் தலைவர்கள் பலர் இறந்ததால் அவமானமடைந்தனர். அவர்களின் புதிய தலைவர் அபூ சுஃப்யான் ஆவார்."
+          },
+          "animCommand": ""
+        },
+        {
+          "text": {
+            "en": "His wife, [Hind/Heend], was upset over the deaths of her father and brother at Badr. She promised the slave [Wahshie] freedom and a reward if he killed either Muhammad, peace be upon him, Hamzah, or 'Ali.",
+            "ms": "Isterinya, Hindun, berasa berdendam dan marah atas kematian bapa dan abangnya di Badar. Dia menjanjikan kebebasan dan ganjaran kepada seorang hamba bernama Wahsyi, jika dia berjaya membunuh sama ada Muhammad(selawat dan salam keatasnya) ﷺ, Hamzah, atau 'Ali.",
+            "ml": "അവന്റെ ഭാര്യ ഹിന്ദ്, ബദറിൽ തന്റെ പിതാവും സഹോദരനും മരിച്ചതിൽ അസ്വസ്ഥയായിരുന്നു. മുഹമ്മദ് നബി (സ), ഹംസ (റ) അല്ലെങ്കിൽ അലി (റ) എന്നിവരെ കൊന്നാൽ അടിമയായ വഹ്ഷിക്ക് മോചനവും പ്രതിഫലവും അവൾ വാഗ്ദാനം ചെയ്തു.",
+            "ta": "அவருடைய மனைவி ஹிந்த், பத்ரில் தனது தந்தை மற்றும் சகோதரர் இறந்ததால் வருத்தமடைந்தார். முஹம்மது (ஸல்), ஹம்ஸா அல்லது அலியை கொன்றால் அடிமை வஹ்ஷிக்கு விடுதலையும் வெகுமதியும் தருவதாக அவர் வாக்குறுதி அளித்தார்."
+          }
+        },
+        {
+          "text": {
+            "en": "The Meccans prepared an army of 3,000 men, including by 3,000 war-camels and 200 horsemen, to attack Madinah.",
+            "ms": "Pihak Makkah menyediakan tentera seramai 3,000 orang termasuk 3,000 ekor unta perang dan 200 tentera berkuda untuk menyerang Madinah.",
+            "ml": "മദീനയെ ആക്രമിക്കാനായി 3,000 യുദ്ധ ഒട്ടകങ്ങളും 200 കുതിരപ്പടയാളികളും ഉൾപ്പെടെ 3,000 പേരടങ്ങുന്ന സൈന്യത്തെ മക്കക്കാർ തയ്യാറാക്കി.",
+            "ta": "மதீனாவைத் தாக்க மக்காவினர் 3,000 போர் ஒட்டகங்கள் மற்றும் 200 குதிரைப்படை வீரர்கள் உட்பட 3,000 பேர் கொண்ட படயைத் தயாரித்தனர்."
+          },
+          "animCommand": "meccan[STAY,name[darul_nadwah],3';AWAY,name[darul_nadwah],name[masjid_jinn],40',delay:3']"
+        },
+        {
+          "text": {
+            "en": "Rasulullah's uncle Abbas bin Abdul Muttalib sent a message: 'The Meccan army is heading to Madinah, 3,000 men strong. They'll be there in 10 days.' The message took 3 days to reach Madinah.",
+            "ms": "Bapa saudara Rasulullah, Abbas bin Abdul Muttalib menghantar pesanan: 'Tentera Makkah sedang menuju ke Madinah, berkekuatan 3,000 orang. Mereka akan berada di sana dalam masa 10 hari.' Pesanan tersebut mengambil masa 3 hari untuk sampai ke Madinah.",
+            "ml": "റസൂലുല്ലാഹി (സ) യുടെ അമ്മാവൻ അബ്ബാസ് ബിൻ അബ്ദുൽ മുത്തലിബ് ഒരു സന്ദേശം അയച്ചു: '3,000 പേരുള്ള മക്കൻ സൈന്യം മദീനയിലേക്ക് നീങ്ങുകയാണ്. അവർ 10 ദിവസത്തിനുള്ളിൽ അവിടെയെത്തും.' സന്ദേശം മദീനയിലെത്താൻ 3 ദിവസമെടുത്തു.",
+            "ta": "ரசூலுல்லாஹ்வின் பெரிய தந்தை அப்பாஸ் பின் அப்துல் முத்தலிப் ஒரு செய்தியை அனுப்பினார்: 'மக்காவியப் படை 3,000 பேர் கொண்ட பலத்துடன் மதீனாவை நோக்கி வருகிறது. அவர்கள் 10 நாட்களில் அங்கிருப்பார்கள்.' செய்தி மதீனாவை அடைய 3 நாட்கள் ஆனது."
+          },
+          "animCommand": "(courier[LERP,name[darul_nadwah],name[l12],10'])"
+        }
+      ]
+    },
+    {
+      "card": 2,
+      "title": {
+        "en": "Part 2: The Departure from Madinah",
+        "ms": "Bahagian 2: Bertolak dari Madinah",
+        "ml": "ഭാഗം 2: മദീനയിൽ നിന്നുള്ള പുറപ്പാട്",
+        "ta": "பகுதி 2: மதீனாவிலிருந்து புறப்படுதல்"
+      },
+      "locationId": "l6",
+      "sentences": [
+        {
+          "text": {
+            "en": "When the news reached the Prophet ﷺ and his companions, they discussed in Masjid al-Nabawi on how and where to defend Madinah from the enemy coming to enter from the north-west.",
+            "ms": "Apabila berita tersebut sampai kepada Nabi ﷺ dan para sahabat, mereka berbincang di Masjid al-Nabawi tentang cara dan lokasi untuk mempertahankan Madinah daripada musuh yang datang dari arah barat laut.",
+            "ml": "വാർത്ത നബി (സ) ക്കും അനുയായികൾക്കും ലഭിച്ചപ്പോൾ, വടക്ക് പടിഞ്ഞാറ് ഭാഗത്ത് നിന്ന് വരുന്ന ശത്രുക്കളിൽ നിന്ന് മദീനയെ എങ്ങനെ, എവിടെ പ്രതിരോധിക്കണമെന്ന് അവർ മസ്ജിദുന്നബവിയിൽ ചർച്ച ചെയ്തു.",
+            "ta": "செய்தி நபி (ஸல்) அவர்களையும் அவருடைய தோழர்களையும் சென்றடைந்தபோது, ​​வடமேற்கிலிருந்து வரும் எதிரிகளிடமிருந்து மதீனாவை எப்படி, எங்கு பாதுகாப்பது என்பது குறித்து மஸ்ஜிதுந் நபவியில் விவாதித்தனர்."
+          },
+          "animCommand": "muslim[STAY, masjid_nabawi]"
+        },
+        {
+          "text": {
+            "en": "Most of the Jews did not want to participate in the battle as it would fall on Saturday, their rest day. Only one person joined by the name of Mukhayriq, a learned rabbi who would be martyred in the battle.",
+            "ms": "Kebanyakan orang Yahudi tidak mahu turut serta dalam pertempuran tersebut kerana ia jatuh pada hari Sabtu, hari rehat mereka. Hanya seorang sahaja yang menyertai iaitu Mukhayriq, seorang pendeta yang kemudiannya gugur syahid dalam pertempuran tersebut.",
+            "ml": "ഭൂരിഭാഗം ജൂതന്മാരും യുദ്ധത്തിൽ പങ്കെടുക്കാൻ ആഗ്രഹിച്ചില്ല, കാരണം അത് അവരുടെ വിശ്രമ ദിനമായ ശനിയാഴ്ചയായിരുന്നു. മുഖൈരിഖ് എന്ന ഒരാൾ മാത്രമാണ് അവരോടൊപ്പം ചേർന്നത്, അദ്ദേഹം യുദ്ധത്തിൽ രക്തസാക്ഷിയായ ഒരു പണ്ഡിതനായ റബ്ബിയായിരുന്നു.",
+            "ta": "யூதர்களில் பெரும்பாலோர் போரில் பங்கேற்க விரும்பவில்லை, ஏனெனில் அது அவர்களின் ஓய்வு நாளான சனிக்கிழமையில் வந்தது. முகைரிக் என்ற ஒருவர் மட்டுமே சேர்ந்தார், அவர் போரில் ஷஹீதான ஒரு அறிஞர் ஆவார்."
+          }
+        },
+        {
+          "text": {
+            "en": "The Prophet ﷺ initially intended to remain within Medina's walls, but younger companions passionately urged him to meet the enemy outside.",
+            "ms": "Baginda ﷺ pada mulanya berniat untuk kekal di dalam kota Madinah, namun para sahabat muda dengan penuh semangat mendesak Baginda untuk menghadapi musuh di luar.",
+            "ml": "നബി (സ) ആദ്യം മദീനയ്ക്കുള്ളിൽ തന്നെ നിൽക്കാൻ ഉദ്ദേശിച്ചിരുന്നുവെങ്കിലും, യുവ അനുയായികൾ ശത്രുവിനെ പുറത്ത് നേരിടാൻ അദ്ദേഹത്തോട് ആവേശത്തോടെ അഭ്യർത്ഥിച്ചു.",
+            "ta": "நபி (ஸல்) அவர்கள் ஆரம்பத்தில் மதீனாவின் சுவர்களுக்குள்ளேயே இருக்க எண்ணினார்கள், ஆனால் இளைய தோழர்கள் அவரை வெளியே எதிரியைச் சந்திக்குமாறு ஆவேசமாக வலியுறுத்தினர்."
+          },
+          "image": {
+            "url": "image/tempat/nabawi1.jpg",
+            "caption": {
+              "en": "Masjid al-Nabawi: The Sacred Heart of Medina",
+              "ms": "Masjid al-Nabawi: Pusat Suci Madinah",
+              "ml": "മസ്ജിദുന്നബവി: മദീനയുടെ വിശുദ്ധ ഹൃദയം",
+              "ta": "மஸ்ஜிதுந் நபவி: மதீனாவின் புனித இதயம்"
+            }
+          }
+        },
+        {
+          "text": {
+            "en": "After the Friday prayer, the Prophet ﷺ preached an inspiring sermon about Jihad and the need for steadfastness.",
+            "ms": "Selepas solat Jumaat, Nabi Muhammad ﷺ menyampaikan khutbah yang memberi inspirasi tentang Jihad dan keperluan untuk terus teguh.",
+            "ml": "വെള്ളിയാഴ്ച നമസ്‌കാരത്തിന് ശേഷം നബി (സ) ജിഹാദിനെക്കുറിച്ചും അചഞ്ചലതയുടെ ആവശ്യകതയെക്കുറിച്ചും പ്രചോദനാത്മകമായ ഒരു പ്രസംഗം നടത്തി.",
+            "ta": "வெள்ளிக்கிழமை தொழுகைக்குப் பிறகு, நபி (ஸல்) அவர்கள் ஜிஹாத் மற்றும் உறுதிப்பாட்டின் அவசியம் குறித்து ஊக்கமளிக்கும் உரையை நிகத்தினார்கள்."
+          }
+        },
+        {
+          "text": {
+            "en": "He entered his house with Abu Bakr and 'Umar to put on his armour, symbolizing his commitment to the upcoming struggle.",
+            "ms": "Baginda masuk ke rumahnya bersama Abu Bakar dan 'Umar untuk memakai kelengkapan perang sebagai simbol komitmen terhadap perjuangan.",
+            "ml": "യുദ്ധത്തിനുള്ള ഒരുക്കങ്ങൾ പൂർത്തിയാക്കാൻ അബൂബക്കർ (റ), ഉമർ (റ) എന്നിവരോടൊപ്പം അദ്ദേഹം തന്റെ വീട്ടിൽ പ്രവേശിച്ചു.",
+            "ta": "வரவிருக்கும் போராட்டத்திற்கான தனது உறுதிப்பாட்டைக் குறிக்கும் வகையில், அபூபக்கர் மற்றும் உமர் ஆகியோருடன் தனது கவசத்தை அணிவதற்காக அவர் வீட்டிற்குள் நுழைந்தார்."
+          }
+        },
+        {
+          "text": {
+            "en": "When he emerged, some men repented for forcing his hand and asked him to reconsider the plan.",
+            "ms": "Apabila Baginda keluar, beberapa orang yang sebelum ini mendesak untuk berperang di luar kota berasa kesal dan meminta Baginda membuat keputusan semula.",
+            "ml": "അദ്ദേഹം പുറത്തുവന്നപ്പോൾ, യുദ്ധത്തിന് നിർബന്ധിച്ചതിൽ ചിലർ ഖേദിക്കുകയും പദ്ധതി പുനർചിന്തിക്കാൻ അദ്ദേഹത്തോട് ആവശ്യപ്പെടുകയും ചെയ്തു.",
+            "ta": "அவர் வெளியே வந்தபோது, ​​​​சிலர் போருக்கு கட்டாயப்படுத்தியதற்காக வருந்தினர் மற்றும் திட்டத்தை மறுபரிசீலனை செய்யுமாறு அவரிடம் கேட்டனர்."
+          }
+        },
+        {
+          "text": {
+            "en": "The Prophet ﷺ firmly refused, stating that once a Prophet puts on armour, he does not take it off until Allah judges between him and his enemies.",
+            "ms": "Baginda dengan tegas menolak dan bersabda bahawa tidak wajar bagi seorang Nabi menanggalkan baju besinya sehingga Allah menghakimi antara dia dan musuh.",
+            "ml": "ഒരു പ്രവാചകൻ യുദ്ധവസ്ത്രം ധരിച്ചാൽ അല്ലാഹു വിധിക്കുന്നത് വരെ അത് അഴിക്കില്ലെന്ന് പ്രഖ്യാപിച്ചുകൊണ്ട് നബി (സ) ഉറച്ചുനിന്നു.",
+            "ta": "ஒரு நபி கவசம் அணிந்தால், அல்லாஹ் அவருக்கும் அவருடைய எதிரிகளுக்கும் இடையில் தீர்ப்பளிக்கும் வரை அதை கழற்றமாட்டார் என்று கூறி நபி (ஸல்) அவர்கள் திட்டவட்டமாக மறுத்துவிட்டார்கள்."
+          }
+        }
+      ]
+    },
+    {
+      "card": 3,
+      "title": {
+        "en": "Part 3: The Strategy at Shaykhayn",
+        "ms": "Bahagian 3: Strategi di Shaykhayn",
+        "ml": "ഭാഗം 3: ഷൈഖൈനിലെ തന്ത്രം",
+        "ta": "பகுதி 3: ஷைக்கைனில் உத்தி"
+      },
+      "locationId": "l14",
+      "sentences": [
+        {
+          "text": {
+            "en": "The Muslim army reached Shaykhayn at sunset, where Bilal made the call to prayer and the troops gathered.",
+            "ms": "Tentera Islam tiba di Shaykhayn pada waktu matahari terbenam, di mana Bilal melaungkan azan dan tentera berkumpul.",
+            "ml": "സൂര്യാസ്തമയസമയത്ത് മുസ്‌ലിം സൈന്യം ഷൈഖൈനിൽ എത്തി, അവിടെ ബിലാൽ (റ) ബാങ്ക് വിളിക്കുകയും സൈന്യം ഒത്തുകൂടുകയും ചെയ്തു.",
+            "ta": "முஸ்லிம் படை சூரிய அஸ்தமனத்தில் ஷைக்கைனை அடைந்தது, அங்கு பிலால் தொழுகைக்கு அழைப்பு விடுத்தார் மற்றும் படைகள் கூடின."
+          }
+        },
+        {
+          "text": {
+            "en": "The Prophet ﷺ reviewed the ranks and sent back several boys who were deemed too young for the rigors of battle.",
+            "ms": "Nabi ﷺ memeriksa barisan tenteranya dan menghantar pulang beberapa remaja yang dianggap terlalu muda untuk berperang.",
+            "ml": "നബി (സ) സൈന്യത്തെ പരിശോധിക്കുകയും യുദ്ധത്തിന് പ്രായം കുറഞ്ഞവരാണെന്ന് കണ്ട പല ആൺകുട്ടികളെയും തിരിച്ചയക്കുകയും ചെയ്തു.",
+            "ta": "நபி (ஸல்) அவர்கள் அணிகளை ஆய்வு செய்து, போரின் கடினத்தன்மைக்கு மிகவும் இளையவர்கள் என்று கருதப்பட்ட பல சிறுவர்களை திருப்பி அனுப்பினார்கள்."
+          }
+        },
+        {
+          "text": {
+            "en": "He permitted Rafi' to stay due to his exceptional archery skills, showing the importance of specialized talent.",
+            "ms": "Baginda membenarkan Rafi' untuk kekal kerana kemahirannya memanah yang luar biasa, menunjukkan kepentingan bakat khusus.",
+            "ml": "റാഫിഇന്റെ അസാമാന്യമായ അമ്പെയ്ത്ത് കഴിവ് കാരണം അവിടെ നിൽക്കാൻ അദ്ദേഹം അനുവദിച്ചു.",
+            "ta": "சிறப்புத் திறமையின் முக்கியத்துவத்தைக் காட்டும் வகையில், ராஃபியின் விதிவிலக்கான வில்வித்தைத் திறமையின் காரணமாக அவரை அங்கேயே இருக்க அனுமதித்தார்."
+          }
+        },
+        {
+          "text": {
+            "en": "Samurah was also allowed to remain after proving his strength by defeating Rafi' in a wrestling match.",
+            "ms": "Samurah turut dibenarkan menyertai pertempuran selepas membuktikan kemampuannya mengalahkan Rafi' dalam perlawanan gusti.",
+            "ml": "റാഫിഇനെ ഗുസ്തിയിൽ തോൽപ്പിച്ച് തന്റെ കരുത്ത് തെളിയിച്ചതിനെത്തുടർന്ന് സമുറയെയും യുദ്ധത്തിൽ പങ്കെടുക്കാൻ അനുവദിച്ചു.",
+            "ta": "மல்யுத்தப் போட்டியில் ராஃபியைத் தோற்கடித்து தனது பலத்தை நிரூபித்த பின்னர் ஸமுராவும் அங்கேயே இருக்க அனுமதிக்கப்பட்டார்."
+          }
+        },
+        {
+          "text": {
+            "en": "It was also at Masjid Shaykhayn where the hypocrite Abdullah bin Ubayy and his 300 followers turned back to Madinah, leaving only 700 people to defend the city.",
+            "ms": "Juga di Masjid Shaykhayn, ketua munafik Abdullah bin Ubayy and 300 pengikutnya berpatah balik ke Madinah, meninggalkan hanya 700 orang sahaja untuk mempertahankan kota tersebut.",
+            "ml": "കപടവിശ്വാസിയായ അബ്ദുല്ല ബിൻ ഉബയ്യും അദ്ദേഹത്തിന്റെ 300 അനുയായികളും മദീനയിലേക്ക് മടങ്ങിയതും മസ്ജിദു ശൈഖൈനിൽ വെച്ചായിരുന്നു, ഇത് നഗരത്തെ പ്രതിരോധിക്കാൻ 700 പേരെ മാത്രമായി കുറച്ചു.",
+            "ta": "மஸ்ஜிது ஷைக்கைனில் தான் நயவஞ்சகர் அப்துல்லாஹ் பின் உபை மற்றும் அவரது 300 பின்பற்றுபவர்கள் மதீனாவிற்குத் திரும்பினர், நகரத்தைப் பாதுகாக்க 700 பேர் மட்டுமே எஞ்சினர்."
+          }
+        }
+      ]
+    },
+    {
+      "card": 4,
+      "title": {
+        "en": "Part 4: The Order at Jabal al-Rumat",
+        "ms": "Bahagian 4: Arahan di Jabal Rumat",
+        "ml": "ഭാഗം 4: ജബൽ റുമാത്തിലെ കല്പന",
+        "ta": "பகுதி 4: ஜபல் அல்-ருமாத்தில் உத்தரவு"
+      },
+      "locationId": "jabal_rumat",
+      "sentences": [
+        {
+          "text": {
+            "en": "When the Muslim army reached the battleground first, Rasulullah ﷺ placed the Muslim army flanked by Mount Uhud on their right and a small hill, Jabal Rumat, on their left side.",
+            "ms": "Apabila tentera Islam tiba di medan pertempuran lebih awal, Rasulullah ﷺ menempatkan tentera Islam dengan diapit oleh Gunung Uhud di sebelah kanan mereka dan sebuah bukit kecil, Jabal Rumat, di sebelah kiri mereka.",
+            "ml": "മുസ്‌ലിം സൈന്യം ആദ്യം യുദ്ധഭൂമിയിലെത്തിയപ്പോൾ, റസൂലുല്ലാഹി (സ) വലതുവശത്ത് ഉഹുദ് പർവതവും ഇടതുവശത്ത് ജബൽ റുമാത്ത് എന്ന ചെറിയ കുന്നും ചേർത്ത് സൈന്യത്തെ വിന്യസിച്ചു.",
+            "ta": "முஸ்லிம் படை முதலில் போர்க்களத்தை அடைந்தபோது, ​​ரசூலுல்லாஹ் (ஸல்) அவர்கள் முஸ்லிம் படையின் வலது பக்கம் உஹுத் மலையையும் இடது பக்கம் ஜபல் அல்-ருமாத் என்ற சிறிய குன்றையும் வைத்து அணிவகுக்கச் செய்தார்கள்."
+          },
+          "animCommand": "muslim(green, 50), name[jabal_rumat], offset[name[jabal_rumat], 0.0001, 0.0001], 8', STEP"
+        },
+        {
+          "text": {
+            "en": "The Prophet ﷺ placed fifty archers on the hill under 'Abd Allah ibn Jubayr to protect the army's rear.",
+            "ms": "Nabi ﷺ menempatkan lima puluh pemanah di atas bukit di bawah pimpinan 'Abd Allah ibn Jubayr untuk melindungi bahagian belakang tentera.",
+            "ml": "സൈന്യത്തിന്റെ പിൻഭാഗം സംരക്ഷിക്കുന്നതിനായി അബ്ദുല്ല ബിൻ ജുബൈറിന്റെ കീഴിൽ അമ്പത് അമ്പെയ്ത്തുകാരെ നബി (സ) കുന്നിൻ മുകളിൽ നിർത്തി.",
+            "ta": "படையின் பின்பகுதியைப் பாதுகாப்பதற்காக அப்துல்லாஹ் இப்னு ஜுபைரின் கீழ் ஐம்பது வில்லாளர்களை நபி (ஸல்) அவர்கள் குன்றின் மீது நிறுத்தினார்கள்."
+          }
+        },
+        {
+          "text": {
+            "en": "He gave strict orders to stay at the post regardless of the battle's outcome: 'Whether we win or lose, do not leave this place.'",
+            "ms": "Baginda memberi arahan tegas agar mereka kekal di situ tanpa mengira keadaan: 'Sama ada pertempuran memihak kepada kami atau menentang kami, kekallah di tempat ini!'",
+            "ml": "യുദ്ധഫലം എന്തുതന്നെയായാലും അവിടെ തുടരാൻ അദ്ദേഹം കർശനമായ ഉത്തരവ് നൽകി: 'നമ്മൾ ജയിച്ചാലും തോറ്റാലും ഈ സ്ഥലം വിട്ടുപോകരുത്.'",
+            "ta": "போரின் முடிவு எதுவாக இருந்தாலும் அந்த இடத்திலேயே இருக்குமாறு அவர் கடுமையான உத்தரவு பிறப்பித்தார்: 'நாம் வென்றாலும் தோற்றாலும் இந்த இடத்தை விட்டு வெளியேற வேண்டாம்.'"
+          }
+        }
+      ]
+    },
+    {
+      "card": 5,
+      "title": {
+        "en": "Part 5: The Turning Tide of Battle",
+        "ms": "Bahagian 5: Arus Pertempuran Berubah",
+        "ml": "ഭാഗം 5: യുദ്ധത്തിന്റെ ഗതി മാറുന്നു",
+        "ta": "பகுதி 5: போரின் திசை திரும்புதல்"
+      },
+      "locationId": "battlefield_uhud",
+      "sentences": [
+        {
+          "text": {
+            "en": "Next, Abu Sufyan arrived with 3,000 men, accompanied by their ladies who joined to give moral support.",
+            "ms": "Seterusnya, Abu Sufyan tiba bersama 3,000 orang tentera, diiringi oleh para wanita mereka yang turut serta untuk memberikan sokongan moral.",
+            "ml": "അടുത്തതായി, അബു സുഫിയാൻ 3,000 പുരുഷന്മാരുമായി എത്തി, അവർക്ക് ധാർമ്മിക പിന്തുണ നൽകാൻ സ്ത്രീകളും കൂടെയുണ്ടായിരുന്നു.",
+            "ta": "அடுத்து, அபூ சுஃப்யான் 3,000 ஆண்களுடன் வந்து சேர்ந்தார், அவர்களுக்கு தார்மீக ஆதரவை வழங்க பெண்களும் அவர்களுடன் சேர்ந்துகொண்டனர்."
+          }
+        },
+        {
+          "text": {
+            "en": "The Meccan army advanced with Abu Sufyan in the center and Khalid ibn al-Walid leading the cavalry on the wing.",
+            "ms": "Tentera Makkah mara dengan Abu Sufyan di bahagian tengah manakala Khalid ibn al-Walid mengetuai pasukan berkuda di sayap.",
+            "ml": "അബു സുഫിയാൻ മധ്യഭാഗത്തും ഖാലിദ് ബിൻ വലീദ് കുതിരപ്പടയെയും നയിച്ചുകൊണ്ട് മക്കൻ സൈന്യം മുന്നേറി.",
+            "ta": "அபூ சுஃப்யான் மையத்திலும் காலித் இப்னுல் வலீத் குதிரைப்படையை முன்னின்று வழிநடத்த மக்காவியப் படை முன்னேறியது."
+          },
+          "animCommand": "meccan(red, 40), name[battlefield_uhud], name[jabal_rumat], 12', LERP"
+        },
+        {
+          "text": {
+            "en": "Muslims initially broke the enemy lines, but forty archers abandoned their post to collect spoils, ignoring their orders.",
+            "ms": "Tentera Islam mulanya mendesak musuh, namun empat puluh pemanah meninggalkan pos mereka untuk merebut harta rampasan, mengabaikan arahan.",
+            "ml": "മുസ്‌ലിംകൾ ആദ്യം ശത്രുനിരകളെ തകർത്തു, എന്നാൽ നാൽപ്പത് അമ്പെയ്ത്തുകാർ കൽപ്പനകൾ അവഗണിച്ച് യുദ്ധമുതൽ ശേഖരിക്കാൻ തങ്ങളുടെ സ്ഥലം ഉപേക്ഷിച്ചു.",
+            "ta": "முஸ்லிம்கள் ஆரம்பத்தில் எதிரிகளின் வரிசையை முறியடித்தனர், ஆனால் நாற்பது வில்லாளர்கள் உத்தரவுகளைப் பொருட்படுத்தாமல் போர்ச் செல்வங்களை சேகரிக்க தங்கள் இடங்களை விட்டு வெளியேறினர்."
+          }
+        },
+        {
+          "text": {
+            "en": "Khalid seized the opportunity, wiped out the remaining archers, and launched a devastating attack from the rear.",
+            "ms": "Khalid mengambil peluang tersebut, menghapuskan baki pemanah, dan melancarkan serangan yang memusnahkan dari arah belakang.",
+            "ml": "ഖാലിദ് അവസരം മുതലെടുക്കുകയും ശേഷിച്ച അമ്പെയ്ത്തുകാരെ വകവരുത്തുകയും പിന്നിൽ നിന്ന് ശക്തമായ ആക്രമണം അഴിച്ചുവിടുകയും ചെയ്തു.",
+            "ta": "காலித் இந்த வாய்ப்பைப் பயன்படுத்தி, மீதமுள்ள வில்லாளர்களை அழித்து, பின்பக்கத்திலிருந்து ஒரு பயங்கரமான தாக்குதலைத் தொடங்கினார்."
+          }
+        },
+        {
+          "text": {
+            "en": "Panic spread through the Muslim ranks as the tide of battle abruptly turned in favor of the Quraysh.",
+            "ms": "Diserang panik, barisan tentera Islam tertekan dan arus pertempuran tiba-tiba berubah memihak kepada pihak Quraisy.",
+            "ml": "യുദ്ധത്തിന്റെ ഗതി പെട്ടെന്ന് ഖുറൈശികൾക്ക് അനുകൂലമായതോടെ മുസ്‌ലിംകൾക്കിടയിൽ പരിഭ്രാന്തി പടർന്നു.",
+            "ta": "போரின் போக்கு திடீரென குரைஷிகளுக்கு சாதகமாக மாறியதால் முஸ்லிம் அணிகளில் பீதி பரவியது."
+          }
+        }
+      ]
+    },
+    {
+      "card": 6,
+      "title": {
+        "en": "Part 6: Sanctuary at Al-Fasah",
+        "ms": "Bahagian 6: Berlindung di Al-Fasah",
+        "ml": "ഭാഗം 6: അൽ-ഫസഹയിലെ അഭയം",
+        "ta": "பகுதி 6: அல்-ஃபஸாவில் சரணாலயம்"
+      },
+      "locationId": "l17",
+      "sentences": [
+        {
+          "text": {
+            "en": "Under heavy assault, the Prophet ﷺ and his companions retreated up the mountain slopes to a point of safety.",
+            "ms": "Akibat diasak teruk, Nabi ﷺ dan para sahabat terdekat berjuang meredah lurah di gunung untuk mencari tempat yang selamat.",
+            "ml": "ശക്തമായ ആക്രമണത്തിനിടയിൽ, നബി (സ) യും അനുയായികളും മലഞ്ചെരിവുകളിലേക്ക് പിൻവാങ്ങി സുരക്ഷിതമായ ഒരിടത്തെത്തി.",
+            "ta": "கடுமையான தாக்குதலுக்கு உள்ளான நபி (ஸல்) அவர்களும் அவர்களின் தோழர்களும் மலைச் சரிவுகளில் பாதுகாப்பான இடத்திற்கு பின்வாங்கினர்."
+          },
+          "animCommand": "muslim(green, 15), name[battlefield_uhud], name[l17], 15', LERP"
+        },
+        {
+          "text": {
+            "en": "The injured Prophet ﷺ led the Dhuhr prayer while seated on a rocky ledge, now marked by the ruins of Masjid al-Fasah.",
+            "ms": "Nabi ﷺ yang tercedera mengimamkan solat Zohor sambil duduk di atas tebing berbatu yang kini ditandai oleh runtuhan Masjid al-Fasah.",
+            "ml": "പരിക്കേറ്റ നബി (സ) ഒരു പാറപ്പുറത്ത് ഇരുന്നുകൊണ്ട് ദ്വുഹർ നമസ്‌കാരം നിർവഹിച്ചു, ഇത് ഇപ്പോൾ മസ്ജിദുൽ ഫസഹയുടെ അവശിഷ്ടങ്ങളാൽ അടയാളപ്പെടുത്തിയിരിക്കുന്നു.",
+            "ta": "காயமடைந்த நபி (ஸல்) அவர்கள் ஒரு பாறை விளிம்பில் அமர்ந்து லுஹர் தொழுகையை நடத்தினார்கள், அந்த இடம் இப்போது மஸ்ஜிதுல் ஃபஸாவின் இடிபாடுகளால் குறிக்கப்பட்டுள்ளது."
+          },
+          "image": {
+            "url": "image/tempat/shuhadauhud1.jpg",
+            "caption": {
+              "en": "Ruins marking the site",
+              "ms": "Runtuhan yang menandakan tapak bersejarah",
+              "ml": "അവശിഷ്ടങ്ങൾ സൈറ്റിനെ അടയാളപ്പെടുത്തുന്നു",
+              "ta": "இடிபாடுகள் தளத்தைக் குறிக்கின்றன"
+            }
+          }
+        },
+        {
+          "text": {
+            "en": "This historic site at the foot of Mount Uhud remains a testament to the resilience of the believers during their darkest hour.",
+            "ms": "Tapak bersejarah di kaki Gunung Uhud ini menjadi bukti ketabahan orang beriman semasa waktu yang paling sukar.",
+            "ml": "ഉഹുദ് പർവതത്തിന്റെ താഴ്‌വരയിലുള്ള ഈ ചരിത്രപ്രദേശം വിശ്വാസികളുടെ അതിജീവനത്തിന്റെ തെളിവായി ഇന്നും നിലകൊള്ളുന്നു.",
+            "ta": "உஹுத் மலையின் அடிவாரத்தில் உள்ள இந்த வரலாற்றுத் தளம், அவர்களின் இருண்ட காலங்களில் விசுவாசிகளின் மீள்தன்மைக்கு ஒரு சான்றாக உள்ளது."
+          }
+        }
+      ]
+    },
+    {
+      "card": 7,
+      "title": {
+        "en": "Part 7: The Martyrs of Uhud",
+        "ms": "Bahagian 7: Para Syuhada Uhud",
+        "ml": "ഭാഗം 7: ഉഹുദിലെ രക്തസാക്ഷികൾ",
+        "ta": "பகுதி 7: உஹுத் ஷுஹதாக்கள்"
+      },
+      "locationId": "shuhada_uhud",
+      "sentences": [
+        {
+          "text": {
+            "en": "70 Muslims were martyred in the battle. Sayyidina Hamzah, Rasulullah's uncle, was killed by Wahshy from his back using a javelin (tombak).",
+            "ms": "70 orang Islam gugur syahid dalam pertempuran tersebut. Sayyidina Hamzah, bapa saudara Rasulullah, telah dibunuh oleh Wahshy dari arah belakang menggunakan sebatang tombak.",
+            "ml": "യുദ്ധത്തിൽ 70 മുസ്‌ലിംകൾ രക്തസാക്ഷികളായി. റസൂലുല്ലാഹി (സ) യുടെ അമ്മാവൻ സയ്യിദിനാ ഹംസ (റ) യെ വഹ്ഷി പിന്നിൽ നിന്ന് കുന്തമുപയോഗിച്ച് കൊലപ്പെടുത്തി.",
+            "ta": "70 முஸ்லிம்கள் ஷஹீதானார்கள். ரசூலுல்லாஹ்வின் பெரிய தந்தை செய்யதினா ஹம்ஸா, வஹ்ஷியால் ஈட்டி மூலம் பின்னால் இருந்து கொல்லப்பட்டார்."
+          }
+        },
+        {
+          "text": {
+            "en": "His body and others were mutilated by the Meccans, including Hind, Abu Sufyan's wife.",
+            "ms": "Jenazah beliau dan syuhada yang lain telah dicacatkan oleh tentera Makkah, termasuklah oleh Hindun, isteri Abu Sufyan.",
+            "ml": "അദ്ദേഹത്തിന്റെ ശരീരവും മറ്റുള്ളവരും അബു സുഫിയാന്റെ ഭാര്യ ഹിന്ദ് ഉൾപ്പെടെയുള്ള മക്കക്കാരാൽ വികൃതമാക്കപ്പെട്ടു.",
+            "ta": "அவருடைய உடல் மற்றும் பிறரின் உடல்கள் அபூ சுஃப்யானின் மனைவி ஹிந்த் உள்ளிட்ட மக்காவினரால் சிதைக்கப்பட்டன."
+          }
+        },
+        {
+          "text": {
+            "en": "The Prophet ﷺ gathered the seventy martyrs, including his uncle Hamzah, and performed funeral prayers over them.",
+            "ms": "Nabi ﷺ mengumpulkan 70 syuhada termasuk bapa saudaranya Hamzah, dan menyembahyangkan mereka dengan penuh hiba.",
+            "ml": "നബി (സ) തന്റെ അമ്മാവൻ ഹംസ ഉൾപ്പെടെയുള്ള എഴുപത് രക്തസാക്ഷികളെ ഒരുമിച്ചുകൂട്ടി അവർക്ക് വേണ്ടി ജനാസ നമസ്‌കാരം നിർവഹിച്ചു.",
+            "ta": "நபி (ஸல்) அவர்கள் தனது பெரிய தந்தை ஹம்ஸா உட்பட எழுபது ஷுஹதாக்களை ஒன்றிணைத்து அவர்களுக்கு ஜனாஸா தொழுகை நடத்தினார்கள்."
+          }
+        },
+        {
+          "text": {
+            "en": "The martyrs were initially buried on the battleground itself. Two or three martyrs were laid to rest in a single grave, with Hamzah and his nephew 'Abd Allah buried together.",
+            "ms": "Para syuhada pada asalnya dikebumikan di medan pertempuran itu sendiri. Dua atau tiga orang syuhada disemadikan dalam satu kubur yang sama, manakala Hamzah dan anak saudaranya 'Abd Allah disemadikan bersama.",
+            "ml": "രക്തസാക്ഷികളെ ആദ്യം യുദ്ധഭൂമിയിൽ തന്നെയാണ് അടക്കം ചെയ്തത്. രണ്ട് മൂന്ന് രക്തസാക്ഷികളെ ഒരേ ഖബറിലാണ് അടക്കം ചെയ്തത്, ഹംസ (റ) നെയും സഹോദരീപുത്രൻ അബ്ദുള്ളയെയും ഒരുമിച്ചാണ് അടക്കം ചെയ്തത്.",
+            "ta": "ஷுஹதாக்கள் ஆரம்பத்தில் போர்க்களத்திலேயே அடக்கம் செய்யப்பட்டனர். இரண்டு அல்லது மூன்று ஷுஹதாக்கள் ஒரே கபுரில் அடக்கம் செய்யப்பட்டனர், ஹம்ஸாவும் அவரது மருமகன் அப்துல்லாஹ்வும் ஒன்றாக அடக்கம் செய்யப்பட்டனர்."
+          }
+        },
+        {
+          "text": {
+            "en": "A few years later, during the rule of Muawiyah, a flood caused by heavy rain brought the bodies of the shuhada to the surface, and they were found miraculously intact.",
+            "ms": "Beberapa tahun kemudian, semasa pemerintahan Muawiyah, banjir akibat hujan lebat menyebabkan jenazah para syuhada terkeluar ke permukaan, dan didapati masih utuh secara menakjubkan.",
+            "ml": "കുറച്ച് വർഷങ്ങൾക്ക് ശേഷം, മുആവിയയുടെ ഭരണകാലത്ത് ശക്തമായ മഴയെത്തുടർന്നുണ്ടായ വെള്ളപ്പൊക്കം ശഹീദുകളുടെ മൃതദേഹങ്ങൾ ഉപരിതലത്തിലേക്ക് കൊണ്ടുവന്നു, അവ അത്ഭുതകരമായി കേടുകൂടാതെ കാണപ്പെട്ടു.",
+            "ta": "சில ஆண்டுகளுக்குப் பிறகு, முஆவியாவின் ஆட்சியின் போது, ​​கடுமையான மழையினால் ஏற்பட்ட வெள்ளம் ஷுஹதாக்களின் உடல்களை மேற்பரப்பிற்கு கொண்டு வந்தது, அவை அற்புதமாக சிதையாமல் காணப்பட்டன."
+          }
+        },
+        {
+          "text": {
+            "en": "The bodies were then respectfully reburied slightly away from the Wadi Qanat, which is the position of the Maqam Shuhada that we see now.",
+            "ms": "Jenazah mereka kemudiannya dikebumikan semula agak jauh sedikit dari Wadi Qanat, yang merupakan lokasi Makam Syuhada yang kita lihat sekarang.",
+            "ml": "മൃതദേഹങ്ങൾ പിന്നീട് വാദി ഖാനത്തിൽ നിന്ന് അല്പം മാറി ആദരവോടെ വീണ്ടും അടക്കം ചെയ്തു, ഇതാണ് ഇപ്പോൾ നമ്മൾ കാണുന്ന മഖാം ശുഹദയുടെ സ്ഥാനം.",
+            "ta": "உடல்கள் வாடி கனாத்திலிருந்து சற்று தொலைவில் மரியாதையுடன் மீண்டும் அடக்கம் செய்யப்பட்டன, இதுவே நாம் இப்போது பார்க்கும் மகாம் ஷுஹதாக்களின் நிலை."
+          }
+        }
+      ]
+    },
+    {
+      "card": 8,
+      "title": {
+        "en": "Part 8: Rest at Al-Mustarah",
+        "ms": "Bahagian 8: Berehat di Al-Mustarah",
+        "ml": "ഭാഗം 8: അൽ-മുസ്തറയിലെ വിശ്രമം",
+        "ta": "பகுதி 8: அல்-முஸ்தராவில் ஓய்வு"
+      },
+      "locationId": "l15",
+      "sentences": [
+        {
+          "text": {
+            "en": "On the painful journey back to Medina, the Prophet ﷺ and his companions stopped to recover their strength.",
+            "ms": "Dalam perjalanan pulang yang menyakitkan ke Madinah, Nabi ﷺ dan para sahabat berhenti untuk memulihkan tenaga.",
+            "ml": "മദീനയിലേക്കുള്ള വേദനാജനകമായ മടക്കയാത്രയിൽ, നബി (സ) യും അനുയായികളും കരുത്ത് വീണ്ടെടുക്കാൻ അവിടെ തങ്ങി.",
+            "ta": "மதீனாவிற்குத் திரும்பும் வலிமிகுந்த பயணத்தில், நபி (ஸல்) அவர்களும் அவர்களின் தோழர்களும் தங்கள் பலத்தை மீட்டெடுக்க அங்கு தங்கினர்."
+          }
+        },
+        {
+          "text": {
+            "en": "This site is known today as Masjid al-Mustarah, meaning 'the place to rest', where the Prophet ﷺ would later stop during visits.",
+            "ms": "Tapak ini dikenali sebagai Masjid al-Mustarah, bermaksud 'untuk berehat', di mana Baginda sering singgah ketika menziarahi Uhud.",
+            "ml": "ഈ സ്ഥലം ഇന്ന് മസ്ജിദുൽ മുസ്തറ എന്നറിയപ്പെടുന്നു, ഇതിനർത്ഥം 'വിശ്രമിക്കാനുള്ള സ്ഥലം' എന്നാണ്, പിന്നീട് സന്ദർശന വേളയിൽ നബി (സ) ഇവിടെ തങ്ങാറുണ്ടായിരുന്നു.",
+            "ta": "இந்த தளம் இன்று மஸ்ஜிதுல் முஸ்தரா என்று அழைக்கப்படுகிறது, இதன் பொருள் 'ஓய்வெடுக்கும் இடம்' என்பதாகும், அங்கு நபி (ஸல்) அவர்கள் பின்னர் விஜயங்களின் போது தங்குவார்கள்."
+          }
+        },
+        {
+          "text": {
+            "en": "This masjid would also mark the eastern end of the trench dug by the Muslims a year later to stop another attack by a much bigger Meccan army, known as the Battle of the Trench.",
+            "ms": "Masjid ini juga bakal menandakan hujung sebelah timur parit yang digali oleh umat Islam setahun kemudian untuk menghalang satu lagi serangan oleh tentera Makkah yang jauh lebih besar, yang dikenali sebagai Pertempuran Khandaq (Parit).",
+            "ml": "മക്കൻ സൈന്യത്തിന്റെ മറ്റൊരു ആക്രമണത്തെ തടയാൻ ഒരു വർഷത്തിന് ശേഷം മുസ്‌ലിംകൾ കുഴിച്ച കിടങ്ങിന്റെ കിഴക്കേ അറ്റവും ഈ മസ്ജിദ് അടയാളപ്പെടുത്തുന്നു, ഇത് കിടങ്ങ് യുദ്ധം (ഖൻദഖ്) എന്നറിയപ്പെടുന്നു.",
+            "ta": "இந்த மஸ்ஜித், ஒரு வருடம் கழித்து மிகப் பெரிய மக்காவியப் படையின் மற்றொரு தாக்குதலைத் தடுக்க முஸ்லிம்களால் தோண்டப்பட்ட அகழியின் கிழக்கு முனையையும் குறிக்கும், இது அகழிப் போர் (கந்தக்) என்று அழைக்கப்படுகிறது."
+          }
+        }
+      ]
+    },
+    {
+      "card": 9,
+      "title": {
+        "en": "Part 9: The Pursuit at Hamra al-Asad",
+        "ms": "Bahagian 9: Mengejar di Hamra al-Asad",
+        "ml": "ഭാഗം 9: ഹംറ അൽ-അസദിലെ പിന്തുടരൽ",
+        "ta": "பகுதி 9: ஹம்ரா அல்-அஸாத்தில் பின்தொடர்தல்"
+      },
+      "locationId": "l6",
+      "sentences": [
+        {
+          "text": {
+            "en": "After Masjid Mustarah, the Muslim army returned to Madinah and tended to their wounds, but they were wary about the possibility of a second round of attack by the Meccans.",
+            "ms": "Selepas Masjid Mustarah, tentera Islam kembali ke Madinah dan merawat luka mereka, namun mereka berwaspada tentang kemungkinan serangan pusingan kedua oleh tentera Makkah.",
+            "ml": "മസ്ജിദുൽ മുസ്തറയ്ക്ക് ശേഷം, മുസ്‌ലിം സൈന്യം മദീനയിലേക്ക് മടങ്ങുകയും അവരുടെ മുറിവുകൾ ചികിത്സിക്കുകയും ചെയ്തു, എന്നാൽ മക്കക്കാരുടെ രണ്ടാമത്തെ ആക്രമണത്തെക്കുറിച്ച് അവർ ജാഗരൂകരായിരുന്നു.",
+            "ta": "மஸ்ஜிதுல் முஸ்தராவுக்குப் பிறகு, முஸ்லிம் படை மதீனாவிற்குத் திரும்பித் தங்கள் காயங்களைக் கவனித்துக்கொண்டது, ஆனால் அவர்கள் மக்காவினரின் இரண்டாவது தாக்குதலின் சாத்தியத்தைப் பற்றி எச்சரிக்கையாக இருந்தனர்."
+          }
+        },
+        {
+          "text": {
+            "en": "The very next day, the participants of the battle, though wounded, marched out of Madinah after the Meccans to show strength and deter a second attack.",
+            "ms": "Pada keesokan harinya, para peserta pertempuran tersebut, walaupun tercedera, berarak keluar dari Madinah mengejar tentera Makkah untuk menunjukkan kekuatan dan menghalang serangan susulan.",
+            "ml": "തൊട്ടടുത്ത ദിവസം, യുദ്ധത്തിൽ പങ്കെടുത്തവർ പരിക്കേറ്റവരാണെങ്കിലും, കരുത്ത് തെളിയിക്കാനും രണ്ടാമത്തെ ആക്രമണത്തെ തടയാനും മദീനയിൽ നിന്ന് മക്കക്കാരെ പിന്തുടർന്നു.",
+            "ta": "மறுநாளே, போரில் பங்கேற்றவர்கள் காயமடைந்திருந்தாலும், பலத்தைக் காட்டவும், இரண்டாவது தாக்குதலைத் தடுக்கவும் மதீனாவிலிருந்து மக்காவினரைப் பின்தொடர்ந்து அணிவகுத்துச் சென்றனர்."
+          }
+        },
+        {
+          "text": {
+            "en": "By lighting over five hundred fires at Hamra al-Asad, they bluffed Abu Sufyan into a full retreat back to Mecca.",
+            "ms": "Dengan menyalakan lebih lima ratus unggun api di Hamra al-Asad, mereka memperdayakan Abu Sufyan untuk terus berundur ke Makkah.",
+            "ml": "ഹംറ അൽ-അസദിൽ അഞ്ഞൂറിലധികം തീ കൊളുത്തിക്കൊണ്ട് അവർ അബു സുഫിയാനെ ഭയപ്പെടുത്തി മക്കയിലേക്ക് തിരിച്ചയച്ചു.",
+            "ta": "ஹம்ரா அல்-அஸாத்தில் ஐந்நூறுக்கும் மேற்பட்ட நெருப்புகளை ஏற்றி, அபூ சுஃப்யானை மக்காவிற்கு முழுமையாக பின்வாங்கச் செய்தனர்."
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+[
+  {
+    "card": 1,
+    "title": "Trip 2",
+    "description": "Allahu Akbar, Allahu Akbar, Allahu Akbar wa lillahil-hamd. (Marwah → Safa, Trip 2)",
+    "lat": 21.4252,
+    "lng": 39.8272,
+    "mediaItems": [
+      {
+        "type": "map",
+        "caption": "Specific Location"
+      }
+    ]
+  }
+]
