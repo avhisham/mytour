@@ -1,4 +1,72 @@
 [
+
+   {
+  "id": "u00",
+  "title": "[en]Introduction to Umrah[/en]\n[ms]Pengenalan kepada Umrah[/ms]\n[ml]ഉംറയുടെ ആമുഖം[/ml]\n[ta]உம்ரா அறிமுகம்[/ta]",
+  "description": "[en]Understanding the definition, types, and the mandatory pillars (Rukun) and obligations (Wajib) of Umrah.[/en] \n[ms]Memahami definisi, jenis, rukun, dan wajib bagi ibadah Umrah.[/ms] \n[ml]ഉംറയുടെ നിർവ്വചനം, ഇനങ്ങൾ, പ്രധാന കർമ്മങ്ങൾ (റുക്ൻ), നിർബന്ധ ബാധ്യതകൾ (വാജിബ്) എന്നിവ മനസ്സിലാക്കുക.[/ml] \n[ta]உம்ராவின் விளக்கம், வகைகள், அடிப்படை கடமைகள் (ருக்ன்) மற்றும் கட்டாயக் கடமைகள் (வாஜிப்) ஆகியவற்றைப் புரிந்துகொள்வது.[/ta]",
+  "type": "generalInfo",
+  "status": "General",
+  "lat": 21.4225,
+  "lng": 39.8262,
+  "details": [
+    {
+      "card": 1,
+      "title": "[en]1. Definition of Umrah[/en]\n[ms]1. Pengertian Umrah[/ms]\n[ml]1. എന്താണ് ഉംറ?[/ml]\n[ta]1. உம்ரா என்றால் என்ன?[/ta]",
+      "description": "[en]Umrah means to visit the Holy Kaaba to perform specific rituals in the state of Ihram: performing Tawaf, Sa'ie, and Tahallul (shaving or trimming the hair).[/en] \n[ms]Umrah bermaksud menziarahi Baitullah (Kaabah) untuk melaksanakan ibadat tertentu mengikut syaratnya: berniat Ihram, Tawaf, Sa'ie, dan Tahallul (bercukur/bergunting rambut).[/ms] \n[ml]പ്രത്യേക കർമ്മങ്ങൾ നിർവ്വഹിക്കുന്നതിനായി വിശുദ്ധ കഅബ സന്ദർശിക്കുന്നതിനാണ് ഉംറ എന്ന് പറയുന്നത്: ഇഹ്‌റാമിൽ പ്രവേശിക്കുക, ത്വവാഫ്, സഅയ്, തഹല്ലുൽ (മുടി മുണ്ഡനം ചെയ്യുകയോ വെട്ടുകയോ ചെയ്യുക) എന്നിവയാണവ.[/ml] \n[ta]உம்ரா என்பது குறிப்பிட்ட வழிபாடுகளைச் செய்வதற்காக புனித கஃபாவைச் சந்திப்பதைக் குறிக்கும்: இஹ்ராமில் நுழைதல், தவாஃப், ஸயீ மற்றும் தஹல்லுல் (முடி மழித்தல் அல்லது கத்தரித்தல்).[/ta]",
+      "mediaItems": [
+        {
+          "type": "image",
+          "url": "assets/image/umrah_definition.png"
+        }
+      ],
+      "audio": {
+        "url": "assets/audio/umrah_definition.mp3",
+        "subtitles": null
+      },
+      "autoPlay": true
+    },
+    {
+      "card": 2,
+      "title": "[en]2. Types of Umrah (Standard & Badal)[/en]\n[ms]2. Jenis Umrah (Umrah & Badal Umrah)[/ms]\n[ml]2. ഉംറയുടെ ഇനങ്ങൾ (സാധാരണ & ബദൽ)[/ml]\n[ta]2. உம்ராவின் வகைகள் (வழக்கமான & பதல்)[/ta]",
+      "description": "[en]Standard Umrah is performed for oneself. Badal Umrah is performed on behalf of someone else (such as a deceased person or someone physically incapable of traveling).[/en] \n[ms]Umrah biasa dilaksanakan untuk diri sendiri. Badal Umrah pula dilaksanakan bagi pihak orang lain (seperti orang yang telah meninggal dunia atau yang uzur fizikal).[/ms] \n[ml]സാധാരണ ഉംറ സ്വന്തത്തിന് വേണ്ടി നിർവ്വഹിക്കുന്നതാണ്. മറ്റൊരാൾക്ക് വേണ്ടി (മരണപ്പെട്ട വ്യക്തിയോ അല്ലെങ്കിൽ ശാരീരികമായി കഴിവില്ലാത്തവരോ) നിർവ്വഹിക്കുന്നതാണ് ബദൽ ഉംറ.[/ml] \n[ta]வழக்கமான உம்ரா தனக்காக செய்யப்படுகிறது. பதல் உம்ரா என்பது வேறொருவருக்காக (இறந்தவர் அல்லது உடல் ரீதியாக முடியாதவர்) செய்யப்படுகிறது.[/ta]",
+      "mediaItems": [
+        {
+          "type": "image",
+          "url": "assets/image/umrah_types.png"
+        }
+      ],
+      "audio": {
+        "url": "assets/audio/umrah_types.mp3",
+        "subtitles": null
+      },
+      "autoPlay": false
+    },
+    {
+      "card": 3,
+      "title": "[en]3. Rukun & Wajib Umrah[/en]\n[ms]3. Rukun & Wajib Umrah[/ms]\n[ml]3. ഉംറയിലെ റുക്നുകളും വാജിബുകളും[/ml]\n[ta]3. உம்ராவின் ருக்ன் & வாஜிப்[/ta]",
+      "description": "[en]Rukun (Pillars): 1. Niyyah for Ihram, 2. Tawaf, 3. Sa'ie, 4. Tahallul, 5. Tertib (Sequence). \nWajib (Obligations): 1. Niyyah at the Miqat, 2. Leaving Ihram prohibitions. Missing a Rukun invalidates Umrah, while missing a Wajib requires a penalty (Dam).[/en] \n[ms]Rukun Umrah: 1. Niat Ihram, 2. Tawaf Umrah, 3. Sa'ie, 4. Bercukur/Bergunting, 5. Tertib. \nWajib Umrah: 1. Berniat di Miqat, 2. Meninggalkan larangan Ihram. Meninggalkan Rukun membatalkan Umrah, manakala meninggalkan Wajib dikenakan Dam.[/ms] \n[ml]റുക്നുകൾ: 1. ഇഹ്റാമിനുള്ള നിയ്യത്ത്, 2. ത്വവാഫ്, 3. സഅയ്, 4. തഹല്ലുൽ, 5. ക്രമം (തർത്തീബ്). \nവാജിബുകൾ: 1. മീഖാത്തിൽ നിന്നുള്ള നിയ്യത്ത്, 2. ഇഹ്റാമിലെ വിലക്കുകൾ ഒഴിവാക്കൽ. റുക്ൻ ഒഴിവാക്കിയാൽ ഉംറ അസാധുവാകും, വാജിബ് ഒഴിവാക്കിയാൽ പിഴ (ദം) നൽകണം.[/ml] \n[ta]ருக்ன்கள் (அடிப்படை கடமைகள்): 1. இஹ்ராம் நிய்யத், 2. தவாஃப், 3. ஸயீ, 4. தஹல்லுல், 5. வரிசை. \nவாஜிபுகள் (கட்டாயக் கடமைகள்): 1. மீகாத்தில் நிய்யத் செய்தல், 2. இஹ்ராம் தடைகளைத் தவிர்த்தல். ருக்னை விட்டால் உம்ரா செல்லாது, வாஜிபை விட்டால் பரிகாரம் (தம்) செலுத்த வேண்டும்.[/ta]",
+      "mediaItems": [
+        {
+          "type": "image",
+          "url": "assets/image/rukun_wajib.png"
+        }
+      ],
+      "audio": {
+        "url": "assets/audio/rukun_wajib.mp3",
+        "subtitles": null
+      },
+      "autoPlay": false
+    }
+  ],
+  "media": [
+    {
+      "type": "map",
+      "caption": "Umrah Overview"
+    }
+  ],
+  "timelineLabel": "Info",
+  "autoPlay": false
+},
   {
     "id": "u0a",
     "title": "[en]1. At Home (Departure Preparation)[/en]\n[ms]1. Di Rumah (Persediaan Keberangkatan)[/ms]\n[ml]1. വീട്ടിൽ വെച്ച് (പുറപ്പെടുന്നതിനായുള്ള തയ്യാറെടുപ്പ്)[/ml]\n[ta]1. வீட்டில் (புறப்படுவதற்கான தயாரிப்பு)[/ta]",
