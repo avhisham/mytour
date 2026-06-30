@@ -16,11 +16,11 @@
       "mediaItems": [
         {
           "type": "image",
-          "url": "assets/image/umrah_definition.png"
+          "url": "image/umrah_definition.png"
         }
       ],
       "audio": {
-        "url": "assets/audio/umrah_definition.mp3",
+        "url": "audio/umrah_definition.mp3",
         "subtitles": null
       },
       "autoPlay": true
@@ -32,11 +32,11 @@
       "mediaItems": [
         {
           "type": "image",
-          "url": "assets/image/umrah_types.png"
+          "url": "image/umrah_types.png"
         }
       ],
       "audio": {
-        "url": "assets/audio/umrah_types.mp3",
+        "url": "audio/umrah_types.mp3",
         "subtitles": null
       },
       "autoPlay": false
@@ -48,11 +48,11 @@
       "mediaItems": [
         {
           "type": "image",
-          "url": "assets/image/rukun_wajib.png"
+          "url": "image/rukun_wajib.png"
         }
       ],
       "audio": {
-        "url": "assets/audio/rukun_wajib.mp3",
+        "url": "audio/rukun_wajib.mp3",
         "subtitles": null
       },
       "autoPlay": false
