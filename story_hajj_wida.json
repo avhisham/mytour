@@ -1,0 +1,495 @@
+{
+  "id": "farewell_pilgrimage_complete_story",
+  "locationId": "madinah",
+  "autoPlay": false,
+  "title": {
+    "en": "The Farewell Pilgrimage: The Complete Story"
+  },
+  "description": "Tracing the detailed path of the Prophet ﷺ during his final Hajj, from his departure in Madinah to the final return, detailing every sacred rite.",
+  "languageCode": "en",
+  "pages": [
+    {
+      "card": 1,
+      "title": {
+        "en": "Madinah: The Departure"
+      },
+      "locationId": "madinah",
+      "sentences": [
+        {
+          "text": {
+            "en": "The year was the 10th of Hijrah. Rasulullah ﷺ announced his intention to lead the Hajj, drawing an unimaginable crowd of over 100,000 companions."
+          },
+          "animCommand": ""
+        },
+        {
+          "text": {
+            "en": "On Saturday, the 25th of Dhul Qadah, after appointing Abu Dujana al-Ansari as governor, the massive caravan set forth from Madinah after the Zuhr prayer."
+          },
+          "animCommand": ""
+        }
+      ]
+    },
+    {
+      "card": 2,
+      "title": {
+        "en": "Dulhulaifah: Donning the Ihram"
+      },
+      "locationId": "zul_hulaifa",
+      "sentences": [
+        {
+          "text": {
+            "en": "They made their first stop at Zul Hulaifa to spend the night. The following day, the Prophet ﷺ bathed and donned his ihram, which consisted of two simple pieces of unsewn, white Yemeni cotton."
+          },
+          "animCommand": ""
+        },
+        {
+          "text": {
+            "en": "Mounting his she-camel, Al Qaswa, he chanted the Talbiyah aloud, signaling the official commencement of the pilgrimage."
+          },
+          "animCommand": ""
+        }
+      ]
+    },
+    {
+      "card": 3,
+      "title": {
+        "en": "Rowha: A Valley of Prophets"
+      },
+      "locationId": "valley_of_rowha",
+      "sentences": [
+        {
+          "text": {
+            "en": "The long journey to Makkah was filled with profound teachings. At the valley of Rowhaa, the Prophet ﷺ revealed that seventy Prophets had performed their prayers in that very spot."
+          },
+          "animCommand": ""
+        },
+        {
+          "text": {
+            "en": "When Abu Bakr grew furious over a slave losing their luggage, the Prophet ﷺ gently smiled and reminded him of the peaceful and patient state required while in ihram."
+          },
+          "animCommand": ""
+        }
+      ]
+    },
+    {
+      "card": 4,
+      "title": {
+        "en": "Zi Tuwa: Nearing the Sacred City"
+      },
+      "locationId": "zi_tuwa",
+      "sentences": [
+        {
+          "text": {
+            "en": "Nearing the holy city, the caravan spent the night at Zi Tuwa."
+          },
+          "animCommand": ""
+        },
+        {
+          "text": {
+            "en": "On Sunday, the 4th of Dhul Hijjah, the Prophet ﷺ performed ghusl once more in the morning to prepare for his official entrance into Makkah."
+          },
+          "animCommand": ""
+        }
+      ]
+    },
+    {
+      "card": 5,
+      "title": {
+        "en": "Hajarul Aswad: The Black Stone"
+      },
+      "locationId": "masjid_al_haram",
+      "sentences": [
+        {
+          "text": {
+            "en": "The caravan entered Makkah and went straight to the Masjid al-Haram."
+          },
+          "animCommand": ""
+        },
+        {
+          "text": {
+            "en": "Approaching the Kaaba, the Prophet ﷺ commenced the sacred rites by touching and kissing the Hajarul Aswad."
+          },
+          "animCommand": ""
+        }
+      ]
+    },
+    {
+      "card": 6,
+      "title": {
+        "en": "Tawaf: Circumambulating the Kaaba"
+      },
+      "locationId": "kaaba",
+      "sentences": [
+        {
+          "text": {
+            "en": "He then proceeded to circumambulate the Kaaba seven times for his Tawaf."
+          },
+          "animCommand": ""
+        },
+        {
+          "text": {
+            "en": "Afterward, he performed a two-rak'ah prayer at Maqaam-e-Ibrahim, reciting Surah Al Kaafiroon and Surah Ikhlaas."
+          },
+          "animCommand": ""
+        }
+      ]
+    },
+    {
+      "card": 7,
+      "title": {
+        "en": "Zam Zam: Quenching the Thirst"
+      },
+      "locationId": "zam_zam",
+      "sentences": [
+        {
+          "text": {
+            "en": "Following his prayers at the Kaaba, the Prophet ﷺ went to the blessed Zamzam well."
+          },
+          "animCommand": ""
+        },
+        {
+          "text": {
+            "en": "He drank deeply from its water, quenching his thirst after the long desert journey from Madinah."
+          },
+          "animCommand": ""
+        }
+      ]
+    },
+    {
+      "card": 8,
+      "title": {
+        "en": "Saei: The Ritual Walk"
+      },
+      "locationId": "safa_marwah",
+      "sentences": [
+        {
+          "text": {
+            "en": "He then continued to the hills of Safa and Marwah to complete the Sa'ee, the ritual walking between the two mountains, seven times."
+          },
+          "animCommand": ""
+        },
+        {
+          "text": {
+            "en": "Because he was performing Hajj Qiran, he kept his ihram on after completing this initial Umrah rite."
+          },
+          "animCommand": ""
+        }
+      ]
+    },
+    {
+      "card": 9,
+      "title": {
+        "en": "Mina: The Day of Tarwiyah"
+      },
+      "locationId": "mina",
+      "sentences": [
+        {
+          "text": {
+            "en": "After resting in Makkah for four days, the immense sea of pilgrims relocated to Mina on the morning of the 8th of Dhul Hijjah."
+          },
+          "animCommand": ""
+        },
+        {
+          "text": {
+            "en": "They remained there and performed five daily prayers in total, from Zuhr until Fajr the following day."
+          },
+          "animCommand": ""
+        }
+      ]
+    },
+    {
+      "card": 10,
+      "title": {
+        "en": "Nameera: Resting Before the Sermon"
+      },
+      "locationId": "namirah",
+      "sentences": [
+        {
+          "text": {
+            "en": "On Friday morning, the 9th of Dhul Hijjah, the procession marched toward the majestic plain of Arafat."
+          },
+          "animCommand": ""
+        },
+        {
+          "text": {
+            "en": "The Prophet ﷺ rested in a tent erected specifically for him at Namirah on the east side of the mount until the sun passed its zenith."
+          },
+          "animCommand": ""
+        }
+      ]
+    },
+    {
+      "card": 11,
+      "title": {
+        "en": "Uranah: The Farewell Sermon"
+      },
+      "locationId": "wadi_uranah",
+      "sentences": [
+        {
+          "text": {
+            "en": "Riding his camel into the valley of Uranah, the Prophet ﷺ delivered his historic Farewell Sermon to the awe-struck assembly."
+          },
+          "animCommand": ""
+        },
+        {
+          "text": {
+            "en": "He spoke with immense urgency and love, heavily emphasizing the sanctity of a Muslim's blood, property, and honor, warning them that they might not see him again."
+          },
+          "animCommand": ""
+        }
+      ]
+    },
+    {
+      "card": 12,
+      "title": {
+        "en": "Arafah: Perfection of Religion"
+      },
+      "locationId": "arafat",
+      "sentences": [
+        {
+          "text": {
+            "en": "He then moved to the plain of Arafat, spending the afternoon until sunset in tearful, humble supplication for his Ummah."
+          },
+          "animCommand": ""
+        },
+        {
+          "text": {
+            "en": "Here, the heavy revelation descended: 'This day I have perfected your religion for you.' The weight of this divine message was so immense that his camel was forced to sit down."
+          },
+          "animCommand": ""
+        }
+      ]
+    },
+    {
+      "card": 13,
+      "title": {
+        "en": "Muzdalifa: The Night Journey"
+      },
+      "locationId": "muzdalifah",
+      "sentences": [
+        {
+          "text": {
+            "en": "After sunset, they traveled swiftly to Muzdalifah. The Prophet ﷺ combined his Maghrib and Isha prayers and rested for the night."
+          },
+          "animCommand": ""
+        },
+        {
+          "text": {
+            "en": "Recognizing the immense crowd, he compassionately sent the women, children, and elderly ahead to Mina to avoid the rush."
+          },
+          "animCommand": ""
+        }
+      ]
+    },
+    {
+      "card": 14,
+      "title": {
+        "en": "Wadi Muhassir: Gathering Stones"
+      },
+      "locationId": "wadi_muhassar",
+      "sentences": [
+        {
+          "text": {
+            "en": "At dawn, the caravan departed Muzdalifah. Along the way, his companion Fadhl picked up the small pebbles needed for the stoning ritual."
+          },
+          "animCommand": ""
+        },
+        {
+          "text": {
+            "en": "They drove through Wadi-e-Muhassar with haste, as it was a place where Allah's wrath had once descended upon Abraha's army of elephants."
+          },
+          "animCommand": ""
+        }
+      ]
+    },
+    {
+      "card": 15,
+      "title": {
+        "en": "Aqabah: Stoning the Jamrah"
+      },
+      "locationId": "jamaratul_aqaba",
+      "sentences": [
+        {
+          "text": {
+            "en": "Arriving at Mina on the morning of the 10th of Dhul Hijjah, they went straight to Jamaratul Aqaba."
+          },
+          "animCommand": ""
+        },
+        {
+          "text": {
+            "en": "The Prophet ﷺ threw stones at the pillar, reciting the takbir with each throw, which marked the end of the continuous recitation of the Talbiyah."
+          },
+          "animCommand": ""
+        }
+      ]
+    },
+    {
+      "card": 16,
+      "title": {
+        "en": "Mina: Sacrifice and Shaving"
+      },
+      "locationId": "mina_slaughter",
+      "sentences": [
+        {
+          "text": {
+            "en": "Still in Mina, the Prophet ﷺ sacrificed 63 camels with his own hands—one for every year of his blessed life—while Sayyidina Ali slaughtered the rest to total 100."
+          },
+          "animCommand": ""
+        },
+        {
+          "text": {
+            "en": "He then had his head shaved, his nails trimmed, applied scent, and finally changed out of his ihram clothing."
+          },
+          "animCommand": ""
+        }
+      ]
+    },
+    {
+      "card": 17,
+      "title": {
+        "en": "Makkah: Tawaf-uz-Ziyaarah"
+      },
+      "locationId": "makkah_ziyaarah",
+      "sentences": [
+        {
+          "text": {
+            "en": "At the time of Zuhr, the Prophet ﷺ traveled the short distance back to Makkah to perform the Tawaf-uz-Ziyaarah."
+          },
+          "animCommand": ""
+        },
+        {
+          "text": {
+            "en": "This completed an essential pillar of the Hajj, after which he returned to Mina."
+          },
+          "animCommand": ""
+        }
+      ]
+    },
+    {
+      "card": 18,
+      "title": {
+        "en": "Mina: The Days of Tashreeq"
+      },
+      "locationId": "mina_tashreeq",
+      "sentences": [
+        {
+          "text": {
+            "en": "For the next three days, the 11th, 12th, and 13th of Dhul Hijjah, known as the Days of Tashreeq, the Prophet ﷺ remained in Mina."
+          },
+          "animCommand": ""
+        },
+        {
+          "text": {
+            "en": "Each day, after the sun passed its zenith, he threw stones at the three Jamaraat, completing the stoning rituals."
+          },
+          "animCommand": ""
+        }
+      ]
+    },
+    {
+      "card": 19,
+      "title": {
+        "en": "Mahaab: A Victorious Camp"
+      },
+      "locationId": "mahaab",
+      "sentences": [
+        {
+          "text": {
+            "en": "On Tuesday, the 13th of Dhul Hijjah, the caravan finally left Mina and headed towards Makkah."
+          },
+          "animCommand": ""
+        },
+        {
+          "text": {
+            "en": "They stopped to spend the night outside Makkah at Mahaab, also called Bathaa or Khaif Bani Kinana—ironically, the very spot where the Quraysh had once signed a pact to boycott and kill him years ago."
+          },
+          "animCommand": ""
+        }
+      ]
+    },
+    {
+      "card": 20,
+      "title": {
+        "en": "Tanaim: Aisha's Umrah"
+      },
+      "locationId": "tanaim",
+      "sentences": [
+        {
+          "text": {
+            "en": "That evening at Mahaab, his wife Aisha was deeply saddened because she had been unable to perform her initial Umrah due to menstruation."
+          },
+          "animCommand": ""
+        },
+        {
+          "text": {
+            "en": "The Prophet ﷺ comforted her and sent her with her brother to Tanaim so she could initiate and complete her Umrah."
+          },
+          "animCommand": ""
+        }
+      ]
+    },
+    {
+      "card": 21,
+      "title": {
+        "en": "Mekah: The Farewell Tawaf"
+      },
+      "locationId": "makkah_farewell",
+      "sentences": [
+        {
+          "text": {
+            "en": "After resting, the Prophet ﷺ led his companions into Makkah for one final rite: the Farewell Tawaf."
+          },
+          "animCommand": ""
+        },
+        {
+          "text": {
+            "en": "With this circumambulation completed, the rites of Hajj were officially perfected, and the command was given to head home."
+          },
+          "animCommand": ""
+        }
+      ]
+    },
+    {
+      "card": 22,
+      "title": {
+        "en": "Ghadeer-Khum: The Final Sermons"
+      },
+      "locationId": "ghadeer_khum",
+      "sentences": [
+        {
+          "text": {
+            "en": "The long journey back to Madinah began, and on the 18th of Dhul Hijjah, the massive caravan stopped at Ghadeer-Khum."
+          },
+          "animCommand": ""
+        },
+        {
+          "text": {
+            "en": "The Prophet ﷺ ascended a lofty place to deliver another profound sermon, particularly praising the virtues of Sayyidina Ali."
+          },
+          "animCommand": ""
+        }
+      ]
+    },
+    {
+      "card": 23,
+      "title": {
+        "en": "Madinah: The Triumphant Return"
+      },
+      "locationId": "madinah_return",
+      "sentences": [
+        {
+          "text": {
+            "en": "After spending their final night on the road at Zul Hulaifa, the pilgrims performed their Fajr prayer."
+          },
+          "animCommand": ""
+        },
+        {
+          "text": {
+            "en": "They triumphantly re-entered Madinah, bringing the historic Farewell Pilgrimage to a close and leaving an eternal Sunnah for the Ummah."
+          },
+          "animCommand": ""
+        }
+      ]
+    }
+  ]
+}

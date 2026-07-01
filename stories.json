@@ -12,4 +12,19 @@
     "thumbnail": "",
     "dataFile": "story_uhud.json"
   }
+  
+  {   "id": "farewell_pilgrimage_complete_story",
+    "locationId": "arafah",
+	{
+	  "title": {
+		"en": "The Farewell Pilgrimage: The Complete Story",
+		"ms": "Haji Wida': Kisah Lengkap",
+		"ml": "വിടവാങ്ങൽ ഹജ്ജ്: പൂർണ്ണമായ ചരിത്രം",
+		"ta": "விடைபெறும் ஹஜ்: முழுமையான வரலாறு"
+	  }
+	},
+    "description": "Tracing the detailed path of the Prophet ﷺ during his final Hajj, from his departure in Madinah to the final return, detailing every sacred rite.",
+    "thumbnail": "",
+    "dataFile": "story_hajj_wida.json"
+  }
 ]
