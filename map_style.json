@@ -9,7 +9,12 @@
       "minzoom": 0,
       "maxzoom": 14
     },
-
+    "terrain": {
+      "type": "raster-dem",
+      "tiles": ["{{TERRAIN_URL}}"],
+      "tileSize": 256,
+      "maxzoom": 14
+    },
     "landmarks": {
       "type": "geojson",
       "data": {
@@ -24,6 +29,10 @@
         "features": []
       }
     }
+  },
+  "terrain": {
+    "source": "terrain",
+    "exaggeration": 1.5
   },
   "layers": [
     {
