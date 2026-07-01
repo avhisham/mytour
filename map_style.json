@@ -44,7 +44,16 @@
         "fill-opacity": 0.3
       }
     },
-
+    {
+      "id": "hills",
+      "type": "hillshade",
+      "source": "terrain",
+      "paint": {
+        "hillshade-shadow-color": "#473b2a",
+        "hillshade-highlight-color": "#ffffff",
+        "hillshade-accent-color": "#8c7e6c"
+      }
+    },
     {
       "id": "landuse_park",
       "type": "fill",
