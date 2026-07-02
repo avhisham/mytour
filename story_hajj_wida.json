@@ -3,7 +3,10 @@
   "locationId": "masjid_al_nabawi",
   "autoPlay": false,
   "title": {
-    "en": "The Farewell Pilgrimage: The Complete Story"
+    "en": "The Farewell Pilgrimage: The Complete Story",
+    "ms": "Haji Wada': Kisah Lengkap",
+    "ml": "വിടവാങ്ങൽ ഹജ്ജ്: പൂർണ്ണമായ ചരിത്രം",
+    "ta": "விடைபெறும் ஹஜ்: முழுமையான வரலாறு"
   },
   "description": "Tracing the detailed path of the Prophet ﷺ during his final Hajj, from his departure in Madinah to the final return, detailing every sacred rite.",
   "languageCode": "en",
@@ -11,19 +14,28 @@
     {
       "card": 1,
       "title": {
-        "en": "Madinah: The Departure"
+        "en": "Madinah: The Departure",
+        "ms": "Madinah: Keberangkatan",
+        "ml": "മദീന: പുറപ്പാട്",
+        "ta": "மதீனா: புறப்பாடு"
       },
       "locationId": "masjid_al_nabawi",
       "sentences": [
         {
           "text": {
-            "en": "The year was the 10th of Hijrah. Rasulullah ﷺ announced his intention to lead the Hajj, drawing an unimaginable crowd of over 100,000 companions."
+            "en": "The year was the 10th of Hijrah. Rasulullah ﷺ announced his intention to lead the Hajj, drawing an unimaginable crowd of over 100,000 companions.",
+            "ms": "Tahun tersebut ialah tahun ke-10 Hijrah. Rasulullah ﷺ mengumumkan hasrat baginda untuk memimpin ibadah Haji, menarik kehadiran luar biasa lebih daripada 100,000 sahabat.",
+            "ml": "വർഷം ഹിജ്റ 10 ആയിരുന്നു. റസൂലുല്ലാഹ് ﷺ താൻ ഹജ്ജിന് നേതൃത്വം നൽകാൻ ഉദ്ദേശിക്കുന്നതായി പ്രഖ്യാപിച്ചു, ലക്ഷത്തിലധികം സ്വഹാബികളുടെ അഭൂതപൂർവ്വമായ ജനക്കൂട്ടം അവിടെ ഒത്തുകൂടി.",
+            "ta": "ஆண்டு ஹிஜ்ரி 10 ஆகும். ரசூலுல்லாஹ் ﷺ அவர்கள் ஹஜ்ஜிற்குத் தலைமை தாங்கும் தன் விருப்பத்தை அறிவித்தார்கள், இதனால் 1,00,000-க்கும் மேற்பட்ட தோழர்கள் அங்கே திரண்டனர்."
           },
           "animCommand": ""
         },
         {
           "text": {
-            "en": "On Saturday, the 25th of Dhul Qadah, after appointing Abu Dujana al-Ansari as governor, the massive caravan set forth from Madinah after the Zuhr prayer."
+            "en": "On Saturday, the 25th of Dhul Qadah, after appointing Abu Dujana al-Ansari as governor, the massive caravan set forth from Madinah after the Zuhr prayer.",
+            "ms": "Pada hari Sabtu, 25 Zulkaedah, selepas melantik Abu Dujana al-Ansari sebagai gabenor, kafilah yang besar itu bertolak dari Madinah selepas solat Zohor.",
+            "ml": "ദുൽഖഅദ് 25 ശനിയാഴ്ച, അബൂ ദുജാന അൽ-അൻസാരിയെ ഗവർണറായി നിയമിച്ച ശേഷം, വൻ സംഘം ദുഹ്ർ നമസ്കാരത്തിന് ശേഷം മദീനയിൽ നിന്ന് പുറപ്പെട്ടു.",
+            "ta": "துல் கஃதா 25 சனிக்கிழமையன்று, அபூ துஜானா அல்-அன்சாரியை ஆளுநராக நியமித்த பிறகு, பெரும் काफिला ளுஹர் தொழுகைக்குப் பிறகு மதீனாவிலிருந்து புறப்பட்டது."
           },
           "animCommand": ""
         }
@@ -32,19 +44,28 @@
     {
       "card": 2,
       "title": {
-        "en": "Dulhulaifah: Donning the Ihram"
+        "en": "Dulhulaifah: Donning the Ihram",
+        "ms": "Zulhulaifah: Memakai Ihram",
+        "ml": "ദുൽഹുലൈഫ: ഇഹ്റാം ധരിക്കൽ",
+        "ta": "துல்ஹுலைஃபா: இஹ்ராம் அணிதல்"
       },
       "locationId": "dhul_hulaifah",
       "sentences": [
         {
           "text": {
-            "en": "They made their first stop at Zul Hulaifa to spend the night. The following day, the Prophet ﷺ bathed and donned his ihram, which consisted of two simple pieces of unsewn, white Yemeni cotton."
+            "en": "They made their first stop at Zul Hulaifa to spend the night. The following day, the Prophet ﷺ bathed and donned his ihram, which consisted of two simple pieces of unsewn, white Yemeni cotton.",
+            "ms": "Mereka berhenti pertama kali di Zulhulaifah untuk bermalam. Keesokan harinya, Nabi ﷺ mandi dan memakai ihramnya, yang terdiri daripada dua helai kain kapas Yaman berwarna putih yang tidak berjahit.",
+            "ml": "അവർ തങ്ങളുടെ ആദ്യ താവളമായ ദുൽഹുലൈഫയിൽ രാത്രി ചെലവഴിക്കാൻ നിന്നു. പിറ്റേന്ന് പ്രവാചകൻ ﷺ കുളിക്കുകയും തുന്നാത്ത രണ്ട് കഷ്ണം വെള്ള യമനി പരുത്തി വസ്ത്രങ്ങൾ കൊണ്ടുള്ള ഇഹ്റാം ധരിക്കുകയും ചെയ്തു.",
+            "ta": "அவர்கள் இரவைக் கழிக்க துல்ஹுலைஃபாவில் தங்கள் முதல் நிறுத்தத்தை மேற்கொண்டனர். அடுத்த நாள், நபியவர்கள் ﷺ குளித்துவிட்டு, தைக்கப்படாத இரண்டு வெள்ளை ஏமனி பருத்தி துணிகளாலான இஹ்ராமை அணிந்தார்கள்."
           },
           "animCommand": ""
         },
         {
           "text": {
-            "en": "Mounting his she-camel, Al Qaswa, he chanted the Talbiyah aloud, signaling the official commencement of the pilgrimage."
+            "en": "Mounting his she-camel, Al Qaswa, he chanted the Talbiyah aloud, signaling the official commencement of the pilgrimage.",
+            "ms": "Sambil menunggang unta betinanya, Al-Qaswa, baginda melaungkan Talbiyah dengan lantang, menandakan bermulanya ibadah haji secara rasmi.",
+            "ml": "തന്റെ അൽ-ഖസ്‌വ എന്ന ഒട്ടകപ്പുറത്ത് കയറി അദ്ദേഹം തൽബിയത്ത് ഉറക്കെ ചൊല്ലി, ഇത് ഹജ്ജ് കർമ്മങ്ങളുടെ ഔദ്യോഗിക തുടക്കം കുറിച്ചു.",
+            "ta": "தமது பெண் ஒட்டகமான அல்-கஸ்வாவின் மீது ஏறி, தல்பியாவை உரக்கக் கூறினார்கள், இது ஹஜ்ஜின் அதிகாரப்பூர்வ தொடக்கத்தைக் குறித்தது."
           },
           "animCommand": ""
         }
@@ -53,19 +74,28 @@
     {
       "card": 3,
       "title": {
-        "en": "Rowha: A Valley of Prophets"
+        "en": "Rowha: A Valley of Prophets",
+        "ms": "Rowha: Lembah Para Nabi",
+        "ml": "റൗഹാ: പ്രവാചകന്മാരുടെ താഴ്‌വര",
+        "ta": "ரவ்ஹா: தீர்க்கதரிசிகளின் பள்ளத்தாக்கு"
       },
       "locationId": "valley_of_rowha",
       "sentences": [
         {
           "text": {
-            "en": "The long journey to Makkah was filled with profound teachings. At the valley of Rowhaa, the Prophet ﷺ revealed that seventy Prophets had performed their prayers in that very spot."
+            "en": "The long journey to Makkah was filled with profound teachings. At the valley of Rowhaa, the Prophet ﷺ revealed that seventy Prophets had performed their prayers in that very spot.",
+            "ms": "Perjalanan panjang ke Makkah dipenuhi dengan pengajaran yang mendalam. Di lembah Rowha, Nabi ﷺ mendedahkan bahawa tujuh puluh orang Nabi telah mendirikan solat di tempat tersebut.",
+            "ml": "മക്കയിലേക്കുള്ള നീണ്ട യാത്ര അഗാധമായ അധ്യാപനങ്ങളാൽ നിറഞ്ഞതായിരുന്നു. റൗഹാ താഴ്‌വരയിൽ വെച്ച് പ്രവാചകൻ ﷺ എഴുപത് പ്രവാചകന്മാർ ഈ സ്ഥലത്ത് നമസ്കരിച്ചിട്ടുണ്ടെന്ന് വെളിപ്പെടുത്തി.",
+            "ta": "மக்காவிற்கான நீண்ட பயணம் ஆழமான போதனைகளால் நிறைந்திருந்தது. ரவ்ஹா பள்ளத்தாக்கில், நபியவர்கள் ﷺ எழுபது தீர்க்கதரிசிகள் இதே இடத்தில் தொழுகை நடத்தியதாக வெளிப்படுத்தினார்கள்."
           },
           "animCommand": ""
         },
         {
           "text": {
-            "en": "When Abu Bakr grew furious over a slave losing their luggage, the Prophet ﷺ gently smiled and reminded him of the peaceful and patient state required while in ihram."
+            "en": "When Abu Bakr grew furious over a slave losing their luggage, the Prophet ﷺ gently smiled and reminded him of the peaceful and patient state required while in ihram.",
+            "ms": "Apabila Abu Bakr berasa sangat marah terhadap seorang hamba yang menghilangkan barang bawaan mereka, Nabi ﷺ tersenyum lembut dan mengingatkannya tentang keadaan tenang dan sabar yang dituntut semasa dalam ihram.",
+            "ml": "സാധനങ്ങൾ നഷ്ടപ്പെടുത്തിയ ഒരു അടിമയോട് അബൂബക്കർ കോപിച്ചപ്പോൾ, പ്രവാചകൻ ﷺ പതുക്കെ പുഞ്ചിരിക്കുകയും ഇഹ്റാമിൽ ആയിരിക്കുമ്പോൾ പാലിക്കേണ്ട സമാധാനപരവും ക്ഷമയോടെയുമുള്ള അവസ്ഥയെക്കുറിച്ച് അദ്ദേഹത്തെ ഓർമ്മിപ്പിക്കുകയും ചെയ്തു.",
+            "ta": "ஒரு அடிமை சாமான்களை தொலைத்ததற்காக அபூபக்கர் கோபமடைந்தபோது, நபியவர்கள் ﷺ மென்மையாக புன்னகைத்து, இஹ்ராமில் இருக்கும்போது தேவையான அமைதியான மற்றும் பொறுமையான நிலையை அவருக்கு நினைவூட்டினார்கள்."
           },
           "animCommand": ""
         }
@@ -74,19 +104,28 @@
     {
       "card": 4,
       "title": {
-        "en": "Zi Tuwa: Nearing the Sacred City"
+        "en": "Zi Tuwa: Nearing the Sacred City",
+        "ms": "Zi Tuwa: Menghampiri Kota Suci",
+        "ml": "ദി ത്വുവ: വിശുദ്ധ നഗരത്തിലേക്ക് അടുക്കുന്നു",
+        "ta": "தீ துவா: புனித நகரத்தை நெருங்குதல்"
       },
       "locationId": "zi_tuwa",
       "sentences": [
         {
           "text": {
-            "en": "Nearing the holy city, the caravan spent the night at Zi Tuwa."
+            "en": "Nearing the holy city, the caravan spent the night at Zi Tuwa.",
+            "ms": "Apabila menghampiri kota suci, kafilah tersebut bermalam di Zi Tuwa.",
+            "ml": "വിശുദ്ധ നഗരത്തോടടുത്തപ്പോൾ, സംഘം ദി ത്വുവയിൽ രാത്രി ചെലവഴിച്ചു.",
+            "ta": "புனித நகரத்தை நெருங்கியதும், அந்த काफிலா தீ துவாவில் இரவைக் கழித்தது."
           },
           "animCommand": ""
         },
         {
           "text": {
-            "en": "On Sunday, the 4th of Dhul Hijjah, the Prophet ﷺ performed ghusl once more in the morning to prepare for his official entrance into Makkah."
+            "en": "On Sunday, the 4th of Dhul Hijjah, the Prophet ﷺ performed ghusl once more in the morning to prepare for his official entrance into Makkah.",
+            "ms": "Pada hari Ahad, 4 Zulhijjah, Nabi ﷺ mandi hadas (ghusl) sekali lagi pada waktu pagi sebagai persediaan untuk memasuki kota Makkah secara rasmi.",
+            "ml": "ദുൽഹിജ്ജ 4 ഞായറാഴ്ച രാവിലെ, മക്കയിലേക്കുള്ള ഔദ്യോഗിക പ്രവേശനത്തിന് മുന്നോടിയായി പ്രവാചകൻ ﷺ വീണ്ടും കുളിച്ചു (ഗുസ്ൽ ചെയ്തു).",
+            "ta": "துல் ஹிஜ்ஜா 4 ஞாயிற்றுக்கிழமை காலையில், மக்காவிற்குள் அதிகாரப்பூர்வமாக நுழைவதற்குத் தயாராக நபியவர்கள் ﷺ மீண்டும் ஒருமுறை குளித்தார்கள் (குஸ்ல் செய்தார்கள்)."
           },
           "animCommand": ""
         }
@@ -95,19 +134,28 @@
     {
       "card": 5,
       "title": {
-        "en": "Hajarul Aswad: The Black Stone"
+        "en": "Hajarul Aswad: The Black Stone",
+        "ms": "Hajarul Aswad: Batu Hitam",
+        "ml": "ഹജറുൽ അസ്‌വദ്: കറുത്ത ശില",
+        "ta": "ஹஜருல் அஸ்வத்: கருப்பு கல்"
       },
       "locationId": "masjid_al_haram",
       "sentences": [
         {
           "text": {
-            "en": "The caravan entered Makkah and went straight to the Masjid al-Haram."
+            "en": "The caravan entered Makkah and went straight to the Masjid al-Haram.",
+            "ms": "Kafilah tersebut memasuki Makkah dan terus menuju ke Masjidil Haram.",
+            "ml": "സംഘം മക്കയിൽ പ്രവേശിച്ച് നേരെ മസ്ജിദുൽ ഹറാമിലേക്ക് പോയി.",
+            "ta": "அந்த काफிலா மக்காவிற்குள் நுழைந்து நேராக மஸ்ஜிதுல் ஹராமுக்குச் சென்றது."
           },
           "animCommand": ""
         },
         {
           "text": {
-            "en": "Approaching the Kaaba, the Prophet ﷺ commenced the sacred rites by touching and kissing the Hajarul Aswad."
+            "en": "Approaching the Kaaba, the Prophet ﷺ commenced the sacred rites by touching and kissing the Hajarul Aswad.",
+            "ms": "Apabila menghampiri Kaabah, Nabi ﷺ memulakan rukun suci dengan menyentuh dan mengucup Hajarul Aswad.",
+            "ml": "കഅബയെ സമീപിച്ച പ്രവാചകൻ ﷺ ഹജറുൽ അസ്‌വദ് തൊടുകയും ചുംബിക്കുകയും ചെയ്തുകൊണ്ട് വിശുദ്ധ കർമ്മങ്ങൾക്ക് തുടക്കം കുറിച്ചു.",
+            "ta": "கஃபாவை நெருங்கிய நபியவர்கள் ﷺ ஹஜருல் அஸ்வத்தை தொட்டு முத்தமிட்டு புனித சடங்குகளைத் தொடங்கினார்கள்."
           },
           "animCommand": ""
         }
@@ -116,19 +164,28 @@
     {
       "card": 6,
       "title": {
-        "en": "Tawaf: Circumambulating the Kaaba"
+        "en": "Tawaf: Circumambulating the Kaaba",
+        "ms": "Tawaf: Mengelilingi Kaabah",
+        "ml": "ത്വവാഫ്: കഅബയെ വലംവെക്കൽ",
+        "ta": "தவாஃப்: கஃபாவை வலம் வருதல்"
       },
       "locationId": "kaabah",
       "sentences": [
         {
           "text": {
-            "en": "He then proceeded to circumambulate the Kaaba seven times for his Tawaf."
+            "en": "He then proceeded to circumambulate the Kaaba seven times for his Tawaf.",
+            "ms": "Baginda kemudian meneruskan ibadah dengan mengelilingi Kaabah sebanyak tujuh kali untuk Tawafnya.",
+            "ml": "തുടർന്ന് അദ്ദേഹം കഅബയ്ക്ക് ചുറ്റും ഏഴ് തവണ വലംവെച്ച് ത്വവാഫ് നിർവ്വഹിച്ചു.",
+            "ta": "அவர்கள் தவாஃபிற்காக கஃபாவை ஏழு முறை வலம் வந்தார்கள்."
           },
           "animCommand": ""
         },
         {
           "text": {
-            "en": "Afterward, he performed a two-rak'ah prayer at Maqaam-e-Ibrahim, reciting Surah Al Kaafiroon and Surah Ikhlaas."
+            "en": "Afterward, he performed a two-rak'ah prayer at Maqaam-e-Ibrahim, reciting Surah Al Kaafiroon and Surah Ikhlaas.",
+            "ms": "Selepas itu, baginda mendirikan solat dua rakaat di Makam Ibrahim, dengan membaca Surah Al-Kafirun dan Surah Al-Ikhlas.",
+            "ml": "അതിനുശേഷം അദ്ദേഹം മഖാമു ഇബ്രാഹീമിൽ വെച്ച് സൂറത്തുൽ കാഫിറൂനും സൂറത്തുൽ ഇഖ്ലാസും ഓതിക്കൊണ്ട് രണ്ട് റക്അത്ത് നമസ്കാരം നിർവ്വഹിച്ചു.",
+            "ta": "அதன் பிறகு, அவர்கள் மகாமே இப்ராஹிமில் சூரத்துல் காஃபிரூன் மற்றும் சூரத்துல் இக்லாஸ் ஓதி இரண்டு ரக்அத் தொழுதார்கள்."
           },
           "animCommand": ""
         }
@@ -137,19 +194,28 @@
     {
       "card": 7,
       "title": {
-        "en": "Zam Zam: Quenching the Thirst"
+        "en": "Zam Zam: Quenching the Thirst",
+        "ms": "Zamzam: Menghilangkan Dahaga",
+        "ml": "സംസം: ദാഹം ശമിപ്പിക്കൽ",
+        "ta": "ஜம் ஜம்: தாகம் தணித்தல்"
       },
       "locationId": "zam_zam",
       "sentences": [
         {
           "text": {
-            "en": "Following his prayers at the Kaaba, the Prophet ﷺ went to the blessed Zamzam well."
+            "en": "Following his prayers at the Kaaba, the Prophet ﷺ went to the blessed Zamzam well.",
+            "ms": "Selepas selesai solat di Kaabah, Nabi ﷺ pergi ke telaga Zamzam yang diberkati.",
+            "ml": "കഅബയിലെ നമസ്കാരത്തിന് ശേഷം പ്രവാചകൻ ﷺ അനുഗൃഹീത സുലൈഖാ (സംസം) കിണറ്റിനടുത്തേക്ക് പോയി.",
+            "ta": "கஃபாவில் தொழுத பிறகு, நபியவர்கள் ﷺ ஆசீர்வதிக்கப்பட்ட ஜம்ஜம் கிணற்றுக்குச் சென்றார்கள்."
           },
           "animCommand": ""
         },
         {
           "text": {
-            "en": "He drank deeply from its water, quenching his thirst after the long desert journey from Madinah."
+            "en": "He drank deeply from its water, quenching his thirst after the long desert journey from Madinah.",
+            "ms": "Baginda meminum airnya dengan banyak, menghilangkan dahaga selepas perjalanan padang pasir yang panjang dari Madinah.",
+            "ml": "മദീനയിൽ നിന്നുള്ള നീണ്ട മരുഭൂമി യാത്രയ്ക്ക് ശേഷമുള്ള തന്റെ ദാഹം ശമിപ്പിച്ചുകൊണ്ട് അദ്ദേഹം ആ വെള്ളം നന്നായി കുടിച്ചു.",
+            "ta": "மதீனாவிலிருந்து நீண்ட பாலைவனப் பயணத்திற்குப் பிறகு அவர்கள் தாகத்தைத் தணிக்க அந்தத் தண்ணீரை ஆழமாகப் பருகினார்கள்."
           },
           "animCommand": ""
         }
@@ -158,19 +224,28 @@
     {
       "card": 8,
       "title": {
-        "en": "Saei: The Ritual Walk"
+        "en": "Saei: The Ritual Walk",
+        "ms": "Saie: Berjalan Ulang-Alik",
+        "ml": "സഅ്‌യ്: മലകൾക്കിടയിലെ നടത്തം",
+        "ta": "ஸயீ: சடங்கு நடை"
       },
       "locationId": "safa_marwah",
       "sentences": [
         {
           "text": {
-            "en": "He then continued to the hills of Safa and Marwah to complete the Sa'ee, the ritual walking between the two mountains, seven times."
+            "en": "He then continued to the hills of Safa and Marwah to complete the Sa'ee, the ritual walking between the two mountains, seven times.",
+            "ms": "Baginda kemudian meneruskan perjalanan ke bukit Safa dan Marwah untuk menyempurnakan Saie, iaitu berjalan ulang-alik antara kedua-dua bukit sebanyak tujuh kali.",
+            "ml": "തുടർന്ന് അദ്ദേഹം സഫാ, മർവ മലകൾക്കിടയിൽ ഏഴ് തവണ നടന്ന് സഅ്‌യ് പൂർത്തിയാക്കി.",
+            "ta": "பின்னர் அவர்கள் சஃபா மற்றும் மர்வா குன்றுகளுக்குச் சென்று, இரு மலைகளுக்கும் இடையே ஏழு முறை சடங்கு நடையான ஸயீயை முடித்தார்கள்."
           },
           "animCommand": ""
         },
         {
           "text": {
-            "en": "Because he was performing Hajj Qiran, he kept his ihram on after completing this initial Umrah rite."
+            "en": "Because he was performing Hajj Qiran, he kept his ihram on after completing this initial Umrah rite.",
+            "ms": "Oleh kerana baginda mengerjakan Haji Qiran, baginda mengekalkan ihramnya selepas menyempurnakan rukun Umrah yang pertama ini.",
+            "ml": "ഹജ്ജ് ഖിറാൻ ആണ് നിർവ്വഹിച്ചിരുന്നത് എന്നതിനാൽ, ഈ ആദ്യ ഉംറ കർമ്മം പൂർത്തിയാക്കിയ ശേഷവും അദ്ദേഹം ഇഹ്റാം ഒഴിവാക്കിയില്ല.",
+            "ta": "அவர்கள் ஹஜ் கிரான் செய்ததால், இந்த ஆரம்ப உம்ரா சடங்கை முடித்த பிறகும் இஹ்ராமைக் கழற்றாமல் இருந்தார்கள்."
           },
           "animCommand": ""
         }
@@ -179,19 +254,28 @@
     {
       "card": 9,
       "title": {
-        "en": "Mina: The Day of Tarwiyah"
+        "en": "Mina: The Day of Tarwiyah",
+        "ms": "Mina: Hari Tarwiyah",
+        "ml": "മിന: തർവിയത്ത് ദിനം",
+        "ta": "மினா: தர்வியா நாள்"
       },
       "locationId": "mina",
       "sentences": [
         {
           "text": {
-            "en": "After resting in Makkah for four days, the immense sea of pilgrims relocated to Mina on the morning of the 8th of Dhul Hijjah."
+            "en": "After resting in Makkah for four days, the immense sea of pilgrims relocated to Mina on the morning of the 8th of Dhul Hijjah.",
+            "ms": "Selepas berehat di Makkah selama empat hari, lautan jemaah haji yang amat besar berpindah ke Mina pada pagi hari ke-8 Zulhijjah.",
+            "ml": "നാല് ദിവസം മക്കയിൽ വിശ്രമിച്ച ശേഷം, വിപുലമായ തീർത്ഥാടക ജനക്കൂട്ടം ദുൽഹിജ്ജ 8-ന് രാവിലെ മിനായിലേക്ക് നീങ്ങി.",
+            "ta": "மக்காவில் நான்கு நாட்கள் ஓய்வெடுத்த பிறகு, துல் ஹிஜ்ஜா 8 ஆம் தேதி காலையில் யாத்திரீகர்களின் பெருங்கூட்டம் மினாவிற்கு இடம்பெயர்ந்தது."
           },
           "animCommand": ""
         },
         {
           "text": {
-            "en": "They remained there and performed five daily prayers in total, from Zuhr until Fajr the following day."
+            "en": "They remained there and performed five daily prayers in total, from Zuhr until Fajr the following day.",
+            "ms": "Mereka tinggal di sana dan mendirikan lima solat fardhu keseluruhannya, bermula dari solat Zohor sehingga solat Subuh pada keesokan harinya.",
+            "ml": "അവർ അവിടെ തങ്ങുകയും ളുഹർ മുതൽ പിറ്റേന്ന് സുബഹ് വരെയുള്ള ആകെ അഞ്ച് നേരത്തെ നമസ്കാരങ്ങൾ നിർവ്വഹിക്കുകയും ചെയ്തു.",
+            "ta": "அவர்கள் அங்கேயே தங்கி, ளுஹர் முதல் அடுத்த நாள் ஃபஜ்ர் வரை மொத்தம் ஐந்து நேரத் தொழுகைகளை நிறைவேற்றினர்."
           },
           "animCommand": ""
         }
@@ -200,19 +284,28 @@
     {
       "card": 10,
       "title": {
-        "en": "Nameera: Resting Before the Sermon"
+        "en": "Nameera: Resting Before the Sermon",
+        "ms": "Namirah: Berehat Sebelum Khutbah",
+        "ml": "നമിറ: പ്രഭാഷണത്തിന് മുമ്പുള്ള വിശ്രമം",
+        "ta": "நமீரா: உரைக்கு முன் ஓய்வு"
       },
       "locationId": "namirah",
       "sentences": [
         {
           "text": {
-            "en": "On Friday morning, the 9th of Dhul Hijjah, the procession marched toward the majestic plain of Arafat."
+            "en": "On Friday morning, the 9th of Dhul Hijjah, the procession marched toward the majestic plain of Arafat.",
+            "ms": "Pada pagi hari Jumaat, 9 Zulhijjah, perarakan tersebut bergerak menuju ke padang Arafah yang luas.",
+            "ml": "ദുൽഹിജ്ജ 9 വെള്ളിയാഴ്ച രാവിലെ, തീർത്ഥാടക സംഘം മഹിമയുറ്റ അറഫാ മൈതാനത്തേക്ക് നീങ്ങി.",
+            "ta": "வெள்ளிக்கிழமை காலை, துல் ஹிஜ்ஜா 9 அன்று, ஊர்வலம் கம்பீரமான அரஃபா மைதானத்தை நோக்கி அணிவகுத்துச் சென்றது."
           },
           "animCommand": ""
         },
         {
           "text": {
-            "en": "The Prophet ﷺ rested in a tent erected specifically for him at Namirah on the east side of the mount until the sun passed its zenith."
+            "en": "The Prophet ﷺ rested in a tent erected specifically for him at Namirah on the east side of the mount until the sun passed its zenith.",
+            "ms": "Nabi ﷺ berehat di dalam sebuah khemah yang didirikan khas untuk baginda di Namirah di sebelah timur bukit tersebut sehingga matahari melewati rembang (gelincir matahari).",
+            "ml": "സൂര്യൻ ഉച്ചിയിൽ നിന്ന് തെറ്റുന്നത് വരെ പ്രവാചകൻ ﷺ കുന്നിന്റെ കിഴക്കുഭാഗത്തുള്ള നമിറയിൽ തനിക്കായി പ്രത്യേകം കെട്ടിയ خീമയിൽ വിശ്രമിച്ചു.",
+            "ta": "சூரியன் உச்சியைத் தாண்டும் வரை, நபியவர்கள் ﷺ மலைக்கு கிழக்கே நமீராவில் அவருக்காக பிரத்யேகமாக அமைக்கப்பட்ட கூடாரத்தில் ஓய்வெடுத்தார்கள்."
           },
           "animCommand": ""
         }
@@ -221,19 +314,28 @@
     {
       "card": 11,
       "title": {
-        "en": "Uranah: The Farewell Sermon"
+        "en": "Uranah: The Farewell Sermon",
+        "ms": "Uranah: Khutbah Wada'",
+        "ml": "ഉറന: വിടവാങ്ങൽ പ്രഭാഷണം",
+        "ta": "உரனா: விடைபெறும் உரை"
       },
       "locationId": "wadi_uranah",
       "sentences": [
         {
           "text": {
-            "en": "Riding his camel into the valley of Uranah, the Prophet ﷺ delivered his historic Farewell Sermon to the awe-struck assembly."
+            "en": "Riding his camel into the valley of Uranah, the Prophet ﷺ delivered his historic Farewell Sermon to the awe-struck assembly.",
+            "ms": "Sambil menunggang untanya ke dalam lembah Uranah, Nabi ﷺ menyampaikan Khutbah Wada' yang bersejarah kepada para jemaah yang penuh kagum.",
+            "ml": "തന്റെ ഒട്ടകപ്പുറത്ത് ഉറന താഴ്‌വരയിലേക്ക് വന്ന പ്രവാചകൻ ﷺ വിസ്മയഭരിതരായി നിന്ന ജനക്കൂട്ടത്തോട് ചരിത്രപ്രസിദ്ധമായ വിടവാങ്ങൽ പ്രഭാഷണം നടത്തി.",
+            "ta": "தமது ஒட்டகத்தில் உரனா பள்ளத்தாக்கிற்குள் சென்ற நபியவர்கள் ﷺ வியந்து நின்ற கூட்டத்தினருக்குத் தங்களின் வரலாற்றுச் சிறப்புமிக்க விடைபெறும் உரையை ஆற்றினார்கள்."
           },
           "animCommand": ""
         },
         {
           "text": {
-            "en": "He spoke with immense urgency and love, heavily emphasizing the sanctity of a Muslim's blood, property, and honor, warning them that they might not see him again."
+            "en": "He spoke with immense urgency and love, heavily emphasizing the sanctity of a Muslim's blood, property, and honor, warning them that they might not see him again.",
+            "ms": "Baginda berbicara dengan penuh kesungguhan dan kasih sayang, sangat menekankan kesucian darah, harta, dan kehormatan seorang Muslim, serta mengingatkan mereka bahawa baginda mungkin tidak akan menemui mereka lagi.",
+            "ml": "ഒരു മുസ്‌ലിമിന്റെ രക്തം, സ്വത്ത്, അന്തസ്സ് എന്നിവയുടെ വിശുദ്ധിയെ ശക്തമായി ഊന്നിപ്പറഞ്ഞുകൊണ്ട് അദ്ദേഹം അതീവ പ്രാധാന്യത്തോടും സ്നേഹത്തോടും കൂടി സംസാരിച്ചു, ഇനി തങ്ങൾ അദ്ദേഹത്തെ കണ്ടുമുട്ടിയേക്കില്ല എന്ന് മുന്നറിയിപ്പ് നൽകുകയും ചെയ്തു.",
+            "ta": "ஒரு முஸ்லிமின் இரத்தம், சொத்து மற்றும் கண்ணியத்தின் புனிதத்தன்மையை வலியுறுத்தி, மிகுந்த அவசரத்துடனும் அன்புடனும் பேசினார்கள், மேலும் அவர்கள் தங்களை மீண்டும் பார்க்காமல் போகலாம் என்றும் எச்சரித்தார்கள்."
           },
           "animCommand": ""
         }
@@ -242,19 +344,28 @@
     {
       "card": 12,
       "title": {
-        "en": "Arafah: Perfection of Religion"
+        "en": "Arafah: Perfection of Religion",
+        "ms": "Arafah: Kesempurnaan Agama",
+        "ml": "അറഫ: ദീനിന്റെ പൂർത്തീകരണം",
+        "ta": "அரஃபா: மார்க்கத்தின் பூரணம்"
       },
       "locationId": "arafat",
       "sentences": [
         {
           "text": {
-            "en": "He then moved to the plain of Arafat, spending the afternoon until sunset in tearful, humble supplication for his Ummah."
+            "en": "He then moved to the plain of Arafat, spending the afternoon until sunset in tearful, humble supplication for his Ummah.",
+            "ms": "Baginda kemudian berpindah ke padang Arafah, meluangkan waktu petang sehingga matahari terbenam dengan doa yang khusyuk dan penuh titisan air mata untuk Ummah baginda.",
+            "ml": "തുടർന്ന് അദ്ദേഹം അറഫാ മൈതാനത്തേക്ക് നീങ്ങുകയും അസ്തമയം വരെ തന്റെ ഉമ്മത്തിന് വേണ്ടി കണ്ണീരോടെ വിനയപൂർവ്വം പ്രാർത്ഥനയിൽ മുഴുകുകയും ചെയ്തു.",
+            "ta": "பின்னர் அவர்கள் அரஃபா மைதானத்திற்குச் சென்று, மதியம் முதல் சூரிய அஸ்தமனம் வரை தங்கள் உம்மத்திற்காக கண்ணீருடனும் பணிவுடனும் துஆ செய்வதில் கழித்தார்கள்."
           },
           "animCommand": ""
         },
         {
           "text": {
-            "en": "Here, the heavy revelation descended: 'This day I have perfected your religion for you.' The weight of this divine message was so immense that his camel was forced to sit down."
+            "en": "Here, the heavy revelation descended: 'This day I have perfected your religion for you.' The weight of this divine message was so immense that his camel was forced to sit down.",
+            "ms": "Di sinilah wahyu yang berat diturunkan: 'Pada hari ini, Aku telah sempurnakan bagi kamu agama kamu.' Beratnya beban mesej ketuhanan ini sehinggakan unta baginda terpaksa duduk merunduk.",
+            "ml": "'ഇന്ന് ഞാൻ നിങ്ങൾക്ക് നിങ്ങളുടെ മതം പൂർത്തിയാക്കി തന്നിരിക്കുന്നു' എന്ന മഹത്തായ വഹ്‌യ് ഇവിടെ വെച്ചാണ് അവതരിച്ചത്. ഈ ദിവ്യസന്ദേശത്തിന്റെ ഭാരം കാരണം അദ്ദേഹത്തിന്റെ ഒട്ടകം താഴെയിരുന്നുപോയി.",
+            "ta": "இங்கே தான், 'இன்றைய தினம் உங்களுக்காக உங்கள் மார்க்கத்தை நான் பரிபூரணமாக்கி விட்டேன்' என்ற கனமான வஹி இறங்கியது. இந்த தெய்வீக செய்தியின் கனம் எவ்வளவு அதிகமாக இருந்தது என்றால், அவர்களின் ஒட்டகம் கீழே அமர வேண்டியதாயிற்று."
           },
           "animCommand": ""
         }
@@ -263,19 +374,28 @@
     {
       "card": 13,
       "title": {
-        "en": "Muzdalifa: The Night Journey"
+        "en": "Muzdalifa: The Night Journey",
+        "ms": "Muzdalifah: Perjalanan Malam",
+        "ml": "മുസ്ദലിഫ: രാത്രി യാത്ര",
+        "ta": "முஸ்தலிஃபா: இரவுப் பயணம்"
       },
       "locationId": "muzdalifah",
       "sentences": [
         {
           "text": {
-            "en": "After sunset, they traveled swiftly to Muzdalifah. The Prophet ﷺ combined his Maghrib and Isha prayers and rested for the night."
+            "en": "After sunset, they traveled swiftly to Muzdalifah. The Prophet ﷺ combined his Maghrib and Isha prayers and rested for the night.",
+            "ms": "Selepas matahari terbenam, mereka bergerak pantas ke Muzdalifah. Nabi ﷺ menjamakkan solat Maghrib dan Isyak baginda lalu berehat untuk malam itu.",
+            "ml": "സൂര്യാസ്തമയത്തിന് ശേഷം അവർ വേഗത്തിൽ മുസ്ദലിഫയിലേക്ക് യാത്ര തിരിച്ചു. പ്രവാചകൻ ﷺ മഗ്‌രിബ്, ഇശാ നമസ്കാരങ്ങൾ ജംആക്കി നിർവ്വഹിക്കുകയും രാത്രി വിശ്രമിക്കുകയും ചെയ്തു.",
+            "ta": "சூரிய அஸ்தமனத்திற்குப் பிறகு, அவர்கள் முஸ்தலிஃபாவை நோக்கி வேகமாகப் பயணித்தனர். நபியவர்கள் ﷺ மக்ரிப் மற்றும் இஷா தொழுகைகளைச் சேர்த்துத் தொழுதுவிட்டு இரவில் ஓய்வெடுத்தார்கள்."
           },
           "animCommand": ""
         },
         {
           "text": {
-            "en": "Recognizing the immense crowd, he compassionately sent the women, children, and elderly ahead to Mina to avoid the rush."
+            "en": "Recognizing the immense crowd, he compassionately sent the women, children, and elderly ahead to Mina to avoid the rush.",
+            "ms": "Memandangkan kesesakan jemaah yang amat ramai, baginda dengan penuh ihsan menghantar kaum wanita, kanak-kanak, dan warga emas terlebih dahulu ke Mina untuk mengelakkan kesesakan.",
+            "ml": "വലിയ ജനക്കൂട്ടം മനസ്സിലാക്കിയ അദ്ദേഹം കാരുണ്യപൂർവ്വം സ്ത്രീകളെയും കുട്ടികളെയും പ്രായമായവരെയും തിരക്ക് ഒഴിവാക്കാനായി മുൻകൂട്ടി മിനായിലേക്ക് അയച്ചു.",
+            "ta": "அளவுக்கு அதிகமான கூட்டத்தை உணர்ந்த அவர்கள், கூட்ட நெரிசலைத் தவிர்ப்பதற்காக பெண்கள், குழந்தைகள் மற்றும் முதியவர்களை அன்போடு முன்னதாகவே மினாவிற்கு அனுப்பி வைத்தார்கள்."
           },
           "animCommand": ""
         }
@@ -284,19 +404,28 @@
     {
       "card": 14,
       "title": {
-        "en": "Wadi Muhassir: Gathering Stones"
+        "en": "Wadi Muhassir: Gathering Stones",
+        "ms": "Wadi Muhassir: Mengumpul Batu",
+        "ml": "വാദി മുഹസ്സിർ: കല്ലുകൾ ശേഖരിക്കൽ",
+        "ta": "வாடி முஹஸ்ஸிர்: கற்கள் சேகரித்தல்"
       },
       "locationId": "wadi_muhassar",
       "sentences": [
         {
           "text": {
-            "en": "At dawn, the caravan departed Muzdalifah. Along the way, his companion Fadhl picked up the small pebbles needed for the stoning ritual."
+            "en": "At dawn, the caravan departed Muzdalifah. Along the way, his companion Fadhl picked up the small pebbles needed for the stoning ritual.",
+            "ms": "Pada waktu subuh, kafilah bertolak dari Muzdalifah. Di sepanjang jalan, sahabat baginda, Fadhl, mengutip batu-batu kecil yang diperlukan untuk upacara melontar jamrah.",
+            "ml": "പ്രഭാതത്തിൽ സംഘം മുസ്ദലിഫയിൽ നിന്ന് പുറപ്പെട്ടു. വഴിമധ്യേ, അദ്ദേഹത്തിന്റെ അനുചരനായ ഫദ്‌ൽ കല്ലേറ് കർമ്മത്തിന് ആവശ്യമുള്ള ചെറിയ കല്ലുകൾ ശേഖരിച്ചു.",
+            "ta": "அதிகாலையில், அந்த काफிலா முஸ்தலிஃபாவிலிருந்து புறப்பட்டது. வழியில், அவர்களின் தோழர் ஃபள்ல் கல்லெறியும் சடங்கிற்குத் தேவையான சிறிய கற்களைப் பொறுக்கினார்."
           },
           "animCommand": ""
         },
         {
           "text": {
-            "en": "They drove through Wadi-e-Muhassar with haste, as it was a place where Allah's wrath had once descended upon Abraha's army of elephants."
+            "en": "They drove through Wadi-e-Muhassar with haste, as it was a place where Allah's wrath had once descended upon Abraha's army of elephants.",
+            "ms": "Mereka melalui Wadi Muhassir dengan cepat, kerana ia merupakan tempat di mana kemurkaan Allah pernah diturunkan ke atas tentera bergajah Abraha.",
+            "ml": "അവർ വാദി മുഹസ്സിറിലൂടെ വേഗത്തിൽ മുന്നോട്ട് നീങ്ങി, കാരണം ഒരിക്കൽ അബ്രഹത്തിന്റെ ആനപ്പടയ്ക്ക് മേൽ അല്ലാഹുവിന്റെ ശിക്ഷ ഇറങ്ങിയ സ്ഥലമായിരുന്നു അത്.",
+            "ta": "அவர்கள் வாடி முஹஸ்ஸிர் வழியாக அவசரமாகக் கடந்து சென்றனர், ஏனெனில் அது ஒரு காலத்தில் அப்ரஹாவின் யானைப் படை மீது அல்லாஹ்வின் கோபம் இறங்கிய இடமாகும்."
           },
           "animCommand": ""
         }
@@ -305,19 +434,28 @@
     {
       "card": 15,
       "title": {
-        "en": "Aqabah: Stoning the Jamrah"
+        "en": "Aqabah: Stoning the Jamrah",
+        "ms": "Aqabah: Melontar Jamrah",
+        "ml": "അഖബ: ജംറയിലെ കല്ലേറ്",
+        "ta": "அகபா: ஜம்ராவில் கல்லெறிதல்"
       },
       "locationId": "jamarah_aqabah",
       "sentences": [
         {
           "text": {
-            "en": "Arriving at Mina on the morning of the 10th of Dhul Hijjah, they went straight to Jamaratul Aqaba."
+            "en": "Arriving at Mina on the morning of the 10th of Dhul Hijjah, they went straight to Jamaratul Aqaba.",
+            "ms": "Setibanya di Mina pada pagi 10 Zulhijjah, mereka terus menuju ke Jamaratul Aqabah.",
+            "ml": "ദുൽഹിജ്ജ 10-ന് രാവിലെ മിനായിൽ എത്തിയ അവർ നേരെ ജംറത്തുൽ അഖബയിലേക്ക് പോയി.",
+            "ta": "துல் ஹிஜ்ஜா 10 ஆம் தேதி காலையில் மினாவை வந்தடைந்த அவர்கள், நேராக ஜம்ரதுல் அகபாவிற்குச் சென்றனர்."
           },
           "animCommand": ""
         },
         {
           "text": {
-            "en": "The Prophet ﷺ threw stones at the pillar, reciting the takbir with each throw, which marked the end of the continuous recitation of the Talbiyah."
+            "en": "The Prophet ﷺ threw stones at the pillar, reciting the takbir with each throw, which marked the end of the continuous recitation of the Talbiyah.",
+            "ms": "Nabi ﷺ melontar batu ke arah tiang tersebut sambil bertakbir bagi setiap lontaran, yang menandakan berakhirnya laungan Talbiyah yang berterusan.",
+            "ml": "ഓരോ ഏറിലും തക്ബീർ ധ്വനിച്ചുകൊണ്ട് പ്രവാചകൻ ﷺ തൂണിലേക്ക് കല്ലെറിഞ്ഞു, ഇത് തുടർച്ചയായ തൽബിയത്ത് ചൊല്ലലിന്റെ അവസാനമായി അടയാളപ്പെടുത്തപ്പെട്ടു.",
+            "ta": "நபியவர்கள் ﷺ ஒவ்வொரு எறிதலின் போதும் தக்பீர் கூறியவாறு தூணின் மீது கற்களை எறிந்தார்கள், இது தொடர்ச்சியான தல்பியா ஓதுதலின் முடிவைக் குறித்தது."
           },
           "animCommand": ""
         }
@@ -326,19 +464,28 @@
     {
       "card": 16,
       "title": {
-        "en": "Mina: Sacrifice and Shaving"
+        "en": "Mina: Sacrifice and Shaving",
+        "ms": "Mina: Korban dan Bercukur",
+        "ml": "മിന: ബലിനൽകലും മുടി കളയലും",
+        "ta": "மினா: குர்பானி மற்றும் தலைமுடி சிரைத்தல்"
       },
       "locationId": "mina_slaughter",
       "sentences": [
         {
           "text": {
-            "en": "Still in Mina, the Prophet ﷺ sacrificed 63 camels with his own hands—one for every year of his blessed life—while Sayyidina Ali slaughtered the rest to total 100."
+            "en": "Still in Mina, the Prophet ﷺ sacrificed 63 camels with his own hands—one for every year of his blessed life—while Sayyidina Ali slaughtered the rest to total 100.",
+            "ms": "Semasa masih di Mina, Nabi ﷺ menyembelih 63 ekor unta dengan tangan baginda sendiri—satu bagi setiap tahun usia baginda yang penuh berkat—manakala Sayyidina Ali menyembelih baki unta menjadikannya jumlah keseluruhan 100 ekor.",
+            "ml": "മിനായിൽ ആയിരിക്കുമ്പോൾ തന്നെ പ്രവാചകൻ ﷺ തന്റെ അനുഗൃഹീത ജീവിതത്തിന്റെ ഓരോ വർഷത്തിനും ഒന്നെന്നോണം 63 ഒട്ടകങ്ങളെ സ്വന്തം കൈപ്പടയാൽ ബറുത്തു—ബാക്കിയുള്ളവ സയ്യിദിനാ അലി ذبح ചെയ്തുകൊണ്ട് ആകെ 100 തികച്ചു.",
+            "ta": "மினாவில் இருந்தபோதே, நபியவர்கள் ﷺ தங்களின் ஆசீர்வதிக்கப்பட்ட வாழ்நாளின் ஒவ்வொரு ஆண்டிற்கும் ஒன்றாக 63 ஒட்டகங்களைத் தன் சொந்தக் கரங்களால் குர்பானி கொடுத்தார்கள்—மீதமுள்ளவற்றை செய்யிதினா அலி அவர்கள் அறுத்து மொத்தம் 100 ஆக்கினார்கள்."
           },
           "animCommand": ""
         },
         {
           "text": {
-            "en": "He then had his head shaved, his nails trimmed, applied scent, and finally changed out of his ihram clothing."
+            "en": "He then had his head shaved, his nails trimmed, applied scent, and finally changed out of his ihram clothing.",
+            "ms": "Baginda kemudian mencukur rambut baginda, memotong kuku, memakai wewangian, dan akhirnya menyalin pakaian ihram baginda.",
+            "ml": "തുടർന്ന് അദ്ദേഹം തല മുണ്ഡനം ചെയ്യുകയും നഖങ്ങൾ വെട്ടുകയും സുഗന്ധദ്രവ്യം പുരട്ടുകയും ഒടുവിൽ ഇഹ്റാം വസ്ത്രം മാറുകയും ചെയ്തു.",
+            "ta": "பின்னர் அவர்கள் தங்கள் தலையை சிரைத்து, நகங்களை வெட்டி, நறுமணம் பூசி, இறுதியாக இஹ்ராம் ஆடையை மாற்றிக் கொண்டார்கள்."
           },
           "animCommand": ""
         }
@@ -347,19 +494,28 @@
     {
       "card": 17,
       "title": {
-        "en": "Makkah: Tawaf-uz-Ziyaarah"
+        "en": "Makkah: Tawaf-uz-Ziyaarah",
+        "ms": "Makkah: Tawaf uz-Ziyarah",
+        "ml": "മക്ക: ത്വവാഫുസ്സിയാറ",
+        "ta": "மக்கா: தவாஃபுல் ஜியாரஹ்"
       },
       "locationId": "masjid_al_haram",
       "sentences": [
         {
           "text": {
-            "en": "At the time of Zuhr, the Prophet ﷺ traveled the short distance back to Makkah to perform the Tawaf-uz-Ziyaarah."
+            "en": "At the time of Zuhr, the Prophet ﷺ traveled the short distance back to Makkah to perform the Tawaf-uz-Ziyaarah.",
+            "ms": "Pada waktu Zohor, Nabi ﷺ melakukan perjalanan singkat pulang ke Makkah untuk menunaikan Tawaf uz-Ziyarah.",
+            "ml": "ളുഹർ സമയത്ത് പ്രവാചകൻ ﷺ ത്വവാഫുസ്സിയാറ നിർവ്വഹിക്കാനായി മക്കയിലേക്ക് ഹ്രസ്വയാത്ര നടത്തി തിരിച്ചെത്തി.",
+            "ta": "ளுஹர் நேரத்தில், நபியவர்கள் ﷺ தவாஃபுல் ஜியாரஹ்வை நிறைவேற்றுவதற்காக மக்காவிற்கு ஒரு சிறிய தூரப் பயணத்தை மேற்கொண்டார்கள்."
           },
           "animCommand": ""
         },
         {
           "text": {
-            "en": "This completed an essential pillar of the Hajj, after which he returned to Mina."
+            "en": "This completed an essential pillar of the Hajj, after which he returned to Mina.",
+            "ms": "Ini menyempurnakan rukun penting dalam ibadah Haji, dan selepas itu baginda kembali semula ke Mina.",
+            "ml": "ഇതോടെ ഹജ്ജിന്റെ പ്രധാന റുക്ൻ പൂർത്തിയായി, അതിനുശേഷം അദ്ദേഹം മിനായിലേക്ക് മടങ്ങി.",
+            "ta": "இது ஹஜ்ஜின் ஒரு முக்கியமான கடமையை நிறைவு செய்தது, அதன் பிறகு அவர்கள் மினாவிற்குத் திரும்பினர்."
           },
           "animCommand": ""
         }
@@ -368,19 +524,28 @@
     {
       "card": 18,
       "title": {
-        "en": "Mina: The Days of Tashreeq"
+        "en": "Mina: The Days of Tashreeq",
+        "ms": "Mina: Hari-hari Tashriq",
+        "ml": "മിന: അയ്യാമുത്തശ്‌രീഖ്",
+        "ta": "மினா: அய்யாமுத் தஷ்ரீக்"
       },
       "locationId": "mina_tashreeq",
       "sentences": [
         {
           "text": {
-            "en": "For the next three days, the 11th, 12th, and 13th of Dhul Hijjah, known as the Days of Tashreeq, the Prophet ﷺ remained in Mina."
+            "en": "For the next three days, the 11th, 12th, and 13th of Dhul Hijjah, known as the Days of Tashreeq, the Prophet ﷺ remained in Mina.",
+            "ms": "Untuk tiga hari berikutnya iaitu pada 11, 12, dan 13 Zulhijjah, yang dikenali sebagai Hari-hari Tashriq, Nabi ﷺ kekal menetap di Mina.",
+            "ml": "തുടർന്നുള്ള മൂന്ന് ദിവസങ്ങളിൽ (ദുൽഹിജ്ജ 11, 12, 13) - അയ്യാമുത്തശ്‌രീഖ് എന്നറിയപ്പെടുന്ന ദിവസങ്ങളിൽ - പ്രവാചകൻ ﷺ മിനായിൽ തുടർന്നു.",
+            "ta": "அடுத்த மூன்று நாட்களுக்கு, அதாவது துல் ஹிஜ்ஜா 11, 12 மற்றும் 13 ஆகிய அய்யாமுத் தஷ்ரீக் என்று அழைக்கப்படும் நாட்களில், நபியவர்கள் ﷺ மினாவில் தங்கினார்கள்."
           },
           "animCommand": ""
         },
         {
           "text": {
-            "en": "Each day, after the sun passed its zenith, he threw stones at the three Jamaraat, completing the stoning rituals."
+            "en": "Each day, after the sun passed its zenith, he threw stones at the three Jamaraat, completing the stoning rituals.",
+            "ms": "Setiap hari, selepas matahari melewati rembang, baginda melontar batu di ketiga-tiga Jamrah, menyelesaikan rukun melontar tersebut.",
+            "ml": "ഓരോ ദിവസവും സൂര്യൻ ഉച്ചിയിൽ നിന്ന് തെറ്റിയ ശേഷം അദ്ദേഹം മൂന്ന് ജംറകളിലും കല്ലേറ് നടത്തുകയും കല്ലേറ് കർമ്മങ്ങൾ പൂർത്തിയാക്കുകയും ചെയ്തു.",
+            "ta": "ஒவ்வொரு நாளும், சூரியன் உச்சியைத் தாண்டிய பிறகு, அவர்கள் மூன்று ஜம்ராக்களின் மீதும் கற்களை எறிந்து, கல்லெறியும் சடங்குகளை முடித்தார்கள்."
           },
           "animCommand": ""
         }
@@ -389,19 +554,28 @@
     {
       "card": 19,
       "title": {
-        "en": "Mahaab: A Victorious Camp"
+        "en": "Mahaab: A Victorious Camp",
+        "ms": "Mahaab: Perkhemahan Kemenangan",
+        "ml": "മഹാബ്: വിജയകരമായ താവളം",
+        "ta": "மஹாப்: ஒரு வெற்றிகரமான முகாம்"
       },
       "locationId": "mahaab",
       "sentences": [
         {
           "text": {
-            "en": "On Tuesday, the 13th of Dhul Hijjah, the caravan finally left Mina and headed towards Makkah."
+            "en": "On Tuesday, the 13th of Dhul Hijjah, the caravan finally left Mina and headed towards Makkah.",
+            "ms": "Pada hari Selasa, 13 Zulhijjah, kafilah tersebut akhirnya meninggalkan Mina dan menuju ke arah Makkah.",
+            "ml": "ചൊവ്വാഴ്ച, ദുൽഹിജ്ജ 13-ന് വലിയ സംഘം ഒടുവിൽ മിന വിട്ട് മക്ക ലക്ഷ്യമാക്കി നീങ്ങി.",
+            "ta": "செவ்வாய்கிழமை, துல் ஹிஜ்ஜா 13 அன்று, அந்த काफிலா இறுதியாக மினாவிலிருந்து புறப்பட்டு மக்காவை நோக்கிச் சென்றது."
           },
           "animCommand": ""
         },
         {
           "text": {
-            "en": "They stopped to spend the night outside Makkah at Mahaab, also called Bathaa or Khaif Bani Kinana—ironically, the very spot where the Quraysh had once signed a pact to boycott and kill him years ago."
+            "en": "They stopped to spend the night outside Makkah at Mahaab, also called Bathaa or Khaif Bani Kinana—ironically, the very spot where the Quraysh had once signed a pact to boycott and kill him years ago.",
+            "ms": "Mereka berhenti untuk bermalam di luar Makkah di Mahaab, yang juga dipanggil Al-Abtah atau Khaif Bani Kinanah—secara ironisnya, tempat yang sama di mana kaum Quraisy pernah menandatangani perjanjian untuk memboikot dan membunuh baginda bertahun-tahun dahulu.",
+            "ml": "അവർ മക്കയ്ക്ക് പുറത്തുള്ള മഹാബിൽ (ബത്ഹാ അല്ലെങ്കിൽ ഖൈഫ് ബനീ കിനാന എന്നും അറിയപ്പെടുന്നു) രാത്രി തങ്ങാൻ നിന്നു. വർഷങ്ങൾക്ക് മുമ്പ് ഖുറൈശികൾ അദ്ദേഹത്തെ ബഹിഷ്കരിക്കാനും വധിക്കാനുമുള്ള കരാറിൽ ഒപ്പുവെച്ച അതേ സ്ഥലമായിരുന്നു അത് എന്നത് ഒരു വിരോധാഭാസമായിരുന്നു.",
+            "ta": "அவர்கள் மக்காவிற்கு வெளியே மஹாப் என்ற இடத்தில் இரவைக் கழிக்க நிறுத்தினர், இது பத்ஹா அல்லது கைஃப் பானி கினானா என்றும் அழைக்கப்படுகிறது—முரண்பாடாக, பல ஆண்டுகளுக்கு முன்பு குரைஷிகள் அவரைப் புறக்கணிக்கவும் கொல்லவும் ஒப்பந்தத்தில் கையெழுத்திட்ட அதே இடமாகும்."
           },
           "animCommand": ""
         }
@@ -410,19 +584,28 @@
     {
       "card": 20,
       "title": {
-        "en": "Tanaim: Aisha's Umrah"
+        "en": "Tanaim: Aisha's Umrah",
+        "ms": "Tanaim: Umrah Saidatuna Aisyah",
+        "ml": "തൻഈം: ആഇശയുടെ ഉംറ",
+        "ta": "தனீம்: ஆயிஷாவின் உம்ரா"
       },
       "locationId": "tanaim",
       "sentences": [
         {
           "text": {
-            "en": "That evening at Mahaab, his wife Aisha was deeply saddened because she had been unable to perform her initial Umrah due to menstruation."
+            "en": "That evening at Mahaab, his wife Aisha was deeply saddened because she had been unable to perform her initial Umrah due to menstruation.",
+            "ms": "Pada malam itu di Mahaab, isteri baginda Saidatuna Aisyah berasa sangat sedih kerana tidak dapat mengerjakan Umrah pertamanya disebabkan kedatangan haid.",
+            "ml": "മഹാബിലെ ആ വൈകുന്നേരത്ത്, ആർത്തവം കാരണം തന്റെ ആദ്യ ഉംറ നിർവ്വഹിക്കാൻ കഴിയാത്തതിനാൽ അദ്ദേഹത്തിന്റെ പത്നി ആഇശ അതീവ ദുഃഖിതയായിരുന്നു.",
+            "ta": "மஹாபில் இருந்த அந்த மாலையில், மாதவிடாய் காரணமாகத் தனது ஆரம்ப உம்ராவைச் செய்ய முடியாமல் போனதால் அவர்களின் மனைவி ஆயிஷா மிகுந்த கவலையடைந்தார்கள்."
           },
           "animCommand": ""
         },
         {
           "text": {
-            "en": "The Prophet ﷺ comforted her and sent her with her brother to Tanaim so she could initiate and complete her Umrah."
+            "en": "The Prophet ﷺ comforted her and sent her with her brother to Tanaim so she could initiate and complete her Umrah.",
+            "ms": "Nabi ﷺ memujuknya lalu mengutusnya bersama saudara lelakinya ke Tanaim supaya beliau dapat berniat dan menyempurnakan Umrahnya.",
+            "ml": "പ്രവാചകൻ ﷺ അവരെ ആശ്വസിപ്പിക്കുകയും ഉംറ നിർവ്വഹിക്കാനായി സഹോദരനോടൊപ്പം തൻഈമിലേക്ക് അയക്കുകയും ചെയ്തു.",
+            "ta": "நபியவர்கள் ﷺ அவர்களுக்கு ஆறுதல் கூறி, அவர்கள் தங்கள் உம்ராவைத் தொடங்கி முடிப்பதற்காக அவர்களின் சகோதரருடன் தனீமிற்கு அனுப்பி வைத்தார்கள்."
           },
           "animCommand": ""
         }
@@ -431,19 +614,28 @@
     {
       "card": 21,
       "title": {
-        "en": "Mekah: The Farewell Tawaf"
+        "en": "Mekah: The Farewell Tawaf",
+        "ms": "Makkah: Tawaf Wada'",
+        "ml": "മക്ക: വിടവാങ്ങൽ ത്വവാഫ്",
+        "ta": "மக்கா: விடைபெறும் தவாஃப்"
       },
       "locationId": "masjid_al_haram",
       "sentences": [
         {
           "text": {
-            "en": "After resting, the Prophet ﷺ led his companions into Makkah for one final rite: the Farewell Tawaf."
+            "en": "After resting, the Prophet ﷺ led his companions into Makkah for one final rite: the Farewell Tawaf.",
+            "ms": "Selepas berehat, Nabi ﷺ memimpin para sahabat masuk ke Makkah untuk satu rukun terakhir: Tawaf Wada'.",
+            "ml": "വിശ്രമത്തിന് ശേഷം, പ്രവാചകൻ ﷺ തന്റെ അനുചരന്മാരെ അവസാനത്തെ ഒരു കർമ്മത്തിനായി മക്കയിലേക്ക് നയിച്ചു: വിടവാങ്ങൽ ത്വവാഫ്.",
+            "ta": "ஓய்வெடுத்த பிறகு, நபியவர்கள் ﷺ ஒரு இறுதி சடங்கிற்காகத் தங்கள் தோழர்களை மக்காவிற்குள் அழைத்துச் சென்றார்கள்: அதுவே விடைபெறும் தவாஃப் ஆகும்."
           },
           "animCommand": ""
         },
         {
           "text": {
-            "en": "With this circumambulation completed, the rites of Hajj were officially perfected, and the command was given to head home."
+            "en": "With this circumambulation completed, the rites of Hajj were officially perfected, and the command was given to head home.",
+            "ms": "Dengan selesainya tawaf ini, rukun-rukun Haji telah sempurna secara rasmi, dan perintah diberikan untuk pulang ke tanah air.",
+            "ml": "ഈ വലംവെക്കൽ പൂർത്തിയായതോടെ ഹജ്ജ് കർമ്മങ്ങൾ ഔദ്യോഗികമായി പൂർണ്ണമായി, നാട്ടിലേക്ക് മടങ്ങാനുള്ള നിർദ്ദേശം നൽകപ്പെട്ടു.",
+            "ta": "இந்த வலம் வருதல் முடிந்தவுடன், ஹஜ்ஜின் சடங்குகள் அதிகாரப்பூர்வமாக நிறைவு பெற்றன, மேலும் வீட்டிற்குப் புறப்படுவதற்கான உத்தரவு பிறப்பிக்கப்பட்டது."
           },
           "animCommand": ""
         }
@@ -452,19 +644,28 @@
     {
       "card": 22,
       "title": {
-        "en": "Ghadeer-Khum: The Final Sermons"
+        "en": "Ghadeer-Khum: The Final Sermons",
+        "ms": "Ghadir Khum: Khutbah Terakhir",
+        "ml": "ഗദീർ ഖും: അവസാന പ്രഭാഷണങ്ങൾ",
+        "ta": "கதீர் கும்: இறுதி உரைகள்"
       },
       "locationId": "ghadeer_khum",
       "sentences": [
         {
           "text": {
-            "en": "The long journey back to Madinah began, and on the 18th of Dhul Hijjah, the massive caravan stopped at Ghadeer-Khum."
+            "en": "The long journey back to Madinah began, and on the 18th of Dhul Hijjah, the massive caravan stopped at Ghadeer-Khum.",
+            "ms": "Perjalanan panjang pulang ke Madinah pun bermula, dan pada 18 Zulhijjah, kafilah yang besar itu berhenti di Ghadir Khum.",
+            "ml": "മദീനയിലേക്കുള്ള മടക്കയാത്ര ആരംഭിച്ചു, ദുൽഹിജ്ജ 18-ന് വലിയ സംഘം ഗദീർ ഖുമിൽ താവളമടിച്ചു.",
+            "ta": "மதீனாவிற்குத் திரும்பும் நீண்ட பயணம் தொடங்கியது, துல் ஹிஜ்ஜா 18 அன்று, அந்தப் பெரும் काफிலா கதீர் கும்மில் நின்றது."
           },
           "animCommand": ""
         },
         {
           "text": {
-            "en": "The Prophet ﷺ ascended a lofty place to deliver another profound sermon, particularly praising the virtues of Sayyidina Ali."
+            "en": "The Prophet ﷺ ascended a lofty place to deliver another profound sermon, particularly praising the virtues of Sayyidina Ali.",
+            "ms": "Nabi ﷺ menaiki tempat yang tinggi untuk menyampaikan satu lagi khutbah yang mendalam, terutamanya memuji keutamaan Sayyidina Ali.",
+            "ml": "സയ്യിദിനാ അലിയുടെ ശ്രേഷ്ഠതകളെ പ്രത്യേകം പ്രകീർത്തിച്ചുകൊണ്ട് മറ്റൊരു അഗാധമായ പ്രഭാഷണം നടത്താൻ പ്രവാചകൻ ﷺ ഉയർന്ന ഒരു സ്ഥലത്തേക്ക് കയറി.",
+            "ta": "நபியவர்கள் ﷺ மற்றொரு ஆழமான உரையை ஆற்றுவதற்காக ஒரு உயர்ந்த இடத்திற்குச் சென்றார்கள், குறிப்பாக செய்யிதினா அலி அவர்களின் சிறப்புகளைப் புகழ்ந்து பேசினார்கள்."
           },
           "animCommand": ""
         }
@@ -473,19 +674,28 @@
     {
       "card": 23,
       "title": {
-        "en": "Madinah: The Triumphant Return"
+        "en": "Madinah: The Triumphant Return",
+        "ms": "Madinah: Kepulangan yang Gemilang",
+        "ml": "മദീന: വിജയകരമായ മടക്കം",
+        "ta": "மதீனா: வெற்றிகரமான திரும்புதல்"
       },
       "locationId": "masjid_al_nabawi",
       "sentences": [
         {
           "text": {
-            "en": "After spending their final night on the road at Zul Hulaifa, the pilgrims performed their Fajr prayer."
+            "en": "After spending their final night on the road at Zul Hulaifa, the pilgrims performed their Fajr prayer.",
+            "ms": "Selepas meluangkan malam terakhir mereka dalam perjalanan di Zulhulaifah, para jemaah mendirikan solat Subuh.",
+            "ml": "യാത്രയിലെ തങ്ങളുടെ അവസാന രാത്രി ദുൽഹുലൈഫയിൽ ചെലവഴിച്ച ശേഷം തീർത്ഥാടകർ സുബഹ് നമസ്കാരം നിർവ്വഹിച്ചു.",
+            "ta": "வழியில் தங்களின் இறுதி இரவை துல்ஹுலைஃபாவில் கழித்த பிறகு, யாத்திரீகர்கள் தங்களின் ஃபஜ்ர் தொழுகையை நிறைவேற்றினர்."
           },
           "animCommand": ""
         },
         {
           "text": {
-            "en": "They triumphantly re-entered Madinah, bringing the historic Farewell Pilgrimage to a close and leaving an eternal Sunnah for the Ummah."
+            "en": "They triumphantly re-entered Madinah, bringing the historic Farewell Pilgrimage to a close and leaving an eternal Sunnah for the Ummah.",
+            "ms": "Mereka memasuki semula kota Madinah dengan penuh gemilang, mengakhiri peristiwa bersejarah Haji Wada' dan meninggalkan Sunnah yang abadi untuk Ummah.",
+            "ml": "ചരിത്രപ്രസിദ്ധമായ വിടവാങ്ങൽ ഹജ്ജിന് സമാപ്തി കുറിച്ചുകൊണ്ടും ഉമ്മത്തിന് ശാശ്വതമായ ഒരു സുന്നത്ത് ബാക്കിവെച്ചുകൊണ്ടും അവർ വിജയശ്രീലാളിതരായി മദീനയിൽ തിരിച്ചെത്തി.",
+            "ta": "வரலாற்றுச் சிறப்புமிக்க விடைபெறும் ஹஜ்ஜை நிறைவு செய்து, உம்மத்திற்கு ஒரு நித்திய சுன்னாவை வழங்கி, அவர்கள் வெற்றிகரமாக மதீனாவிற்குள் மீண்டும் நுழைந்தனர்."
           },
           "animCommand": ""
         }
