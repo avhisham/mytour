@@ -48,7 +48,7 @@
     ]
   },
   {
-    "id": "l1",
+    "id": "masjid_al_haram",
     "name": "[en]Masjid al-Haram[/en] [ms]Masjid al-Haram[/ms] [ml]മസ്ജിദുൽ ഹറാം[/ml] [ta]மஸ்ஜிதுல் ஹராம்[/ta]",
     "description": "[en]The Great Mosque of Mecca, the largest mosque in the world and surrounds the Kaabah — the most sacred site in Islam.[/en] \n[ms]Masjidil Haram, masjid terbesar di dunia dan mengelilingi Kaabah — tapak paling suci dalam Islam.[/ms] \n[ml]മക്കയിലെ ഗ്രാൻഡ് മസ്ജിദ്, ലോകത്തിലെ ഏറ്റവും വലിയ പള്ളിയാണ്, ഇത് ഇസ്‌ലാമിലെ ഏറ്റവും വിശുദ്ധമായ സ്ഥലമായ കഅബയെ ചുറ്റപ്പെട്ടിരിക്കുന്നു.[/ml] \n[ta]மக்காவின் பெரிய பள்ளிவாசல், உலகின் மிகப்பெரிய பள்ளிவாசல் மற்றும் இஸ்லாத்தின் மிக புனிதமான இடமான கஅபாவைச் சூழ்ந்துள்ளது.[/ta]",
     "latitude": 21.4225,
@@ -60,7 +60,7 @@
     "socialLinks": []
   },
   {
-    "id": "l2",
+    "id": "jabal_ar_rahmah",
     "name": "[en]Jabal ar-Rahmah[/en] [ms]Jabal ar-Rahmah[/ms] [ml]ജബൽ അർ-റഹ്മ[/ml] [ta]ஜபல் அர்-ரஹ்மா[/ta]",
     "description": "[en]Where the Prophet ﷺ gave his Farewell Sermon during the Hajj of 632 CE. Standing here (Wuquf) is the most important pillar of Hajj.[/en] \n[ms]Tempat di mana Rasulullah ﷺ menyampaikan Khutbah Wida' semasa Haji pada tahun 632 M. Berdiri di sini (Wuquf) adalah rukun Haji yang paling penting.[/ms] \n[ml]ക്രിസ്തുവർഷം 632-ലെ ഹജ്ജ് വേളയിൽ പ്രവാചകൻ ﷺ തൻ്റെ വിടവാങ്ങൽ പ്രസംഗം നടത്തിയ സ്ഥലം. ഇവിടെ നിൽക്കുന്നത് (വുഖൂഫ്) ഹജ്ജിൻ്റെ ഏറ്റവും പ്രധാനപ്പെട്ട തൂണാണ്.[/ml] \n[ta]கி.பி 632 ஆம் ஆண்டு ஹஜ்ஜின் போது நபிகள் நாயகம் ﷺ அவர்கள் தனது இறுதிப் பேருரையை நிகழ்த்திய இடம். இங்கு நிற்பது (வுக்கூப்) ஹஜ்ஜின் மிக முக்கியமான தூணாகும்.[/ta]",
     "latitude": 21.3547,
@@ -73,7 +73,7 @@
     "socialLinks": []
   },
   {
-    "id": "l3",
+    "id": "dhul_hulaifah",
     "name": "[en]Dhul Hulaifah (Abyar Ali)[/en] [ms]Dhul Hulaifah (Abyar Ali)[/ms] [ml]ദുൽ ഹുലൈഫ (അബ്യാർ അലി)[/ml] [ta]துல் ஹுலைபா (அப்யார் அலி)[/ta]",
     "description": "[en]The Miqat (boundary of Ihram) for pilgrims travelling from Medina. Also known as Masjid al-Shajara.[/en] [ms]Miqat (sempadan Ihram) bagi jemaah yang datang dari Madinah. Juga dikenali sebagai Masjid al-Shajara.[/ms] [ml]മദീനയിൽ നിന്ന് വരുന്ന തീർത്ഥാടകർക്കുള്ള മീഖാത്താണിത് (ഇഹ്‌റാമിൻ്റെ അതിർത്തി). മസ്ജിദുൽ ഷജറ എന്നും ഇത് അറിയപ്പെടുന്നു.[/ml] [ta]மதினாவிலிருந்து வரும் யாத்ரீகர்களுக்கான மீகாத் (இஹ்ராமின் எல்லை) இதுவாகும். இது மஸ்ஜித் அல்-ஷஜாரா என்றும் அழைக்கப்படுகிறது.[/ta]",
     "latitude": 24.414,
@@ -85,7 +85,7 @@
     "socialLinks": []
   },
   {
-    "id": "l4",
+    "id": "masjid_al_qiblatayn",
     "name": "[en]Masjid al-Qiblatayn[/en] [ms]Masjid al-Qiblatayn[/ms] [ml]മസ്ജിദുൽ ഖിബ്‌ലതൈൻ[/ml] [ta]மஸ்ஜிதுல் கிப்லதைன்[/ta]",
     "description": "[en]Known as the 'Mosque of the Two Qiblas,' where the command to change the direction of prayer from Jerusalem to Mecca was received.[/en] [ms]Dikenali sebagai 'Masjid Dua Qiblat,' di mana perintah untuk menukar arah solat dari Baitulmaqdis ke Mekah telah diterima.[/ms] [ml]രണ്ട് ഖിബ്‌ലകളുടെ പള്ളി എന്ന് അറിയപ്പെടുന്നു. പ്രാർത്ഥനയുടെ ദിശ ജെറുസലേമിൽ നിന്ന് മക്കയിലേക്ക് മാറ്റാനുള്ള കൽപ്പന ലഭിച്ചത് ഇവിടെ വെച്ചാണ്.[/ml] [ta]இரண்டு கிப்லாக்களின் பள்ளிவாசல் என்று அழைக்கப்படுகிறது, இங்குதான் தொழுகையின் திசையை ஜெருசலேமிலிருந்து மக்காவிற்கு மாற்றுவதற்கான கட்டளை பெறப்பட்டது.[/ta]",
     "latitude": 24.484083,
@@ -97,7 +97,7 @@
     "socialLinks": []
   },
   {
-    "id": "l5",
+    "id": "cave_hira",
     "name": "[en]Cave of Hira (Jabal al-Nour)[/en] [ms]Gua Hira (Jabal al-Nour)[/ms] [ml]ഹിറാ ഗുഹ (ജബലുന്നൂർ)[/ml] [ta]ஹிரா குகை (ஜபல் அல்-நூர்)[/ta]",
     "description": "[en]The cave where the Prophet ﷺ received the first revelation of the Quran from Angel Jibreel.[/en] [ms]Gua di mana Rasulullah ﷺ menerima wahyu Al-Quran yang pertama daripada Malaikat Jibril.[/ms] [ml]ജിബ്രീൽ എന്ന മലക്കിൽ നിന്ന് മുഹമ്മദ് നബി ﷺ ഖുർആനിലെ ആദ്യത്തെ വെളിപാട് സ്വീകരിച്ച ഗുഹയാണിത്.[/ml] [ta]ஜிப்ரீல் (அலை) மூலம் நபிகள் நாயகம் ﷺ அவர்கள் குர்ஆனின் முதல் வசனத்தைப் பெற்ற குகை இதுவாகும்.[/ta]",
     "latitude": 21.45335,
@@ -110,7 +110,7 @@
     "socialLinks": []
   },
   {
-    "id": "l6",
+    "id": "masjid_al_nabawi",
     "name": "[en]Masjid al-Nabawi[/en] [ms]Masjid al-Nabawi[/ms] [ml]മസ്ജിദുന്നബവി[/ml] [ta]மஸ்ஜிதுன் நபவி[/ta]",
     "description": "[en]The Prophet's Mosque in Medina, established by Prophet Muhammad ﷺ. It is the second holiest site in Islam after Masjid al-Haram.[/en] [ms]Masjid Nabawi di Madinah, yang dibina oleh Nabi Muhammad ﷺ. Ia adalah tapak kedua paling suci dalam Islam selepas Masjidil Haram.[/ms] [ml]മദീനയിലെ പ്രവാചകൻ്റെ പള്ളി, മുഹമ്മദ് നബി ﷺ സ്ഥാപിച്ചത്. മസ്ജിദുൽ ഹറാം കഴിഞ്ഞാൽ ഇസ്‌ലാമിലെ രണ്ടാമത്തെ വിശുദ്ധ സ്ഥലമാണിത്.[/ml] [ta]மதினாவில் உள்ள நபிகள் நாயகத்தின் பள்ளிவாசல், இது முஹம்மது நபி ﷺ அவர்களால் கட்டப்பட்டது. மஸ்ஜிதுல் ஹராமுக்கு அடுத்தபடியாக இஸ்லாத்தின் இரண்டாவது புனிதமான இடமாகும்.[/ta]",
     "latitude": 24.4672,
@@ -151,7 +151,7 @@
     "socialLinks": []
   },
   {
-    "id": "l7",
+    "id": "safa_marwah",
     "name": "[en]Safa & Marwah Hills[/en] [ms]Bukit Safa & Marwah[/ms] [ml]സഫാ-മർവ്വ കുന്നുകൾ[/ml] [ta]ஸபா & மர்வா குன்றுகள்[/ta]",
     "description": "[en]The hills of Safa and Marwah inside Masjid al-Haram where Sa'i (walking) is performed during Umrah and Hajj.[/en] [ms]Bukit Safa dan Marwah di dalam Masjidil Haram di mana Sa'ie (berjalan) dilakukan semasa Umrah dan Haji.[/ms] [ml]മസ്ജിദുൽ ഹറാമിനുള്ളിലെ സഫാ, മർവ്വ കുന്നുകൾ. ഹജ്ജ്, ഉംറ വേളകളിൽ ഇവിടെയാണ് സഅ്‌യ് (നടത്തം) നിർവഹിക്കുന്നത്.[/ml] [ta]மஸ்ஜிதுல் ஹராமிற்குள் உள்ள ஸபா மற்றும் மர்வா குன்றுகள், இங்குதான் உம்றா மற்றும் ஹஜ்ஜின் போது ஸயீ (நடத்தல்) செய்யப்படுகிறது.[/ta]",
     "latitude": 21.4242,
@@ -163,7 +163,7 @@
     "socialLinks": []
   },
   {
-    "id": "l8",
+    "id": "unnamed_l8",
     "name": "Unnamed Location",
     "description": "",
     "latitude": 3.1724047,
@@ -175,7 +175,7 @@
     "socialLinks": []
   },
   {
-    "id": "l9",
+    "id": "corner_depan",
     "name": "corner depan",
     "description": "",
     "latitude": 3.1723578,
@@ -358,7 +358,7 @@
     "socialLinks": []
   },
   {
-    "id": "l10",
+    "id": "mount_uhud",
     "name": "[en]Mount Uhud[/en] [ms]Bukit Uhud[/ms] [ml]ഉഹുദ് പർവ്വതം[/ml] [ta]உஹுத் மலை[/ta]",
     "description": "[en]The site of the second major battle in Islamic history (Battle of Uhud, 625 CE). This sacred mountain in Medina is traditionally said to be 'a mountain that loves us and we love it.'[/en] [ms]Tapak pertempuran besar kedua dalam sejarah Islam (Perang Uhud, 625 M). Bukit suci di Madinah ini secara tradisinya dikatakan sebagai 'bukit yang mencintai kami dan kami mencintainya.'[/ms] [ml]ഇസ്‌ലാമിക ചരിത്രത്തിലെ രണ്ടാമത്തെ വലിയ യുദ്ധം (ഉഹുദ് യുദ്ധം, ക്രിസ്തുവർഷം 625) നടന്ന സ്ഥലം. 'നമ്മെ സ്നേഹിക്കുന്ന പർവ്വതം' എന്നാണ് മുഹമ്മദ് നബി ﷺ ഈ മലയെ വിശേഷിപ്പിച്ചത്.[/ml] [ta]இஸ்லாமிய வரலாற்றின் இரண்டாவது பெரிய போர் (உஹுத் போர், கி.பி 625) நடந்த இடம். மதினாவில் உள்ள இந்த புனித மலை 'நம்மை நேசிக்கும் மலை, நாமும் அதை நேசிக்கிறோம்' என்று பாரம்பரியமாக சொல்லப்படுகிறது.[/ta]",
     "latitude": 24.521528,
@@ -371,7 +371,7 @@
     "socialLinks": []
   },
   {
-    "id": "l11",
+    "id": "mount_rumat",
     "name": "[en]Mount Rumat (Archers' Hill)[/en] [ms]Bukit Rumat (Bukit Pemanah)[/ms] [ml]ജബൽ റുമാത്ത് (അമ്പെയ്ത്തുകാരുടെ കുന്ന്)[/ml] [ta]ஜபல் ருமாத் (வில்வீரர்கள் குன்று)[/ta]",
     "description": "[en]Originally known as Mount Sulh, this is the strategic hill in Medina where the Prophet ﷺ stationed the archers during the Battle of Uhud.[/en] [ms]Asalnya dikenali sebagai Bukit Sulh, ini ialah bukit strategik di Madinah di mana Rasulullah ﷺ menempatkan pemanah semasa Perang Uhud.[/ms] [ml]ഉഹുദ് യുദ്ധവേളയിൽ മുഹമ്മദ് നബി ﷺ അമ്പെയ്ത്തുകാരെ നിർത്തിയ തന്ത്രപ്രധാനമായ കുന്ന്. ജബൽ റുമാത്ത് എന്നും ഇത് അറിയപ്പെടുന്നു.[/ml] [ta]உஹுத் போரின் போது நபிகள் நாயகம் ﷺ அவர்கள் வில்வீரர்களை நிறுத்திய மதினாவில் உள்ள ஒரு முக்கியமான குன்று இதுவாகும்.[/ta]",
     "latitude": 24.477083,
@@ -384,7 +384,7 @@
     "socialLinks": []
   },
   {
-    "id": "l12",
+    "id": "masjid_quba",
     "name": "[en]Masjid Quba[/en] [ms]Masjid Quba[/ms] [ml]മസ്ജിദ് ഖുബ[/ml] [ta]மஸ்ஜித் குபா[/ta]",
     "description": "[en]The first mosque in Islamic history, its foundation stone was laid by Prophet Muhammad ﷺ upon his arrival in Madinah.[/en] [ms]Masjid pertama dalam sejarah Islam, batu asasnya diletakkan oleh Nabi Muhammad ﷺ setibanya baginda di Madinah.[/ms] [ml]ഇസ്‌ലാമിക ചരിത്രത്തിലെ ആദ്യത്തെ പള്ളി. മുഹമ്മദ് നബി ﷺ മദീനയിലെത്തിയപ്പോൾ ആദ്യം പണിത പള്ളിയാണിത്.[/ml] [ta]இஸ்லாமிய வரலாற்றின் முதல் பள்ளிவாசல், முஹம்மது நபி ﷺ அவர்கள் மதினா வந்தடைந்தவுடன் இதன் அடிக்கல் அவர்களால் நாட்டப்பட்டது.[/ta]",
     "latitude": 24.439167,
@@ -396,7 +396,7 @@
     "socialLinks": []
   },
   {
-    "id": "l13",
+    "id": "masjid_jumuah",
     "name": "[en]Masjid Jumu'ah[/en] [ms]Masjid Jumu'ah[/ms] [ml]മസ്ജിദ് ജുമുഅ[/ml] [ta]மஸ்ஜித் ஜுமுஆ[/ta]",
     "description": "[en]Marks the site where the Prophet ﷺ led the first Friday (Jumu'ah) prayer after his migration to Madinah.[/en] [ms]Menandakan tapak di mana Rasulullah ﷺ mengimamkan solat Jumaat yang pertama selepas hijrah baginda ke Madinah.[/ms] [ml]മദീനയിലേക്കുള്ള ഹിജ്‌റയ്ക്ക് ശേഷം മുഹമ്മദ് നബി ﷺ ആദ്യമായി ജുമുഅ നമസ്‌കാരത്തിന് നേതൃത്വം നൽകിയ സ്ഥലം.[/ml] [ta]நபிகள் நாயகம் ﷺ அவர்கள் மதினாவிற்கு ஹிஜ்ரத் செய்த பிறகு முதல் ஜுமுஆ தொழுகையை நடத்திய இடமாகும்.[/ta]",
     "latitude": 24.4455,
@@ -408,7 +408,7 @@
     "socialLinks": []
   },
   {
-    "id": "l14",
+    "id": "masjid_shaikhain",
     "name": "[en]Masjid Shaikhain[/en] [ms]Masjid Shaikhain[/ms] [ml]മസ്ജിദ് ശൈഖൈൻ[/ml] [ta]மஸ்ஜித் ஷைக்கைன்[/ta]",
     "description": "[en]Marks the location where the Prophet ﷺ prayed and inspected his troops on the eve of the Battle of Uhud.[/en] [ms]Menandakan lokasi di mana Rasulullah ﷺ bersolat dan memeriksa tenteranya menjelang Perang Uhud.[/ms] [ml]ഉഹുദ് യുദ്ധത്തിന് മുന്നോടിയായി മുഹമ്മദ് നബി ﷺ സൈന്യത്തെ പരിശോധിക്കുകയും പ്രാർത്ഥിക്കുകയും ചെയ്ത സ്ഥലം.[/ml] [ta]உஹுத் போருக்கு முன்னதாக நபிகள் நாயகம் ﷺ அவர்கள் தனது படைகளை ஆய்வு செய்து தொழுத இடமாகும்.[/ta]",
     "latitude": 24.489398271080496,
@@ -435,7 +435,7 @@
     "socialLinks": []
   },
   {
-    "id": "l15",
+    "id": "masjid_mustarahah",
     "name": "[en]Masjid Mustarahah[/en] [ms]Masjid Mustarahah[/ms] [ml]മസ്ജിദ് മുസ്തറാഹ[/ml] [ta]மஸ்ஜித் முஸ்தராஹா[/ta]",
     "description": "[en]Marks the location where the Prophet ﷺ rested and offered prayers while returning from the Battle of Uhud.[/en] [ms]Menandakan lokasi di mana Rasulullah ﷺ berehat dan bersolat semasa pulang dari Perang Uhud.[/ms] [ml]ഉഹുദ് യുദ്ധത്തിൽ നിന്ന് മടങ്ങുമ്പോൾ മുഹമ്മദ് നബി ﷺ വിശ്രമിക്കുകയും പ്രാർത്ഥിക്കുകയും ചെയ്ത സ്ഥലം.[/ml] [ta]உஹுத் போரில் இருந்து திரும்பும் போது நபிகள் நாயகம் ﷺ அவர்கள் ஓய்வெடுத்துத் தொழுத இடமாகும்.[/ta]",
     "latitude": 24.491867229445543,
@@ -462,7 +462,7 @@
     "socialLinks": []
   },
   {
-    "id": "l16",
+    "id": "masjid_fatah",
     "name": "[en]Masjid Fatah[/en] [ms]Masjid Fatah[/ms] [ml]മസ്ജിദ് ഫതഹ്[/ml] [ta]மஸ்ஜித் ஃபதஹ்[/ta]",
     "description": "[en]The largest of the 'Seven Mosques,' marking the spot where the Prophet ﷺ supplicated for victory during the Battle of the Trench.[/en] [ms]Masjid terbesar daripada 'Tujuh Masjid,' yang menandakan tempat di mana Rasulullah ﷺ memohon kemenangan semasa Perang Khandaq.[/ms] [ml]ഖന്ദഖ് യുദ്ധവേളയിൽ മുഹമ്മദ് നബി ﷺ വിജയത്തിനായി പ്രാർത്ഥിച്ച സ്ഥലം. 'ഏഴ് പള്ളികളിൽ' ഏറ്റവും വലുതാണിത്.[/ml] [ta]அகழ் போரின் போது நபிகள் நாயகம் ﷺ அவர்கள் வெற்றிக்காகப் பிரார்த்தித்த இடத்தைக் குறிக்கும் 'ஏழு பள்ளிவாசல்களில்' இது மிகப்பெரியது.[/ta]",
     "latitude": 24.476389,
@@ -474,7 +474,7 @@
     "socialLinks": []
   },
   {
-    "id": "l17",
+    "id": "masjid_fasah",
     "name": "[en]Masjid Fasah[/en] [ms]Masjid Fasah[/ms] [ml]മസ്ജിദ് ഫസഹ്[/ml] [ta]மஸ்ஜித் ஃபஸஹ்[/ta]",
     "description": "[en]A small historical mosque at the foot of Mount Uhud where the Prophet ﷺ performed Dhuhr prayer on the day of the battle.[/en] [ms]Sebuah masjid bersejarah kecil di kaki Bukit Uhud di mana Rasulullah ﷺ menunaikan solat Zohor pada hari peperangan.[/ms] [ml]ഉഹുദ് മലയുടെ താഴെ സ്ഥിതി ചെയ്യുന്ന ചെറിയ ചരിത്ര പള്ളി. യുദ്ധദിവസം മുഹമ്മദ് നബി ﷺ ഇവിടെ വെച്ച് ളുഹർ നമസ്‌കരിച്ചിരുന്നു.[/ml] [ta]உஹுத் மலையின் அடிவாரத்தில் உள்ள ஒரு சிறிய வரலாற்றுப் பள்ளிவாசல், இங்குதான் போர் நடந்த அன்று நபிகள் நாயகம் ﷺ அவர்கள் ளுஹர் தொழுகையை நடத்தினார்கள்.[/ta]",
     "latitude": 24.51000398284482,
@@ -642,5 +642,117 @@
     "videoUrls": [],
     "imageUrls": [],
     "socialLinks": []
+  },
+  {
+    "id": "valley_of_rowha",
+    "name": "[en]Valley of Rowha[/en] [ms]Lembah Rowha[/ms]",
+    "description": "[en]A famous valley on the road between Makkah and Madinah where seventy Prophets are said to have prayed.[/en] [ms]Lembah terkenal di jalan antara Makkah dan Madinah di mana tujuh puluh Nabi dikatakan pernah bersolat.[/ms]",
+    "latitude": 24.015,
+    "longitude": 39.296,
+    "type": "Historical"
+  },
+  {
+    "id": "zi_tuwa",
+    "name": "[en]Well of Tuwa[/en] [ms]Telaga Tuwa[/ms]",
+    "description": "[en]The well in the valley of Tuwa where the Prophet ﷺ bathed before entering Makkah.[/en] [ms]Telaga di lembah Tuwa di mana Rasulullah ﷺ mandi sebelum memasuki Makkah.[/ms]",
+    "latitude": 21.4398,
+    "longitude": 39.8131,
+    "type": "Historical"
+  },
+  {
+    "id": "zam_zam",
+    "name": "[en]Zamzam Well[/en] [ms]Telaga Zamzam[/ms]",
+    "description": "[en]The sacred well located within the Masjid al-Haram, which miraculously sprang forth to nourish Hajar and Ismail.[/en] [ms]Telaga suci yang terletak di dalam Masjidil Haram, yang memancar secara mukjizat untuk menyuburkan Hajar dan Ismail.[/ms]",
+    "latitude": 21.422,
+    "longitude": 39.8262,
+    "type": "Holy Site"
+  },
+  {
+    "id": "mina",
+    "name": "[en]Mina Valley[/en] [ms]Lembah Mina[/ms]",
+    "description": "[en]The valley of tents where pilgrims spend the nights of Tashreeq during Hajj.[/en] [ms]Lembah khemah tempat jemaah haji bermalam pada hari-hari Tashreeq semasa Haji.[/ms]",
+    "latitude": 21.4161,
+    "longitude": 39.8914,
+    "type": "Historical"
+  },
+  {
+    "id": "namirah",
+    "name": "[en]Masjid Namirah[/en] [ms]Masjid Namirah[/ms]",
+    "description": "[en]The mosque in Arafat where the Prophet ﷺ delivered his sermon and combined the Zuhr and Asr prayers.[/en] [ms]Masjid di Arafah tempat Rasulullah ﷺ menyampaikan khutbah dan menjamakkan solat Zohor dan Asar.[/ms]",
+    "latitude": 21.350833,
+    "longitude": 39.967778,
+    "type": "Mosque"
+  },
+  {
+    "id": "wadi_uranah",
+    "name": "[en]Uranah Valley[/en] [ms]Lembah Uranah[/ms]",
+    "description": "[en]The valley next to Arafat where the Prophet ﷺ delivered the historic Farewell Sermon.[/en] [ms]Lembah bersebelahan Arafah tempat Rasulullah ﷺ menyampaikan Khutbah Wida' yang bersejarah.[/ms]",
+    "latitude": 21.353,
+    "longitude": 39.967,
+    "type": "Historical"
+  },
+  {
+    "id": "arafat",
+    "name": "[en]Mount Arafat[/en] [ms]Bukit Arafah[/ms]",
+    "description": "[en]The plain of Arafat where standing (Wuquf) on the 9th of Dhul Hijjah is the core ritual of Hajj.[/en] [ms]Padang Arafah tempat berwukuf pada 9 Zulhijjah yang merupakan rukun terpenting ibadah Haji.[/ms]",
+    "latitude": 21.3547,
+    "longitude": 39.984,
+    "type": "Holy Site"
+  },
+  {
+    "id": "muzdalifah",
+    "name": "[en]Muzdalifah[/en] [ms]Muzdalifah[/ms]",
+    "description": "[en]The open area between Arafat and Mina where pilgrims spend the night after the day at Arafat.[/en] [ms]Kawasan terbuka antara Arafah dan Mina tempat jemaah haji bermalam selepas hari Arafah.[/ms]",
+    "latitude": 21.395,
+    "longitude": 39.932,
+    "type": "Holy Site"
+  },
+  {
+    "id": "wadi_muhassar",
+    "name": "[en]Wadi Muhassir[/en] [ms]Lembah Muhassir[/ms]",
+    "description": "[en]The valley between Mina and Muzdalifah where the Army of Elephants was destroyed.[/en] [ms]Lembah antara Mina dan Muzdalifah di mana Tentera Bergajah dimusnahkan.[/ms]",
+    "latitude": 21.402,
+    "longitude": 39.916,
+    "type": "Historical"
+  },
+  {
+    "id": "mina_slaughter",
+    "name": "[en]Mina Sacrifice Area[/en] [ms]Kawasan Sembelihan Mina[/ms]",
+    "description": "[en]The designated area in Mina where Hajj pilgrims offer sacrifice (Qurbani).[/en] [ms]Kawasan yang ditetapkan di Mina di mana jemaah haji melakukan ibadah korban.[/ms]",
+    "latitude": 21.414,
+    "longitude": 39.897,
+    "type": "Historical"
+  },
+  {
+    "id": "mina_tashreeq",
+    "name": "[en]Mina Tashreeq Tents[/en] [ms]Khemah Tashreeq Mina[/ms]",
+    "description": "[en]The tents in Mina where pilgrims stay during the days of Tashreeq.[/en] [ms]Khemah di Mina tempat jemaah haji tinggal semasa hari-hari Tashreeq.[/ms]",
+    "latitude": 21.4161,
+    "longitude": 39.8914,
+    "type": "Historical"
+  },
+  {
+    "id": "mahaab",
+    "name": "[en]Al-Mahaab Camp[/en] [ms]Kem Al-Mahaab[/ms]",
+    "description": "[en]The place where the Prophet ﷺ camped outside Makkah, historically also known as Bathaa.[/en] [ms]Tempat di mana Rasulullah ﷺ berkhemah di luar Makkah, dari segi sejarah juga dikenali sebagai Bathaa.[/ms]",
+    "latitude": 21.435,
+    "longitude": 39.832,
+    "type": "Historical"
+  },
+  {
+    "id": "tanaim",
+    "name": "[en]Taneem (Masjid Aisha)[/en] [ms]Taneem (Masjid Aisha)[/ms]",
+    "description": "[en]The location of Masjid Aisha, which serves as a Miqat boundary for those in Makkah wishing to perform Umrah.[/en] [ms]Lokasi Masjid Aisha, yang berfungsi sebagai sempadan Miqat bagi mereka di Makkah yang ingin menunaikan Umrah.[/ms]",
+    "latitude": 21.4883,
+    "longitude": 39.7997,
+    "type": "Miqat"
+  },
+  {
+    "id": "ghadeer_khum",
+    "name": "[en]Ghadeer Khum[/en] [ms]Tasik Khum[/ms]",
+    "description": "[en]A pond located between Makkah and Madinah where the Prophet ﷺ stopped and gave a famous sermon.[/en] [ms]Kolam yang terletak di antara Makkah dan Madinah tempat Rasulullah ﷺ berhenti dan menyampaikan khutbah yang terkenal.[/ms]",
+    "latitude": 22.808,
+    "longitude": 39.183,
+    "type": "Historical"
   }
 ]

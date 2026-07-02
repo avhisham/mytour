@@ -1,6 +1,6 @@
 {
   "id": "farewell_pilgrimage_complete_story",
-  "locationId": "madinah",
+  "locationId": "masjid_al_nabawi",
   "autoPlay": false,
   "title": {
     "en": "The Farewell Pilgrimage: The Complete Story"
@@ -13,7 +13,7 @@
       "title": {
         "en": "Madinah: The Departure"
       },
-      "locationId": "madinah",
+      "locationId": "masjid_al_nabawi",
       "sentences": [
         {
           "text": {
@@ -34,7 +34,7 @@
       "title": {
         "en": "Dulhulaifah: Donning the Ihram"
       },
-      "locationId": "zul_hulaifa",
+      "locationId": "dhul_hulaifah",
       "sentences": [
         {
           "text": {
@@ -118,7 +118,7 @@
       "title": {
         "en": "Tawaf: Circumambulating the Kaaba"
       },
-      "locationId": "kaaba",
+      "locationId": "kaabah",
       "sentences": [
         {
           "text": {
@@ -307,7 +307,7 @@
       "title": {
         "en": "Aqabah: Stoning the Jamrah"
       },
-      "locationId": "jamaratul_aqaba",
+      "locationId": "jamarah_aqabah",
       "sentences": [
         {
           "text": {
@@ -349,7 +349,7 @@
       "title": {
         "en": "Makkah: Tawaf-uz-Ziyaarah"
       },
-      "locationId": "makkah_ziyaarah",
+      "locationId": "masjid_al_haram",
       "sentences": [
         {
           "text": {
@@ -433,7 +433,7 @@
       "title": {
         "en": "Mekah: The Farewell Tawaf"
       },
-      "locationId": "makkah_farewell",
+      "locationId": "masjid_al_haram",
       "sentences": [
         {
           "text": {
@@ -475,7 +475,7 @@
       "title": {
         "en": "Madinah: The Triumphant Return"
       },
-      "locationId": "madinah_return",
+      "locationId": "masjid_al_nabawi",
       "sentences": [
         {
           "text": {
