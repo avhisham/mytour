@@ -1,0 +1,412 @@
+{
+  "version": 8,
+  "name": "MakkahHighContrast",
+  "glyphs": "{{GLYPHS_URL}}",
+  "sources": {
+    "openmaptiles": {
+      "type": "vector",
+      "tiles": ["mbtiles://{{MBTILES_PATH}}"],
+      "minzoom": 0,
+      "maxzoom": 14
+    },
+
+    "landmarks": {
+      "type": "geojson",
+      "data": {
+        "type": "FeatureCollection",
+        "features": []
+      }
+    },
+    "ritual_path": {
+      "type": "geojson",
+      "data": {
+        "type": "FeatureCollection",
+        "features": []
+      }
+    }
+  },
+  "layers": [
+    {
+      "id": "background",
+      "type": "background",
+      "paint": {
+        "background-color": "#C2B280"
+      }
+    },
+    {
+      "id": "sand_grit",
+      "type": "fill",
+      "source": "openmaptiles",
+      "source-layer": "landuse",
+      "filter": ["==", "class", "sand"],
+      "paint": {
+        "fill-color": "#B8A978",
+        "fill-opacity": 0.3
+      }
+    },
+    {
+      "id": "hills",
+      "type": "hillshade",
+      "source": "terrain",
+      "paint": {
+        "hillshade-shadow-color": "#473b2a",
+        "hillshade-highlight-color": "#ffffff",
+        "hillshade-accent-color": "#8c7e6c"
+      }
+    },
+    {
+      "id": "landuse_park",
+      "type": "fill",
+      "source": "openmaptiles",
+      "source-layer": "landuse",
+      "filter": [
+        "in",
+        "class",
+        "park",
+        "pitch",
+        "garden"
+      ],
+      "paint": {
+        "fill-color": "#A1AF97"
+      }
+    },
+    {
+      "id": "water",
+      "type": "fill",
+      "source": "openmaptiles",
+      "source-layer": "water",
+      "paint": {
+        "fill-color": "#4A90E2"
+      }
+    },
+    {
+      "id": "road_minor_casing",
+      "type": "line",
+      "source": "openmaptiles",
+      "source-layer": "transportation",
+      "filter": [
+        "in",
+        "class",
+        "minor",
+        "service",
+        "track"
+      ],
+      "paint": {
+        "line-color": "#8D6E63",
+        "line-width": [
+          "interpolate",
+          [
+            "linear"
+          ],
+          [
+            "zoom"
+          ],
+          12,
+          1.5,
+          16,
+          3.5
+        ]
+      }
+    },
+    {
+      "id": "road_minor",
+      "type": "line",
+      "source": "openmaptiles",
+      "source-layer": "transportation",
+      "filter": [
+        "in",
+        "class",
+        "minor",
+        "service",
+        "track"
+      ],
+      "paint": {
+        "line-color": "#FFFFFF",
+        "line-width": [
+          "interpolate",
+          [
+            "linear"
+          ],
+          [
+            "zoom"
+          ],
+          12,
+          0.8,
+          16,
+          2.2
+        ]
+      }
+    },
+    {
+      "id": "road_primary_casing",
+      "type": "line",
+      "source": "openmaptiles",
+      "source-layer": "transportation",
+      "filter": [
+        "in",
+        "class",
+        "primary",
+        "trunk",
+        "secondary",
+        "highway"
+      ],
+      "paint": {
+        "line-color": "#5D4037",
+        "line-width": [
+          "interpolate",
+          [
+            "linear"
+          ],
+          [
+            "zoom"
+          ],
+          12,
+          2.8,
+          16,
+          7
+        ]
+      }
+    },
+    {
+      "id": "road_primary",
+      "type": "line",
+      "source": "openmaptiles",
+      "source-layer": "transportation",
+      "filter": [
+        "in",
+        "class",
+        "primary",
+        "trunk",
+        "secondary",
+        "highway"
+      ],
+      "paint": {
+        "line-color": "#FFF3E0",
+        "line-width": [
+          "interpolate",
+          [
+            "linear"
+          ],
+          [
+            "zoom"
+          ],
+          12,
+          1.4,
+          16,
+          4.5
+        ]
+      }
+    },
+    {
+      "id": "road_motorway_casing",
+      "type": "line",
+      "source": "openmaptiles",
+      "source-layer": "transportation",
+      "filter": [
+        "==",
+        "class",
+        "motorway"
+      ],
+      "paint": {
+        "line-color": "#3E2723",
+        "line-width": [
+          "interpolate",
+          [
+            "linear"
+          ],
+          [
+            "zoom"
+          ],
+          12,
+          4,
+          16,
+          10
+        ]
+      }
+    },
+    {
+      "id": "road_motorway",
+      "type": "line",
+      "source": "openmaptiles",
+      "source-layer": "transportation",
+      "filter": [
+        "==",
+        "class",
+        "motorway"
+      ],
+      "paint": {
+        "line-color": "#E67E22",
+        "line-width": [
+          "interpolate",
+          [
+            "linear"
+          ],
+          [
+            "zoom"
+          ],
+          12,
+          2.2,
+          16,
+          7
+        ]
+      }
+    },
+    {
+      "id": "buildings-3d",
+      "type": "fill-extrusion",
+      "source": "openmaptiles",
+      "source-layer": "building",
+      "minzoom": 13,
+      "paint": {
+        "fill-extrusion-color": [
+          "case",
+          ["==", ["get", "class"], "hospital"], "#2E7D32",
+          ["in", ["get", "class"], ["literal", ["medical", "pharmacy", "clinic"]]], "#66BB6A",
+          "#E0E0E0"
+        ],
+        "fill-extrusion-height": [
+          "interpolate",
+          ["linear"],
+          ["zoom"],
+          15,
+          0,
+          15.1,
+          ["coalesce", ["get", "render_height"], 10]
+        ],
+        "fill-extrusion-base": [
+          "interpolate",
+          ["linear"],
+          ["zoom"],
+          15,
+          0,
+          15.1,
+          ["coalesce", ["get", "render_min_height"], 0]
+        ],
+        "fill-extrusion-opacity": 0.8
+      }
+    },
+    {
+      "id": "building-outlines",
+      "type": "line",
+      "source": "openmaptiles",
+      "source-layer": "building",
+      "minzoom": 13,
+      "paint": {
+        "line-color": "#000000",
+        "line-width": 0.5,
+        "line-opacity": 0.3
+      }
+    },
+
+
+    {
+      "id": "ritual_path",
+      "type": "line",
+      "source": "ritual_path",
+      "paint": {
+        "line-color": "#00E676",
+        "line-width": 3.5,
+        "line-dasharray": [
+          2,
+          2
+        ],
+        "line-opacity": 0.8
+      }
+    },
+    {
+      "id": "ritual_badges",
+      "type": "circle",
+      "source": "landmarks",
+      "paint": {
+        "circle-radius": [
+          "case",
+          [
+            "get",
+            "is_current"
+          ],
+          22,
+          15
+        ],
+        "circle-color": "#2E7D32",
+        "circle-stroke-width": 2,
+        "circle-stroke-color": "#FFFFFF",
+        "circle-opacity": 1.0
+      }
+    },
+    {
+      "id": "ritual_numbers",
+      "type": "symbol",
+      "source": "landmarks",
+      "layout": {
+        "text-field": [
+          "get",
+          "number"
+        ],
+        "text-font": ["literal", ["Noto Sans Regular"]],
+        "text-size": [
+          "case",
+          [
+            "get",
+            "is_current"
+          ],
+          14,
+          11
+        ],
+        "text-allow-overlap": false,
+        "text-ignore-placement": false
+      },
+      "paint": {
+        "text-color": "#FFFFFF"
+      }
+    },
+    {
+      "id": "landmark_dots",
+      "type": "circle",
+      "source": "landmarks",
+      "paint": {
+        "circle-radius": [
+          "case",
+          ["get", "is_current"], 6,
+          4
+        ],
+        "circle-color": "#2E7D32",
+        "circle-stroke-width": 2,
+        "circle-stroke-color": "#FFFFFF",
+        "circle-opacity": 0.9
+      }
+    },
+    {
+      "id": "landmark_symbols",
+      "type": "symbol",
+      "source": "landmarks",
+      "layout": {
+        "text-field": [
+          "get",
+          "name"
+        ],
+        "text-font": ["literal", ["Noto Sans Regular"]],
+        "text-size": [
+          "case",
+          [
+            "get",
+            "is_current"
+          ],
+          13,
+          11
+        ],
+        "text-offset": [
+          0,
+          1.2
+        ],
+        "text-anchor": "top",
+        "text-allow-overlap": true,
+        "text-ignore-placement": true
+      },
+      "paint": {
+        "text-color": "#212121",
+        "text-halo-color": "#FFFFFF",
+        "text-halo-width": 2
+      }
+    }
+  ]
+}
