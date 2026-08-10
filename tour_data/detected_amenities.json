@@ -1,0 +1,221 @@
+{
+  "summary": {
+    "unique_amenities_count": 18,
+    "unique_shops_count": 19
+  },
+  "all_unique_amenities": [
+    "atm",
+    "bank;cafe",
+    "bar",
+    "bureau_de_change",
+    "bureau_de_change;fast_food",
+    "bus_station",
+    "cafe",
+    "clinic",
+    "drinking_water",
+    "fast_food",
+    "hospital",
+    "internet_cafe",
+    "place_of_worship",
+    "post_office",
+    "restaurant",
+    "shelter",
+    "taxi",
+    "toilets"
+  ],
+  "all_unique_shops": [
+    "bakery",
+    "clothes",
+    "coffee",
+    "confectionery",
+    "convenience",
+    "florist",
+    "general",
+    "gift",
+    "greengrocer",
+    "hobby",
+    "kiosk",
+    "mall",
+    "pastry",
+    "res",
+    "sports",
+    "supermarket",
+    "tea",
+    "ticket",
+    "yes"
+  ],
+  "details_by_region": {
+    "amenities_badar.geojson": {
+      "amenities": [
+        "cafe",
+        "hospital",
+        "place_of_worship",
+        "restaurant"
+      ],
+      "shops": [
+        "convenience",
+        "supermarket"
+      ],
+      "total_features": 53
+    },
+    "amenities_jeddah.geojson": {
+      "amenities": [
+        "bank;cafe",
+        "bureau_de_change;fast_food",
+        "cafe",
+        "clinic",
+        "fast_food",
+        "hospital",
+        "place_of_worship",
+        "restaurant",
+        "taxi",
+        "toilets"
+      ],
+      "shops": [
+        "bakery",
+        "clothes",
+        "coffee",
+        "convenience",
+        "mall",
+        "supermarket"
+      ],
+      "total_features": 1796
+    },
+    "amenities_kl.geojson": {
+      "amenities": [
+        "bar",
+        "bus_station",
+        "cafe",
+        "clinic",
+        "drinking_water",
+        "fast_food",
+        "hospital",
+        "internet_cafe",
+        "place_of_worship",
+        "post_office",
+        "restaurant",
+        "shelter",
+        "taxi",
+        "toilets"
+      ],
+      "shops": [
+        "bakery",
+        "clothes",
+        "convenience",
+        "florist",
+        "general",
+        "gift",
+        "greengrocer",
+        "hobby",
+        "mall",
+        "pastry",
+        "res",
+        "sports",
+        "supermarket",
+        "tea",
+        "ticket"
+      ],
+      "total_features": 12895
+    },
+    "amenities_madinah.geojson": {
+      "amenities": [
+        "bureau_de_change",
+        "cafe",
+        "clinic",
+        "drinking_water",
+        "fast_food",
+        "hospital",
+        "place_of_worship",
+        "restaurant",
+        "toilets"
+      ],
+      "shops": [
+        "clothes",
+        "confectionery",
+        "convenience",
+        "mall",
+        "supermarket"
+      ],
+      "total_features": 662
+    },
+    "amenities_makkah.geojson": {
+      "amenities": [
+        "bus_station",
+        "cafe",
+        "clinic",
+        "drinking_water",
+        "fast_food",
+        "hospital",
+        "internet_cafe",
+        "place_of_worship",
+        "restaurant",
+        "taxi",
+        "toilets"
+      ],
+      "shops": [
+        "clothes",
+        "convenience",
+        "mall",
+        "supermarket",
+        "yes"
+      ],
+      "total_features": 1243
+    },
+    "amenities_selangor.geojson": {
+      "amenities": [
+        "atm",
+        "bar",
+        "bus_station",
+        "cafe",
+        "clinic",
+        "drinking_water",
+        "fast_food",
+        "hospital",
+        "internet_cafe",
+        "place_of_worship",
+        "post_office",
+        "restaurant",
+        "shelter",
+        "taxi",
+        "toilets"
+      ],
+      "shops": [
+        "bakery",
+        "clothes",
+        "coffee",
+        "convenience",
+        "florist",
+        "general",
+        "gift",
+        "greengrocer",
+        "hobby",
+        "kiosk",
+        "mall",
+        "pastry",
+        "res",
+        "sports",
+        "supermarket",
+        "tea",
+        "ticket"
+      ],
+      "total_features": 22475
+    },
+    "amenities_taif.geojson": {
+      "amenities": [
+        "cafe",
+        "drinking_water",
+        "fast_food",
+        "hospital",
+        "place_of_worship",
+        "restaurant",
+        "toilets"
+      ],
+      "shops": [
+        "clothes",
+        "convenience",
+        "supermarket"
+      ],
+      "total_features": 307
+    }
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "_comment": "Consolidated Sa'i trips. Replaces trip1_details.json through trip7_details.json. Parser resolves {trip} and {direction} at load time. Each trip expands into 4 cards (5 for trip 7).",
+  "ritual": "saei",
+  "total_trips": 7,
+  "card_templates": {
+    "begin_safa": {
+      "_comment": "Used for trips 1, 3, 5, 7 — starting at Safa",
+      "titlePattern": "At Safa — Begin Trip {trip}",
+      "description": "Climb the steps of Safa, face the direction of the Kaabah, raise your hands and recite the niyyah dua. Begin with what Allah began with.",
+      "mediaItems": [
+        { "type": "image", "url": "image/seaisafa.png" }
+      ],
+      "audio": {
+        "url": "audio/saei_begin_safa.mp3",
+        "subtitles": "saei/begin_safa.json"
+      }
+    },
+    "begin_marwa": {
+      "_comment": "Used for trips 2, 4, 6 — starting at Marwa",
+      "titlePattern": "At Marwa — Begin Trip {trip}",
+      "description": "Climb the steps of Marwa, face the direction of the Kaabah, raise your hands and make dua before walking back toward Safa.",
+      "mediaItems": [
+        { "type": "image", "url": "image/seaimarwa.png" }
+      ],
+      "audio": {
+        "url": "audio/saei_begin_marwa.mp3",
+        "subtitles": "saei/begin_marwa.json"
+      }
+    },
+    "green_area": {
+      "_comment": "Shared for all 7 trips — jog through the green-lit Masa'a section",
+      "titlePattern": "Green Zone — Trip {trip}",
+      "description": "Men: increase your pace (harwala) through the green-lit section of the Masa'a. Women continue at a normal walking pace. Recite: Rabbi-ghfir warḥam wa'fu wa takarram wa tajāwaz 'ammā ta'lam.",
+      "mediaItems": [
+        { "type": "image", "url": "image/seaigreen.png" }
+      ],
+      "audio": {
+        "url": "audio/saei_green.mp3",
+        "subtitles": "saei/saeigreen.json"
+      }
+    },
+    "later_saei": {
+      "_comment": "Shared for all 7 trips — after the green zone, continue to the destination hill",
+      "titlePattern": "Continue — Trip {trip}",
+      "description": "After passing the green zone, resume normal pace and continue toward the destination. Recite: Rabbanā ātinā fid-dunyā hasanatan wa fil-ākhirati hasanatan wa qinā 'adhāban-nār.",
+      "mediaItems": [
+        { "type": "image", "url": "image/seaimarwa.png" }
+      ],
+      "audio": {
+        "url": "audio/saei_later.mp3",
+        "subtitles": "saei/later_saei.json"
+      }
+    },
+    "end_saei": {
+      "_comment": "Trip 7 only — completion of Sa'i",
+      "titlePattern": "Sa'i Complete",
+      "description": "You have completed 7 trips of Sa'i. At Marwa, face the Kaabah, raise your hands and make the acceptance dua. Your Sa'i is now complete.",
+      "mediaItems": [
+        { "type": "image", "url": "image/seaimarwa.png" }
+      ],
+      "audio": {
+        "url": "audio/saei_end.mp3",
+        "subtitles": "saei/end_saei.json"
+      }
+    }
+  },
+  "trips": [
+    {
+      "trip": 1,
+      "direction": "safa_to_marwa",
+      "is_last": false,
+      "start_lat": 21.4221,
+      "start_lng": 39.8275,
+      "dua": {
+        "titlePattern": "Walking Trip {trip} — Safa to Marwa",
+        "description": "Innash-Shafā wal-Marwata min sha'ā'irillāh. Abda'u bimā bada'allāhu bih. (Verily, Safa and Marwah are among the signs of Allah. I begin with that which Allah began with.)",
+        "mediaItems": [
+          { "type": "map", "caption": "Specific Location" }
+        ],
+        "audio": {
+          "url": "audio/saei1.mp3",
+          "subtitles": "saei/saeitrip1.json"
+        }
+      }
+    },
+    {
+      "trip": 2,
+      "direction": "marwa_to_safa",
+      "is_last": false,
+      "start_lat": 21.4252,
+      "start_lng": 39.8272,
+      "dua": {
+        "titlePattern": "Walking Trip {trip} — Marwa to Safa",
+        "description": "Allāhu Akbar, Allāhu Akbar, Allāhu Akbar, wa lillāhil-hamd. (Allah is the Greatest, Allah is the Greatest, Allah is the Greatest, and for Allah is all praise.)",
+        "mediaItems": [
+          { "type": "map", "caption": "Specific Location" }
+        ],
+        "audio": {
+          "url": "audio/saei2.mp3",
+          "subtitles": "saei/saeitrip2.json"
+        }
+      }
+    },
+    {
+      "trip": 3,
+      "direction": "safa_to_marwa",
+      "is_last": false,
+      "start_lat": 21.4221,
+      "start_lng": 39.8275,
+      "dua": {
+        "titlePattern": "Walking Trip {trip} — Safa to Marwa",
+        "description": "Rabbighfir warham wa tajawaz 'amma ta'lam innaka antal-a'azzul-akram. (My Lord, forgive and have mercy and overlook that which You know, for You are the Most Mighty, the Most Noble.)",
+        "mediaItems": [
+          { "type": "map", "caption": "Specific Location" }
+        ],
+        "audio": {
+          "url": "audio/saei3.mp3",
+          "subtitles": "saei/saeitrip3.json"
+        }
+      }
+    },
+    {
+      "trip": 4,
+      "direction": "marwa_to_safa",
+      "is_last": false,
+      "start_lat": 21.4252,
+      "start_lng": 39.8272,
+      "dua": {
+        "titlePattern": "Walking Trip {trip} — Marwa to Safa",
+        "description": "La ilaha ill-Allahu wahdahu la sharika lahu, lahul-mulku wa lahul-hamdu wa huwa 'ala kulli shay'in qadir. (There is no god but Allah alone, no partner has He, to Him belongs the dominion and to Him the praise.)",
+        "mediaItems": [
+          { "type": "map", "caption": "Specific Location" }
+        ],
+        "audio": {
+          "url": "audio/saei4.mp3",
+          "subtitles": "saei/saeitrip4.json"
+        }
+      }
+    },
+    {
+      "trip": 5,
+      "direction": "safa_to_marwa",
+      "is_last": false,
+      "start_lat": 21.4221,
+      "start_lng": 39.8275,
+      "dua": {
+        "titlePattern": "Walking Trip {trip} — Safa to Marwa",
+        "description": "Allahumma inni as'aluka al-'afwa wal-'afiyah fid-dunya wal-akhirah. (O Allah, I ask You for forgiveness and well-being in this world and the Hereafter.)",
+        "mediaItems": [
+          { "type": "map", "caption": "Specific Location" }
+        ],
+        "audio": {
+          "url": "audio/saei5.mp3",
+          "subtitles": "saei/saeitrip5.json"
+        }
+      }
+    },
+    {
+      "trip": 6,
+      "direction": "marwa_to_safa",
+      "is_last": false,
+      "start_lat": 21.4252,
+      "start_lng": 39.8272,
+      "dua": {
+        "titlePattern": "Walking Trip {trip} — Marwa to Safa",
+        "description": "Rabbana atina fid-dunya hasanatan wa fil-akhirati hasanatan wa qina 'adhaban-nar. (Our Lord, give us good in this world and good in the Hereafter, and save us from the punishment of the Fire.)",
+        "mediaItems": [
+          { "type": "map", "caption": "Specific Location" }
+        ],
+        "audio": {
+          "url": "audio/saei6.mp3",
+          "subtitles": "saei/saeitrip6.json"
+        }
+      }
+    },
+    {
+      "trip": 7,
+      "direction": "safa_to_marwa",
+      "is_last": true,
+      "start_lat": 21.4221,
+      "start_lng": 39.8275,
+      "dua": {
+        "titlePattern": "Walking Trip {trip} — Safa to Marwa (Final)",
+        "description": "Allahumma taqabbal minna sa'yana kama taqabbalta min nabiyyika Ibrahim alayhis-salam. (O Allah, accept our Sa'i as You accepted from Your Prophet Ibrahim, peace be upon him.)",
+        "mediaItems": [
+          { "type": "map", "caption": "Specific Location" }
+        ],
+        "audio": {
+          "url": "audio/saei7.mp3",
+          "subtitles": "saei/saeitrip7.json"
+        }
+      }
+    }
+  ]
+}

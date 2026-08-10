@@ -244,49 +244,49 @@
         "card": 1,
         "title": "[en]Round 1[/en]\n[ms]Pusingan 1[/ms]\n[ml]ഒന്നാം ചുറ്റ്[/ml]\n[ta]முதல் சுற்று[/ta]",
         "description": "[ar]سُبْحَانَ اللهِ وَالْحَمْدُ لِلهِ وَلَا إِلٰهَ إِلَّا اللهُ وَاللهُ أَكْبَرُ وَلَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللهِ[/ar] \n[en](Glory be to Allah, and praise be to Allah, and there is no god but Allah, and Allah is the Greatest, and there is no power nor strength except with Allah).[/en] \n[ms](Maha Suci Allah, segala puji bagi Allah, tiada tuhan melainkan Allah, Allah Maha Besar, dan tiada daya serta upaya melainkan dengan kekuatan Allah).[/ms] \n[ml](അല്ലാഹു എത്ര പരിശുദ്ധൻ, സർവ്വ സ്തുതിയും അല്ലാഹുവിനാണ്, അല്ലാഹു അല്ലാതെ മറ്റൊരു ദൈവവുമില്ല, അല്ലാഹു ഏറ്റവും വലിയവനാണ്, അല്ലാഹുവിനെക്കൊണ്ടല്ലാതെ യാതൊരു കഴിവും കരുത്തുമില്ല).[/ml] \n[ta](அல்லாஹ் மிகவும் தூய்மையானவன், புகழனைத்தும் அல்லாஹ்வுக்கே, அல்லாஹ்வைத் தவிர வேறு இறைவனில்லை, அல்லாஹ்வே மிகப்பெரியவன், அல்லாஹ்வின் உதவியின்றி எந்த ஆற்றலும் சக்தியும் இல்லை).[/ta]",
-        "dataSource": "tawaf/round1_details.json",
+        "dataSource": "tawaf/tawaf_rounds.json#1",
         "autoPlay": false
       },
       {
         "card": 2,
         "title": "[en]Round 2[/en]\n[ms]Pusingan 2[/ms]\n[ml]രണ്ടാം ചുറ്റ്[/ml]\n[ta]இரண்டாம் சுற்று[/ta]",
         "description": "[ar]اللهمَّ إِنِّي أَسْأَلُكَ الْعَفْوَ وَالْعَافِيَةَ فِي الدُّنْيَا وَالآخِرَةِ[/ar] \n[en](O Allah, I ask You for forgiveness and well-being in this world and the Hereafter).[/en] \n[ms](Ya Allah, sesungguhnya aku memohon keampunan dan kesejahteraan-Mu di dunia dan di akhirat).[/ms] \n[ml](അല്ലാഹുവേ, ദുനിയാവിലും ആഖിറത്തിലും മാപ്പും സമാധാനവും ഞാൻ നിന്നോട് ചോദിക്കുന്നു).[/ml] \n[ta](யா அல்லாஹ், இம்மையிலும் மறுமையிலும் மன்னிப்பையும் ஆரோக்கியத்தையும் உன்னிடத்தில் வேண்டுகிறேன்).[/ta]",
-        "dataSource": "tawaf/round2_details.json",
+        "dataSource": "tawaf/tawaf_rounds.json#2",
         "autoPlay": false
       },
       {
         "card": 3,
         "title": "[en]Round 3[/en]\n[ms]Pusingan 3[/ms]\n[ml]മൂന്നാം ചുറ്റ്[/ml]\n[ta]மூன்றாம் சுற்று[/ta]",
         "description": "[ar]رَبَّنَا آتِنَا فِي الدُّنْيَا حَسَنَةً وَفِي الآخِرَةِ حَسَنَةً وَقِنَا عَذَابَ النَّارِ[/ar] \n[en](Our Lord, give us in this world that which is good and in the Hereafter that which is good, and save us from the punishment of the Fire).[/en] \n[ms](Wahai Tuhan kami, berilah kami kebaikan di dunia dan kebaikan di akhirat, dan peliharalah kami daripada azab neraka).[/ms] \n[ml](ഞങ്ങളുടെ രക്ഷിതാവേ, ഞങ്ങൾക്ക് ഈ ലോകത്ത് നന്മയും പരലോകത്ത് നന്മയും നൽകേണമേ, നരകശിക്ഷയിൽ നിന്ന് ഞങ്ങളെ കാക്കേണമേ).[/ml] \n[ta](எங்கள் இறைவா! எங்களுக்கு இம்மையிலும் மறுமையிலும் நன்மையை வழங்குவாயாக, நரக வேதனையிலிருந்து எங்களைக் காப்பாற்றுவாயாக).[/ta]",
-        "dataSource": "tawaf/round3_details.json",
+        "dataSource": "tawaf/tawaf_rounds.json#3",
         "autoPlay": false
       },
       {
         "card": 4,
         "title": "[en]Round 4[/en]\n[ms]Pusingan 4[/ms]\n[ml]നാലാം ചുറ്റ്[/ml]\n[ta]நான்காம் சுற்று[/ta]",
         "description": "[ar]اللهمَّ اجْعَلْهُ حَجًّا مَبْرُوْرًا وَذَنْبًا مَغْفُوْرًا وَسَعْيًا مَشْكُوْرًا[/ar] \n[en](O Allah, make it an accepted Hajj, a forgiven sin, and a recognized effort).[/en] \n[ms](Ya Allah, jadikanlah ia haji yang mabrur, dosa yang diampuni, dan usaha yang diterima).[/ms] \n[ml](അല്ലാഹുവേ, ഇതിനെ സ്വീകരിക്കപ്പെട്ട ഹജ്ജും പൊറുക്കപ്പെട്ട പാപവും നന്ദി പറയപ്പെട്ട പരിശ്രമവുമാക്കേണമേ).[/ml] \n[ta](யா அல்லாஹ், இதை அங்கீகரிக்கப்பட்ட ஹஜ்ஜாகவும், மன்னிக்கப்பட்ட பாவமாகவும், நற்கூலி வழங்கப்பட்ட முயற்சியாகவும் ஆக்குவாயாக).[/ta]",
-        "dataSource": "tawaf/round4_details.json",
+        "dataSource": "tawaf/tawaf_rounds.json#4",
         "autoPlay": false
       },
       {
         "card": 5,
         "title": "[en]Round 5[/en]\n[ms]Pusingan 5[/ms]\n[ml]അഞ്ചാം ചുറ്റ്[/ml]\n[ta]ஐந்தாம் சுற்று[/ta]",
         "description": "[ar]اللهمَّ إِنِّي أَعُوْذُ بِكَ مِنَ الْكُفْرِ وَالْفَقْرِ وَعَذَابِ الْقَبْرِ[/ar] \n[en](O Allah, I seek refuge in You from disbelief, poverty, and the punishment of the grave).[/en] \n[ms](Ya Allah, aku berlindung dengan-Mu daripada kekufuran, kefakiran, dan azab kubur).[/ms] \n[ml](അല്ലാഹുവേ, കുഫ്‌റിൽ നിന്നും ദാരിദ്ര്യത്തിൽ നിന്നും ഖബർ ശിക്ഷയിൽ നിന്നും ഞാൻ നിന്നോട് കാവൽ തേടുന്നു).[/ml] \n[ta](யா அல்லாஹ், குஃப்ர், வறுமை மற்றும் கபுруடைய வேதனையிலிருந்து உன்னிடத்தில் பாதுகாப்புத் தேடுகிறேன்).[/ta]",
-        "dataSource": "tawaf/round5_details.json",
+        "dataSource": "tawaf/tawaf_rounds.json#5",
         "autoPlay": false
       },
       {
         "card": 6,
         "title": "[en]Round 6[/en]\n[ms]Pusingan 6[/ms]\n[ml]ആറാം ചുറ്റ്[/ml]\n[ta]ஆറாம் சுற்று[/ta]",
         "description": "[ar]اللهمَّ هَذَا بَيْتُكَ الْحَرَمُ وَأَنَا عَبْدُكَ الْحَقِيْرُ[/ar] \n[en](O Allah, this is Your Sacred House, and I am Your humble servant).[/en] \n[ms](Ya Allah, rumah ini adalah rumah-Mu yang haram, dan aku adalah hamba-Mu yang hina).[/ms] \n[ml](അല്ലാഹുവേ, ഇത് നിൻ്റെ പരിശുദ്ധ ഭവനമാണ്, ഞാൻ നിൻ്റെ എളിയ അടിമയാണ്).[/ml] \n[ta](யா அல்லாஹ், இது உன்னுடைய புனித இல்லம், நான் உன்னுடைய பலவீனமான அடியான்).[/ta]",
-        "dataSource": "tawaf/round6_details.json",
+        "dataSource": "tawaf/tawaf_rounds.json#6",
         "autoPlay": false
       },
       {
         "card": 7,
         "title": "[en]Round 7[/en]\n[ms]Pusingan 7[/ms]\n[ml]ഏഴാം ചുറ്റ്[/ml]\n[ta]ஏழாம் சுற்று[/ta]",
         "description": "[ar]اللهمَّ تَقَبَّلْ مِنَّا وَعَافِنَا وَاعْفُ عَنَّا وَأَدْخِلْنَا الْجَنَّةَ مَعَ الأَبْرَارِ[/ar] \n[en](O Allah, accept from us, grant us well-being, forgive us, and admit us into Paradise with the righteous).[/en] \n[ms](Ya Allah, terimalah daripada kami, sejahterakanlah kami, ampunilah kami, dan masukkanlah kami ke dalam syurga bersama orang-orang yang berbakti).[/ms] \n[ml](അല്ലാഹുവേ, ഞങ്ങളിൽ നിന്ന് ഇത് സ്വീകരിക്കേണമേ, ഞങ്ങൾക്ക് മാപ്പ് നൽകേണമേ, പുണ്യവാന്മാരോടൊപ്പം ഞങ്ങളെ സ്വർഗ്ഗത്തിൽ പ്രവേശിപ്പിക്കേണമേ).[/ml] \n[ta](யா அல்லாஹ், எங்களிடமிருந்து இதை ஏற்றுக்கொள்வாயாக, எங்களை மன்னிப்பாயாக, நல்லவர்களுடன் எங்களை சொர்க்கத்தில் சேர்ப்பாயாக).[/ta]",
-        "dataSource": "tawaf/round7_details.json",
+        "dataSource": "tawaf/tawaf_rounds.json#7",
         "autoPlay": false
       }
     ],
@@ -378,49 +378,49 @@
         "card": 1,
         "title": "[en]Trip 1[/en]\n[ms]Perjalanan 1[/ms]\n[ml]ഒന്നാം ഘട്ടം[/ml]\n[ta]முதல் நடை[/ta]",
         "description": "[ar]إِنَّ الصَّفَا وَالْمَرْوَةَ مِنْ شَعَائِرِ اللهِ. أَبْدَأُ بِمَا بَدَأَ اللهُ بِهِ[/ar] \n[en](Verily, Safa and Marwah are among the signs of Allah. I begin with that which Allah began with).[/en] \n[ms](Sesungguhnya Safa dan Marwah adalah sebahagian daripada syiar Allah. Aku mulakan dengan apa yang Allah mulakan).[/ms] \n[ml](തീർച്ചയായും സഫയും മർവയും അല്ലാഹുവിൻ്റെ ചിഹ്നങ്ങളിൽ പെട്ടതാണ്. അല്ലാഹു ആരംഭിച്ചത് കൊണ്ട് ഞാൻ ആരംഭിക്കുന്നു).[/ml] \n[ta](நிச்சயமாக ஸஃபாவும் மர்வாவும் அல்லாஹ்வின் அடையாளங்களில் உள்ளவை. அல்லாஹ் எதைக் கொண்டு ஆரம்பித்தானோ அதைக் கொண்டே நானும் ஆரம்பிக்கிறேன்).[/ta]",
-        "dataSource": "saei/trip1_details.json",
+        "dataSource": "saei/saei_trips.json#1",
         "autoPlay": false
       },
       {
         "card": 2,
         "title": "[en]Trip 2[/en]\n[ms]Perjalanan 2[/ms]\n[ml]രണ്ടാം ഘട്ടം[/ml]\n[ta]இரண்டாம் நடை[/ta]",
         "description": "[ar]اللهُ أَكْبَرُ، اللهُ أَكْبَرُ، اللهُ أَكْبَرُ وَلِلهِ الْحَمْدُ[/ar] \n[en](Allah is the Greatest, Allah is the Greatest, Allah is the Greatest, and for Allah is all praise).[/en] \n[ms](Allah Maha Besar, Allah Maha Besar, Allah Maha Besar, dan bagi Allah segala puji).[/ms] \n[ml](അല്ലാഹു ഏറ്റവും വലിയവനാണ്, അല്ലാഹു ഏറ്റവും വലിയവനാണ്, അല്ലാഹു ഏറ്റവും വലിയവനാണ്, സർവ്വ സ്തുതിയും അല്ലാഹുവിനാണ്).[/ml] \n[ta](அல்லாஹ் மிகப்பெரியவன், அல்லாஹ் மிகப்பெரியவன், அல்லாஹ் மிகப்பெரியவன், புகழனைத்தும் அல்லாஹ்வுக்கே).[/ta]",
-        "dataSource": "saei/trip2_details.json",
+        "dataSource": "saei/saei_trips.json#2",
         "autoPlay": false
       },
       {
         "card": 3,
         "title": "[en]Trip 3[/en]\n[ms]Perjalanan 3[/ms]\n[ml]മൂന്നാം ഘട്ടം[/ml]\n[ta]மூன்றாம் நடை[/ta]",
         "description": "[ar]رَبِّ اغْفِرْ وَارْحَمْ وَتَجَاوَزْ عَمَّا تَعْلَمُ إِنَّكَ أَنْتَ الأَعَزُّ الأَكْرَمُ[/ar] \n[en](My Lord, forgive and have mercy and overlook that which You know, for You are the Most Mighty, the Most Noble).[/en] \n[ms](Wahai Tuhanku, ampunilah dan rahmatilah, dan maafkanlah apa yang Engkau ketahui, sesungguhnya Engkau Maha Perkasa lagi Maha Pemurah).[/ms] \n[ml](എൻ്റെ രക്ഷിതാവേ, എനിക്ക് പൊറുത്തു തരികയും കരുണ ചെയ്യുകയും ചെയ്യേണമേ, നീ അറിയുന്ന ഞങ്ങളുടെ തെറ്റുകൾ നീ മാപ്പാക്കേണമേ).[/ml] \n[ta](என் இறைவா! என்னை மன்னிப்பாயாக, என் மீது கருணை காட்டுவாயாக, நீ அறிந்த எங்களுடைய பிழைகளைப் பொறுத்தருள்வாயாக).[/ta]",
-        "dataSource": "saei/trip3_details.json",
+        "dataSource": "saei/saei_trips.json#3",
         "autoPlay": false
       },
       {
         "card": 4,
         "title": "[en]Trip 4[/en]\n[ms]Perjalanan 4[/ms]\n[ml]നാലാം ഘട്ടം[/ml]\n[ta]நான்காம் நடை[/ta]",
         "description": "[ar]لَا إِلٰهَ إِلَّا اللهُ وَحْدَهُ لَا شَرِيْكَ لَهُ، لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ وَهُوَ عَلَىٰ كُلِّ شَيْءٍ قَدِيْرٌ[/ar] \n[en](There is no god but Allah alone, no partner has He, to Him belongs the dominion and to Him belongs the praise, and He is over all things Powerful).[/en] \n[ms](Tiada tuhan melainkan Allah Yang Maha Esa, tiada sekutu bagi-Nya, bagi-Nya segala kekuasaan dan bagi-Nya segala pujian, dan Dia Maha Kuasa atas segala sesuatu).[/ms] \n[ml](അല്ലാഹു അല്ലാതെ മറ്റൊരു ദൈവവുമില്ല, അവൻ ഏകനാണ്, അവന് പങ്കുകാരില്ല. സർവ്വ ആധിപത്യവും സ്തുതിയും അവനാണ്).[/ml] \n[ta](அல்லாஹ்வைத் தவிர வேறு இறைவனில்லை, அவன் தனித்தவன், அவனுக்கு இணையாளர்கள் எவருமில்லை. அவனுக்கே ஆட்சியதிகாரமும் புகழும் உரியன).[/ta]",
-        "dataSource": "saei/trip4_details.json",
+        "dataSource": "saei/saei_trips.json#4",
         "autoPlay": false
       },
       {
         "card": 5,
         "title": "[en]Trip 5[/en]\n[ms]Perjalanan 5[/ms]\n[ml]അഞ്ചാം ഘട്ടം[/ml]\n[ta]ஐந்தாம் நடை[/ta]",
         "description": "[ar]اللهمَّ إِنِّي أَسْأَلُكَ الْعَفْوَ وَالْعَافِيَةَ فِي الدُّنْيَا وَالآخِرَةِ[/ar] \n[en](O Allah, I ask You for forgiveness and well-being in this world and the Hereafter).[/en] \n[ms](Ya Allah, sesungguhnya aku memohon keampunan dan kesejahteraan-Mu di dunia dan di akhirat).[/ms] \n[ml](അല്ലാഹുവേ, ദുനിയാവിലും ആഖിറത്തിലും മാപ്പും സമാധാനവും ഞാൻ നിന്നോട് ചോദിക്കുന്നു).[/ml] \n[ta](யா அல்லாஹ், இம்மையிலும் மறுமையிலும் மன்னிப்பையும் ஆரோக்கியத்தையும் உன்னிடத்தில் வேண்டுகிறேன்).[/ta]",
-        "dataSource": "saei/trip5_details.json",
+        "dataSource": "saei/saei_trips.json#5",
         "autoPlay": false
       },
       {
         "card": 6,
         "title": "[en]Trip 6[/en]\n[ms]Perjalanan 6[/ms]\n[ml]ആറാം ഘട്ടം[/ml]\n[ta]ஆறாம் நடை[/ta]",
         "description": "[ar]رَبَّنَا آتِنَا فِي الدُّنْيَا حَسَنَةً وَفِي الآخِرَةِ حَسَنَةً وَقِنَا عَذَابَ النَّارِ[/ar] \n[en](Our Lord, give us in this world that which is good and in the Hereafter that which is good, and save us from the punishment of the Fire).[/en] \n[ms](Wahai Tuhan kami, berilah kami kebaikan di dunia dan kebaikan di akhirat, dan peliharalah kami daripada azab neraka).[/ms] \n[ml](ഞങ്ങളുടെ രക്ഷിതാവേ, ഞങ്ങൾക്ക് ഈ ലോകത്ത് നന്മയും പരലോകത്ത് നന്മയും നൽകേണമേ).[/ml] \n[ta](எங்கள் இறைவா! எங்களுக்கு இம்மையிலும் மறுமையிலும் நன்மையை வழங்குவாயாக, நரக வேதனையிலிருந்து எங்களைக் காப்பாற்றுவாயாக).[/ta]",
-        "dataSource": "saei/trip6_details.json",
+        "dataSource": "saei/saei_trips.json#6",
         "autoPlay": false
       },
       {
         "card": 7,
         "title": "[en]Trip 7[/en]\n[ms]Perjalanan 7[/ms]\n[ml]ഏഴാം ഘട്ടം[/ml]\n[ta]ஏழாம் நடை[/ta]",
         "description": "[ar]اللهمَّ تَقَبَّلْ مِنَّا سَعْيَنَا كَمَا تَقَبَّلْتَ مِنْ نَبِيِّكَ إِبْرَاهِيْمَ عَلَيْهِ السَّلَامُ[/ar] \n[en](O Allah, accept our Sa'i as You accepted from Your Prophet Ibrahim, peace be upon him).[/en] \n[ms](Ya Allah, terimalah Sa'i kami sepertimana Engkau menerima daripada Nabi-Mu Ibrahim alayhis-salam).[/ms] \n[ml](അല്ലാഹുവേ, നിൻ്റെ പ്രവാചകൻ ഇബ്രാഹിം നബിയിൽ നിന്ന് സ്വീകരിച്ചത് പോലെ ഞങ്ങളുടെ ഈ സഅയ് സ്വീകരിക്കേണമേ).[/ml] \n[ta](யா அல்லாஹ், உன்னுடைய நபி இப்ராஹீம் (அலை) அவர்களிடம் ஏற்றுக்கொண்டதைப்போல எங்கள் ஸயீயை ஏற்றுக்கொள்வாயாக).[/ta]",
-        "dataSource": "saei/trip7_details.json",
+        "dataSource": "saei/saei_trips.json#7",
         "autoPlay": false
       }
     ],

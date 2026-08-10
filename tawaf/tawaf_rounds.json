@@ -1,0 +1,177 @@
+{
+  "_comment": "Consolidated tawaf rounds. Replaces round1_details.json through round7_details.json. Card templates use {round} as a placeholder resolved at parse time.",
+  "ritual": "tawaf",
+  "total_rounds": 7,
+  "card_templates": {
+    "aswad": {
+      "titlePattern": "Aswad (Round {round})",
+      "description": "Face the Hajarul Aswad, raise your right hand, and say Bismillahi Allahu Akbar.",
+      "mediaItems": [
+        {
+          "type": "image",
+          "url": "image/tawafaswad.png"
+        }
+      ],
+      "audio": {
+        "url": "audio/tawafaswad.mp3",
+        "subtitles": "tawaf/tawafaswad.json"
+      }
+    },
+    "aswad_end": {
+      "titlePattern": "Aswad (End) (Round {round})",
+      "description": "Face the Hajarul Aswad, raise your right hand, and say Bismillahi Allahu Akbar one final time.",
+      "mediaItems": [
+        {
+          "type": "image",
+          "url": "image/tawafaswad.png"
+        }
+      ],
+      "audio": {
+        "url": "audio/tawafaswad.mp3",
+        "subtitles": "tawaf/tawafaswad.json"
+      }
+    },
+    "yamani": {
+      "titlePattern": "Yamani (Round {round})",
+      "description": "Between the Yemeni Corner and the Hajarul Aswad, recite: Rabbana atina fid-dunya hasanatan wa fil-akhirati hasanatan wa qina 'adhaban-nar.",
+      "mediaItems": [
+        {
+          "type": "image",
+          "url": "image/tawafyamani.png"
+        }
+      ],
+      "audio": {
+        "url": "audio/tawafyamani.mp3",
+        "subtitles": "tawaf/tawafyamani.json"
+      }
+    }
+  },
+  "rounds": [
+    {
+      "round": 1,
+      "is_last": false,
+      "dua": {
+        "titlePattern": "Tawaf (Round {round})",
+        "description": "Read any doa or zikir until rukun yamani. one is provided here with the meaning.",
+        "mediaItems": [
+          {
+            "type": "image",
+            "url": "image/tawaf.png"
+          }
+        ],
+        "audio": {
+          "url": "audio/tawaf1.mp3",
+          "subtitles": "tawaf/tawaf1.json"
+        }
+      }
+    },
+    {
+      "round": 2,
+      "is_last": false,
+      "dua": {
+        "titlePattern": "Tawaf (Round {round})",
+        "description": "Read any doa or zikir until rukun yamani. one is provided here with the meaning.",
+        "mediaItems": [
+          {
+            "type": "image",
+            "url": "image/tawaf.png"
+          }
+        ],
+        "audio": {
+          "url": "audio/tawaf2.mp3",
+          "subtitles": "tawaf/tawaf2.json"
+        }
+      }
+    },
+    {
+      "round": 3,
+      "is_last": false,
+      "dua": {
+        "titlePattern": "Tawaf (Round {round})",
+        "description": "Read any doa or zikir until rukun yamani. one is provided here with the meaning.",
+        "mediaItems": [
+          {
+            "type": "image",
+            "url": "image/tawaf.png"
+          }
+        ],
+        "audio": {
+          "url": "audio/tawaf3.mp3",
+          "subtitles": "tawaf/tawaf3.json"
+        }
+      }
+    },
+    {
+      "round": 4,
+      "is_last": false,
+      "dua": {
+        "titlePattern": "Tawaf (Round {round})",
+        "description": "Read any doa or zikir until rukun yamani. one is provided here with the meaning.",
+        "mediaItems": [
+          {
+            "type": "image",
+            "url": "image/tawaf.png"
+          }
+        ],
+        "audio": {
+          "url": "audio/tawaf4.mp3",
+          "subtitles": "tawaf/tawaf4.json"
+        }
+      }
+    },
+    {
+      "round": 5,
+      "is_last": false,
+      "dua": {
+        "titlePattern": "Tawaf (Round {round})",
+        "description": "Read any doa or zikir until rukun yamani. one is provided here with the meaning.",
+        "mediaItems": [
+          {
+            "type": "image",
+            "url": "image/tawaf.png"
+          }
+        ],
+        "audio": {
+          "url": "audio/tawaf5.mp3",
+          "subtitles": "tawaf/tawaf5.json"
+        }
+      }
+    },
+    {
+      "round": 6,
+      "is_last": false,
+      "dua": {
+        "titlePattern": "Tawaf (Round {round})",
+        "description": "Read any doa or zikir until rukun yamani. one is provided here with the meaning.",
+        "mediaItems": [
+          {
+            "type": "image",
+            "url": "image/tawaf.png"
+          }
+        ],
+        "audio": {
+          "url": "audio/tawaf6.mp3",
+          "subtitles": "tawaf/tawaf6.json"
+        }
+      }
+    },
+    {
+      "round": 7,
+      "is_last": true,
+      "dua": {
+        "titlePattern": "Tawaf (Round {round})",
+        "description": "Read any doa or zikir until rukun yamani. one is provided here with the meaning.",
+        "mediaItems": [
+          {
+            "type": "image",
+            "url": "image/tawaf.png"
+          }
+        ],
+        "audio": {
+          "url": "audio/tawaf7.mp3",
+          "subtitles": "tawaf/tawaf7.json"
+        }
+      }
+    }
+  ]
+}

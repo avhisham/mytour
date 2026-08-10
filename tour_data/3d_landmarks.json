@@ -1,0 +1,72 @@
+[
+  {
+    "key": "kaaba_high_res",
+    "name": "The Holy Kaabah",
+    "assetPath": "3d/kaabah1.glb",
+    "latitude": 21.42251,
+    "longitude": 39.826211,
+    "scale": 15,
+    "rotation": 235,
+    "offsetX": 0,
+    "offsetY": 0,
+    "offsetZ": 0,
+    "visible": true,
+    "opacity": 1
+  },
+  {
+    "key": "jabal_noor",
+    "name": "Jabal Noor (Cave of Hira)",
+    "assetPath": "3d/noor8.glb",
+    "latitude": 21.452508799672362,
+    "longitude": 39.85399057778392,
+    "scale": 843.9424614787182,
+    "rotation": -66,
+    "offsetX": 0,
+    "offsetY": 0,
+    "offsetZ": -29.500000000000004,
+    "visible": true,
+    "opacity": 0.4
+  },
+  {
+    "key": "jabal_uhud",
+    "name": "Jabal Uhud",
+    "assetPath": "3d/uhud2.glb",
+    "latitude": 24.522674216098068,
+    "longitude": 39.62362228066403,
+    "scale": 6629.386542120162,
+    "rotation": 0,
+    "offsetX": 0,
+    "offsetY": 0,
+    "offsetZ": 0,
+    "visible": true,
+    "opacity": 0.4
+  },
+  {
+    "key": "jabal_sulh",
+    "name": "Jabal Sulh",
+    "assetPath": "3d/sulh1.glb",
+    "latitude": 24.47397092850377,
+    "longitude": 39.601114101905466,
+    "scale": 1203.6775404977018,
+    "rotation": -169,
+    "offsetX": 0,
+    "offsetY": 0,
+    "offsetZ": 0,
+    "visible": true,
+    "opacity": 0.4
+  },
+  {
+    "key": "masjid_nabawi",
+    "name": "Masjid Al-Nabawi",
+    "assetPath": "3d/kubahnabawi.glb",
+    "latitude": 24.46757545288558,
+    "longitude": 39.61147583051913,
+    "scale": 17.548005876367448,
+    "rotation": 0,
+    "offsetX": 0,
+    "offsetY": 0,
+    "offsetZ": 0,
+    "visible": true,
+    "opacity": 1
+  }
+]

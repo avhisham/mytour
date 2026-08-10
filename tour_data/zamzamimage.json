@@ -1,0 +1,270 @@
+{
+  "metadata": {
+    "image_id": "zamzam_etiquette_exact_multilingual",
+    "base_image": "image/zamzamblank.png",
+    "theme": {
+      "primary_text_color": "#1A3A5F",
+      "white_text_color": "#FFFFFF",
+      "body_text_color": "#333333",
+      "section_bg_color": "#1A3A5F"
+    },
+    "fonts": {
+      "main_title_font": "NotoSerif-Bold",
+      "header_font": "NotoSans-Bold",
+      "body_font": "NotoSans-Regular"
+    }
+  },
+  "translations": {
+    "en": {
+      "main_title": "The Sunnah of Zamzam: Etiquette & Best Practices",
+      "main_subtitle": "Drinking Zamzam water is a sacred act. This guide outlines the specific physical etiquettes and the powerful Prophetic dua for seeking divine blessing, knowledge, and healing.",
+      "section1_header": "The Ritual of Consumption",
+      "step1_title": "Bismillah and Three Gulps",
+      "step1_desc": "Take three distinct, mindful breaths while drinking.",
+      "step2_title": "Face the Kaaba:",
+      "step2_desc": "It is recommended to face the Holy Kaaba while drinking.",
+      "step3_title": "Sitting or Standing",
+      "step3_desc": "According to the Sunnah, Zamzam may be consumed in either a sitting or standing posture.",
+      "section2_header": "Supplication and External Use",
+      "step4_title": "Prophetic Dua for Zamzam",
+      "step4_desc": "O Allah, I ask You for beneficial knowledge, abundant provision, and healing from every disease.",
+      "step5_title": "Drink to Satiation",
+      "step5_desc": "It is encouraged to drink until you are completely full and satisfied.",
+      "step6_title": "Responsible External Application",
+      "step6_desc": "If pouring Zamzam on yourself, do so responsibly over a drain or bin."
+    },
+    "ms": {
+      "main_title": "Sunnah Air Zamzam: Adab & Amalan Terbaik",
+      "main_subtitle": "Meminum air Zamzam adalah perbuatan suci. Panduan ini menggariskan adab fizikal yang khusus dan doa Mustajab untuk memohon keberkatan, ilmu, dan kesembuhan.",
+      "section1_header": "Ritual Minuman",
+      "step1_title": "Bismillah dan Tiga Teguk",
+      "step1_desc": "Ambil tiga nafas yang berbeza dan berhati-hati semasa minum.",
+      "step2_title": "Menghadap Kaabah:",
+      "step2_desc": "Disunatkan untuk menghadap Kaabah yang suci semasa minum.",
+      "step3_title": "Duduk atau Berdiri",
+      "step3_desc": "Menurut Sunnah, Zamzam boleh diminum dalam keadaan duduk atau berdiri.",
+      "section2_header": "Doa dan Penggunaan Luaran",
+      "step4_title": "Doa Nabi untuk Zamzam",
+      "step4_desc": "Ya Allah, sesungguhnya aku memohon dariMu ilmu yang bermanfaat, rezeki yang luas, dan kesembuhan dari setiap penyakit.",
+      "step5_title": "Minum Sehingga Kenyang",
+      "step5_desc": "Digalakkan untuk minum sehingga anda berasa benar-benar penuh dan kenyang.",
+      "step6_title": "Penggunaan Luaran yang Bertanggungjawab",
+      "step6_desc": "Jika menjirus air Zamzam ke atas diri anda, lakukanlah dengan bertanggungjawab di kawasan saluran pembuangan air atau tong."
+    },
+    "ml": {
+      "main_title": "സംസം സുന്നത്ത്: മര്യാദകളും മികച്ച രീതികളും",
+      "main_subtitle": "സംസം കുടിക്കുന്നത് ഒരു പുണ്യകർമ്മമാണ്. അനുഗ്രഹത്തിനും അറിവിനും രോഗശമനത്തിനും വേണ്ടിയുള്ള പ്രത്യേക മര്യാദകളും പ്രവാചകൻ പഠിപ്പിച്ച ദുആയും ഈ ഗൈഡ് വിശദീകരിക്കുന്നു.",
+      "section1_header": "കുടിക്കുന്നതിലെ ആചാരങ്ങൾ",
+      "step1_title": "ബിസ്മിയും മൂന്ന് ഇറക്കുകളും",
+      "step1_desc": "കുടിക്കുമ്പോൾ വ്യക്തമായി മൂന്ന് തവണ ശ്വാസമെടുത്ത് കുടിക്കുക.",
+      "step2_title": "കഅബയ്ക്ക് നേരെ തിരിയുക:",
+      "step2_desc": "കുടിക്കുമ്പോൾ പരിശുദ്ധ കഅബയ്ക്ക് നേരെ തിരിഞ്ഞു നിൽക്കുന്നത് ഉത്തമമാണ്.",
+      "step3_title": "ഇരുന്ന് അല്ലെങ്കിൽ നിന്ന്",
+      "step3_desc": "സുന്നത്ത് അനുസരിച്ച്, സംസം ഇരുന്നോ നിന്നോ കുടിക്കാവുന്നതാണ്.",
+      "section2_header": "പ്രാർത്ഥനയും പുറമെയുള്ള ഉപയോഗവും",
+      "step4_title": "സംസമിന് വേണ്ടിയുള്ള പ്രവാചകന്റെ ദുആ",
+      "step4_desc": "അല്ലാഹുവേ, ഉപകാരപ്രദമായ അറിവും വിശാലമായ ഭക്ഷണവും എല്ലാ രോഗങ്ങളിൽ നിന്നുള്ള ശമനവും ഞാൻ നിന്നോട് ചോദിക്കുന്നു.",
+      "step5_title": "വയറുനിറയെ കുടിക്കുക",
+      "step5_desc": "വയറുനിറയുന്നത് വരെ സംസം കുടിക്കാൻ പ്രോത്സാഹിപ്പിക്കപ്പെടുന്നു.",
+      "step6_title": "പുറമെയുള്ള ഉത്തരവാദിത്തമുള്ള ഉപയോഗം",
+      "step6_desc": "സംസം ശരീരത്തിൽ ഒഴിക്കുകയാണെങ്കിൽ, അത് ഒരു ഡ്രെയിനിന്റെയോ ബിന്നിന്റെയോ മുകളിൽ ഉത്തരവാദിത്തത്തോടെ ചെയ്യുക."
+    },
+    "ta": {
+      "main_title": "ஜம்ஜம் சுன்னத்: ஒழுங்குமுறைகள் மற்றும் சிறந்த நடைமுறைகள்",
+      "main_subtitle": "ஜம்ஜம் நீர் அருந்துவது ஒரு புனிதமான செயலாகும். இந்த வழிகாட்டி குறிப்பிட்ட உடல் ஒழுங்குமுறைகளையும், இறையருள், அறிவு மற்றும் நிவாரணம் தேடுவதற்கான சக்திவாய்ந்த நபிவழி துஆவையும் விவரிக்கிறது.",
+      "section1_header": "நீர் அருந்தும் சடங்கு",
+      "step1_title": "பிஸ்மில்லாஹ் மற்றும் மூன்று மிடறுகள்",
+      "step1_desc": "நீர் அருந்தும் போது மூன்று தெளிவான, கவனமான சுவாசங்களை எடுத்துக் கொள்ளவும்.",
+      "step2_title": "கஃபாவை முன்னோக்குதல்:",
+      "step2_desc": "நீர் அருந்தும் போது புனித கஃபாவை முன்னோக்கி இருப்பது பரிந்துரைக்கப்படுகிறது.",
+      "step3_title": "அமர்ந்து அல்லது நின்று",
+      "step3_desc": "சுன்னத்தின்படி, ஜம்ஜம் நீரை அமர்ந்தோ அல்லது நின்றோ அருந்தலாம்.",
+      "section2_header": "பிரார்த்தனை மற்றும் வெளிப்புறப் பயன்பாடு",
+      "step4_title": "ஜம்ஜம் நீருக்கான நபிவழி துஆ",
+      "step4_desc": "யா அல்லாஹ்! பயனுள்ள அறிவையும், விசாலமான உணவையும், அனைத்து நோய்களிலிருந்தும் நிவாரணத்தையும் உன்னிடம் கேட்கிறேன்.",
+      "step5_title": "வயிறு நிறைய அருந்துதல்",
+      "step5_desc": "நீங்கள் முழுமையாக திருப்தி அடையும் வரை நீர் அருந்த ஊக்குவிக்கப்படுகிறது.",
+      "step6_title": "பொறுப்பான வெளிப்புறப் பயன்பாடு",
+      "step6_desc": "உங்கள் மீது ஜம்ஜம் நீரை ஊற்றினால், அதை வடிகால் அல்லது குப்பைத் தொட்டிக்கு மேல் பொறுப்புடன் செய்யுங்கள்."
+    }
+  },
+  "layout": [
+    {
+      "key": "main_title",
+      "x": 0.5,
+      "y": 0.05,
+      "w": 0.9,
+      "size": 0.04,
+      "color": "#1A3A5F",
+      "font_type": "title",
+      "bold": true,
+      "align": "center"
+    },
+    {
+      "key": "main_subtitle",
+      "x": 0.5,
+      "y": 0.12,
+      "w": 0.8,
+      "size": 0.016,
+      "color": "#333333",
+      "font_type": "body",
+      "bold": false,
+      "align": "center"
+    },
+    {
+      "key": "section1_header",
+      "x": 0.4086,
+      "y": 0.164,
+      "w": 0.4,
+      "size": 0.025,
+      "color": "#1A3A5F",
+      "font_type": "header",
+      "bold": true,
+      "align": "left"
+    },
+    {
+      "key": "step1_title",
+      "x": 0.41,
+      "y": 0.228,
+      "w": 0.18,
+      "size": 0.02,
+      "color": "#1A3A5F",
+      "font_type": "header",
+      "bold": true,
+      "align": "left"
+    },
+    {
+      "key": "step1_desc",
+      "x": 0.4185,
+      "y": 0.311,
+      "w": 0.19,
+      "size": 0.014,
+      "color": "#333333",
+      "font_type": "body",
+      "bold": false,
+      "align": "left"
+    },
+    {
+      "key": "step2_title",
+      "x": 0.8386,
+      "y": 0.171,
+      "w": 0.4,
+      "size": 0.02,
+      "color": "#1A3A5F",
+      "font_type": "header",
+      "bold": true,
+      "align": "left"
+    },
+    {
+      "key": "step2_desc",
+      "x": 0.8585,
+      "y": 0.344,
+      "w": 0.3,
+      "size": 0.014,
+      "color": "#333333",
+      "font_type": "body",
+      "bold": false,
+      "align": "left"
+    },
+    {
+      "key": "step3_title",
+      "x": 0.8229,
+      "y": 0.442,
+      "w": 0.4,
+      "size": 0.02,
+      "color": "#1A3A5F",
+      "font_type": "header",
+      "bold": true,
+      "align": "left"
+    },
+    {
+      "key": "step3_desc",
+      "x": 0.7943,
+      "y": 0.476,
+      "w": 0.3,
+      "size": 0.014,
+      "color": "#333333",
+      "font_type": "body",
+      "bold": false,
+      "align": "left"
+    },
+    {
+      "key": "section2_header",
+      "x": 0.5,
+      "y": 0.62,
+      "w": 0.8,
+      "size": 0.025,
+      "color": "#FFFFFF",
+      "bg_color": "#1A3A5F",
+      "font_type": "header",
+      "bold": true,
+      "align": "center"
+    },
+    {
+      "key": "step4_title",
+      "x": 0.2871,
+      "y": 0.689,
+      "w": 0.4,
+      "size": 0.02,
+      "color": "#1A3A5F",
+      "font_type": "header",
+      "bold": true,
+      "align": "center"
+    },
+    {
+      "key": "step4_desc",
+      "x": 0.2871,
+      "y": 0.719,
+      "w": 0.38,
+      "size": 0.018,
+      "color": "#333333",
+      "font_type": "body",
+      "bold": false,
+      "align": "center"
+    },
+    {
+      "key": "step5_title",
+      "x": 0.7157,
+      "y": 0.676,
+      "w": 0.4,
+      "size": 0.02,
+      "color": "#1A3A5F",
+      "font_type": "header",
+      "bold": true,
+      "align": "left"
+    },
+    {
+      "key": "step5_desc",
+      "x": 0.6628,
+      "y": 0.731,
+      "w": 0.2,
+      "size": 0.014,
+      "color": "#333333",
+      "font_type": "body",
+      "bold": false,
+      "align": "left"
+    },
+    {
+      "key": "step6_title",
+      "x": 0.7286,
+      "y": 0.819,
+      "w": 0.4,
+      "size": 0.02,
+      "color": "#1A3A5F",
+      "font_type": "header",
+      "bold": true,
+      "align": "left"
+    },
+    {
+      "key": "step6_desc",
+      "x": 0.6129,
+      "y": 0.871,
+      "w": 0.2,
+      "size": 0.014,
+      "color": "#333333",
+      "font_type": "body",
+      "bold": false,
+      "align": "left"
+    }
+  ]
+}

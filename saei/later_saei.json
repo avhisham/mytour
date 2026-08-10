@@ -1,0 +1,36 @@
+{
+  "_mock": true,
+  "_note": "Dua recited in the second half of each trip after passing the green zone. Same for all 7 trips — the Rabbana dua.",
+  "subtitles": {
+    "ar": [
+      { "start": "00:00:00,000", "end": "00:00:03,000", "text": "رَبَّنَا آتِنَا فِي الدُّنْيَا حَسَنَةً" },
+      { "start": "00:00:04,000", "end": "00:00:07,000", "text": "وَفِي الآخِرَةِ حَسَنَةً" },
+      { "start": "00:00:08,000", "end": "00:00:11,000", "text": "وَقِنَا عَذَابَ النَّارِ" }
+    ],
+    "tl": [
+      { "start": "00:00:00,000", "end": "00:00:03,000", "text": "Rabbanā ātinā fid-dunyā hasanah" },
+      { "start": "00:00:04,000", "end": "00:00:07,000", "text": "wa fil-ākhirati hasanah" },
+      { "start": "00:00:08,000", "end": "00:00:11,000", "text": "wa qinā 'adhāban-nār" }
+    ],
+    "en": [
+      { "start": "00:00:00,000", "end": "00:00:03,000", "text": "Our Lord, give us in this world that which is good" },
+      { "start": "00:00:04,000", "end": "00:00:07,000", "text": "and in the Hereafter that which is good," },
+      { "start": "00:00:08,000", "end": "00:00:11,000", "text": "and save us from the punishment of the Fire." }
+    ],
+    "ms": [
+      { "start": "00:00:00,000", "end": "00:00:03,000", "text": "Wahai Tuhan kami, berilah kami kebaikan di dunia" },
+      { "start": "00:00:04,000", "end": "00:00:07,000", "text": "dan kebaikan di akhirat," },
+      { "start": "00:00:08,000", "end": "00:00:11,000", "text": "dan peliharalah kami daripada azab neraka." }
+    ],
+    "ml": [
+      { "start": "00:00:00,000", "end": "00:00:03,000", "text": "ഞങ്ങളുടെ രക്ഷിതാവേ, ഈ ലോകത്ത് ഞങ്ങൾക്ക് നന്മ നൽകേണമേ," },
+      { "start": "00:00:04,000", "end": "00:00:07,000", "text": "പരലോകത്തിലും ഞങ്ങൾക്ക് നന്മ നൽകേണമേ," },
+      { "start": "00:00:08,000", "end": "00:00:11,000", "text": "നരകശിക്ഷയിൽ നിന്ന് ഞങ്ങളെ കാക്കേണമേ." }
+    ],
+    "ta": [
+      { "start": "00:00:00,000", "end": "00:00:03,000", "text": "எங்கள் இறைவா! எங்களுக்கு இம்மையில் நன்மையை வழங்குவாயாக," },
+      { "start": "00:00:04,000", "end": "00:00:07,000", "text": "மறுமையிலும் நன்மையை வழங்குவாயாக," },
+      { "start": "00:00:08,000", "end": "00:00:11,000", "text": "நரக வேதனையிலிருந்து எங்களைக் காப்பாற்றுவாயாக." }
+    ]
+  }
+}
