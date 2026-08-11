@@ -158,7 +158,34 @@ The images contain embedded AI feature data appended to the JPEG tail:
 
 The `embeddedData` object in `locations.json` is **metadata only** — it describes what is embedded in the image, it does NOT duplicate the actual vectors.
 
-Future: The `embeddedData` field may evolve to include a compact fingerprint hash to detect stale embeddings.
+### Scale Classification & Battery Conservation (`scale` / `activationRange`)
+
+Prompt targets are classified into three size scale tiers to optimize visual scanning and conserve battery/CPU:
+
+| Scale Tier | Example Targets | Activation Range (`min` – `max`) | Battery & Auto-Sleep Rule |
+|:---|:---|:---|:---|
+| `small` | Zamzam Well marker, small plaque | **0.5m – 20m** | AI scanning disabled if > 20m (too small). |
+| `medium` | Raudah Pillar, Mihrab, Gate sign | **2.0m – 60m** | AI scanning active in immediate area. |
+| `large` | Birthplace of Rasulullah, Safa/Marwa building | **5.0m – 250m** | **AUTO-SLEEP IF < 5m** (user is inside/against wall; pauses AI scanning to save battery). |
+
+```json
+"promptImages": [
+  {
+    "url": "image/prompt/lahir.jpg",
+    "role": "prompt",
+    "scale": "large",
+    "activationRange": {
+      "minDistanceMetres": 5.0,
+      "maxDistanceMetres": 250.0
+    },
+    "embeddedData": {
+      "format": "DINOV2_ORB_V1",
+      "dinov2Dims": 384,
+      "orbKeypointCount": 100
+    }
+  }
+]
+```
 
 ---
 

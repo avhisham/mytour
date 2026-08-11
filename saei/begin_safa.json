@@ -1,48 +1,66 @@
 {
   "_mock": true,
   "_note": "Dua recited while climbing/standing at Safa before beginning each odd trip. Shared for trips 1,3,5,7.",
-  "subtitles": {
-    "ar": [
-      { "start": "00:00:00,000", "end": "00:00:03,000", "text": "إِنَّ الصَّفَا وَالْمَرْوَةَ مِنْ شَعَائِرِ اللهِ" },
-      { "start": "00:00:04,000", "end": "00:00:07,000", "text": "أَبْدَأُ بِمَا بَدَأَ اللهُ بِهِ" },
-      { "start": "00:00:08,000", "end": "00:00:11,000", "text": "اللهُ أَكْبَرُ، اللهُ أَكْبَرُ، اللهُ أَكْبَرُ" },
-      { "start": "00:00:12,000", "end": "00:00:15,000", "text": "لَا إِلٰهَ إِلَّا اللهُ وَحْدَهُ لَا شَرِيْكَ لَهُ" },
-      { "start": "00:00:16,000", "end": "00:00:20,000", "text": "لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ" }
-    ],
-    "tl": [
-      { "start": "00:00:00,000", "end": "00:00:03,000", "text": "Innash-Shafā wal-Marwata min sha'ā'irillāh" },
-      { "start": "00:00:04,000", "end": "00:00:07,000", "text": "Abda'u bimā bada'allāhu bih" },
-      { "start": "00:00:08,000", "end": "00:00:11,000", "text": "Allāhu Akbar, Allāhu Akbar, Allāhu Akbar" },
-      { "start": "00:00:12,000", "end": "00:00:15,000", "text": "Lā ilāha illallāhu wahdahu lā sharīka lah" },
-      { "start": "00:00:16,000", "end": "00:00:20,000", "text": "lahul-mulku wa lahul-hamdu wa huwa 'alā kulli shay'in qadīr" }
-    ],
-    "en": [
-      { "start": "00:00:00,000", "end": "00:00:03,000", "text": "Indeed, Safa and Marwah are among the signs of Allah." },
-      { "start": "00:00:04,000", "end": "00:00:07,000", "text": "I begin with that which Allah began with." },
-      { "start": "00:00:08,000", "end": "00:00:11,000", "text": "Allah is the Greatest, Allah is the Greatest, Allah is the Greatest." },
-      { "start": "00:00:12,000", "end": "00:00:15,000", "text": "There is no god but Allah alone, with no partner." },
-      { "start": "00:00:16,000", "end": "00:00:20,000", "text": "To Him belongs all dominion and praise, and He is over all things powerful." }
-    ],
-    "ms": [
-      { "start": "00:00:00,000", "end": "00:00:03,000", "text": "Sesungguhnya Safa dan Marwah adalah sebahagian daripada syiar Allah." },
-      { "start": "00:00:04,000", "end": "00:00:07,000", "text": "Aku mulakan dengan apa yang Allah mulakan." },
-      { "start": "00:00:08,000", "end": "00:00:11,000", "text": "Allah Maha Besar, Allah Maha Besar, Allah Maha Besar." },
-      { "start": "00:00:12,000", "end": "00:00:15,000", "text": "Tiada tuhan melainkan Allah Yang Maha Esa, tiada sekutu bagi-Nya." },
-      { "start": "00:00:16,000", "end": "00:00:20,000", "text": "Bagi-Nya kerajaan dan pujian, dan Dia Maha Kuasa atas segala sesuatu." }
-    ],
-    "ml": [
-      { "start": "00:00:00,000", "end": "00:00:03,000", "text": "തീർച്ചയായും സഫയും മർവയും അല്ലാഹുവിൻ്റെ ചിഹ്നങ്ങളിൽ പെട്ടതാണ്." },
-      { "start": "00:00:04,000", "end": "00:00:07,000", "text": "അല്ലാഹു ആരംഭിച്ചത് കൊണ്ട് ഞാൻ ആരംഭിക്കുന്നു." },
-      { "start": "00:00:08,000", "end": "00:00:11,000", "text": "അല്ലാഹു ഏറ്റവും വലിയവനാണ്, അല്ലാഹു ഏറ്റവും വലിയവനാണ്." },
-      { "start": "00:00:12,000", "end": "00:00:15,000", "text": "അല്ലാഹു അല്ലാതെ ആരാധനയ്ക്ക് അർഹനായ ആരുമില്ല, അവൻ ഏകനാണ്." },
-      { "start": "00:00:16,000", "end": "00:00:20,000", "text": "അവനാണ് ആധിപത്യം, അവനാണ് സ്തുതി, അവൻ സർവ്വ കാര്യത്തിനും കഴിവുള്ളവനാണ്." }
-    ],
-    "ta": [
-      { "start": "00:00:00,000", "end": "00:00:03,000", "text": "நிச்சயமாக ஸஃபா மற்றும் மர்வா அல்லாஹ்வின் அடையாளங்களில் உள்ளவைகளாகும்." },
-      { "start": "00:00:04,000", "end": "00:00:07,000", "text": "அல்லாஹ் எதைக் கொண்டு ஆரம்பித்தானோ அதைக் கொண்டே நானும் ஆரம்பிக்கிறேன்." },
-      { "start": "00:00:08,000", "end": "00:00:11,000", "text": "அல்லாஹ் மிகப்பெரியவன், அல்லாஹ் மிகப்பெரியவன், அல்லாஹ் மிகப்பெரியவன்." },
-      { "start": "00:00:12,000", "end": "00:00:15,000", "text": "அல்லாஹ்வைத் தவிர வேறு இறைவனில்லை, அவனுக்கு இணையாளர்கள் எவருமில்லை." },
-      { "start": "00:00:16,000", "end": "00:00:20,000", "text": "அவனுக்கே ஆட்சியதிகாரமும் புகழும் உரியன, அவன் அனைத்தின் மீதும் ஆற்றல் கொண்டவன்." }
-    ]
-  }
+  "subtitles": [
+    {
+      "start": "00:00:00,000",
+      "end": "00:00:03,000",
+      "text": {
+        "ar": "إِنَّ الصَّفَا وَالْمَرْوَةَ مِنْ شَعَائِرِ اللهِ",
+        "tl": "Innash-Shafā wal-Marwata min sha'ā'irillāh",
+        "en": "Indeed, Safa and Marwah are among the signs of Allah.",
+        "ms": "Sesungguhnya Safa dan Marwah adalah sebahagian daripada syiar Allah.",
+        "ml": "തീർച്ചയായും സഫയും മർവയും അല്ലാഹുവിൻ്റെ ചിഹ്നങ്ങളിൽ പെട്ടതാണ്.",
+        "ta": "நிச்சயமாக ஸஃபா மற்றும் மர்வா அல்லாஹ்வின் அடையாளங்களில் உள்ளவைகளாகும்."
+      }
+    },
+    {
+      "start": "00:00:04,000",
+      "end": "00:00:07,000",
+      "text": {
+        "ar": "أَبْدَأُ بِمَا بَدَأَ اللهُ بِهِ",
+        "tl": "Abda'u bimā bada'allāhu bih",
+        "en": "I begin with that which Allah began with.",
+        "ms": "Aku mulakan dengan apa yang Allah mulakan.",
+        "ml": "അല്ലാഹു ആരംഭിച്ചത് കൊണ്ട് ഞാൻ ആരംഭിക്കുന്നു.",
+        "ta": "அல்லாஹ் எதைக் கொண்டு ஆரம்பித்தானோ அதைக் கொண்டே நானும் ஆரம்பிக்கிறேன்."
+      }
+    },
+    {
+      "start": "00:00:08,000",
+      "end": "00:00:11,000",
+      "text": {
+        "ar": "اللهُ أَكْبَرُ، اللهُ أَكْبَرُ، اللهُ أَكْبَرُ",
+        "tl": "Allāhu Akbar, Allāhu Akbar, Allāhu Akbar",
+        "en": "Allah is the Greatest, Allah is the Greatest, Allah is the Greatest.",
+        "ms": "Allah Maha Besar, Allah Maha Besar, Allah Maha Besar.",
+        "ml": "അല്ലാഹു ഏറ്റവും വലിയവനാണ്, അല്ലാഹു ഏറ്റവും വലിയവനാണ്.",
+        "ta": "அல்லாஹ் மிகப்பெரியவன், அல்லாஹ் மிகப்பெரியவன், அல்லாஹ் மிகப்பெரியவன்."
+      }
+    },
+    {
+      "start": "00:00:12,000",
+      "end": "00:00:15,000",
+      "text": {
+        "ar": "لَا إِلٰهَ إِلَّا اللهُ وَحْدَهُ لَا شَرِيْكَ لَهُ",
+        "tl": "Lā ilāha illallāhu wahdahu lā sharīka lah",
+        "en": "There is no god but Allah alone, with no partner.",
+        "ms": "Tiada tuhan melainkan Allah Yang Maha Esa, tiada sekutu bagi-Nya.",
+        "ml": "അല്ലാഹു അല്ലാതെ ആരാധനയ്ക്ക് അർഹനായ ആരുമില്ല, അവൻ ഏകനാണ്.",
+        "ta": "அல்லாஹ்வைத் தவிர வேறு இறைவனில்லை, அவனுக்கு இணையாளர்கள் எவருமில்லை."
+      }
+    },
+    {
+      "start": "00:00:16,000",
+      "end": "00:00:20,000",
+      "text": {
+        "ar": "لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ",
+        "tl": "lahul-mulku wa lahul-hamdu wa huwa 'alā kulli shay'in qadīr",
+        "en": "To Him belongs all dominion and praise, and He is over all things powerful.",
+        "ms": "Bagi-Nya kerajaan dan pujian, dan Dia Maha Kuasa atas segala sesuatu.",
+        "ml": "അവനാണ് ആധിപത്യം, അവനാണ് സ്തുതി, അവൻ സർവ്വ കാര്യത്തിനും കഴിവുള്ളവനാണ്.",
+        "ta": "அவனுக்கே ஆட்சியதிகாரமும் புகழும் உரியன, அவன் அனைத்தின் மீதும் ஆற்றல் கொண்டவன்."
+      }
+    }
+  ]
 }

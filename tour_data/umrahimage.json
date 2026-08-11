@@ -51,7 +51,13 @@
       "completion_dua": "COMPLETION SUPPLICATION: O Allah, accept this from us...",
       "legend_rukun": "RUKUN - Mandatory Pillars (Golden border)",
       "legend_sunnah": "SUNNAH - Recommended Acts (Blue border)",
-      "narration": "Welcome to your sacred journey of Umrah. This guide will lead you through six essential phases. We begin Phase 1 at home with purification and the Travel Dua: [ar]Bismillahi tawakkaltu 'ala Allah[/ar]. In Phase 2, you enter Ihram at the Miqat. Phase 3 brings you to the Masjid al-Haram where you recite the Talbiyah: [ar]Labbayk Allahumma Labbayk[/ar]. Phase 4 is the Tawaf, seven rounds around the Kaaba. Phase 5 is the Sa'ie between Safa and Marwah. Finally, Phase 6 is Tahallul, where you complete your journey by trimming your hair. May Allah accept your Umrah."
+      "narration": {
+        "ar": "Labbayk Allahumma Labbayk",
+        "en": "",
+        "ms": "",
+        "ml": "",
+        "ta": ""
+      }
     },
     "ms": {
       "main_header": "Perjalanan Suci Anda:",
@@ -87,7 +93,13 @@
       "completion_dua": "DOA PENYELESAIAN: Ya Allah, terimalah amalan kami...",
       "legend_rukun": "RUKUN - Wajib (Sempadan Emas)",
       "legend_sunnah": "SUNNAH - Digalakkan (Sempadan Biru)",
-      "narration": "Selamat datang ke perjalanan suci Umrah anda. Panduan ini akan membawa anda melalui enam fasa penting. Kita mulakan Fasa 1 di rumah dengan penyucian dan Doa Musafir: [ar]Bismillahi tawakkaltu 'ala Allah[/ar]. Dalam Fasa 2, anda berniat Ihram di Miqat. Fasa 3 membawa anda ke Masjidil Haram di mana anda melaungkan Talbiyah: [ar]Labbayk Allahumma Labbayk[/ar]. Fasa 4 adalah Tawaf, tujuh pusingan mengelilingi Kaabah. Fasa 5 adalah Sa'ie antara Safa dan Marwah. Akhir sekali, Fasa 6 adalah Tahallul, di mana anda melengkapkan perjalanan dengan bergunting rambut. Semoga Allah menerima Umrah anda."
+      "narration": {
+        "ar": "Labbayk Allahumma Labbayk",
+        "en": "",
+        "ms": "",
+        "ml": "",
+        "ta": ""
+      }
     },
     "ml": {
       "main_header": "നിങ്ങളുടെ വിശുദ്ധ യാത്ര:",

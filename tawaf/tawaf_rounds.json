@@ -9,7 +9,13 @@
       "mediaItems": [
         {
           "type": "image",
-          "url": "image/tawafaswad.png"
+          "url": "image/tawafaswad.png",
+          "caption": {
+            "en": "",
+            "ms": "",
+            "ml": "",
+            "ta": ""
+          }
         }
       ],
       "audio": {
@@ -23,7 +29,13 @@
       "mediaItems": [
         {
           "type": "image",
-          "url": "image/tawafaswad.png"
+          "url": "image/tawafaswad.png",
+          "caption": {
+            "en": "",
+            "ms": "",
+            "ml": "",
+            "ta": ""
+          }
         }
       ],
       "audio": {
@@ -37,7 +49,13 @@
       "mediaItems": [
         {
           "type": "image",
-          "url": "image/tawafyamani.png"
+          "url": "image/tawafyamani.png",
+          "caption": {
+            "en": "",
+            "ms": "",
+            "ml": "",
+            "ta": ""
+          }
         }
       ],
       "audio": {
@@ -56,7 +74,13 @@
         "mediaItems": [
           {
             "type": "image",
-            "url": "image/tawaf.png"
+            "url": "image/tawaf.png",
+            "caption": {
+              "en": "",
+              "ms": "",
+              "ml": "",
+              "ta": ""
+            }
           }
         ],
         "audio": {
@@ -74,7 +98,13 @@
         "mediaItems": [
           {
             "type": "image",
-            "url": "image/tawaf.png"
+            "url": "image/tawaf.png",
+            "caption": {
+              "en": "",
+              "ms": "",
+              "ml": "",
+              "ta": ""
+            }
           }
         ],
         "audio": {
@@ -92,7 +122,13 @@
         "mediaItems": [
           {
             "type": "image",
-            "url": "image/tawaf.png"
+            "url": "image/tawaf.png",
+            "caption": {
+              "en": "",
+              "ms": "",
+              "ml": "",
+              "ta": ""
+            }
           }
         ],
         "audio": {
@@ -110,7 +146,13 @@
         "mediaItems": [
           {
             "type": "image",
-            "url": "image/tawaf.png"
+            "url": "image/tawaf.png",
+            "caption": {
+              "en": "",
+              "ms": "",
+              "ml": "",
+              "ta": ""
+            }
           }
         ],
         "audio": {
@@ -128,7 +170,13 @@
         "mediaItems": [
           {
             "type": "image",
-            "url": "image/tawaf.png"
+            "url": "image/tawaf.png",
+            "caption": {
+              "en": "",
+              "ms": "",
+              "ml": "",
+              "ta": ""
+            }
           }
         ],
         "audio": {
@@ -146,7 +194,13 @@
         "mediaItems": [
           {
             "type": "image",
-            "url": "image/tawaf.png"
+            "url": "image/tawaf.png",
+            "caption": {
+              "en": "",
+              "ms": "",
+              "ml": "",
+              "ta": ""
+            }
           }
         ],
         "audio": {
@@ -164,7 +218,13 @@
         "mediaItems": [
           {
             "type": "image",
-            "url": "image/tawaf.png"
+            "url": "image/tawaf.png",
+            "caption": {
+              "en": "",
+              "ms": "",
+              "ml": "",
+              "ta": ""
+            }
           }
         ],
         "audio": {

@@ -1,42 +1,54 @@
 {
   "_mock": true,
   "_note": "Dua recited while standing at Marwa before beginning each even trip back. Shared for trips 2,4,6.",
-  "subtitles": {
-    "ar": [
-      { "start": "00:00:00,000", "end": "00:00:03,000", "text": "اللهُ أَكْبَرُ، اللهُ أَكْبَرُ، اللهُ أَكْبَرُ" },
-      { "start": "00:00:04,000", "end": "00:00:07,000", "text": "لَا إِلٰهَ إِلَّا اللهُ وَحْدَهُ لَا شَرِيْكَ لَهُ" },
-      { "start": "00:00:08,000", "end": "00:00:11,000", "text": "لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ يُحْيِي وَيُمِيتُ" },
-      { "start": "00:00:12,000", "end": "00:00:16,000", "text": "وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ" }
-    ],
-    "tl": [
-      { "start": "00:00:00,000", "end": "00:00:03,000", "text": "Allāhu Akbar, Allāhu Akbar, Allāhu Akbar" },
-      { "start": "00:00:04,000", "end": "00:00:07,000", "text": "Lā ilāha illallāhu wahdahu lā sharīka lah" },
-      { "start": "00:00:08,000", "end": "00:00:11,000", "text": "lahul-mulku wa lahul-hamdu yuhyī wa yumīt" },
-      { "start": "00:00:12,000", "end": "00:00:16,000", "text": "wa huwa 'alā kulli shay'in qadīr" }
-    ],
-    "en": [
-      { "start": "00:00:00,000", "end": "00:00:03,000", "text": "Allah is the Greatest, Allah is the Greatest, Allah is the Greatest." },
-      { "start": "00:00:04,000", "end": "00:00:07,000", "text": "There is no god but Allah alone, with no partner." },
-      { "start": "00:00:08,000", "end": "00:00:11,000", "text": "To Him belongs all dominion and praise; He gives life and causes death." },
-      { "start": "00:00:12,000", "end": "00:00:16,000", "text": "And He is over all things powerful." }
-    ],
-    "ms": [
-      { "start": "00:00:00,000", "end": "00:00:03,000", "text": "Allah Maha Besar, Allah Maha Besar, Allah Maha Besar." },
-      { "start": "00:00:04,000", "end": "00:00:07,000", "text": "Tiada tuhan melainkan Allah Yang Maha Esa, tiada sekutu bagi-Nya." },
-      { "start": "00:00:08,000", "end": "00:00:11,000", "text": "Bagi-Nya kerajaan dan pujian; Dia menghidupkan dan mematikan." },
-      { "start": "00:00:12,000", "end": "00:00:16,000", "text": "Dan Dia Maha Kuasa atas segala sesuatu." }
-    ],
-    "ml": [
-      { "start": "00:00:00,000", "end": "00:00:03,000", "text": "അല്ലാഹു ഏറ്റവും വലിയവനാണ്, അല്ലാഹു ഏറ്റവും വലിയവനാണ്." },
-      { "start": "00:00:04,000", "end": "00:00:07,000", "text": "അല്ലാഹു അല്ലാതെ ആരാധനയ്ക്ക് അർഹനായ ആരുമില്ല, അവൻ ഏകനാണ്." },
-      { "start": "00:00:08,000", "end": "00:00:11,000", "text": "അവനാണ് ആധിപത്യം, അവനാണ് സ്തുതി; അവൻ ജീവിപ്പിക്കുകയും മരിപ്പിക്കുകയും ചെയ്യുന്നു." },
-      { "start": "00:00:12,000", "end": "00:00:16,000", "text": "അവൻ സർവ്വ കാര്യത്തിനും കഴിവുള്ളവനാണ്." }
-    ],
-    "ta": [
-      { "start": "00:00:00,000", "end": "00:00:03,000", "text": "அல்லாஹ் மிகப்பெரியவன், அல்லாஹ் மிகப்பெரியவன், அல்லாஹ் மிகப்பெரியவன்." },
-      { "start": "00:00:04,000", "end": "00:00:07,000", "text": "அல்லாஹ்வைத் தவிர வேறு இறைவனில்லை, அவனுக்கு இணையாளர்கள் எவருமில்லை." },
-      { "start": "00:00:08,000", "end": "00:00:11,000", "text": "அவனுக்கே ஆட்சியதிகாரமும் புகழும் உரியன; அவன் உயிரூட்டவும் மரணிக்கவும் செய்கிறான்." },
-      { "start": "00:00:12,000", "end": "00:00:16,000", "text": "அவன் அனைத்தின் மீதும் ஆற்றல் கொண்டவன்." }
-    ]
-  }
+  "subtitles": [
+    {
+      "start": "00:00:00,000",
+      "end": "00:00:03,000",
+      "text": {
+        "ar": "اللهُ أَكْبَرُ، اللهُ أَكْبَرُ، اللهُ أَكْبَرُ",
+        "tl": "Allāhu Akbar, Allāhu Akbar, Allāhu Akbar",
+        "en": "Allah is the Greatest, Allah is the Greatest, Allah is the Greatest.",
+        "ms": "Allah Maha Besar, Allah Maha Besar, Allah Maha Besar.",
+        "ml": "അല്ലാഹു ഏറ്റവും വലിയവനാണ്, അല്ലാഹു ഏറ്റവും വലിയവനാണ്.",
+        "ta": "அல்லாஹ் மிகப்பெரியவன், அல்லாஹ் மிகப்பெரியவன், அல்லாஹ் மிகப்பெரியவன்."
+      }
+    },
+    {
+      "start": "00:00:04,000",
+      "end": "00:00:07,000",
+      "text": {
+        "ar": "لَا إِلٰهَ إِلَّا اللهُ وَحْدَهُ لَا شَرِيْكَ لَهُ",
+        "tl": "Lā ilāha illallāhu wahdahu lā sharīka lah",
+        "en": "There is no god but Allah alone, with no partner.",
+        "ms": "Tiada tuhan melainkan Allah Yang Maha Esa, tiada sekutu bagi-Nya.",
+        "ml": "അല്ലാഹു അല്ലാതെ ആരാധനയ്ക്ക് അർഹനായ ആരുമില്ല, അവൻ ഏകനാണ്.",
+        "ta": "அல்லாஹ்வைத் தவிர வேறு இறைவனில்லை, அவனுக்கு இணையாளர்கள் எவருமில்லை."
+      }
+    },
+    {
+      "start": "00:00:08,000",
+      "end": "00:00:11,000",
+      "text": {
+        "ar": "لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ يُحْيِي وَيُمِيتُ",
+        "tl": "lahul-mulku wa lahul-hamdu yuhyī wa yumīt",
+        "en": "To Him belongs all dominion and praise; He gives life and causes death.",
+        "ms": "Bagi-Nya kerajaan dan pujian; Dia menghidupkan dan mematikan.",
+        "ml": "അവനാണ് ആധിപത്യം, അവനാണ് സ്തുതി; അവൻ ജീവിപ്പിക്കുകയും മരിപ്പിക്കുകയും ചെയ്യുന്നു.",
+        "ta": "அவனுக்கே ஆட்சியதிகாரமும் புகழும் உரியன; அவன் உயிரூட்டவும் மரணிக்கவும் செய்கிறான்."
+      }
+    },
+    {
+      "start": "00:00:12,000",
+      "end": "00:00:16,000",
+      "text": {
+        "ar": "وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ",
+        "tl": "wa huwa 'alā kulli shay'in qadīr",
+        "en": "And He is over all things powerful.",
+        "ms": "Dan Dia Maha Kuasa atas segala sesuatu.",
+        "ml": "അവൻ സർവ്വ കാര്യത്തിനും കഴിവുള്ളവനാണ്.",
+        "ta": "அவன் அனைத்தின் மீதும் ஆற்றல் கொண்டவன்."
+      }
+    }
+  ]
 }

@@ -286,6 +286,11 @@
       {
         "url": "image/prompt/lahir.jpg",
         "role": "prompt",
+        "scale": "large",
+        "activationRange": {
+          "minDistanceMetres": 5.0,
+          "maxDistanceMetres": 250.0
+        },
         "embeddedData": {
           "format": "DINOV2_ORB_V1",
           "dinov2Dims": 384,
