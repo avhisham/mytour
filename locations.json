@@ -705,24 +705,37 @@
   {
     "id": "masjid_fatah",
     "name": {
-      "en": "Masjid Fatah",
-      "ms": "Masjid Fatah",
-      "ml": "മസ്ജിദ് ഫതഹ്",
-      "ta": "மஸ்ஜித் ஃபதஹ்"
+      "en": "Masjid al-Fatah (Victory Mosque)",
+      "ms": "Masjid al-Fatah (Masjid Kemenangan)",
+      "ml": "മസ്ജിദുൽ ഫതഹ് (വിജയ പള്ളി)",
+      "ta": "மஸ்ஜித் அல்-பதஹ் (வெற்றி பள்ளி)"
     },
     "description": {
-      "en": "The largest of the 'Seven Mosques,' marking the spot where the Prophet ﷺ supplicated for victory during the Battle of the Trench.",
-      "ms": "Masjid terbesar daripada 'Tujuh Masjid,' yang menandakan tempat di mana Rasulullah ﷺ memohon kemenangan semasa Perang Khandaq.",
-      "ml": "ഖന്ദഖ് യുദ്ധവേളയിൽ മുഹമ്മദ് നബി ﷺ വിജയത്തിനായി പ്രാർത്ഥിച്ച സ്ഥലം. 'ഏഴ് പള്ളികളിൽ' ഏറ്റവും വലുതാണിത്.",
-      "ta": "அகழ் போரின் போது நபிகள் நாயகம் ﷺ அவர்கள் வெற்றிக்காகப் பிரார்த்தித்த இடத்தைக் குறிக்கும் 'ஏழு பள்ளிவாசல்களில்' இது மிகப்பெரியது."
+      "en": "The largest and highest mosque on Mount Sela at Khandaq where Prophet Muhammad ﷺ supplicated for 3 days until divine victory was granted.",
+      "ms": "Masjid terbesar dan tertinggi di Gunung Sela di Khandaq tempat Rasulullah ﷺ berdoa selama 3 hari sehingga pertolongan Allah tiba.",
+      "ml": "ഖന്ദഖിൽ സലാ മലമുകളിൽ സ്ഥിതിചെയ്യുന്ന പള്ളി. പ്രവാചകൻ ﷺ 3 ദിവസം പ്രാർത്ഥിച്ച് അല്ലാഹുവിൻ്റെ വിജയം വന്നെത്തിയ സ്ഥലം.",
+      "ta": "கந்தக் சலா மலையில் அமைந்துள்ள பெரிய பள்ளிவாசல். நபிகள் நாயகம் ﷺ 3 நாட்கள் பிரார்த்தித்து அல்லாஹ்வின் வெற்றி பெறப்பட்ட இடம்."
     },
-    "latitude": 24.476389,
-    "longitude": 39.593056,
-    "type": "Historical",
+    "latitude": 24.4772,
+    "longitude": 39.5942,
+    "type": "Mosque",
     "chronologyDate": "627-02-01",
-    "imageUrls": [],
+    "imageUrls": [
+      {
+        "url": "image/luar.jpg",
+        "caption": {
+          "en": "Masjid al-Fatah",
+          "ms": "Masjid al-Fatah",
+          "ml": "",
+          "ta": ""
+        }
+      }
+    ],
     "videoUrls": [],
-    "socialLinks": []
+    "socialLinks": [],
+    "parentId": "masjid_nabawi",
+    "clusterId": "khandaq_cluster",
+    "subCategory": "Khandaq Mosques"
   },
   {
     "id": "masjid_fasah",
@@ -777,52 +790,37 @@
   {
     "id": "jabal_rumat",
     "name": {
-      "en": "Jabal Rumat (Archers' Hill)",
-      "ms": "Jabal Rumat (Bukit Pemanah)",
-      "ml": "ജബൽ റുമാത്ത് (അമ്പെയ്ത്തുകാരുടെ കുന്ന്)",
-      "ta": "ஜபல் ருமாத் (வில்வீரர்கள் குன்று)"
+      "en": "Hill of Archers (Jabal al-Rumat)",
+      "ms": "Bukit Pemanah (Jabal al-Rumat)",
+      "ml": "അമ്പെയ്ത്തുകാരുടെ കുന്ന് (ജബലുർ-റുമത്)",
+      "ta": "வில்லாளிகள் குன்று (ஜபல் அல்-ருமாத்)"
     },
     "description": {
-      "en": "The strategic hill where the Prophet ﷺ stationed 50 archers under the command of Abdullah ibn Jubayr during the Battle of Uhud.",
-      "ms": "Bukit strategik di mana Rasulullah ﷺ menempatkan 50 pemanah di bawah pimpinan Abdullah ibn Jubayr semasa Perang Uhud.",
-      "ml": "ഉഹുദ് യുദ്ധവേളയിൽ അബ്ദുല്ല ബിൻ ജുബൈറിൻ്റെ നേതൃത്വത്തിൽ 50 അമ്പെയ്ത്തുകാരെ മുഹമ്മദ് നബി ﷺ നിർത്തിയ തന്ത്രപ്രധാനമായ കുന്ന്.",
-      "ta": "உஹுத் போரின் போது அப்துல்லாஹ் இப்னு ஜுபைர் தலைமையின் கீழ் நபிகள் நாயகம் ﷺ அவர்கள் 50 வில்வீரர்களை நிறுத்திய முக்கியமான குன்று இதுவாகும்."
+      "en": "Mount Ainein, where Prophet Muhammad ﷺ stationed 50 archers under Abdullah ibn Jubayr (RA) to protect the army's rear.",
+      "ms": "Bukit Ainein, tempat Rasulullah ﷺ menempatkan 50 pemanah di bawah Abdullah ibn Jubayr (RA) untuk mengawal tentera.",
+      "ml": "പ്രവാചകൻ ﷺ 50 അമ്പെയ്ത്തുകാരെ നിർത്തിയിരുന്ന ഐനൈൻ കുന്ന്.",
+      "ta": "நபிகள் நாயகம் ﷺ 50 வில்லாளிகளை நிறுத்திய குன்று."
     },
-    "latitude": 24.502282,
-    "longitude": 39.612241,
+    "latitude": 24.5015,
+    "longitude": 39.6135,
     "type": "Historical",
     "chronologyDate": "625-03-23",
     "imageUrls": [
       {
-        "url": "image/tempat/rumat1.jpg",
+        "url": "image/luar.jpg",
         "caption": {
-          "en": "",
-          "ms": "",
-          "ml": "",
-          "ta": ""
-        }
-      },
-      {
-        "url": "image/tempat/rumat2.jpg",
-        "caption": {
-          "en": "",
-          "ms": "",
-          "ml": "",
-          "ta": ""
-        }
-      },
-      {
-        "url": "image/tempat/rumat3.png",
-        "caption": {
-          "en": "",
-          "ms": "",
+          "en": "Hill of Archers",
+          "ms": "Bukit Pemanah",
           "ml": "",
           "ta": ""
         }
       }
     ],
     "videoUrls": [],
-    "socialLinks": []
+    "socialLinks": [],
+    "parentId": "jabal_uhud",
+    "clusterId": "uhud_battlefield",
+    "subCategory": "Uhud Battlefield"
   },
   {
     "id": "shuhada_uhud",
@@ -993,5 +991,1029 @@
     "imageUrls": [],
     "videoUrls": [],
     "socialLinks": []
+  },
+  {
+    "id": "ustuwanah_tahajjud",
+    "parentId": "masjid_nabawi",
+    "clusterId": "rawdah_pillars",
+    "subCategory": "Rawdah Pillars",
+    "name": {
+      "en": "Pillar of Tahajjud (Ustuwanah at-Tahajjud)",
+      "ms": "Tiang Tahajjud (Ustuwanah at-Tahajjud)",
+      "ml": "തഹജ്ജുദ് തൂൺ (ഉസ്തുവാനതു അത്-തഹജ്ജുദ്)",
+      "ta": "தஹஜ்ஜுத் தூண் (உஸ்துவானா அத்-தஹஜ்ஜுத்)"
+    },
+    "description": {
+      "en": "Located behind the Sacred Chamber of Aisha (RA), where Prophet Muhammad ﷺ used to perform his night prayers (Tahajjud).",
+      "ms": "Terletak di belakang Bilik Suci Aisha (RA), tempat Rasulullah ﷺ biasa mengerjakan solat malam (Tahajjud).",
+      "ml": "ആയിഷ (റ) യുടെ വിശുദ്ധ മുറിക്ക് പിന്നിൽ സ്ഥിതിചെയ്യുന്നു, പ്രവാചകൻ ﷺ രാത്രി നമസ്കാരം (തഹജ്ജുദ്) നിർവ്വഹിച്ചിരുന്ന സ്ഥലം.",
+      "ta": "ஆயிஷா (ரலி) அவர்களின் புனித அறைக்கு பின்னால் அமைந்துள்ளது, இங்கு நபிகள் நாயகம் ﷺ நள்ளிரவு தொழுகை (தஹஜ்ஜுத்) தொழுவது வழக்கம்."
+    },
+    "latitude": 24.46721,
+    "longitude": 39.611215,
+    "type": "Rawdah Site",
+    "imageUrls": [
+      {
+        "url": "image/luar.jpg",
+        "caption": {
+          "en": "Pillar of Tahajjud inside Rawdah",
+          "ms": "Tiang Tahajjud di dalam Raudah",
+          "ml": "",
+          "ta": ""
+        }
+      }
+    ]
+  },
+  {
+    "id": "ustuwanah_wufud",
+    "parentId": "masjid_nabawi",
+    "clusterId": "rawdah_pillars",
+    "subCategory": "Rawdah Pillars",
+    "name": {
+      "en": "Pillar of Guests & Delegations (Ustuwanah al-Wufud)",
+      "ms": "Tiang Utusan (Ustuwanah al-Wufud)",
+      "ml": "പ്രതിനിധി തൂൺ (ഉസ്തുവാനതുൽ വുഫൂദ്)",
+      "ta": "தூதுக்குழு தூண் (உஸ்துவானா அல்-வுபூத்)"
+    },
+    "description": {
+      "en": "Where Prophet Muhammad ﷺ received foreign envoys, dignitaries, and tribal delegations visiting Medina.",
+      "ms": "Tempat Rasulullah ﷺ menerima duta asing, orang kenamaan, dan utusan suku yang melawat Madinah.",
+      "ml": "മദീന സന്ദർശിക്കുന്ന വിദേശ പ്രതിനിധികളെയും ഗോത്ര നേതാക്കളെയും പ്രവാചകൻ ﷺ സ്വീകരിച്ചിരുന്ന സ്ഥലം.",
+      "ta": "மதினாவுக்கு வருகை தந்த വിദേശ தூதர்களையும் பழங்குடி தலைவர்களையும் நபிகள் நாயகம் ﷺ வரவேற்ற இடம்."
+    },
+    "latitude": 24.467205,
+    "longitude": 39.61121,
+    "type": "Rawdah Site",
+    "imageUrls": [
+      {
+        "url": "image/luar.jpg",
+        "caption": {
+          "en": "Pillar of Guests (Ustuwanah al-Wufud)",
+          "ms": "Tiang Utusan (Ustuwanah al-Wufud)",
+          "ml": "",
+          "ta": ""
+        }
+      }
+    ]
+  },
+  {
+    "id": "ustuwanah_ali",
+    "parentId": "masjid_nabawi",
+    "clusterId": "rawdah_pillars",
+    "subCategory": "Rawdah Pillars",
+    "name": {
+      "en": "Pillar of Ali (Ustuwanah Ali / Al-Haras)",
+      "ms": "Tiang Ali (Ustuwanah Ali / Al-Haras)",
+      "ml": "അലി തൂൺ (ഉസ്തുവാനതു അലി / അൽ-ഹറസ്)",
+      "ta": "அலி தூண் (உஸ்துவானா அலி)"
+    },
+    "description": {
+      "en": "Also known as the Guard Pillar (Ustuwanah al-Haras), where Ali ibn Abi Talib (RA) stood guard to protect Prophet Muhammad ﷺ.",
+      "ms": "Juga dikenali sebagai Tiang Pengawal (Ustuwanah al-Haras), di mana Ali ibn Abi Talib (RA) berdiri berkawal untuk mengawal Rasulullah ﷺ.",
+      "ml": "കാവൽ തൂൺ എന്നും അറിയപ്പെടുന്നു. അലി ഇബ്നു അബീത്വാലിബ് (റ) പ്രവാചകന് ﷺ കാവൽ നിന്ന സ്ഥലം.",
+      "ta": "காவல் தூண் என்றும் அழைக்கப்படுகிறது, இங்கு அலி (ரலி) நபிகள் நாயகம் ﷺ அவர்களுக்கு பாதுகாப்பு காவலராக நின்றார்."
+    },
+    "latitude": 24.467202,
+    "longitude": 39.611208,
+    "type": "Rawdah Site",
+    "imageUrls": [
+      {
+        "url": "image/luar.jpg",
+        "caption": {
+          "en": "Pillar of Ali (Ustuwanah al-Haras)",
+          "ms": "Tiang Ali (Ustuwanah al-Haras)",
+          "ml": "",
+          "ta": ""
+        }
+      }
+    ]
+  },
+  {
+    "id": "ustuwanah_sarir",
+    "parentId": "masjid_nabawi",
+    "clusterId": "rawdah_pillars",
+    "subCategory": "Rawdah Pillars",
+    "name": {
+      "en": "Pillar of Bed (Ustuwanah as-Sarir)",
+      "ms": "Tiang Katil (Ustuwanah as-Sarir)",
+      "ml": "കിടക്ക തൂൺ (ഉസ്തുവാനതുസ്-സരീർ)",
+      "ta": "படுக்கை தூண் (உஸ்துவானா அஸ்-ஸரீர்)"
+    },
+    "description": {
+      "en": "Where Prophet Muhammad ﷺ placed his bed of palm fibers during his seclusion (Itikaf) inside the mosque.",
+      "ms": "Tempat Rasulullah ﷺ meletakkan katil pelepah kurma semasa beriktikaf di dalam masjid.",
+      "ml": "പള്ളിയിൽ ഇഅ്തികാഫ് ഇരുന്നപ്പോൾ പ്രവാചകൻ ﷺ തൻ്റെ ഈന്തപ്പന കിടക്ക വിരിച്ചിരുന്ന സ്ഥലം.",
+      "ta": "பள்ளிவாசலில் இதிகாஃப் இருந்தபோது நபிகள் நாயகம் ﷺ அவர்கள் தனது படுக்கையை அமைத்த இடம்."
+    },
+    "latitude": 24.4672,
+    "longitude": 39.611205,
+    "type": "Rawdah Site",
+    "imageUrls": [
+      {
+        "url": "image/luar.jpg",
+        "caption": {
+          "en": "Pillar of Bed",
+          "ms": "Tiang Katil",
+          "ml": "",
+          "ta": ""
+        }
+      }
+    ]
+  },
+  {
+    "id": "ustuwanah_tawbah",
+    "parentId": "masjid_nabawi",
+    "clusterId": "rawdah_pillars",
+    "subCategory": "Rawdah Pillars",
+    "name": {
+      "en": "Pillar of Repentance (Ustuwanah at-Tawbah)",
+      "ms": "Tiang Taubat (Ustuwanah at-Tawbah)",
+      "ml": "തൗബ തൂൺ (ഉസ്തുവാനതുത്-തൗബ)",
+      "ta": "தவ்பா தூண் (உஸ்துவானா அத்-தவ்பா)"
+    },
+    "description": {
+      "en": "Also known as Abu Lubabah's Pillar, where the Companion tied himself asking for Allah's forgiveness until revelation was sent.",
+      "ms": "Juga dikenali sebagai Tiang Abu Lubabah, tempat sahabat mengikat dirinya memohon keampunan Allah sehingga wahyu diturunkan.",
+      "ml": "അബൂ ലുബാബ തൂൺ എന്നും അറിയപ്പെടുന്നു. അല്ലാഹുവിനോട് മാപ്പിരന്നുകൊണ്ട് സഹാബി സ്വയം ചങ്ങലക്കിട്ട സ്ഥലം.",
+      "ta": "அபூ லுபாபாவின் தூண் என்றும் அழைக்கப்படுகிறது, இங்குதான் அந்த தோழர் அல்லாஹ்வின் மன்னிப்பைக் கேட்டு தங்களை பிணைத்துக் கொண்டார்."
+    },
+    "latitude": 24.467198,
+    "longitude": 39.611202,
+    "type": "Rawdah Site",
+    "imageUrls": [
+      {
+        "url": "image/luar.jpg",
+        "caption": {
+          "en": "Pillar of Repentance",
+          "ms": "Tiang Taubat",
+          "ml": "",
+          "ta": ""
+        }
+      }
+    ]
+  },
+  {
+    "id": "ustuwanah_aisha",
+    "parentId": "masjid_nabawi",
+    "clusterId": "rawdah_pillars",
+    "subCategory": "Rawdah Pillars",
+    "name": {
+      "en": "Pillar of Aisha (Ustuwanah Aisha)",
+      "ms": "Tiang Aishah (Ustuwanah Aisha)",
+      "ml": "ആയിഷ തൂൺ (ഉസ്തുവാനതു ആയിഷ)",
+      "ta": "ஆயிஷா தூண் (உஸ்துவானா ஆயிஷா)"
+    },
+    "description": {
+      "en": "Also known as the Pillar of Lots (Ustuwanah al-Qur'ah). Aisha (RA) narrated that praying near this pillar carries immense reward.",
+      "ms": "Juga dikenali sebagai Tiang Undian (Ustuwanah al-Qur'ah). Aishah (RA) meriwayatkan solat di sini membawa pahala yang sangat besar.",
+      "ml": "ഖുർഅഃ തൂൺ എന്നും അറിയപ്പെടുന്നു. ഇവിടെ പ്രാർത്ഥിക്കുന്നത് വലിയ പ്രതിഫലം നൽകുമെന്ന് ആയിഷ (റ) നിവേദനം ചെയ്തിട്ടുണ്ട്.",
+      "ta": "இங்கு தொழுவது அளப்பரிய நன்மைகளைத் தரும் എന്ന് ஆயிஷா (ரலி) அறிவித்துள்ளார்கள்."
+    },
+    "latitude": 24.467195,
+    "longitude": 39.6112,
+    "type": "Rawdah Site",
+    "imageUrls": [
+      {
+        "url": "image/luar.jpg",
+        "caption": {
+          "en": "Pillar of Aisha",
+          "ms": "Tiang Aishah",
+          "ml": "",
+          "ta": ""
+        }
+      }
+    ]
+  },
+  {
+    "id": "ustuwanah_mukhallaqah",
+    "parentId": "masjid_nabawi",
+    "clusterId": "rawdah_pillars",
+    "subCategory": "Rawdah Pillars",
+    "name": {
+      "en": "Fragrance Pillar (Ustuwanah al-Mukhallaqah)",
+      "ms": "Tiang Wangian (Ustuwanah al-Mukhallaqah)",
+      "ml": "സുഗന്ധ തൂൺ (ഉസ്തുവാനതുൽ മുഖല്ലഖ)",
+      "ta": "நறுமணத் தூண் (உஸ்துவானா அல்-முகல்லகா)"
+    },
+    "description": {
+      "en": "Located adjacent to the Prophet's Mihrab where incense and perfume were historically applied to scent the mosque.",
+      "ms": "Terletak bersebelahan Mihrab Rasulullah ﷺ di mana colok dan minyak wangi disapu untuk mewangikan masjid.",
+      "ml": "മിഹ്റാബിന് തൊട്ടടുത്ത് സ്ഥിതിചെയ്യുന്നു, പള്ളിയിൽ സുഗന്ധം പുകയ്ക്കാൻ ഉപയോഗിച്ചിരുന്ന സ്ഥലം.",
+      "ta": "மிஹ்ராபுக்கு அருகில் அமைந்துள்ளது, வரலாற்று ரீதியாக பள்ளிவாசலுக்கு நறுமணம் பூசப்பட்ட இடம்."
+    },
+    "latitude": 24.467192,
+    "longitude": 39.611198,
+    "type": "Rawdah Site",
+    "imageUrls": [
+      {
+        "url": "image/luar.jpg",
+        "caption": {
+          "en": "Fragrance Pillar",
+          "ms": "Tiang Wangian",
+          "ml": "",
+          "ta": ""
+        }
+      }
+    ]
+  },
+  {
+    "id": "prophet_minbar",
+    "parentId": "masjid_nabawi",
+    "clusterId": "rawdah_pillars",
+    "subCategory": "Rawdah Pillars",
+    "name": {
+      "en": "Minbar of the Prophet ﷺ",
+      "ms": "Mimbar Rasulullah ﷺ",
+      "ml": "പ്രവാചകൻ്റെ മിൻബർ ﷺ",
+      "ta": "நபிகள் நாயகத்தின் மின்பர் ﷺ"
+    },
+    "description": {
+      "en": "The wooden pulpit from which Prophet Muhammad ﷺ delivered Friday khutbahs. 'Between my house and my minbar is a garden from Paradise.'",
+      "ms": "Mimbar kayu tempat Rasulullah ﷺ menyampaikan khutbah Jumaat. 'Antara rumahku dan mimbarku adalah taman daripada taman-taman Syurga.'",
+      "ml": "വെള്ളിയാഴ്ച ഖുതുബകൾ നിർവ്വഹിച്ചിരുന്ന മര മിൻബർ. 'എൻ്റെ വീടിനും മിൻബറിനും ഇടയിലുള്ളത് സ്വർഗ്ഗത്തോപ്പുകളിൽ പെട്ട ഒരു തോപ്പാണ്.'",
+      "ta": "நபிகள் நாயகம் ﷺ வெள்ளிக்கிழமை குத்பா நிகழ்த்திய மர மேடை. 'எனது இல்லத்திற்கும் எனது மின்பருக்கும் ഇടയിലുള്ളത് சொர்க்கத்தின் பூங்காக்களில் ഒന്നாகும்.'"
+    },
+    "latitude": 24.46719,
+    "longitude": 39.611195,
+    "type": "Rawdah Site",
+    "imageUrls": [
+      {
+        "url": "image/luar.jpg",
+        "caption": {
+          "en": "Minbar of Prophet ﷺ",
+          "ms": "Mimbar Rasulullah ﷺ",
+          "ml": "",
+          "ta": ""
+        }
+      }
+    ]
+  },
+  {
+    "id": "prophet_mihrab",
+    "parentId": "masjid_nabawi",
+    "clusterId": "rawdah_pillars",
+    "subCategory": "Rawdah Pillars",
+    "name": {
+      "en": "Mihrab of the Prophet ﷺ",
+      "ms": "Mihrab Rasulullah ﷺ",
+      "ml": "പ്രവാചകൻ്റെ മിഹ്റാബ് ﷺ",
+      "ta": "நபிகள் நாயகத்தின் மிஹ்ராப் ﷺ"
+    },
+    "description": {
+      "en": "The sacred prayer niche marking the exact spot where Prophet Muhammad ﷺ led congregational prayers after the Qibla was changed to Makkah.",
+      "ms": "Mihrab suci yang menandakan tempat tepat Rasulullah ﷺ memimpin solat berjemaah selepas Kiblat ditukar ke Mekah.",
+      "ml": "ഖിബ്ല മക്കയിലേക്ക് മാറിയ ശേഷം പ്രവാചകൻ ﷺ ജമാഅത്ത് നിസ്കാരങ്ങൾക്ക് നേതൃത്വം നൽകിയ വിശുദ്ധ സ്ഥലം.",
+      "ta": "கிப்லா மக்காவுக்கு மாற்றப்பட்ட பிறகு நபிகள் நாயகம் ﷺ கூட்டுத் தொழுகைக்கு தலைமை தாங்கிய புனித இடம்."
+    },
+    "latitude": 24.467188,
+    "longitude": 39.611192,
+    "type": "Rawdah Site",
+    "imageUrls": [
+      {
+        "url": "image/luar.jpg",
+        "caption": {
+          "en": "Mihrab of Prophet ﷺ",
+          "ms": "Mihrab Rasulullah ﷺ",
+          "ml": "",
+          "ta": ""
+        }
+      }
+    ]
+  },
+  {
+    "id": "hujrah_aisha_direction",
+    "parentId": "masjid_nabawi",
+    "clusterId": "rawdah_pillars",
+    "subCategory": "Rawdah Pillars",
+    "name": {
+      "en": "Sacred Chamber (House of Aisha RA)",
+      "ms": "Hujrah Sharifah (Rumah Aishah RA)",
+      "ml": "വിശുദ്ധ മുറി (ആയിഷ (റ) യുടെ വീട്)",
+      "ta": "புனித அறை (ஆயிஷா ரலி இல்லம்)"
+    },
+    "description": {
+      "en": "The room of Mother of the Believers Aisha (RA), resting place of Prophet Muhammad ﷺ, Abu Bakr as-Siddiq (RA), and Umar ibn al-Khattab (RA).",
+      "ms": "Bilik Ummul Mukminin Aishah (RA), tempat bersemayam Rasulullah ﷺ, Abu Bakr as-Siddiq (RA), dan Umar ibn al-Khattab (RA).",
+      "ml": "പ്രവാചകൻ ﷺ, അബൂബക്കർ സിദ്ദീഖ് (റ), ഉമർ ഇബ്നുൽ ഖത്താബ് (റ) എന്നിവർ അന്ത്യവിശ്രമം കൊള്ളുന്ന സ്ഥലം.",
+      "ta": "நபிகள் நாயகம் ﷺ, அபூபக்கர் சித்தீக் (ரலி), மற்றும் உமர் (ரலி) ஆகியோர் அடக்கம் செய்யப்பட்டுள்ள புனித அறை."
+    },
+    "latitude": 24.467215,
+    "longitude": 39.61122,
+    "type": "Rawdah Site",
+    "imageUrls": [
+      {
+        "url": "image/luar.jpg",
+        "caption": {
+          "en": "Sacred Chamber",
+          "ms": "Hujrah Sharifah",
+          "ml": "",
+          "ta": ""
+        }
+      }
+    ]
+  },
+  {
+    "id": "house_hafsah",
+    "parentId": "masjid_nabawi",
+    "clusterId": "rawdah_pillars",
+    "subCategory": "Rawdah Pillars",
+    "name": {
+      "en": "House of Hafsah (RA)",
+      "ms": "Rumah Hafsah (RA)",
+      "ml": "ഹഫ്സ (റ) യുടെ വീട്",
+      "ta": "ஹப்ஸா (ரலி) இல்லம்"
+    },
+    "description": {
+      "en": "The house of Mother of Believers Hafsah bint Umar (RA), located right next to the Sacred Chamber.",
+      "ms": "Rumah Ummul Mukminin Hafsah bint Umar (RA), terletak di sebelah Bilik Suci.",
+      "ml": "വിശുദ്ധ മുറിക്ക് തൊട്ടടുത്ത് സ്ഥിതിചെയ്യുന്ന ഹഫ്സ ബിൻത് ഉമർ (റ) യുടെ വീട്.",
+      "ta": "புனித அறைக்கு 바로 அருகில் அமைந்துள்ள ஹப்ஸா பின்அத் உமர் (ரலி) அவர்களின் இல்லம்."
+    },
+    "latitude": 24.46722,
+    "longitude": 39.611225,
+    "type": "Rawdah Site",
+    "imageUrls": [
+      {
+        "url": "image/luar.jpg",
+        "caption": {
+          "en": "House of Hafsah",
+          "ms": "Rumah Hafsah",
+          "ml": "",
+          "ta": ""
+        }
+      }
+    ]
+  },
+  {
+    "id": "house_ali",
+    "parentId": "masjid_nabawi",
+    "clusterId": "rawdah_pillars",
+    "subCategory": "Rawdah Pillars",
+    "name": {
+      "en": "House of Ali & Fatima (RA)",
+      "ms": "Rumah Ali & Fatima (RA)",
+      "ml": "അലി & ഫാത്തിമ (റ) യുടെ വീട്",
+      "ta": "அலி & பாத்திமா (ரலி) இல்லம்"
+    },
+    "description": {
+      "en": "The home of Ali ibn Abi Talib (RA) and Fatima az-Zahra (RA), located adjacent to the Prophet's house.",
+      "ms": "Rumah Ali ibn Abi Talib (RA) dan Fatima az-Zahra (RA), terletak bersebelahan rumah Rasulullah ﷺ.",
+      "ml": "അലി (റ), ഫാത്തിമ (റ) എന്നിവരുടെ വീട്, പ്രവാചകൻ്റെ വീടിന് തൊട്ടടുത്ത്.",
+      "ta": "நபிகள் நாயகம் ﷺ இல்லத்திற்கு அருகில் அமைந்துள்ள அலி (ரலி) மற்றும் பாத்திமா (ரலி) அவர்களின் இல்லம்."
+    },
+    "latitude": 24.467225,
+    "longitude": 39.61123,
+    "type": "Rawdah Site",
+    "imageUrls": [
+      {
+        "url": "image/luar.jpg",
+        "caption": {
+          "en": "House of Ali & Fatima",
+          "ms": "Rumah Ali & Fatima",
+          "ml": "",
+          "ta": ""
+        }
+      }
+    ]
+  },
+  {
+    "id": "uhud_battle_field",
+    "parentId": "jabal_uhud",
+    "clusterId": "uhud_battlefield",
+    "subCategory": "Uhud Battlefield",
+    "name": {
+      "en": "Uhud Battle Ground",
+      "ms": "Medan Perang Uhud",
+      "ml": "ഉഹ്ദ് യുദ്ധക്കളം",
+      "ta": "உஹுத் போர் களம்"
+    },
+    "description": {
+      "en": "The historic plain at the base of Mount Uhud where the Battle of Uhud took place in Shawwal 3 AH (625 CE).",
+      "ms": "Dataran bersejarah di kaki Gunung Uhud di mana Perang Uhud berlaku pada Syawal 3 H (625 M).",
+      "ml": "ഹിജ്റ 3-ൽ ഉഹ്ദ് യുദ്ധം നടന്ന പ്രശസ്തമായ പ്രദേശം.",
+      "ta": "ஹிஜ்ரி 3 ல் வரலாற்று சிறப்புமிக்க உஹுத் போர் நடந்த சமவெளி."
+    },
+    "latitude": 24.5025,
+    "longitude": 39.6125,
+    "type": "Historical",
+    "imageUrls": [
+      {
+        "url": "image/luar.jpg",
+        "caption": {
+          "en": "Uhud Battle Field",
+          "ms": "Medan Perang Uhud",
+          "ml": "",
+          "ta": ""
+        }
+      }
+    ]
+  },
+  {
+    "id": "maqam_shuhada_uhud",
+    "parentId": "jabal_uhud",
+    "clusterId": "uhud_battlefield",
+    "subCategory": "Uhud Battlefield",
+    "name": {
+      "en": "Martyrs of Uhud (Maqam Shuhada Uhud)",
+      "ms": "Makam Syuhada Uhud",
+      "ml": "ഉഹ്ദ് ശുഹദാക്കളുടെ മഖാം",
+      "ta": "உஹுத் ஷுஹதாக்கள் அடக்கத்தலம்"
+    },
+    "description": {
+      "en": "The blessed burial ground resting place of Hamza ibn Abd al-Muttalib (RA), Mus'ab ibn Umair (RA), and the 70 martyrs of Uhud.",
+      "ms": "Perkuburan berkat tempat bersemayam Hamza ibn Abd al-Muttalib (RA), Mus'ab ibn Umair (RA), dan 70 syuhada Uhud.",
+      "ml": "ഹംസ (റ), മുസ്അബ് (റ) ഉൾപ്പെടെ 70 ഉഹ്ദ് ശുഹദാക്കൾ അന്ത്യവിശ്രമം കൊള്ളുന്ന സ്ഥലം.",
+      "ta": "ஹம்ஸா (ரலி) மற்றும் 70 உஹுத் தியாகிகள் அடக்கம் செய்யப்பட்டுள்ள புனித இடம்."
+    },
+    "latitude": 24.5028,
+    "longitude": 39.613,
+    "type": "Historical",
+    "imageUrls": [
+      {
+        "url": "image/luar.jpg",
+        "caption": {
+          "en": "Martyrs of Uhud",
+          "ms": "Makam Syuhada Uhud",
+          "ml": "",
+          "ta": ""
+        }
+      }
+    ]
+  },
+  {
+    "id": "bab_al_salam",
+    "parentId": "masjid_nabawi",
+    "clusterId": "salam_rasulullah_path",
+    "subCategory": "Salam Trail",
+    "name": {
+      "en": "Bab al-Salam (Gate of Peace)",
+      "ms": "Pintu Bab al-Salam",
+      "ml": "ബാബുസ്സലാം വാതിൽ",
+      "ta": "பாப் அல்-ஸலாம் வாசல்"
+    },
+    "description": {
+      "en": "The historic entrance gate through which pilgrims enter to present greetings (Salam) to Prophet Muhammad ﷺ.",
+      "ms": "Pintu masuk bersejarah di mana jemaah masuk untuk menyampaikan salam kepada Rasulullah ﷺ.",
+      "ml": "പ്രവാചകന് ﷺ സലാം അർപ്പിക്കാൻ തീർത്ഥാടകർ പ്രവേശിക്കുന്ന പ്രധാന വാതിൽ.",
+      "ta": "நபிகள் நாயகம் ﷺ அவர்களுக்கு ஸலாம் கூற யாத்ரீகர்கள் நுழையும் வரலாற்று சிறப்புமிக்க வாசல்."
+    },
+    "latitude": 24.467,
+    "longitude": 39.6105,
+    "type": "Salam Site",
+    "imageUrls": [
+      {
+        "url": "image/luar.jpg",
+        "caption": {
+          "en": "Bab al-Salam Gate",
+          "ms": "Pintu Bab al-Salam",
+          "ml": "",
+          "ta": ""
+        }
+      }
+    ]
+  },
+  {
+    "id": "window_house_hafsah",
+    "parentId": "masjid_nabawi",
+    "clusterId": "salam_rasulullah_path",
+    "subCategory": "Salam Trail",
+    "name": {
+      "en": "Window of Hafsah (RA) - Salam Facing",
+      "ms": "Jendela Rumah Hafsah (RA) - Arah Salam",
+      "ml": "ഹഫ്സ (റ) വീടിന്റെ ജനൽ - സലാം വാതിൽ",
+      "ta": "ஹப்ஸா (ரலி) இல்ல சன்னல் - ஸலாம் திசை"
+    },
+    "description": {
+      "en": "Historical window marker pointing directly toward the Sacred Chamber where pilgrims face to say Salam to Rasulullah ﷺ.",
+      "ms": "Penanda jendela bersejarah yang menghadap tepat ke Bilik Suci di mana jemaah menghadap untuk memberi salam kepada Rasulullah ﷺ.",
+      "ml": "പ്രവാചകന് ﷺ സലാം പറയുന്ന വിശുദ്ധ മുറിക്ക് നേരെ അഭിമുഖമായി നിൽക്കുന്ന ചരിത്രപ്രസിദ്ധമായ ജനൽ സ്മാരകം.",
+      "ta": "நபிகள் நாயகம் ﷺ அவர்களுக்கு ஸலாம் கூறுவதற்காக புனித அறையை நோக்கி நேரடியாக அமைந்த வரலாற்று சன்னல் அடையாளம்."
+    },
+    "latitude": 24.467212,
+    "longitude": 39.611218,
+    "type": "Salam Site",
+    "imageUrls": [
+      {
+        "url": "image/luar.jpg",
+        "caption": {
+          "en": "Window of Hafsah RA",
+          "ms": "Jendela Rumah Hafsah",
+          "ml": "",
+          "ta": ""
+        }
+      }
+    ]
+  },
+  {
+    "id": "bab_al_baqi",
+    "parentId": "masjid_nabawi",
+    "clusterId": "salam_rasulullah_path",
+    "subCategory": "Salam Trail",
+    "name": {
+      "en": "Bab al-Baqi (Exit Gate to Baqi)",
+      "ms": "Pintu Bab al-Baqi",
+      "ml": "ബാബുൽ ബഖീ വാതിൽ",
+      "ta": "பாப் அல்-பகீ வாசல்"
+    },
+    "description": {
+      "en": "The exit gate following the Salam corridor leading towards the Jannat al-Baqi cemetery.",
+      "ms": "Pintu keluar selepas koridor Salam yang menuju ke perkuburan Jannat al-Baqi.",
+      "ml": "സലാം പാതയ്ക്ക് ശേഷം ജന്നത്തുൽ ബഖീ ഖബർസ്ഥാനിലേക്ക് നയിക്കുന്ന പുറത്തുകടക്കൽ വാതിൽ.",
+      "ta": "ஸலாம் பாதைக்கு பிறகு ஜன்னத்துல் பகீ அடக்கத்தலத்திற்கு செல்லும் வெளியேறும் வாசல்."
+    },
+    "latitude": 24.4674,
+    "longitude": 39.6118,
+    "type": "Salam Site",
+    "imageUrls": [
+      {
+        "url": "image/luar.jpg",
+        "caption": {
+          "en": "Bab al-Baqi",
+          "ms": "Pintu Bab al-Baqi",
+          "ml": "",
+          "ta": ""
+        }
+      }
+    ]
+  },
+  {
+    "id": "jenazah_building",
+    "parentId": "masjid_nabawi",
+    "clusterId": "salam_rasulullah_path",
+    "subCategory": "Salam Trail",
+    "name": {
+      "en": "Al-Jana'iz (Jenazah Building)",
+      "ms": "Bangunan Al-Jana'iz (Jenazah)",
+      "ml": "അൽ-ജനാഇസ് മന്ദിരം",
+      "ta": "ஜனாஸா கட்டிடம்"
+    },
+    "description": {
+      "en": "Historical area near Bab al-Jana'iz where funeral biers were prepared before Salat al-Janazah in the Prophet's Mosque.",
+      "ms": "Kawasan bersejarah berhampiran Bab al-Jana'iz di mana jenazah disediakan sebelum Solat Jenazah di Masjid Nabawi.",
+      "ml": "മസ്ജിദുന്നബവിയിൽ ജനാസ നിസ്കാരത്തിന് മുമ്പ് മയ്യത്തുകൾ ഒരുക്കിയിരുന്ന ചരിത്രപ്രസിദ്ധമായ സ്ഥലം.",
+      "ta": "மஸ்ஜிதுன் நபவியில் ஜனாஸா தொழுகைக்கு முன் ஜனாஸாக்கள் ஆயத்தப்படுத்தப்பட்ட வரலாற்று பகுதி."
+    },
+    "latitude": 24.46735,
+    "longitude": 39.6116,
+    "type": "Salam Site",
+    "imageUrls": [
+      {
+        "url": "image/luar.jpg",
+        "caption": {
+          "en": "Jenazah Building",
+          "ms": "Bangunan Jenazah",
+          "ml": "",
+          "ta": ""
+        }
+      }
+    ]
+  },
+  {
+    "id": "bir_al_khatam",
+    "parentId": "masjid_quba",
+    "clusterId": "quba_area",
+    "subCategory": "Quba Area",
+    "name": {
+      "en": "Well of Khatim (Bir al-Khatam)",
+      "ms": "Telaga Khatim (Bir al-Khatam)",
+      "ml": "ഖാതമ് കിണർ (ബീർ അൽ-ഖാതമ്)",
+      "ta": "காதம் கிணறு (பீர் அல்-காதம்)"
+    },
+    "description": {
+      "en": "The historic well near Masjid Quba where the silver signet ring of Prophet Muhammad ﷺ accidentally slipped from Caliph Uthman's (RA) hand.",
+      "ms": "Telaga bersejarah berhampiran Masjid Quba di mana cincin perak Rasulullah ﷺ terlepas daripada tangan Khalifah Uthman (RA).",
+      "ml": "ഉസ്മാൻ (റ) വിന്റെ കൈയ്യിൽ നിന്ന് പ്രവാചകൻ്റെ മുദ്ര മോതിരം അബദ്ധത്തിൽ വീണുപോയ ചരിത്രപ്രസിദ്ധമായ കിണർ.",
+      "ta": "உஸ்மான் (ரலி) அவர்களின் கையிலிருந்து நபிகள் நாயகத்தின் முத்திரை மோதி மோதிரம் தவறி விழுந்த வரலாற்று சிறப்புமிக்க கிணறு."
+    },
+    "latitude": 24.4395,
+    "longitude": 39.6168,
+    "type": "Historical",
+    "imageUrls": [
+      {
+        "url": "image/luar.jpg",
+        "caption": {
+          "en": "Well of Khatim",
+          "ms": "Telaga Khatim",
+          "ml": "",
+          "ta": ""
+        }
+      }
+    ]
+  },
+  {
+    "id": "ansar_historic_houses",
+    "parentId": "masjid_quba",
+    "clusterId": "quba_area",
+    "subCategory": "Quba Area",
+    "name": {
+      "en": "Historic Houses of Ansar at Quba",
+      "ms": "Rumah Bersejarah Ansar di Quba",
+      "ml": "ഖുബായിലെ അൻസാറുകളുടെ ചരിത്ര വീടുകൾ",
+      "ta": "குபாவில் உள்ள அன்சாரிகளின் வரலாற்று இல்லங்கள்"
+    },
+    "description": {
+      "en": "The neighborhood sites of Kulthum ibn al-Hadam (RA) and Saad ibn Khaithamah (RA) where Prophet Muhammad ﷺ stayed upon arriving in Quba during Hijrah.",
+      "ms": "Kawasan kediaman Kulthum ibn al-Hadam (RA) dan Saad ibn Khaithamah (RA) di mana Rasulullah ﷺ menginap semasa tiba di Quba semasa Hijrah.",
+      "ml": "ഹിജ്റ വേളയിൽ പ്രവാചകൻ ﷺ താമസിച്ച അൻസാരി സഹാബികളുടെ വീടുകൾ.",
+      "ta": "ஹிஜ்ரத்தின் போது நபிகள் நாயകം ﷺ தங்கியிருந்த அன்சாரி தோழர்களின் வரலாற்று இல்லங்கள்."
+    },
+    "latitude": 24.4388,
+    "longitude": 39.6175,
+    "type": "Historical",
+    "imageUrls": [
+      {
+        "url": "image/luar.jpg",
+        "caption": {
+          "en": "Ansar Houses at Quba",
+          "ms": "Rumah Ansar di Quba",
+          "ml": "",
+          "ta": ""
+        }
+      }
+    ]
+  },
+  {
+    "id": "maqam_rasulullah",
+    "parentId": "masjid_nabawi",
+    "clusterId": "rawdah_pillars",
+    "subCategory": "Rawdah Pillars",
+    "name": {
+      "en": "Maqam Rasulullah ﷺ (Greeting Station)",
+      "ms": "Maqam Rasulullah ﷺ (Arah Salam)",
+      "ml": "മഖാം റസൂലുള്ളാഹ് ﷺ (സലാം സ്ഥലം)",
+      "ta": "மக்காம் ரசூலுல்லாஹ் ﷺ (ஸலாம் இடம்)"
+    },
+    "description": {
+      "en": "The sacred greeting station facing the golden enclosure of the Sacred Chamber of Prophet Muhammad ﷺ, Abu Bakr (RA), and Umar (RA).",
+      "ms": "Stesen salam suci yang menghadap pagar emas Bilik Suci Nabi Muhammad ﷺ, Abu Bakr (RA), dan Umar (RA).",
+      "ml": "പ്രവാചകൻ ﷺ, അബൂബക്കർ (റ), ഉമർ (റ) എന്നിവരുടെ വിശുദ്ധ മുറിക്ക് മുന്നിലെ സലാം അർപ്പിക്കുന്ന സ്ഥലം.",
+      "ta": "நபிகள் நாயகம் ﷺ, அபூபக்கர் (ரலி), உமர் (ரலி) ஆகியோரின் புனித அறைக்கு முன்னால் உள்ள ஸலாம் கூறும் இடம்."
+    },
+    "latitude": 24.467218,
+    "longitude": 39.611222,
+    "type": "Rawdah Site",
+    "imageUrls": [
+      {
+        "url": "image/luar.jpg",
+        "caption": {
+          "en": "Maqam Rasulullah ﷺ",
+          "ms": "Maqam Rasulullah ﷺ",
+          "ml": "",
+          "ta": ""
+        }
+      }
+    ]
+  },
+  {
+    "id": "ustuwanah_hannana",
+    "parentId": "masjid_nabawi",
+    "clusterId": "rawdah_pillars",
+    "subCategory": "Rawdah Pillars",
+    "name": {
+      "en": "Pillar of the Weeping Palm Trunk (Ustuwanah al-Hannanah)",
+      "ms": "Tiang Batang Kurma Menangis (Ustuwanah al-Hannanah)",
+      "ml": "കഴുത ഈന്തപ്പന മരത്തടി തൂൺ (ഉസ്തുവാനതുൽ ഹന്നാന)",
+      "ta": "அழுத பேரீச்ச மரத்தடி தூண் (உஸ்துவானா அல்-ஹன்னானா)"
+    },
+    "description": {
+      "en": "Built where the date-palm trunk wept out of longing when Prophet Muhammad ﷺ moved to deliver khutbahs from the new wooden Minbar.",
+      "ms": "Dibina di tempat batang kurma menangis rindu apabila Nabi Muhammad ﷺ berpindah menyampaikan khutbah dari Mimbar kayu yang baharu.",
+      "ml": "പുതിയ മിൻബറിലേക്ക് മാറിയപ്പോൾ പ്രവാചകനെയോർത്ത് ഈന്തപ്പന മരത്തടി കരഞ്ഞ സ്ഥലം.",
+      "ta": "நபிகள் நாயகம் ﷺ புதிய மர மேடைக்கு மாறியபோது அந்த பேரீச்ச மரத்தடி அழுத வரலாற்று இடம்."
+    },
+    "latitude": 24.467191,
+    "longitude": 39.611196,
+    "type": "Rawdah Site",
+    "imageUrls": [
+      {
+        "url": "image/luar.jpg",
+        "caption": {
+          "en": "Pillar of Weeping Trunk",
+          "ms": "Tiang Batang Kurma Menangis",
+          "ml": "",
+          "ta": ""
+        }
+      }
+    ]
+  },
+  {
+    "id": "bir_ghars",
+    "parentId": "masjid_nabawi",
+    "clusterId": "madinah_wells",
+    "subCategory": "Prophet's Wells",
+    "name": {
+      "en": "Well of Ghars (Bir Ghars)",
+      "ms": "Telaga Ghars (Bir Ghars)",
+      "ml": "ഗർസ് കിണർ (ബീർ ഗർസ്)",
+      "ta": "கர்ஸ் கிணறு (பீர் கர்ஸ்)"
+    },
+    "description": {
+      "en": "Blessed well of Madinah where Prophet Muhammad ﷺ drank and requested to be washed with its water after his passing.",
+      "ms": "Telaga berkat di Madinah di mana Rasulullah ﷺ minum dan meminta agar dimandikan dengan airnya selepas kewafatan Baginda.",
+      "ml": "പ്രവാചകൻ ﷺ വെള്ളം കുടിക്കുകയും തൻ്റെ വേർപാടിന് ശേഷം ആ വെള്ളത്താൽ കുളിപ്പിക്കാൻ ആവശ്യപ്പെടുകയും ചെയ്ത വിശുദ്ധ കിണർ.",
+      "ta": "நபிகள் நாயகம் ﷺ நீர் அருந்திய மற்றும் தனது மறைவுக்குப் பிறகு இதன் நீரால் குளிப்பாட்டக் கோரிய புனித கிணறு."
+    },
+    "latitude": 24.4442,
+    "longitude": 39.6304,
+    "type": "Historical",
+    "imageUrls": [
+      {
+        "url": "image/luar.jpg",
+        "caption": {
+          "en": "Well of Ghars",
+          "ms": "Telaga Ghars",
+          "ml": "",
+          "ta": ""
+        }
+      }
+    ]
+  },
+  {
+    "id": "bir_khatim",
+    "parentId": "masjid_quba",
+    "clusterId": "madinah_wells",
+    "subCategory": "Prophet's Wells",
+    "name": {
+      "en": "Well of Khatim (Bir al-Khatam)",
+      "ms": "Telaga Khatim (Bir al-Khatam)",
+      "ml": "ഖാതമ് കിണർ (ബീർ അൽ-ഖാതമ്)",
+      "ta": "காதம் கிணறு (பீர் அல்-காதம்)"
+    },
+    "description": {
+      "en": "Historic well near Quba Mosque where the silver signet ring of Prophet Muhammad ﷺ accidentally fell into from Caliph Uthman's (RA) hand.",
+      "ms": "Telaga bersejarah berhampiran Masjid Quba di mana cincin perak Rasulullah ﷺ terlepas daripada tangan Khalifah Uthman (RA).",
+      "ml": "ഉസ്മാൻ (റ) വിന്റെ കൈയ്യിൽ നിന്ന് പ്രവാചകൻ്റെ മുദ്ര മോതിരം അബദ്ധത്തിൽ വീണുപോയ കിണർ.",
+      "ta": "உஸ்மான் (ரலி) அவர்களின் கையிலிருந்து நபிகள் நாயகத்தின் முத்திரை மோதிரம் தவறி விழுந்த கிணறு."
+    },
+    "latitude": 24.4395,
+    "longitude": 39.6168,
+    "type": "Historical",
+    "imageUrls": [
+      {
+        "url": "image/luar.jpg",
+        "caption": {
+          "en": "Well of Khatim",
+          "ms": "Telaga Khatim",
+          "ml": "",
+          "ta": ""
+        }
+      }
+    ]
+  },
+  {
+    "id": "bir_ha",
+    "parentId": "masjid_nabawi",
+    "clusterId": "madinah_wells",
+    "subCategory": "Prophet's Wells",
+    "name": {
+      "en": "Well of Ha (Bir Ha)",
+      "ms": "Telaga Ha (Bir Ha)",
+      "ml": "ഹാ കിണർ (ബീർ ഹാ)",
+      "ta": "ஹா கிணறு (பீர் ஹா)"
+    },
+    "description": {
+      "en": "Historic garden well north of Masjid Nabawi, beloved by Prophet Muhammad ﷺ and donated by Abu Talhah (RA) as charity.",
+      "ms": "Telaga taman bersejarah di utara Masjid Nabawi, kesayangan Rasulullah ﷺ dan disedekahkan oleh Abu Talhah (RA).",
+      "ml": "മസ്ജിദുന്നബവിക്ക് വടക്കുള്ള പ്രവാചകന് പ്രിയപ്പെട്ട കിണർ, അബൂത്വൽഹ (റ) ധർമ്മം ചെയ്തത്.",
+      "ta": "மஸ்ஜிதுன் நபவிக்கு வடக்கே அமைந்த நபிகள் நாயகத்திற்கு பிரியமான கிணறு, அபூ தல்ஹா (ரலி) தர்மம் செய்தது."
+    },
+    "latitude": 24.4695,
+    "longitude": 39.6115,
+    "type": "Historical",
+    "imageUrls": [
+      {
+        "url": "image/luar.jpg",
+        "caption": {
+          "en": "Well of Ha",
+          "ms": "Telaga Ha",
+          "ml": "",
+          "ta": ""
+        }
+      }
+    ]
+  },
+  {
+    "id": "bir_osman",
+    "parentId": "masjid_nabawi",
+    "clusterId": "madinah_wells",
+    "subCategory": "Prophet's Wells",
+    "name": {
+      "en": "Well of Uthman (Bir Ruma / Bir Osman)",
+      "ms": "Telaga Uthman (Bir Ruma / Bir Osman)",
+      "ml": "ഉസ്മാൻ കിണർ (ബീർ റുമ / ബീർ ഉസ്മാൻ)",
+      "ta": "உஸ்மான் கிணறு (பீர் ரூமா / பீர் உஸ்மான்)"
+    },
+    "description": {
+      "en": "The famous Well of Ruma purchased by Uthman ibn Affan (RA) for 20,000 dirhams and endowed as a free public Waqf for all Muslims.",
+      "ms": "Telaga Ruma terkenal yang dibeli oleh Uthman ibn Affan (RA) dengan harga 20,000 dirham dan diwakafkan secara percuma untuk seluruh umat Islam.",
+      "ml": "ഉസ്മാൻ ഇബ്നു അഫ്ഫാൻ (റ) വൻ തുക നൽകി വാങ്ങി എല്ലാ മുസ്ലിംകൾക്കുമായി വഖഫ് ചെയ്ത പ്രശസ്തമായ കിണർ.",
+      "ta": "உஸ்மான் (ரலி) அவர்களால் வாங்கப்பட்டு அனைத்து முஸ்லிம்களுக்காகவும் பொது வாக்பாக அளிக்கப்பட்ட புகழ்பெற்ற கிணறு."
+    },
+    "latitude": 24.4925,
+    "longitude": 39.5935,
+    "type": "Historical",
+    "imageUrls": [
+      {
+        "url": "image/luar.jpg",
+        "caption": {
+          "en": "Well of Uthman (Bir Ruma)",
+          "ms": "Telaga Uthman",
+          "ml": "",
+          "ta": ""
+        }
+      }
+    ]
+  },
+  {
+    "id": "masjid_salman_farsi",
+    "parentId": "masjid_fatah",
+    "clusterId": "khandaq_cluster",
+    "subCategory": "Khandaq Mosques",
+    "name": {
+      "en": "Masjid Salman al-Farsi",
+      "ms": "Masjid Salman al-Farsi",
+      "ml": "മസ്ജിദ് സൽമാനുൽ ഫാർസി",
+      "ta": "மஸ்ஜித் சல்மான் அல்-பார்சி"
+    },
+    "description": {
+      "en": "Historic mosque honoring Companion Salman al-Farsi (RA) who proposed digging the defensive trench around Medina.",
+      "ms": "Masjid bersejarah mengingati sahabat Salman al-Farsi (RA) yang mencadangkan penggalian parit pertahanan di sekeliling Madinah.",
+      "ml": "മദീനയ്ക്ക് ചുറ്റും പ്രതിരോധ കിടങ്ങ് വെട്ടാൻ ആശയം നൽകിയ സൽമാനുൽ ഫാർസി (റ) യോടുള്ള ആദരവായുള്ള പള്ളി.",
+      "ta": "மதினாவைச் சுற்றி பாதுகாப்பு அகழி தோண்ட யோசனை அளித்த சல்மான் அல்-பார்சி (ரலி) நினைவாக அமைந்த பள்ளிவாசல்."
+    },
+    "latitude": 24.4768,
+    "longitude": 39.594,
+    "type": "Mosque",
+    "imageUrls": [
+      {
+        "url": "image/luar.jpg",
+        "caption": {
+          "en": "Masjid Salman al-Farsi",
+          "ms": "Masjid Salman al-Farsi",
+          "ml": "",
+          "ta": ""
+        }
+      }
+    ]
+  },
+  {
+    "id": "masjid_umar_khandaq",
+    "parentId": "masjid_fatah",
+    "clusterId": "khandaq_cluster",
+    "subCategory": "Khandaq Mosques",
+    "name": {
+      "en": "Masjid Umar ibn al-Khattab",
+      "ms": "Masjid Umar ibn al-Khattab",
+      "ml": "മസ്ജിദ് ഉമർ ഇബ്നുൽ ഖത്താബ്",
+      "ta": "மஸ்ஜித் உமர் பின் அல்-கத்தாப்"
+    },
+    "description": {
+      "en": "Located south of Masjid al-Fatah, marking the station where Umar ibn al-Khattab (RA) commanded defense forces during the siege.",
+      "ms": "Terletak di selatan Masjid al-Fatah, menandakan tempat Umar ibn al-Khattab (RA) memimpin pasukan pertahanan semasa pengepungan.",
+      "ml": "മസ്ജിദുൽ ഫതഹിന് തെക്ക് സ്ഥിതിചെയ്യുന്നു, ഉപരോധ വേളയിൽ ഉമർ (റ) പ്രതിരോധ സേനയെ നയിച്ച സ്ഥലം.",
+      "ta": "மஸ்ஜித் அல்-பதஹ் தெற்கே அமைந்துள்ளது, முற்றுகையின் போது உமர் (ரலி) படைகளை வழிநடத்திய இடம்."
+    },
+    "latitude": 24.4764,
+    "longitude": 39.5938,
+    "type": "Mosque",
+    "imageUrls": [
+      {
+        "url": "image/luar.jpg",
+        "caption": {
+          "en": "Masjid Umar ibn al-Khattab",
+          "ms": "Masjid Umar",
+          "ml": "",
+          "ta": ""
+        }
+      }
+    ]
+  },
+  {
+    "id": "masjid_ali_khandaq",
+    "parentId": "masjid_fatah",
+    "clusterId": "khandaq_cluster",
+    "subCategory": "Khandaq Mosques",
+    "name": {
+      "en": "Masjid Ali ibn Abi Talib",
+      "ms": "Masjid Ali ibn Abi Talib",
+      "ml": "മസ്ജിദ് അലി ഇബ്നു അബീത്വാലിബ്",
+      "ta": "மஸ்ஜித் அலி பின் அபீ தாலிப்"
+    },
+    "description": {
+      "en": "Historic mosque at the base of Mount Sela where Ali ibn Abi Talib (RA) engaged Amr ibn Abd Wudd in duel during the Battle of the Trench.",
+      "ms": "Masjid bersejarah di kaki Gunung Sela di mana Ali ibn Abi Talib (RA) menewaskan musuh dalam pertarungan semasa Perang Parit.",
+      "ml": "ഖന്ദഖ് യുദ്ധത്തിൽ അലി (റ) ശത്രുവിനെ നേരിട്ട സലാ മലയടിവാരത്തിലെ പള്ളി.",
+      "ta": "கந்தக் போரில் அலி (ரலி) எதிரியை எதிர்கொண்ட வரலாற்று சிறப்புமிக்க பள்ளிவாசல்."
+    },
+    "latitude": 24.476,
+    "longitude": 39.5936,
+    "type": "Mosque",
+    "imageUrls": [
+      {
+        "url": "image/luar.jpg",
+        "caption": {
+          "en": "Masjid Ali ibn Abi Talib",
+          "ms": "Masjid Ali",
+          "ml": "",
+          "ta": ""
+        }
+      }
+    ]
+  },
+  {
+    "id": "masjid_saad_muadh",
+    "parentId": "masjid_fatah",
+    "clusterId": "khandaq_cluster",
+    "subCategory": "Khandaq Mosques",
+    "name": {
+      "en": "Masjid Saad ibn Muadh",
+      "ms": "Masjid Saad ibn Muadh",
+      "ml": "മസ്ജിദ് സഅ്ദ് ഇബ്നു മുആദ്",
+      "ta": "மஸ்ஜித் ஸஃத் பின் முஆத்"
+    },
+    "description": {
+      "en": "Historic mosque named after Saad ibn Muadh (RA), leader of the Aws tribe and chief commander of the Ansar at Khandaq.",
+      "ms": "Masjid bersejarah bersempena Saad ibn Muadh (RA), pemimpin suku Aws dan panglima utama Ansar di Khandaq.",
+      "ml": "ഔസ് ഗോത്ര നേതാവും അൻസാറുകളുടെ പ്രധാന പടത്തലവനുമായിരുന്ന സഅ്ദ് ഇബ്നു മുആദ് (റ) വിന്റെ പേരുള്ള പള്ളി.",
+      "ta": "அவ்ஸ் கோத்திர தலைவரும் அன்சாரிகளின் முதன்மை தளபதியுமான ஸஃத் பின் முஆத் (ரலி) நினைவாக அமைந்த பள்ளிவாசல்."
+    },
+    "latitude": 24.4756,
+    "longitude": 39.5934,
+    "type": "Mosque",
+    "imageUrls": [
+      {
+        "url": "image/luar.jpg",
+        "caption": {
+          "en": "Masjid Saad ibn Muadh",
+          "ms": "Masjid Saad ibn Muadh",
+          "ml": "",
+          "ta": ""
+        }
+      }
+    ]
+  },
+  {
+    "id": "masjid_abu_bakr_khandaq",
+    "parentId": "masjid_fatah",
+    "clusterId": "khandaq_cluster",
+    "subCategory": "Khandaq Mosques",
+    "name": {
+      "en": "Masjid Abu Bakr as-Siddiq",
+      "ms": "Masjid Abu Bakr as-Siddiq",
+      "ml": "മസ്ജിദ് അബൂബക്കർ സിദ്ദീഖ്",
+      "ta": "மஸ்ஜித் அபூபக்கர் சித்தீக்"
+    },
+    "description": {
+      "en": "Historic mosque marking the defense outpost commanded by Abu Bakr as-Siddiq (RA) at the Seven Mosques site.",
+      "ms": "Masjid bersejarah menandakan pos pertahanan di bawah pimpinan Abu Bakr as-Siddiq (RA) di tapak Tujuh Masjid.",
+      "ml": "എഴ് പള്ളികളുടെ പരിസരത്ത് അബൂബക്കർ സിദ്ദീഖ് (റ) കാവൽ നിന്ന സ്ഥലം.",
+      "ta": "ஏழு பள்ளிவாசல் பகுதியில் அபூபக்கர் சித்தீக் (ரலி) காவல்படை அமைத்த இடம்."
+    },
+    "latitude": 24.4752,
+    "longitude": 39.5932,
+    "type": "Mosque",
+    "imageUrls": [
+      {
+        "url": "image/luar.jpg",
+        "caption": {
+          "en": "Masjid Abu Bakr as-Siddiq",
+          "ms": "Masjid Abu Bakr",
+          "ml": "",
+          "ta": ""
+        }
+      }
+    ]
+  },
+  {
+    "id": "masjid_fatimah_khandaq",
+    "parentId": "masjid_fatah",
+    "clusterId": "khandaq_cluster",
+    "subCategory": "Khandaq Mosques",
+    "name": {
+      "en": "Masjid Fatimah az-Zahra",
+      "ms": "Masjid Fatimah az-Zahra",
+      "ml": "മസ്ജിദ് ഫാത്തിമത്തുസ്സഹ്റ",
+      "ta": "மஸ்ஜித் பாத்திமா அஸ்-ஸஹ்ரா"
+    },
+    "description": {
+      "en": "Also known as Masjid Musalla an-Nisa, the smallest mosque at Khandaq commemorating Fatimah az-Zahra (RA) who brought food to the Prophet ﷺ during digging.",
+      "ms": "Juga dikenali sebagai Masjid Musalla an-Nisa, masjid terkecil di Khandaq mengenang Fatimah az-Zahra (RA) yang membawa makanan kepada Rasulullah ﷺ.",
+      "ml": "കിടങ്ങു വെട്ടുന്ന വേളയിൽ പ്രവാചകന് ഭക്ഷണം എത്തിച്ചു നൽകിയ ഫാത്തിമ (റ) യുടെ ഓർമ്മയ്ക്കുള്ള ചെറിയ പള്ളി.",
+      "ta": "அகழி தோண்டும் போது நபிகள் நாயகத்திற்கு உணவு கொண்டு வந்த பாத்திமா (ரலி) அவர்களின் நினைவாக அமைந்த பள்ளிவாசல்."
+    },
+    "latitude": 24.4748,
+    "longitude": 39.593,
+    "type": "Mosque",
+    "imageUrls": [
+      {
+        "url": "image/luar.jpg",
+        "caption": {
+          "en": "Masjid Fatimah az-Zahra",
+          "ms": "Masjid Fatimah",
+          "ml": "",
+          "ta": ""
+        }
+      }
+    ]
   }
 ]
