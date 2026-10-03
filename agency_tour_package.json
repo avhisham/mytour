@@ -1,0 +1,341 @@
+{
+  "travelMode": "agent",
+  "isAgencyModeEnabled": true,
+  "agentName": "Andalusia Travel & Tours",
+  "packageName": "Pakej Umrah VIP Andalusia 14 Hari",
+  "passkey": "HAV-ANDALUSIA-NOV26",
+  "groupId": "GRP-NOV26-01",
+  "routeSequence": "makkah_first",
+  "flightNumber": "SV 831 (Saudia)",
+  "flightAirport": "KLIA Terminal 1 (KUL)",
+  "flightDepartureDate": "2026-11-01",
+  "flightDepartureTime": "15:30",
+  "flightReturnDate": "2026-11-14",
+  "arrivalPort": "Jeddah (JED)",
+  "makkahHotel": "Pullman ZamZam Makkah Clock Tower",
+  "makkahDistanceMeters": 50,
+  "makkahRoomSharing": "Quad (4 Orang)",
+  "madinahHotel": "Anwar Al Madinah Mövenpick",
+  "madinahDistanceMeters": 80,
+  "madinahRoomSharing": "Quad (4 Orang)",
+  "mutawwifs": [
+    {
+      "id": "mutawwif_makkah",
+      "name": "Ustaz Ahmad Fauzi (Ketua Mutawwif Makkah)",
+      "role": "Ketua Bimbingan Makkah",
+      "phone": "+966 50 123 4567",
+      "whatsapp": "+60123456789",
+      "isPrimary": true
+    },
+    {
+      "id": "mutawwif_madinah",
+      "name": "Ustaz Farhan Syah (Ketua Mutawwif Madinah)",
+      "role": "Ketua Bimbingan Madinah",
+      "phone": "+966 55 987 6543",
+      "whatsapp": "+60198765432",
+      "isPrimary": false
+    }
+  ],
+  "itinerary": [
+    {
+      "dayNumber": 1,
+      "date": "2026-11-01",
+      "title": "Pelepasan KLIA & Niat Miqat Atas Kapal Terbang",
+      "location": "KLIA ➔ Lapangan Terbang King Abdulaziz (JED) ➔ Makkah",
+      "category": "flight",
+      "time": "12:30 Daftar Masuk • 15:30 Penerbangan",
+      "description": "Tiba di KLIA 3 jam awal. Pakai ihram sebelum pengumuman Miqat Yalamlam atas kapal terbang. Daftar masuk hotel di Menara Jam Makkah.",
+      "highlights": [
+        "Tiba di KLIA 3 jam awal",
+        "Pakai pakaian ihram sebelum Miqat",
+        "Daftar masuk hotel di Makkah"
+      ],
+      "events": [
+        {
+          "id": "ev_1_1",
+          "time": "12:30",
+          "title": "Daftar Masuk KLIA (3 Jam Awal)",
+          "location": "KLIA Terminal 1",
+          "category": "flight",
+          "description": "Daftar masuk bagasi, semakan pasport, dan masuk ke balai berlepas.",
+          "highlights": [
+            "Daftar masuk bagasi & tag beg",
+            "Semakan pasport & visa"
+          ]
+        },
+        {
+          "id": "ev_1_2",
+          "time": "15:30",
+          "title": "Penerbangan SV 831 & Berniat Ihram di Miqat",
+          "location": "Ruang udara Miqat Yalamlam",
+          "category": "flight",
+          "description": "Solat sunat ihram, berniat umrah, dan bertalbiah beramai-ramai.",
+          "highlights": [
+            "Niat ihram sebelum Miqat",
+            "Lafaz Talbiah berterusan"
+          ]
+        },
+        {
+          "id": "ev_1_3",
+          "time": "20:30",
+          "title": "Ketibaan Makkah & Daftar Masuk Hotel",
+          "location": "Pullman ZamZam Makkah Clock Tower",
+          "category": "rest",
+          "description": "Ambil kunci bilik, rehat seketika dan bersedia untuk Umrah Perdana.",
+          "highlights": [
+            "Daftar masuk bilik hotel",
+            "Rehat dan persediaan rohani"
+          ]
+        }
+      ]
+    },
+    {
+      "dayNumber": 2,
+      "date": "2026-11-02",
+      "title": "Ibadah Umrah Perdana Bersama Mutawwif",
+      "location": "Masjidil Haram, Makkah",
+      "category": "umrah",
+      "time": "21:00 Malam",
+      "description": "Melaksanakan Tawaf 7 pusingan mengelilingi Kaabah, Solat Sunat Tawaf di Maqam Ibrahim, minum air Zamzam, Sa'i 7 pusingan antara Safa & Marwah, dan Tahallul.",
+      "highlights": [
+        "Tawaf Kaabah 7 pusingan",
+        "Solat Sunat di belakang Maqam Ibrahim",
+        "Sa'i Safa ke Marwah 7 pusingan",
+        "Tahallul (Gunting rambut)"
+      ]
+    },
+    {
+      "dayNumber": 3,
+      "date": "2026-11-03",
+      "title": "Ibadah Bebas di Masjidil Haram & Ceramah Bimbingan",
+      "location": "Masjidil Haram, Makkah",
+      "category": "rest",
+      "time": "Sepanjang Hari",
+      "description": "Hari rehat dan memperbanyakkan solat fardu berjemaah, tawaf sunat, qiyamullail, dan iktikaf di dalam Masjidil Haram.",
+      "highlights": [
+        "Solat berjemaah di hadapan Kaabah",
+        "Tawaf sunat dan bacaan Al-Quran",
+        "Kuliah maghrib bersama Mutawwif"
+      ]
+    },
+    {
+      "dayNumber": 4,
+      "date": "2026-11-04",
+      "title": "Ziarah Luar Makkah & Miqat Ji'ranah (Umrah Kedua)",
+      "location": "Jabal Thawr ➔ Padang Arafah ➔ Mina ➔ Jabal Nur ➔ Ji'ranah",
+      "category": "ziarah",
+      "time": "07:30 Pagi",
+      "description": "Melawat mercu tanda sirah di Makkah dan berniat ihram di Masjid Ji'ranah bagi jemaah yang ingin melaksanakan Umrah kedua.",
+      "highlights": [
+        "Jabal Thawr & Gua Thawr",
+        "Padang Arafah & Jabal Rahmah",
+        "Mina & Jamarat",
+        "Jabal Nur & Gua Hira",
+        "Masjid Ji'ranah (Miqat)"
+      ],
+      "events": [
+        {
+          "id": "ev_4_1",
+          "time": "07:30 Pagi",
+          "title": "Ziarah Luar Tapak Bersejarah Makkah",
+          "location": "Jabal Thawr ➔ Padang Arafah ➔ Muzdalifah ➔ Mina",
+          "category": "ziarah_luar",
+          "description": "Mendengar penerangan sirah hijrah di Jabal Thawr dan penghayatan wukuf di Arafah.",
+          "highlights": [
+            "Tinjauan Jabal Thawr",
+            "Jabal Rahmah di Arafah",
+            "Khemah Mina & Jamarat"
+          ]
+        },
+        {
+          "id": "ev_4_2",
+          "time": "11:30 Pagi",
+          "title": "Singgahan Miqat Masjid Ji'ranah",
+          "location": "Masjid Ji'ranah, Makkah",
+          "category": "umrah",
+          "description": "Solat sunat ihram dan berniat umrah kedua bagi yang berhasrat.",
+          "highlights": [
+            "Solat sunat ihram",
+            "Niat ihram Umrah kedua"
+          ]
+        },
+        {
+          "id": "ev_4_3",
+          "time": "16:00 Petang",
+          "title": "Pelaksanaan Umrah Kedua di Masjidil Haram",
+          "location": "Mataf Masjidil Haram, Makkah",
+          "category": "umrah",
+          "description": "Tawaf, Sa'i di Mas'a, dan Tahallul disempurnakan bersama bimbingan mutawwif.",
+          "highlights": [
+            "Tawaf 7 pusingan",
+            "Sa'i Safa & Marwah",
+            "Tahallul"
+          ]
+        }
+      ]
+    },
+    {
+      "dayNumber": 5,
+      "date": "2026-11-05",
+      "title": "Ziarah Hudaibiyah (Ladang Unta & Miqat Sunat)",
+      "location": "Ladang Unta ➔ Telaga Bersejarah ➔ Masjid Hudaibiyah",
+      "category": "ziarah",
+      "time": "08:00 Pagi",
+      "description": "Mengenang peristiwa Perjanjian Hudaibiyah, singgah di ladang unta mencuba susu segar, dan berniat umrah di Masjid Hudaibiyah.",
+      "highlights": [
+        "Ladang Unta & Telaga Hudaibiyah",
+        "Muzium Perjanjian Hudaibiyah",
+        "Miqat Masjid Hudaibiyah"
+      ]
+    },
+    {
+      "dayNumber": 6,
+      "date": "2026-11-06",
+      "title": "Perjalanan Tren Laju Haramain ke Madinah",
+      "location": "Stesen Makkah ➔ Stesen Madinah ➔ Hotel Anwar Mövenpick",
+      "category": "transfer",
+      "time": "10:30 Tren • 13:00 Daftar Masuk Hotel",
+      "description": "Menaiki Tren Laju Haramain ke kota Madinah Al-Munawwarah (2 jam perjalanan). Daftar masuk hotel berdekatan Masjid Nabawi.",
+      "highlights": [
+        "Tren Laju Haramain High-Speed",
+        "Daftar masuk hotel Madinah",
+        "Ziarah Salam pertama ke Rasulullah ﷺ"
+      ]
+    },
+    {
+      "dayNumber": 7,
+      "date": "2026-11-07",
+      "title": "Ziarah Raudhah & Makam Rasulullah ﷺ",
+      "location": "Masjid Nabawi, Madinah",
+      "category": "rawdah",
+      "time": "08:00 Pintu Masuk • 09:00 Slot Raudhah",
+      "description": "Hadir di pintu masuk Raudhah 1 jam lebih awal dengan permit QR Nusuk. Solat sunat dan berdoa di Taman Syurga (Raudhah).",
+      "highlights": [
+        "Hadir di pintu 1 jam awal",
+        "Imbasan permit QR Nusuk",
+        "Solat di Tiang-tiang Raudhah"
+      ]
+    },
+    {
+      "dayNumber": 8,
+      "date": "2026-11-08",
+      "title": "Ziarah Luar Madinah (Quba, Khandaq, Qiblatain & Uhud)",
+      "location": "Masjid Quba ➔ Masjid Tujuh Khandaq ➔ Jabal Uhud",
+      "category": "ziarah",
+      "time": "07:30 Pagi",
+      "description": "Ziarah Masjid Quba (fadilat ganjaran Umrah), Masjid Tujuh Khandaq, Masjid Qiblatain, dan Makam Syuhada Uhud.",
+      "highlights": [
+        "Solat Sunat Tahiyyatul Masjid di Quba",
+        "Ziarah Masjid Tujuh Khandaq",
+        "Makam Syuhada Uhud & Jabal Rumat"
+      ]
+    },
+    {
+      "dayNumber": 9,
+      "date": "2026-11-09",
+      "title": "Ibadah Bebas di Masjid Nabawi & Ziarah Baqi'",
+      "location": "Masjid Nabawi & Perkuburan Baqi', Madinah",
+      "category": "rest",
+      "time": "Sepanjang Hari",
+      "description": "Memperbanyakkan salawat ke atas Nabi Muhammad ﷺ, membaca Al-Quran di dataran payung Nabawi, dan menziarahi Perkuburan Baqi' selepas Subuh.",
+      "highlights": [
+        "Solat berjemaah di Masjid Nabawi",
+        "Ziarah Makam Baqi'",
+        "Iktikaf di dataran payung"
+      ]
+    },
+    {
+      "dayNumber": 10,
+      "date": "2026-11-10",
+      "title": "Pasar Kurma Madinah & Persediaan Bagasi",
+      "location": "Pasar Kurma Madinah (Central Dates Market)",
+      "category": "rest",
+      "time": "Petang",
+      "description": "Membeli kurma Ajwa Aliya dan cenderahati Madinah. Menyusun beg dan persediaan timbangan bagasi.",
+      "highlights": [
+        "Membeli kurma Ajwa segar",
+        "Penyusunan beg dan label cenderahati"
+      ]
+    },
+    {
+      "dayNumber": 11,
+      "date": "2026-11-11",
+      "title": "Ziarah Dalam Masjid Nabawi (Telaga & Pintu Bersejarah)",
+      "location": "Masjid Nabawi, Madinah",
+      "category": "ziarah",
+      "time": "09:00 Pagi",
+      "description": "Menelusuri sejarah telaga Nabi ﷺ (Bi'r Ha, Bi'r Ghars) dan pintu-pintu bersejarah (Bab As-Salam, Bab Jibril).",
+      "highlights": [
+        "Laluan Bab As-Salam",
+        "Penerangan sejarah Telaga Nabi ﷺ",
+        "Pintu Bab Jibril & Babun Nisa"
+      ]
+    },
+    {
+      "dayNumber": 12,
+      "date": "2026-11-12",
+      "title": "Timbangan Bagasi & Ceramah Akhir",
+      "location": "Lobi Hotel Madinah",
+      "category": "rest",
+      "time": "16:00 Petang",
+      "description": "Timbangan awal beg bagasi bagi mengelakkan lebihan muatan di lapangan terbang. Tazkirah akhir bersama Mutawwif.",
+      "highlights": [
+        "Timbangan berat bagasi (maksimum 30kg)",
+        "Tazkirah akhir & doa selamat"
+      ]
+    },
+    {
+      "dayNumber": 13,
+      "date": "2026-11-13",
+      "title": "Ziarah Wada' & Bergerak ke Lapangan Terbang Madinah",
+      "location": "Masjid Nabawi ➔ Lapangan Terbang Prince Mohammad (MED)",
+      "category": "departure",
+      "time": "14:00 Wada' • 17:00 Tiba Airport • 20:00 Penerbangan",
+      "description": "Mengucapkan salam perpisahan (Ziarah Wada') kepada Rasulullah ﷺ. Menaiki bas ke Lapangan Terbang Madinah untuk penerbangan pulang ke tanah air.",
+      "highlights": [
+        "Ziarah Wada' di Makam Rasulullah ﷺ",
+        "Perjalanan bas ke Airport Madinah",
+        "Penerbangan pulang ke tanah air"
+      ]
+    },
+    {
+      "dayNumber": 14,
+      "date": "2026-11-14",
+      "title": "Selamat Tiba di Tanah Air (KLIA)",
+      "location": "KLIA Terminal 1, Malaysia",
+      "category": "flight",
+      "time": "09:30 Pagi Tiba di KLIA",
+      "description": "Selamat mendarat di KLIA Terminal 1. Mengambil bagasi dan air Zamzam. Kembali ke pangkuan keluarga tercinta.",
+      "highlights": [
+        "Ketibaan selamat di KLIA",
+        "Pengambilan bagasi & air Zamzam 5L"
+      ]
+    }
+  ],
+  "pilgrims": [
+    {
+      "id": 1,
+      "name": "AHMAD BIN ABDULLAH",
+      "gender": "male",
+      "age": 46,
+      "passNo": "A12345678",
+      "phone": "+60123456789"
+    },
+    {
+      "id": 2,
+      "name": "SITI RAHMAWATI",
+      "gender": "female",
+      "age": 34,
+      "passNo": "B98765432",
+      "phone": "+60198765432"
+    },
+    {
+      "id": 3,
+      "name": "MOHD FAIZAL",
+      "gender": "male",
+      "age": 52,
+      "passNo": "C55667788",
+      "phone": "+60133445566"
+    }
+  ]
+}

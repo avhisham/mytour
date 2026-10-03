@@ -1,0 +1,1360 @@
+[
+  {
+    "id": "amenity_toilet_makkah_01",
+    "name": {
+      "en": "Haram Underground Restrooms (Gate 1 King Abdulaziz)",
+      "ms": "Tandas Bawah Tanah Haram (Pintu 1 Raja Abdulaziz)",
+      "ml": "ഹറം ഭൂഗർഭ ശൗചാലയം (ഗേറ്റ് 1 കിംഗ് അബ്ദുൽ അസീസ്)",
+      "ta": "ஹரம் நிலத்தடி கழிப்பறை (கேட் 1 மன்னர் அப்துல் அஜீஸ்)"
+    },
+    "description": {
+      "en": "Large underground ablution (Wudu) and toilet facility located directly outside King Abdulaziz Gate (Gate 1). Separate sections for men and women with escalators.",
+      "ms": "Kemudahan wuduk dan tandas bawah tanah yang besar terletak di luar Pintu Raja Abdulaziz (Pintu 1). Bahagian berasingan untuk lelaki dan wanita dengan eskalator.",
+      "ml": "കിംഗ് അബ്ദുൽ അസീസ് ഗേറ്റിന് (ഗേറ്റ് 1) പുറത്തായി സ്ഥിതി ചെയ്യുന്ന വലിയ ഭൂഗർഭ വുദു, ശൗചാലയ സമുച്ചയം. പുരുഷന്മാർക്കും സ്ത്രീകൾക്കും പ്രത്യേകം സൗകര്യങ്ങൾ.",
+      "ta": "மன்னர் அப்துல் அஜீஸ் கேட் (கேட் 1) வெளியே அமைந்துள்ள பெரிய நிலத்தடி உளு மற்றும் கழிப்பறை வளாகம். ஆண்கள் மற்றும் பெண்களுக்கு தனிப்பிரிவுகள்."
+    },
+    "latitude": 21.4208,
+    "longitude": 39.8258,
+    "region": "makkah",
+    "type": "Amenity: Toilets",
+    "thumbnail": "assets/image/locations/kaabah.webp"
+  },
+  {
+    "id": "amenity_toilet_makkah_02",
+    "name": {
+      "en": "Haram Plaza Restrooms (King Fahd Gate 79)",
+      "ms": "Tandas Dataran Haram (Pintu Raja Fahd 79)",
+      "ml": "ഹറം പ്ലാസ ശൗചാലയം (കിംഗ് ഫഹദ് ഗേറ്റ് 79)",
+      "ta": "ஹரம் வளாக கழிப்பறை (மன்னர் ஃபஹத் கேட் 79)"
+    },
+    "description": {
+      "en": "Western courtyard underground restrooms near King Fahd expansion. Modern facilities with accessible cubicles for elderly and disabled pilgrims.",
+      "ms": "Tandas bawah tanah dataran barat berhampiran perluasan Raja Fahd. Kemudahan moden dengan tandas mesra OKU dan warga emas.",
+      "ml": "കിംഗ് ഫഹദ് വിപുലീകരണത്തിന് സമീപമുള്ള പടിഞ്ഞാറൻ മുറ്റത്തെ ഭൂഗർഭ ശൗചാലയം. പ്രായമായവർക്കും ഭിന്നശേഷിക്കാർക്കും പ്രത്യേക സൗകര്യങ്ങളുണ്ട്.",
+      "ta": "மன்னர் ஃபஹத் விரிவாக்கத்திற்கு அருகிலுள்ள மேற்கு முற்றம் நிலத்தடி கழிப்பறைகள். முதியவர்களுக்கான சிறப்பு வசதிகள் உள்ளன."
+    },
+    "latitude": 21.4216,
+    "longitude": 39.8236,
+    "region": "makkah",
+    "type": "Amenity: Toilets",
+    "thumbnail": "assets/image/locations/kaabah.webp"
+  },
+  {
+    "id": "amenity_toilet_makkah_03",
+    "name": {
+      "en": "Marwah Plaza Restrooms & Wudu (Courtyard 3)",
+      "ms": "Tandas & Tempat Wuduk Dataran Marwah",
+      "ml": "മർവ പ്ലാസ ശൗചാലയവും വുദു സ്ഥലവും",
+      "ta": "மர்வா வளாக கழிப்பறை மற்றும் உளு பகுதி"
+    },
+    "description": {
+      "en": "Exit point restrooms adjacent to Bab al-Marwah and the Sa'i exit gallery. Multiple floors of ablution basins and clean restrooms.",
+      "ms": "Tandas pintu keluar bersebelahan Pintu Marwah dan galeri keluar Sa'i. Bertingkat dengan besen wuduk dan tandas bersih.",
+      "ml": "സഈ കഴിഞ്ഞ് പുറത്തിറങ്ങുന്ന ബാബുൽ മർവക്ക് സമീപമുള്ള ശൗചാലയങ്ങളും വുദു കേന്ദ്രങ്ങളും.",
+      "ta": "ஸஃயீ முடிந்து வெளியேறும் மர்வா வாசலுக்கு அருகிலுள்ள கழிப்பறைகள் மற்றும் உளு செய்யும் தொட்டிகள்."
+    },
+    "latitude": 21.4243,
+    "longitude": 39.8288,
+    "region": "makkah",
+    "type": "Amenity: Toilets",
+    "thumbnail": "assets/image/locations/kaabah.webp"
+  },
+  {
+    "id": "amenity_toilet_makkah_04",
+    "name": {
+      "en": "Gaza / Bab Ali Plaza Restrooms",
+      "ms": "Tandas Dataran Gaza / Bab Ali",
+      "ml": "ഗസ്സ / ബാബ് അലി പ്ലാസ ശൗചാലയം",
+      "ta": "கஸ்ஸா / பாப் அலி வளாக கழிப்பறை"
+    },
+    "description": {
+      "en": "Spacious underground facilities on the eastern plaza leading towards the birthplace of the Prophet ﷺ and Jabal al-Kaaba.",
+      "ms": "Kemudahan bawah tanah yang luas di dataran timur menghala ke tapak kelahiran Rasulullah ﷺ dan Jabal al-Kaabah.",
+      "ml": "പ്രവാചകൻ്റെ ജന്മഗൃഹത്തിലേക്ക് നയിക്കുന്ന കിഴക്കൻ പ്ലാസയിലെ വിശാലമായ ഭൂഗർഭ ശൗചാലയങ്ങൾ.",
+      "ta": "நபிகள் நாயகம் பிறந்த இடத்திற்கு செல்லும் கிழக்கு வளாகத்திலுள்ள விசாலமான நிலத்தடி கழிப்பறைகள்."
+    },
+    "latitude": 21.4252,
+    "longitude": 39.8305,
+    "region": "makkah",
+    "type": "Amenity: Toilets",
+    "thumbnail": "assets/image/locations/kaabah.webp"
+  },
+  {
+    "id": "amenity_toilet_makkah_05",
+    "name": {
+      "en": "Souq Al-Saghir & Jabal Omar Public Restrooms",
+      "ms": "Tandas Awam Souq Al-Saghir & Jabal Omar",
+      "ml": "സൂഖ് അൽ-സഗീർ & ജബൽ ഉമർ പൊതു ശൗചാലയം",
+      "ta": "ஸூக் அல்-ஸகீர் & ஜபல் உமர் பொது கழிப்பறை"
+    },
+    "description": {
+      "en": "Underground public toilet facilities located beneath Ibrahim Al-Khalil road between the Haram courtyard and Jabal Omar hotels.",
+      "ms": "Kemudahan tandas awam bawah tanah di bawah jalan Ibrahim Al-Khalil antara dataran Haram dan hotel Jabal Omar.",
+      "ml": "ഇബ്രാഹിം അൽ-ഖലീൽ റോഡിനടിയിൽ ഹറം മുറ്റത്തിനും ജബൽ ഉമറിനും ഇടയിലുള്ള പൊതു ശൗചാലയം.",
+      "ta": "இப்ராஹீம் அல்-கலீல் சாலையின் கீழ் ஹரம் முற்றம் மற்றும் ஜபல் உமர் ஹோட்டல்களுக்கு இடையில் அமைந்துள்ள பொது கழிப்பறை."
+    },
+    "latitude": 21.4202,
+    "longitude": 39.8231,
+    "region": "makkah",
+    "type": "Amenity: Toilets",
+    "thumbnail": "assets/image/locations/kaabah.webp"
+  },
+  {
+    "id": "amenity_toilet_makkah_06",
+    "name": {
+      "en": "Kudai Bus Terminal Restrooms",
+      "ms": "Tandas Terminal Bas Kudai",
+      "ml": "കുദൈ ബസ് ടെർമിനൽ ശൗചാലയം",
+      "ta": "குதை பேருந்து முனைய கழிப்பறை"
+    },
+    "description": {
+      "en": "Main public restrooms and wudu stations at the Kudai park-and-ride bus depot for pilgrims arriving by bus and taxi.",
+      "ms": "Tandas awam utama dan tempat wuduk di terminal bas Kudai untuk jemaah yang tiba dengan bas dan teksi.",
+      "ml": "ബസുകളിലും ടാക്സികളിലും എത്തുന്ന തീർഥാടകർക്കായി കുദൈ ബസ് ടെർമിനലിലെ ശൗചാലയങ്ങൾ.",
+      "ta": "பேருந்து மற்றும் டாக்சிகளில் வரும் யாத்ரீகர்களுக்கான குதை பேருந்து முனைய கழிப்பறை."
+    },
+    "latitude": 21.4015,
+    "longitude": 39.8242,
+    "region": "makkah",
+    "type": "Amenity: Toilets",
+    "thumbnail": "assets/image/locations/kaabah.webp"
+  },
+  {
+    "id": "amenity_toilet_makkah_07",
+    "name": {
+      "en": "Masjid Aishah (Tan'im) Restrooms & Showers",
+      "ms": "Tandas & Tempat Mandi Masjid Aishah (Tan'im)",
+      "ml": "മസ്ജിദ് ആയിഷ (തൻഈം) ശൗചാലയങ്ങളും കുളിമുറികളും",
+      "ta": "மஸ்ஜித் ஆயிஷா (தன்ஈம்) கழிப்பறை & குளியலறை"
+    },
+    "description": {
+      "en": "Large dedicated ablution block, Ihram changing rooms, and shower facilities for pilgrims assuming Ihram at the Tan'im Miqat.",
+      "ms": "Blok wuduk khas yang besar, bilik persalinan ihram dan kemudahan mandi untuk jemaah yang berihram di Miqat Tan'im.",
+      "ml": "തൻഈം മീഖാത്തത്തിൽ ഇഹ്‌റാം ചെയ്യുന്ന തീർഥാടകർക്കായി വസ്ത്രം മാറാനുള്ള മുറികളും കുളിമുറികളും ശൗചാലയങ്ങളും.",
+      "ta": "தன்ஈம் மீக்காத்தில் இஹ்ராம் அணியும் யாத்ரீகர்களுக்கான குளியலறைகள் மற்றும் உளு செய்யும் வசதிகள்."
+    },
+    "latitude": 21.4885,
+    "longitude": 39.799,
+    "region": "makkah",
+    "type": "Amenity: Toilets",
+    "thumbnail": "assets/image/locations/kaabah.webp"
+  },
+  {
+    "id": "amenity_masjid_makkah_01",
+    "name": {
+      "en": "Masjid al-Haram (The Sacred Mosque)",
+      "ms": "Masjid al-Haram (Masjidil Haram)",
+      "ml": "മസ്ജിദുൽ ഹറാം",
+      "ta": "மஸ்ஜிதுல் ஹராம்"
+    },
+    "description": {
+      "en": "The focal sanctuary of the Islamic world surrounding the Holy Kaaba. Prayer here equals 100,000 prayers elsewhere.",
+      "ms": "Masjid utama dunia Islam yang mengelilingi Kaabah Musyarafah. Solat di sini menyamai 100,000 solat di tempat lain.",
+      "ml": "വിശുദ്ധ കഅബ സ്ഥിതി ചെയ്യുന്ന ഇസ്‌ലാമിലെ ഏറ്റവും പവിത്രമായ പള്ളി. ഇവിടെ ഒരു നമസ്കാരം മറ്റു പള്ളികളിലെ ഒരു ലക്ഷം നമസ്കാരത്തിന് തുല്യമാണ്.",
+      "ta": "புனித கஅபாவை சூழ்ந்துள்ள உலக முஸ்லிம்களின் தலைமை மஸ்ஜித். இங்கு தொழுகைக்கு 1,00,000 மடங்கு நன்மை உண்டு."
+    },
+    "latitude": 21.4225,
+    "longitude": 39.8262,
+    "region": "makkah",
+    "type": "Amenity: Masjids",
+    "thumbnail": "assets/image/locations/masjid_haram.webp"
+  },
+  {
+    "id": "amenity_masjid_makkah_02",
+    "name": {
+      "en": "Masjid Aishah / Tan'im (Miqat)",
+      "ms": "Masjid Aishah / Tan'im (Miqat)",
+      "ml": "മസ്ജിദ് ആയിഷ / തൻഈം (മീഖാത്ത്)",
+      "ta": "மஸ்ஜித் ஆயிஷா / தன்ஈம் (மீக்காத்)"
+    },
+    "description": {
+      "en": "The nearest Miqat boundary point to Makkah where Ummul Mu'minin Aishah (RA) assumed Ihram for her Umrah.",
+      "ms": "Sempadan Miqat paling dekat dengan Makkah di mana Ummul Mukminin Aishah (RA) berihram untuk umrahnya.",
+      "ml": "മക്കക്ക് ഏറ്റവും അടുത്തുള്ള മീഖാത്ത്. ആഇശ ബീവി (റ) ഉംറക്കായി ഇഹ്‌റാം ചെയ്ത ചരിത്ര പ്രസിദ്ധമായ പള്ളി.",
+      "ta": "மக்காவுக்கு மிக அருகிலுள்ள மீக்காத் எல்லை. ஆயிஷா (ரலி) அவர்கள் உம்றாவுக்காக இஹ்ராம் அணிந்த இடம்."
+    },
+    "latitude": 21.488,
+    "longitude": 39.7995,
+    "region": "makkah",
+    "type": "Amenity: Masjids",
+    "thumbnail": "assets/image/locations/kaabah.webp"
+  },
+  {
+    "id": "amenity_masjid_makkah_03",
+    "name": {
+      "en": "Masjid Ji'ranah (Miqat)",
+      "ms": "Masjid Ji'ranah (Miqat)",
+      "ml": "മസ്ജിദ് ജിഅ്റാന (മീഖാത്ത്)",
+      "ta": "மஸ்ஜித் ஜிஃரானா (மீக்காத்)"
+    },
+    "description": {
+      "en": "Historical Miqat where the Prophet ﷺ entered into Ihram after distributing the spoils of the Battle of Hunayn.",
+      "ms": "Miqat bersejarah di mana Rasulullah ﷺ berniat ihram selepas membahagikan harta rampasan Perang Hunayn.",
+      "ml": "ഹുനൈൻ യുദ്ധാനന്തരം പ്രവാചകൻ ﷺ ഇഹ്‌റാം ചെയ്ത ചരിത്രപ്രസിദ്ധമായ മീഖാത്ത് പള്ളി.",
+      "ta": "ஹுனைன் போருக்குப் பின் நபிகள் நாயகம் ﷺ இஹ்ராம் கட்டிய வரலாற்று சிறப்புமிக்க மீக்காத் பள்ளிவாசல்."
+    },
+    "latitude": 21.528,
+    "longitude": 39.9575,
+    "region": "makkah",
+    "type": "Amenity: Masjids",
+    "thumbnail": "assets/image/locations/kaabah.webp"
+  },
+  {
+    "id": "amenity_masjid_makkah_04",
+    "name": {
+      "en": "Masjid Al-Jinn (Mosque of the Jinn)",
+      "ms": "Masjid Al-Jinn",
+      "ml": "മസ്ജിദുൽ ജിന്ന്",
+      "ta": "மஸ்ஜித் அல்-ஜின்"
+    },
+    "description": {
+      "en": "Built where a gathering of Jinn listened to the Prophet ﷺ reciting the Quran and pledged allegiance to Islam.",
+      "ms": "Dibina di tempat di mana sekumpulan Jin mendengar bacaan Al-Quran Rasulullah ﷺ lalu beriman kepada Islam.",
+      "ml": "പ്രവാചകൻ്റെ ഖുർആൻ പാരായണം കേട്ട് ജിന്നുകൾ ഇസ്‌ലാം സ്വീകരിച്ച ചരിത്രപരമായ സ്ഥലം.",
+      "ta": "ஜின் கூட்டத்தினர் நபிகள் நாயகம் ﷺ ஓதிய திருக்குர்ஆனைக் கேட்டு இஸ்லாத்தை ஏற்றுக்கொண்ட வரலாற்று இடம்."
+    },
+    "latitude": 21.4335,
+    "longitude": 39.8312,
+    "region": "makkah",
+    "type": "Amenity: Masjids",
+    "thumbnail": "assets/image/locations/kaabah.webp"
+  },
+  {
+    "id": "amenity_masjid_makkah_05",
+    "name": {
+      "en": "Masjid Al-Shajarah (Makkah Tree Mosque)",
+      "ms": "Masjid Al-Shajarah (Makkah)",
+      "ml": "മസ്ജിദുശ്ശജറ (മക്ക)",
+      "ta": "மஸ்ஜித் அஷ்-ஷஜரா (மக்கா)"
+    },
+    "description": {
+      "en": "Located opposite Masjid al-Jinn, marking the miraculous spot where a tree moved towards the Prophet ﷺ upon his call.",
+      "ms": "Terletak berhadapan Masjid al-Jinn, menandakan mukjizat di mana sebatang pokok datang kepada Nabi ﷺ apabila dipanggil.",
+      "ml": "മസ്ജിദുൽ ജിന്നിന് എതിർവശത്തായി പ്രവാചകൻ്റെ വിളി കേട്ട് വൃക്ഷം അടുത്തേക്ക് വന്ന മുഅ്ജിസത്ത് നടന്ന സ്ഥലം.",
+      "ta": "மஸ்ஜித் அல்-ஜின்னுக்கு எதிரில், நபிகள் நாயகம் ﷺ அழைத்தபோது மரம் நடந்து வந்த அற்புதம் நிகழ்ந்த இடம்."
+    },
+    "latitude": 21.434,
+    "longitude": 39.8315,
+    "region": "makkah",
+    "type": "Amenity: Masjids",
+    "thumbnail": "assets/image/locations/kaabah.webp"
+  },
+  {
+    "id": "amenity_masjid_makkah_06",
+    "name": {
+      "en": "Masjid Al-Rayah (Mosque of the Banner)",
+      "ms": "Masjid Al-Rayah (Masjid Bendera)",
+      "ml": "മസ്ജിദുർ റായ (കൊടിയടയാള പള്ളി)",
+      "ta": "மஸ்ஜித் அர்-ராயா (கொடி பள்ளிவாசல்)"
+    },
+    "description": {
+      "en": "Built on the hillock where the Prophet ﷺ planted his victory banner during the Conquest of Makkah (Fath Makkah).",
+      "ms": "Dibina di bukit di mana Rasulullah ﷺ memacak panji kemenangan semasa Pembukaan Kota Makkah (Fath Makkah).",
+      "ml": "മക്കാ വിജയവേളയിൽ പ്രവാചകൻ ﷺ വിജയക്കൊടി നാട്ടിയ ചരിത്രപ്രസിദ്ധമായ കുന്നിൻമുകളിലെ പള്ളി.",
+      "ta": "மக்கா வெற்றியின் போது நபிகள் நாயகம் ﷺ தனது வெற்றிக் கொடியை நாட்டிய மலையில் அமைந்த பள்ளிவாசல்."
+    },
+    "latitude": 21.4328,
+    "longitude": 39.8296,
+    "region": "makkah",
+    "type": "Amenity: Masjids",
+    "thumbnail": "assets/image/locations/kaabah.webp"
+  },
+  {
+    "id": "amenity_masjid_makkah_07",
+    "name": {
+      "en": "Masjid Nimrah (Arafat)",
+      "ms": "Masjid Nimrah (Arafah)",
+      "ml": "മസ്ജിദ് നിമിറ (അറഫ)",
+      "ta": "மஸ்ஜித் நிமிரா (அரஃபா)"
+    },
+    "description": {
+      "en": "The magnificent mosque in Arafat where the Hajj Khutbah and combined Dhuhr-Asr prayers are delivered on the Day of Arafah.",
+      "ms": "Masjid megah di Arafah di mana Khutbah Haji dan solat jamak Zohor-Asar didirikan pada Hari Arafah.",
+      "ml": "അറഫാ ദിനത്തിൽ ഹജ്ജ് ഖുതുബയും ളുഹ്ർ-അസ്വർ ജംഅ് നമസ്കാരവും നടക്കുന്ന ചരിത്ര പള്ളി.",
+      "ta": "அரஃபா நாளில் ஹஜ் குத்பா உரை மற்றும் ளுஹர்-அஸர் தொழுகைகள் நடைபெறும் பிரம்மாண்ட பள்ளிவாசல்."
+    },
+    "latitude": 21.3615,
+    "longitude": 39.9675,
+    "region": "makkah",
+    "type": "Amenity: Masjids",
+    "thumbnail": "assets/image/locations/kaabah.webp"
+  },
+  {
+    "id": "amenity_masjid_makkah_08",
+    "name": {
+      "en": "Masjid Al-Khaif (Mina)",
+      "ms": "Masjid Al-Khaif (Mina)",
+      "ml": "മസ്ജിദുൽ ഖൈഫ് (മിന)",
+      "ta": "மஸ்ஜித் அல்-கைஃப் (மினா)"
+    },
+    "description": {
+      "en": "The central mosque in Mina where seventy prophets of Allah prayed before us, situated at the base of Mount Safayeh.",
+      "ms": "Masjid utama di Mina di mana tujuh puluh orang para Nabi telah solat sebelum kita, terletak di kaki Gunung Safayeh.",
+      "ml": "എഴുപതോളം പ്രവാചകന്മാർ നമസ്കരിച്ചതായി പറയപ്പെടുന്ന മിനായിലെ പ്രധാന പള്ളി.",
+      "ta": "எழுபது நபிமார்கள் தொழுததாக கூறப்படும் மினாவின் மையப்பகுதியில் அமைந்துள்ள வரலாற்று பள்ளிவாசல்."
+    },
+    "latitude": 21.4132,
+    "longitude": 39.8715,
+    "region": "makkah",
+    "type": "Amenity: Masjids",
+    "thumbnail": "assets/image/locations/kaabah.webp"
+  },
+  {
+    "id": "amenity_taxi_makkah_01",
+    "name": {
+      "en": "Kudai Central Taxi & Shuttle Terminal",
+      "ms": "Terminal Teksi & Bas Kudai",
+      "ml": "കുദൈ ടാക്സി & ഷട്ടിൽ ടെർമിനൽ",
+      "ta": "குதை டாக்ஸி & ஷட்டில் முனையம்"
+    },
+    "description": {
+      "en": "Primary official taxi hub and bus transit point south of Masjid al-Haram with 24/7 metered taxis, limousines, and Haram shuttles.",
+      "ms": "Hab teksi rasmi utama dan transit bas di selatan Masjidil Haram dengan teksi bermeter 24 jam dan bas ulang-alik.",
+      "ml": "മസ്ജിദുൽ ഹറാമിന് തെക്ക് ഭാഗത്തുള്ള പ്രധാന ടാക്സി ഹബ്ബും ബസ് ഷട്ടിൽ സർവീസും. 24 മണിക്കൂറും ലഭ്യമാണ്.",
+      "ta": "மஸ்ஜிதுல் ஹராமுக்கு தெற்கில் 24 மணி நேரமும் இயங்கும் அரசு டாக்ஸி முனையம் மற்றும் ஷட்டில் சேவை."
+    },
+    "latitude": 21.401,
+    "longitude": 39.8248,
+    "region": "makkah",
+    "type": "Amenity: Taxi Stands",
+    "thumbnail": "assets/image/locations/kaabah.webp"
+  },
+  {
+    "id": "amenity_taxi_makkah_02",
+    "name": {
+      "en": "Jabal Omar Taxi Station (Ibrahim Al-Khalil)",
+      "ms": "Stesen Teksi Jabal Omar (Ibrahim Al-Khalil)",
+      "ml": "ജബൽ ഉമർ ടാക്സി സ്റ്റേഷൻ",
+      "ta": "ஜபல் உமர் டாக்ஸி நிலையம்"
+    },
+    "description": {
+      "en": "Convenient taxi stand directly servicing Jabal Omar hotel towers (Hilton, Hyatt, Conrad) and King Fahd courtyard access.",
+      "ms": "Stesen teksi strategik yang memberi khidmat kepada menara hotel Jabal Omar (Hilton, Hyatt, Conrad) dan dataran Raja Fahd.",
+      "ml": "ജബൽ ഉമർ ഹോട്ടലുകൾക്കും ഹറം മുറ്റത്തേക്കും വേഗത്തിൽ എത്താവുന്ന ടാക്സി കേന്ദ്രം.",
+      "ta": "ஜபல் உமர் ஹோட்டல்கள் மற்றும் மன்னர் ஃபஹத் முற்றத்திற்கு அருகிலுள்ள வசதியான டாக்ஸி நிலையம்."
+    },
+    "latitude": 21.4205,
+    "longitude": 39.8202,
+    "region": "makkah",
+    "type": "Amenity: Taxi Stands",
+    "thumbnail": "assets/image/locations/kaabah.webp"
+  },
+  {
+    "id": "amenity_taxi_makkah_03",
+    "name": {
+      "en": "Ajyad Taxi & Rideshare Rank (Clock Tower)",
+      "ms": "Hentian Teksi Ajyad (Menara Jam)",
+      "ml": "അജ്‌യാദ് ടാക്സി റാങ്ക് (ക്ലോക്ക് ടവർ)",
+      "ta": "அஜ்யாத் டாக்ஸி தளம் (கடிகார கோபுரம்)"
+    },
+    "description": {
+      "en": "Active taxi pickup and drop-off bay along Ajyad street beneath the Abraj Al Bait Clock Tower complex.",
+      "ms": "Kawasan mengambil dan menurunkan penumpang teksi di jalan Ajyad di bawah kompleks Menara Jam Abraj Al Bait.",
+      "ml": "ക്ലോക്ക് ടവറിന് താഴെ അജ്‌യാദ് തെരുവിലുള്ള ടാക്സി സ്റ്റാൻഡ്.",
+      "ta": "கடிகார கோபுர வளாகத்தின் கீழ் அஜ்யாத் சாலையில் உள்ள டாக்ஸி ஏறும் தளம்."
+    },
+    "latitude": 21.4175,
+    "longitude": 39.828,
+    "region": "makkah",
+    "type": "Amenity: Taxi Stands",
+    "thumbnail": "assets/image/locations/kaabah.webp"
+  },
+  {
+    "id": "amenity_taxi_makkah_04",
+    "name": {
+      "en": "Bab Ali / Gaza Taxi Station",
+      "ms": "Stesen Teksi Bab Ali / Gaza",
+      "ml": "ബാബ് അലി / ഗസ്സ ടാക്സി സ്റ്റേഷൻ",
+      "ta": "பாப் அலி / கஸ்ஸா டாக்ஸி நிலையம்"
+    },
+    "description": {
+      "en": "Major eastern transport rank connecting pilgrims to Tan'im, Ji'ranah, Mina, and Makkah Haramain Train Station.",
+      "ms": "Hentian pengangkutan timur utama menghubungkan jemaah ke Tan'im, Ji'ranah, Mina dan Stesen Kereta Api Haramain.",
+      "ml": "തൻഈം, ജിഅ്റാന, മിന എന്നിവിടങ്ങളിലേക്ക് പോകാനുള്ള കിഴക്കൻ ഭാഗത്തെ ടാക്സി സ്റ്റേഷൻ.",
+      "ta": "தன்ஈம், ஜிஃரானா, மினா மற்றும் ரயில் நிலையத்திற்கு செல்லும் பிரதான கிழக்கு டாக்ஸி முனையம்."
+    },
+    "latitude": 21.4268,
+    "longitude": 39.8318,
+    "region": "makkah",
+    "type": "Amenity: Taxi Stands",
+    "thumbnail": "assets/image/locations/kaabah.webp"
+  },
+  {
+    "id": "amenity_taxi_makkah_05",
+    "name": {
+      "en": "Haramain High-Speed Train Station Taxi Terminal",
+      "ms": "Terminal Teksi Stesen Kereta Api Laju Haramain",
+      "ml": "ഹറമൈൻ ഹൈസ്പീഡ് ട്രെയിൻ സ്റ്റേഷൻ ടാക്സി ടെർമിനൽ",
+      "ta": "ஹரமைன் அதிவேக ரயில் நிலைய டாக்ஸி முனையம்"
+    },
+    "description": {
+      "en": "Official regulated taxi and Careem/Uber queue located outside Makkah Al-Rusaifah High-Speed Railway Station for trains to Madinah and Jeddah.",
+      "ms": "Hentian teksi rasmi dan e-panggilan di luar Stesen Kereta Api Laju Makkah Al-Rusaifah untuk perjalanan ke Madinah dan Jeddah.",
+      "ml": "മദീന, ജിദ്ദ ട്രെയിനുകളിൽ എത്തുന്നവർക്കായി അൽ-റുസൈഫ ഹറമൈൻ റെയിൽവേ സ്റ്റേഷനിലെ ടാക്സി ടെർമിനൽ.",
+      "ta": "மதீனா மற்றும் ஜித்தா செல்லும் அல்-ருஸைஃபா அதிவேக ரயில் நிலையத்தின் டாக்ஸி முனையம்."
+    },
+    "latitude": 21.4135,
+    "longitude": 39.7895,
+    "region": "makkah",
+    "type": "Amenity: Taxi Stands",
+    "thumbnail": "assets/image/locations/kaabah.webp"
+  },
+  {
+    "id": "amenity_taxi_makkah_06",
+    "name": {
+      "en": "Mahbas Al-Jinn Taxi & Bus Terminal",
+      "ms": "Terminal Teksi & Bas Mahbas Al-Jinn",
+      "ml": "മഹ്ബസ് അൽ-ജിന്ന് ടാക്സി & ബസ് ടെർമിനൽ",
+      "ta": "மஹ்பஸ் அல்-ஜின் டாக்ஸி முனையம்"
+    },
+    "description": {
+      "en": "Key transit hub on the route to Aziziyah and Mina with abundant white airport and intercity taxis.",
+      "ms": "Hab transit utama di laluan ke Aziziyah dan Mina dengan banyak teksi lapangan terbang dan antara bandar.",
+      "ml": "അസീസിയയിലേക്കും മിനായിലേക്കും പോകുന്നവർക്കായുള്ള പ്രധാന ടാക്സി ട്രാൻസിറ്റ് പോയിന്റ്.",
+      "ta": "அஸீஸியா மற்றும் மினா செல்லும் வழியிலுள்ள முக்கிய டாக்ஸி முனையம்."
+    },
+    "latitude": 21.4218,
+    "longitude": 39.8525,
+    "region": "makkah",
+    "type": "Amenity: Taxi Stands",
+    "thumbnail": "assets/image/locations/kaabah.webp"
+  },
+  {
+    "id": "amenity_medical_makkah_01",
+    "name": {
+      "en": "Ajyad Emergency Hospital",
+      "ms": "Hospital Kecemasan Ajyad",
+      "ml": "അജ്‌യാദ് അത്യാഹിത ആശുപത്രി",
+      "ta": "அஜ்யாத் அவசர சிகிச்சை மருத்துவமனை"
+    },
+    "description": {
+      "en": "24/7 emergency medical hospital located right beside the Clock Tower with full ICU, trauma, and acute care facilities for pilgrims.",
+      "ms": "Hospital kecemasan 24 jam bersebelahan Menara Jam dengan kemudahan ICU dan rawatan akut untuk jemaah.",
+      "ml": "ക്ലോക്ക് ടവറിന് തൊട്ടടുത്ത് 24 മണിക്കൂറും പ്രവർത്തിക്കുന്ന ഹറം അത്യാഹിത ആശുപത്രി.",
+      "ta": "கடிகார கோபுரத்திற்கு அருகில் 24 மணி நேரமும் செயல்படும் அவசர சிகிச்சை மருத்துவமனை."
+    },
+    "latitude": 21.4182,
+    "longitude": 39.8275,
+    "region": "makkah",
+    "type": "Amenity: Medical",
+    "thumbnail": "assets/image/locations/kaabah.webp"
+  },
+  {
+    "id": "amenity_medical_makkah_02",
+    "name": {
+      "en": "Al Haram Emergency Hospital (North Plaza)",
+      "ms": "Hospital Kecemasan Al Haram (Dataran Utara)",
+      "ml": "അൽ ഹറം എമർജൻസി ഹോസ്പിറ്റൽ (നോർത്ത് പ്ലാസ)",
+      "ta": "அல் ஹரம் அவசர மருத்துவமனை (வடக்கு வளாகம்)"
+    },
+    "description": {
+      "en": "State-of-the-art emergency hospital built into the northern expansion of the Grand Mosque with swift ambulance access.",
+      "ms": "Hospital kecemasan moden di dataran utara Masjidil Haram dengan akses ambulans pantas.",
+      "ml": "ഹറം വടക്കൻ വിപുലീകരണ ഭാഗത്ത് പ്രവർത്തിക്കുന്ന അത്യാധുനിക എമർജൻസി ആശുപത്രി.",
+      "ta": "ஹரம் வடக்கு விரிவாக்கத்தில் அமைந்துள்ள நவீன அவசர சிகிச்சை மருத்துவமனை."
+    },
+    "latitude": 21.4258,
+    "longitude": 39.8245,
+    "region": "makkah",
+    "type": "Amenity: Medical",
+    "thumbnail": "assets/image/locations/kaabah.webp"
+  },
+  {
+    "id": "amenity_shopping_makkah_01",
+    "name": {
+      "en": "Abraj Al Bait Shopping Complex",
+      "ms": "Pusat Beli-Belah Abraj Al Bait",
+      "ml": "അബ്‌റാജ് അൽ-ബൈത്ത് ഷോപ്പിംഗ് സെന്റർ",
+      "ta": "அப்ராஜ் அல்-பைத் வணிக வளாகம்"
+    },
+    "description": {
+      "en": "Multi-floor air-conditioned shopping center offering pharmacies, perfumes, souvenirs, clothes, currency exchange, and vast food courts.",
+      "ms": "Pusat beli-belah bertingkat lengkap dengan farmasi, minyak wangi, cenderahati, pakaian, pertukaran wang dan medan selera.",
+      "ml": "ഫാർമസികൾ, വസ്ത്രങ്ങൾ, പെർഫ്യൂമുകൾ, ഫുഡ് കോർട്ട് എന്നിവയടങ്ങുന്ന ക്ലോക്ക് ടവർ ഷോപ്പിംഗ് മാൾ.",
+      "ta": "மருந்தகங்கள், ஆடைகள், அத்தர் மற்றும் உணவகங்கள் நிறைந்த பிரம்மாண்ட வணிக வளாகம்."
+    },
+    "latitude": 21.4188,
+    "longitude": 39.826,
+    "region": "makkah",
+    "type": "Amenity: Shopping",
+    "thumbnail": "assets/image/locations/kaabah.webp"
+  },
+  {
+    "id": "amenity_shopping_makkah_02",
+    "name": {
+      "en": "Bin Dawood Supermarket (Clock Tower & Jabal Omar)",
+      "ms": "Pasar Raya Bin Dawood",
+      "ml": "ബിൻ ദാവൂദ് സൂപ്പർമാർക്കറ്റ്",
+      "ta": "பின் தாவூத் சூப்பர் மார்க்கெட்"
+    },
+    "description": {
+      "en": "Major Saudi hypermarket providing fresh fruit, packaged food, dates, bottled water, toiletries, and travel supplies.",
+      "ms": "Pasar raya utama membekalkan buah-buahan segar, makanan segera, kurma, air mineral, peralatan mandian dan kelengkapan ibadah.",
+      "ml": "ഈന്തപ്പഴങ്ങൾ, ഭക്ഷണ സാധനങ്ങൾ, നിത്യോപയോഗ വസ്തുക്കൾ എന്നിവ ലഭ്യമാകുന്ന പ്രമുഖ സൂപ്പർമാർക്കറ്റ്.",
+      "ta": "பேரீச்சம்பழம், உணவு மற்றும் அத்தியாவசியப் பொருட்கள் கிடைக்கும் முன்னணி பேரங்காடி."
+    },
+    "latitude": 21.4192,
+    "longitude": 39.8252,
+    "region": "makkah",
+    "type": "Amenity: Shopping",
+    "thumbnail": "assets/image/locations/kaabah.webp"
+  },
+  {
+    "id": "amenity_food_makkah_01",
+    "name": {
+      "en": "Al Baik (Jabal Omar & Gaza Branches)",
+      "ms": "Al Baik (Cawangan Jabal Omar & Gaza)",
+      "ml": "അൽ ബൈക്ക് (ജബൽ ഉമർ & ഗസ്സ)",
+      "ta": "அல் பைக் (ஜபல் உமர் & கஸ்ஸா)"
+    },
+    "description": {
+      "en": "Saudi Arabia's legendary broasted chicken fast-food restaurant with quick take-away service for pilgrims.",
+      "ms": "Restoran ayam goreng terkenal Arab Saudi dengan perkhidmatan bungkus pantas untuk para jemaah.",
+      "ml": "തീർഥാടകർക്ക് ഏറ്റവും പ്രിയങ്കരമായ സൗദിയിലെ പ്രശസ്ത ഫാസ്റ്റ് ഫുഡ് റെസ്റ്റോറന്റ്.",
+      "ta": "சவுதி அரேபியாவின் புகழ்பெற்ற அல் பைக் விரைவு உணவகம்."
+    },
+    "latitude": 21.4212,
+    "longitude": 39.8215,
+    "region": "makkah",
+    "type": "Amenity: Food & Dining",
+    "thumbnail": "assets/image/locations/kaabah.webp"
+  },
+  {
+    "id": "amenity_toilet_madinah_01",
+    "name": {
+      "en": "Masjid Nabawi Courtyard Restrooms (Courtyard #1 & #2)",
+      "ms": "Tandas Dataran Masjid Nabawi (#1 & #2)",
+      "ml": "മസ്ജിദുന്നബവി അങ്കണ ശൗചാലയം (നമ്പർ 1 & 2)",
+      "ta": "மஸ்ஜிதுன் நபவி முற்றம் கழிப்பறை (#1 & #2)"
+    },
+    "description": {
+      "en": "Clean underground facilities accessible via escalators on the northern side of the Prophet's Mosque courtyard.",
+      "ms": "Kemudahan bawah tanah bersih yang diakses melalui eskalator di sebelah utara dataran Masjid Nabawi.",
+      "ml": "മസ്ജിദുന്നബവിയുടെ വടക്കേ മുറ്റത്ത് എസ്‌കലേറ്ററുകൾ വഴി പ്രവേശിക്കാവുന്ന ഭൂഗർഭ ശൗചാലയങ്ങൾ.",
+      "ta": "நபவி பள்ளிவாசலின் வடக்கு முற்றத்தில் எஸ்கலேட்டர் வசதியுடன் கூடிய நிலத்தடி கழிப்பறைகள்."
+    },
+    "latitude": 24.4715,
+    "longitude": 39.611,
+    "region": "madinah",
+    "type": "Amenity: Toilets",
+    "thumbnail": "assets/image/locations/kaabah.webp"
+  },
+  {
+    "id": "amenity_toilet_madinah_02",
+    "name": {
+      "en": "Masjid Quba Public Restrooms & Wudu",
+      "ms": "Tandas Awam & Wuduk Masjid Quba",
+      "ml": "മസ്ജിദ് ഖുബാ പൊതു ശൗചാലയം & വുദു സ്ഥലം",
+      "ta": "மஸ்ஜித் குபா பொது கழிப்பறை & உளு"
+    },
+    "description": {
+      "en": "Spacious ablution complex adjacent to the palm gardens of historic Masjid Quba with hot water and disabled access.",
+      "ms": "Kompleks wuduk yang luas bersebelahan kebun kurma Masjid Quba dengan air panas dan kemudahan mesra OKU.",
+      "ml": "ഖുബാ പള്ളിക്ക് സമീപമുള്ള വിശാലമായ വുദു, ശൗചാലയ സമുച്ചയം.",
+      "ta": "குபா பள்ளிவாசலுக்கு அருகிலுள்ள விசாலமான உளு மற்றும் கழிப்பறை வளாகம்."
+    },
+    "latitude": 24.439,
+    "longitude": 39.6172,
+    "region": "madinah",
+    "type": "Amenity: Toilets",
+    "thumbnail": "assets/image/locations/kaabah.webp"
+  },
+  {
+    "id": "amenity_masjid_madinah_01",
+    "name": {
+      "en": "Masjid An-Nabawi (The Prophet's Mosque)",
+      "ms": "Masjid An-Nabawi",
+      "ml": "മസ്ജിദുന്നബവി",
+      "ta": "மஸ்ஜிதுன் நபவி"
+    },
+    "description": {
+      "en": "The resting place of Prophet Muhammad ﷺ and the second holiest sanctuary in Islam. Houses the Rawdah al-Mutahharah.",
+      "ms": "Makam baginda Rasulullah ﷺ dan tanah suci kedua umat Islam. Menempatkan Raudah yang mulia.",
+      "ml": "പ്രവാചകൻ മുഹമ്മദ് നബി ﷺ അന്ത്യവിശ്രമം കൊള്ളുന്ന പുണ്യ മസ്ജിദ്. വിശുദ്ധ റൗദ ഇവിടെയാണ് സ്ഥിതി ചെയ്യുന്നത്.",
+      "ta": "நபிகள் நாயகம் ﷺ அடக்கஸ்தலம் கொண்டுள்ள புனித பள்ளிவாசல். புனித ரவ்ழா இங்கு அமைந்துள்ளது."
+    },
+    "latitude": 24.4672,
+    "longitude": 39.6112,
+    "region": "madinah",
+    "type": "Amenity: Masjids",
+    "thumbnail": "assets/image/locations/masjid_nabawi.webp"
+  },
+  {
+    "id": "amenity_masjid_madinah_02",
+    "name": {
+      "en": "Masjid Quba",
+      "ms": "Masjid Quba",
+      "ml": "മസ്ജിദ് ഖുബാ",
+      "ta": "மஸ்ஜித் குபா"
+    },
+    "description": {
+      "en": "The first mosque in the history of Islam, established by the Prophet ﷺ upon his arrival during Hijrah. Prayer here equals an Umrah.",
+      "ms": "Masjid pertama dalam sejarah Islam yang diasaskan oleh Nabi ﷺ semasa Hijrah. Solat di sini menyamai pahala satu Umrah.",
+      "ml": "ഇസ്‌ലാമിലെ പ്രഥമ പള്ളി. പ്രവാചകൻ ഹിജ്റ വേളയിൽ നിർമ്മിച്ചത്. ഇവിടെ രണ്ട് റക്അത്ത് നമസ്കരിച്ചാൽ ഒരു ഉംറ ചെയ്ത പ്രതിഫലം ലഭിക്കും.",
+      "ta": "இஸ்லாமிய வரலாற்றின் முதல் பள்ளிவாசல். இங்கு தொழுவது ஒரு உம்றா செய்த நன்மைக்கு சமமாகும்."
+    },
+    "latitude": 24.4395,
+    "longitude": 39.6168,
+    "region": "madinah",
+    "type": "Amenity: Masjids",
+    "thumbnail": "assets/image/locations/masjid_quba.webp"
+  },
+  {
+    "id": "amenity_masjid_madinah_03",
+    "name": {
+      "en": "Masjid Al-Qiblatain (Mosque of the Two Qiblas)",
+      "ms": "Masjid Al-Qiblatain",
+      "ml": "മസ്ജിദുൽ ഖിബ്‌ലതൈൻ",
+      "ta": "மஸ்ஜித் அல்-கிப்லதைன்"
+    },
+    "description": {
+      "en": "Where the Quranic command to change the prayer orientation from Jerusalem to the Kaaba in Makkah was revealed.",
+      "ms": "Tempat turunnya perintah Al-Quran untuk menukar arah kiblat dari Baitulmaqdis ke Kaabah di Makkah.",
+      "ml": "നമസ്കാരത്തിൽ ഖിബ്‌ല ബൈത്തുൽ മുഖദ്ദസിൽ നിന്നും കഅബയിലേക്ക് മാറ്റാൻ കൽപന വന്ന ചരിത്ര പള്ളി.",
+      "ta": "தொழுகையின் கிப்லா திசை பைத்துல் முகத்தஸிலிருந்து கஅபாவை நோக்கி மாற்ற கட்டளையிடப்பட்ட இடம்."
+    },
+    "latitude": 24.4842,
+    "longitude": 39.5786,
+    "region": "madinah",
+    "type": "Amenity: Masjids",
+    "thumbnail": "assets/image/locations/masjid_qiblatain.webp"
+  },
+  {
+    "id": "amenity_taxi_madinah_01",
+    "name": {
+      "en": "Central North Taxi Rank (Masjid Nabawi)",
+      "ms": "Stesen Teksi Utara Pusat (Masjid Nabawi)",
+      "ml": "സെൻട്രൽ നോർത്ത് ടാക്സി റാങ്ക് (മസ്ജിദുന്നബവി)",
+      "ta": "மத்திய வடக்கு டாக்ஸி தளம் (நபவி பள்ளி)"
+    },
+    "description": {
+      "en": "Major regulated taxi station north of King Fahd Gate connecting to Quba, Qiblatain, Mount Uhud, and the train station.",
+      "ms": "Stesen teksi rasmi di utara Pintu Raja Fahd menghubungkan ke Quba, Qiblatain, Bukit Uhud dan stesen kereta api.",
+      "ml": "ഖുബാ, ഖിബ്‌ലതൈൻ, ഉഹുദ് എന്നിവിടങ്ങളിലേക്ക് പോകാനുള്ള മസ്ജിദുന്നബവി വടക്ക് ഭാഗത്തെ പ്രധാന ടാക്സി കേന്ദ്രം.",
+      "ta": "குபா, கிப்லதைன் மற்றும் உஹுத் செல்ல நபவி பள்ளிவாசல் வடக்கில் உள்ள பிரதான டாக்ஸி நிலையம்."
+    },
+    "latitude": 24.4735,
+    "longitude": 39.6105,
+    "region": "madinah",
+    "type": "Amenity: Taxi Stands",
+    "thumbnail": "assets/image/locations/kaabah.webp"
+  },
+  {
+    "id": "amenity_taxi_madinah_02",
+    "name": {
+      "en": "Madinah Haramain Train Station Taxi Bay",
+      "ms": "Hentian Teksi Stesen Kereta Api Haramain Madinah",
+      "ml": "മദീന ഹറമൈൻ ട്രെയിൻ സ്റ്റേഷൻ ടാക്സി ബേ",
+      "ta": "மதீனா ஹரமைன் ரயில் நிலைய டாக்ஸி தளம்"
+    },
+    "description": {
+      "en": "Official taxi dispatch and pickup bays right outside Madinah Haramain High-Speed Rail Station.",
+      "ms": "Hentian teksi rasmi betul-betul di luar Stesen Kereta Api Laju Haramain Madinah.",
+      "ml": "മദീന ഹറമൈൻ ഹൈസ്പീഡ് റെയിൽവേ സ്റ്റേഷന് പുറത്തുള്ള ഔദ്യോഗിക ടാക്സി സേവനം.",
+      "ta": "மதீனா அதிவேக ரயில் நிலையத்தின் வெளியே அமைந்துள்ள அரசு டாக்ஸி முனையம்."
+    },
+    "latitude": 24.4852,
+    "longitude": 39.6895,
+    "region": "madinah",
+    "type": "Amenity: Taxi Stands",
+    "thumbnail": "assets/image/locations/kaabah.webp"
+  },
+  {
+    "id": "amenity_shop_sponsor_makkah_01",
+    "name": {
+      "en": "Al-Safwah Dates & Zamzam Gift Center",
+      "ms": "Pusat Kurma & Cenderahati Al-Safwah (Ditaja)",
+      "ml": "അൽ-സഫ്‌വ ഈന്തപ്പഴ & സമ്മാന കേന്ദ്രം",
+      "ta": "அல்-ஸஃப்வா பேரீச்சம்பழம் மற்றும் அன்பளிப்பு மையம்"
+    },
+    "description": {
+      "en": "Official partner shop offering premium Ajwa, Amber, and Medjool dates, vacuum-packed travel gifts, Zamzam holders, and Malaysian/Indonesian pilgrim discounts.",
+      "ms": "Kedai rakan pilihan membekalkan kurma Ajwa, Amber, Medjool gred tinggi, pek vakum, bekas Zamzam khas serta diskaun istimewa jemaah Malaysia & Nusantara.",
+      "ml": "ഉയർന്ന നിലവാരമുള്ള അജ്‌വ, അംബർ ഈന്തപ്പഴങ്ങളും തീർഥാടകർക്കുള്ള സമ്മാനങ്ങളും ലഭിക്കുന്ന പ്രമുഖ കേന്ദ്രം.",
+      "ta": "உயர்தர அஜ்வா மற்றும் அம்பர் பேரீச்சம்பழங்கள் கிடைக்கும் அங்கீகரிக்கப்பட்ட சிறப்பு அங்காடி."
+    },
+    "latitude": 21.4196,
+    "longitude": 39.8268,
+    "region": "makkah",
+    "type": "Amenity: Shopping",
+    "subCategory": "Shopping & Dates",
+    "isSponsored": true,
+    "thumbnail": "assets/image/amenity.webp"
+  },
+  {
+    "id": "amenity_food_makkah_02",
+    "name": {
+      "en": "Clock Tower Food Court & Dining",
+      "ms": "Medan Selera Menara Jam (Clock Tower)",
+      "ml": "ക്ലോക്ക് ടവർ ഫുഡ് കോർട്ട്",
+      "ta": "கடிகார கோபுர உணவு அரங்கம்"
+    },
+    "description": {
+      "en": "Spacious air-conditioned dining terrace featuring Asian, Middle Eastern, and international halal cuisines with panoramic views of the Haram.",
+      "ms": "Medan selera berhawa dingin menyajikan hidangan Asia, Arab, dan antarabangsa dengan pemandangan terus ke Masjidil Haram.",
+      "ml": "ഹറം ദർശനത്തോടൊപ്പം വിവിധ ഏഷ്യൻ, അറബിക് വിഭവങ്ങൾ ലഭിക്കുന്ന വലിയ ഫുഡ് കോർട്ട്.",
+      "ta": "பல்வேறு வகையான ஹலால் உணவுகள் கிடைக்கும் குளிர்சாதன உணவு அரங்கம்."
+    },
+    "latitude": 21.4185,
+    "longitude": 39.8264,
+    "region": "makkah",
+    "type": "Amenity: Food & Dining",
+    "subCategory": "Food & Dining",
+    "thumbnail": "assets/image/amenity.webp"
+  },
+  {
+    "id": "amenity_transport_makkah_01",
+    "name": {
+      "en": "Kudai SAPTCO Bus Station & Shuttle",
+      "ms": "Stesen Bas SAPTCO Kudai & Ulang-Alik Haram",
+      "ml": "കുദായ് സാപ്റ്റ്‌കോ ബസ് സ്റ്റേഷൻ",
+      "ta": "குதாய் சாப்ட்ட்கோ பஸ் நிலையம்"
+    },
+    "description": {
+      "en": "Main bus hub with 24/7 high-frequency air-conditioned shuttle buses to King Abdulaziz Gate (Gate 1) and regional coaches to Jeddah Airport.",
+      "ms": "Hab bas utama dengan perkhidmatan bas ulang-alik berhawa dingin 24 jam ke Pintu 1 King Abdulaziz dan bas ekspres ke Lapangan Terbang Jeddah.",
+      "ml": "ഹറമിലേക്ക് 24 മണിക്കൂറും ഷട്ടിൽ ബസ് സർവീസ് നടത്തുന്ന പ്രധാന ബസ് ടെർമിനൽ.",
+      "ta": "ஹரமுக்கு 24 மணி நேரமும் விரைவு பேருந்துகள் இயங்கும் பிரதான பேருந்து முனையம்."
+    },
+    "latitude": 21.3985,
+    "longitude": 39.8242,
+    "region": "makkah",
+    "type": "Amenity: Transport",
+    "subCategory": "Bus & Transport",
+    "thumbnail": "assets/image/amenity.webp"
+  },
+  {
+    "id": "amenity_shop_sponsor_madinah_01",
+    "name": {
+      "en": "Souq Al-Tumoor Madinah (Central Dates Market)",
+      "ms": "Pasar Kurma Pusat Madinah (Ditaja)",
+      "ml": "സൂഖ് അൽ-തുമൂർ മദീന (പ്രധാന ഈന്തപ്പഴ മാർക്കറ്റ്)",
+      "ta": "மதீனா மத்திய பேரீச்சம்பழ சந்தை"
+    },
+    "description": {
+      "en": "The world-famous Madinah Central Date Market offering authentic Madinah Ajwa, Safawi, Mabroom, and date chocolates directly from local Madinah palm farms.",
+      "ms": "Pasar kurma terkenal dunia membekalkan Ajwa Aliya asli, Safawi, Mabroom, coklat kurma segar terus dari ladang kurma Madinah dengan harga borong mesra jemaah.",
+      "ml": "മദീനയിലെ പ്രസിദ്ധമായ അജ്‌വ, സഫാവി, മബ്‌റൂം ഈന്തപ്പഴങ്ങൾ നേരിട്ട് ലഭിക്കുന്ന ചരിത്രപ്രസിദ്ധമായ വിപണി.",
+      "ta": "மதீனாவின் உண்மையான அஜ்வா மற்றும் சஃபாவீ பேரீச்சம்பழங்கள் கிடைக்கும் புகழ்பெற்ற சந்தை."
+    },
+    "latitude": 24.458,
+    "longitude": 39.6052,
+    "region": "madinah",
+    "type": "Amenity: Shopping",
+    "subCategory": "Shopping & Dates",
+    "isSponsored": true,
+    "thumbnail": "assets/image/amenity.webp"
+  },
+  {
+    "id": "amenity_medical_madinah_01",
+    "name": {
+      "en": "Al Ansar Emergency Hospital (Bab As-Salam)",
+      "ms": "Hospital Kecemasan Al Ansar (Bab As-Salam)",
+      "ml": "അൽ അൻസാർ എമർജൻസി ഹോസ്പിറ്റൽ",
+      "ta": "அல் அன்சார் அவசர சிகிச்சை மருத்துவமனை"
+    },
+    "description": {
+      "en": "Primary government emergency hospital situated just steps from the Prophet's Mosque courtyard with free urgent medical care for all pilgrims.",
+      "ms": "Hospital kecemasan utama kerajaan berhampiran dataran Masjid Nabawi (Bab As-Salam) yang menyediakan rawatan kecemasan percuma untuk para jemaah.",
+      "ml": "മസ്ജിദുന്നബവിക്ക് തൊട്ടടുത്ത് തീർഥാടകർക്ക് സൗജന്യ അടിയന്തിര ചികിത്സ നൽകുന്ന സർക്കാർ ആശുപത്രി.",
+      "ta": "நபவி பள்ளிவாசலுக்கு மிக அருகில் இலவச அவசர சிகிச்சை அளிக்கும் அரசு மருத்துவமனை."
+    },
+    "latitude": 24.4688,
+    "longitude": 39.6148,
+    "region": "madinah",
+    "type": "Amenity: Medical",
+    "subCategory": "Medical & Clinic",
+    "thumbnail": "assets/image/amenity.webp"
+  },
+  {
+    "id": "amenity_food_madinah_01",
+    "name": {
+      "en": "Al Baik Madinah (North Courtyard Gate 15)",
+      "ms": "Al Baik Madinah (Dataran Utara Pintu 15)",
+      "ml": "അൽ ബൈക്ക് മദീന (നോർത്ത് പ്ലാസ)",
+      "ta": "அல் பைக் மதீனா (வடக்கு வளாகம்)"
+    },
+    "description": {
+      "en": "Popular fast food branch located directly across the northern plaza of the Prophet's Mosque with fast pilgrim takeaway lines.",
+      "ms": "Cawangan ayam goreng Al Baik betul-betul di seberang dataran utara Masjid Nabawi dengan barisan bungkus pantas untuk jemaah.",
+      "ml": "മസ്ജിദുന്നബവിയുടെ വടക്കൻ മുറ്റത്തിന് എതിർവശത്തുള്ള പ്രശസ്ത അൽ ബൈക്ക് റെസ്റ്റോറന്റ്.",
+      "ta": "நபவி பள்ளிவாசலின் வடக்கு வளாகத்திற்கு எதிரே அமைந்துள்ள அல் பைக் உணவகம்."
+    },
+    "latitude": 24.474,
+    "longitude": 39.6108,
+    "region": "madinah",
+    "type": "Amenity: Food & Dining",
+    "subCategory": "Food & Dining",
+    "thumbnail": "assets/image/amenity.webp"
+  },
+  {
+    "id": "amenity_transport_madinah_01",
+    "name": {
+      "en": "SAPTCO Madinah Haram Bus Terminal",
+      "ms": "Terminal Bas SAPTCO Madinah Haram",
+      "ml": "സാപ്റ്റ്‌കോ മദീന ഹറം ബസ് ടെർമിനൽ",
+      "ta": "சாப்ட்ட்கோ மதீனா ஹரம் பஸ் முனையம்"
+    },
+    "description": {
+      "en": "Central bus terminal providing regular scheduled coaches between Madinah, Makkah, and Prince Mohammad Bin Abdulaziz International Airport.",
+      "ms": "Terminal bas utama yang menyediakan bas berjadual antara Madinah, Makkah dan Lapangan Terbang Antarabangsa Putera Mohammad Bin Abdulaziz.",
+      "ml": "മദീനയിൽ നിന്ന് മക്കയിലേക്കും വിമാനത്താവളത്തിലേക്കും സർവീസ് നടത്തുന്ന കേന്ദ്ര ബസ് സ്റ്റേഷൻ.",
+      "ta": "மதீனா, மக்கா மற்றும் விமான நிலையத்திற்கு செல்லும் பேருந்துகள் புறப்படும் பிரதான முனையம்."
+    },
+    "latitude": 24.4645,
+    "longitude": 39.6062,
+    "region": "madinah",
+    "type": "Amenity: Transport",
+    "subCategory": "Bus & Transport",
+    "thumbnail": "assets/image/amenity.webp"
+  },
+  {
+    "id": "amenity_food_madinah_02",
+    "name": {
+      "en": "Restaurant Arabesque (The Oberoi Madinah)",
+      "ms": "Restoran Arabesque (Oberoi Madinah)",
+      "ml": "അറബെസ്‌ക് റെസ്റ്റോറന്റ് (ഒബ്‌റോയ് മദീന)",
+      "ta": "அரபெஸ்க் உணவகம் (ஓபராய் மதீனா)"
+    },
+    "description": {
+      "en": "Renowned international buffet dining inside The Oberoi Hotel overlooking the northern courtyard of Masjid Nabawi. Phone: +966 148 290 001.",
+      "ms": "Restoran bufet antarabangsa dan Timur Tengah menghadap dataran utara Masjid Nabawi.",
+      "ml": "മസ്ജിദുന്നബവിയുടെ വടക്കൻ മുറ്റത്തിന് അഭിമുഖമായുള്ള പ്രശസ്ത റെസ്റ്റോറന്റ്.",
+      "ta": "நபவி பள்ளிவாசலின் வடக்கு முற்றத்தை நோக்கிய பிரபலமான பஃபே உணவகம்."
+    },
+    "latitude": 24.472368,
+    "longitude": 39.6114943,
+    "region": "madinah",
+    "type": "Amenity: Food & Dining",
+    "subCategory": "Food & Dining",
+    "thumbnail": "assets/image/amenity.webp",
+    "socialLinks": [
+      "tel:+966148290001"
+    ]
+  },
+  {
+    "id": "amenity_food_madinah_03",
+    "name": {
+      "en": "Al-Romansiah Restaurant Madinah",
+      "ms": "Restoran Al-Romansiah Madinah",
+      "ml": "അൽ-റൊമാൻസിയ്യ റെസ്റ്റോറന്റ് മദീന",
+      "ta": "அல்-ரொமான்சியா உணவகம் மதீனா"
+    },
+    "description": {
+      "en": "Famous traditional Saudi Mandi, Kabsa rice and grilled barbecue meats with family dining cubicles.",
+      "ms": "Mandi tradisional Saudi, nasi Kabsa dan ayam panggang yang terkenal dengan ruang keluarga yang selesa.",
+      "ml": "പരമ്പരാഗത സൗദി മന്തിയും കബ്‌സയും ലഭ്യമാകുന്ന കുടുംബ സൗഹൃദ റെസ്റ്റോറന്റ്.",
+      "ta": "பாரம்பரிய சவுதி மந்தி மற்றும் கப்சா உணவுகளுக்கு புகழ்பெற்ற உணவகம்."
+    },
+    "latitude": 24.463,
+    "longitude": 39.605,
+    "region": "madinah",
+    "type": "Amenity: Food & Dining",
+    "subCategory": "Food & Dining",
+    "thumbnail": "assets/image/amenity.webp"
+  },
+  {
+    "id": "amenity_food_madinah_04",
+    "name": {
+      "en": "Kudu Fast Food (Bab Al-Majeedi)",
+      "ms": "Kudu Makanan Segera (Bab Al-Majeedi)",
+      "ml": "കുഡു ഫാസ്റ്റ് ഫുഡ് (ബാബുൽ മജീദി)",
+      "ta": "குடு துரித உணவு (பாப் அல்-மஜீதி)"
+    },
+    "description": {
+      "en": "Popular Saudi fresh sandwich, burger and breakfast chain right at the Bab Al-Majeedi commercial corridor facing Masjid Nabawi.",
+      "ms": "Rangkaian sandwic dan sarapan pagi popular Saudi betul-betul di hadapan dataran utara Haram.",
+      "ml": "ഹറം മുറ്റത്തിന് സമീപമുള്ള സൗദി സാൻഡ്‌വിച്ച് ഫാസ്റ്റ് ഫുഡ് കേന്ദ്രം.",
+      "ta": "ஹரம் வளாகத்திற்கு எதிரே அமைந்துள்ள பிரபலமான சவுதி சாண்ட்விச் உணவகம்."
+    },
+    "latitude": 24.4721742,
+    "longitude": 39.6119646,
+    "region": "madinah",
+    "type": "Amenity: Food & Dining",
+    "subCategory": "Food & Dining",
+    "thumbnail": "assets/image/amenity.webp"
+  },
+  {
+    "id": "amenity_shop_madinah_02",
+    "name": {
+      "en": "Taiba Commercial Center",
+      "ms": "Pusat Komersial Taiba",
+      "ml": "ത്വയ്ബ കൊമേഴ്‌സ്യൽ സെന്റർ",
+      "ta": "தைபா வர்த்தக மையம்"
+    },
+    "description": {
+      "en": "Multi-level shopping center facing Masjid Nabawi northern plaza with abayas, prayer mats, perfumes and dates.",
+      "ms": "Pusat beli-belah bertingkat menghadap dataran utara Masjid Nabawi menjual jubah, sejadah, wangian dan kurma.",
+      "ml": "മസ്ജിദുന്നബവിക്ക് എതിർവശമുള്ള വലിയ ഷോപ്പിംഗ് മാൾ.",
+      "ta": "மஸ்ஜிது நபவிக்கு எதிரே உள்ள பல அடுக்கு வணிக வளாகம்."
+    },
+    "latitude": 24.4702,
+    "longitude": 39.61,
+    "region": "madinah",
+    "type": "Amenity: Shopping",
+    "subCategory": "Shopping & Dates",
+    "thumbnail": "assets/image/amenity.webp"
+  },
+  {
+    "id": "amenity_shop_madinah_03",
+    "name": {
+      "en": "Bin Dawood Supermarket (Taiba Front)",
+      "ms": "Pasar Raya Bin Dawood (Depan Taiba)",
+      "ml": "ബിൻ ദാവൂദ് സൂപ്പർമാർക്കറ്റ് (ത്വയ്ബ)",
+      "ta": "பின் தாவூத் சூப்பர் மார்க்கெட் (தைபா)"
+    },
+    "description": {
+      "en": "Large flagship supermarket for pilgrim groceries, toiletries, SIMs, fruits and snacks. Open Saturday-Friday 06:00 - 01:00.",
+      "ms": "Pasar raya besar untuk barangan keperluan jemaah, kad SIM, ubat-ubatan asas, buah-buahan dan makanan ringan.",
+      "ml": "തീർത്ഥാടകർക്ക് ആവശ്യമായ പലചരക്ക് സാധനങ്ങളും മറ്റ് അവശ്യവസ്തുക്കളും ലഭിക്കുന്ന സൂപ്പർമാർക്കറ്റ്.",
+      "ta": "யாத்ரீகர்களுக்கான மளிகை பொருட்கள் மற்றும் அடிப்படை தேவைகள் கிடைக்கும் பெரிய பல்பொருள் அங்காடி."
+    },
+    "latitude": 24.4712944,
+    "longitude": 39.6096465,
+    "region": "madinah",
+    "type": "Amenity: Shopping",
+    "subCategory": "Shopping & Dates",
+    "thumbnail": "assets/image/amenity.webp"
+  },
+  {
+    "id": "amenity_shop_madinah_04",
+    "name": {
+      "en": "Al Noor Mall Madinah",
+      "ms": "Pusat Membeli-belah Al Noor",
+      "ml": "അൽ നൂർ മാൾ മദീന",
+      "ta": "அல் நூர் மால் மதீனா"
+    },
+    "description": {
+      "en": "Major air-conditioned shopping mall with fashion outlets, electronics, food court, and Saudi specialty gifts.",
+      "ms": "Pusat beli-belah berhawa dingin terbesar dengan fesyen, elektronik, medan selera dan cenderahati khas Saudi.",
+      "ml": "ഫാഷൻ, ഇലക്ട്രോണിക്സ്, ഫുഡ് കോർട്ട് എന്നിവയുള്ള മദീനയിലെ പ്രധാന ഷോപ്പിംഗ് മാൾ.",
+      "ta": "ஆடைகள் மற்றும் பரிசுப் பொருட்கள் வாங்கக்கூடிய மദീனாவின் மிகப்பெரிய ஷாப்பிங் மால்."
+    },
+    "latitude": 24.492,
+    "longitude": 39.591,
+    "region": "madinah",
+    "type": "Amenity: Shopping",
+    "subCategory": "Shopping & Dates",
+    "thumbnail": "assets/image/amenity.webp"
+  },
+  {
+    "id": "amenity_medical_madinah_02",
+    "name": {
+      "en": "Al Safa Medical Clinic (North Plaza)",
+      "ms": "Klinik Kesihatan Al Safa (Dataran Utara)",
+      "ml": "അൽ സഫ മെഡിക്കൽ ക്ലിനിക്ക് (നോർത്ത് പ്ലാസ)",
+      "ta": "அல் சஃபா மருத்துவ மையம் (வடக்கு வளாகம்)"
+    },
+    "description": {
+      "en": "24-hour walk-in health clinic providing general consultations, hydration salts, blister care and first aid for pilgrims.",
+      "ms": "Klinik kesihatan 24 jam menyediakan rawatan am, garam hidrasi, rawatan lepuh kaki dan pertolongan cemas untuk jemaah.",
+      "ml": "തീർത്ഥാടകർക്കായി 24 മണിക്കൂറും പ്രവർത്തിക്കുന്ന അത്യാഹിത വിഭാഗവും പ്രഥമശുശ്രൂഷാ കേന്ദ്രവും.",
+      "ta": "யாத்ரீகர்களுக்கான 24 மணி நேர மருத்துவ சிகிச்சை மற்றும் அவசர முதலுதவி மையம்."
+    },
+    "latitude": 24.471,
+    "longitude": 39.6118,
+    "region": "madinah",
+    "type": "Amenity: Medical",
+    "subCategory": "Medical & Clinic",
+    "thumbnail": "assets/image/amenity.webp"
+  },
+  {
+    "id": "amenity_food_madinah_albaik",
+    "name": {
+      "en": "Albaik (البيك) Madinah Central",
+      "ms": "Albaik (البيك) Madinah Pusat",
+      "ml": "അൽബൈക് മദീന",
+      "ta": "அல் பைக் மதீனா"
+    },
+    "description": {
+      "en": "Iconic Saudi broasted chicken and seafood fast food restaurant, famous among pilgrims worldwide for its signature garlic sauce and spicy chicken.",
+      "ms": "Restoran ayam goreng dan makanan laut segera kegemaran jemaah haji dan umrah dengan sos bawang putih istimewa.",
+      "ml": "തീർത്ഥാടകരുടെ പ്രിയപ്പെട്ട സൗദി അൽബൈക് ചിക്കൻ ഫാസ്റ്റ് ഫുഡ് കേന്ദ്രം.",
+      "ta": "யாத்ரீகர்களிடையே மிகவும் பிரபலமான புகழ்பெற்ற சவுதி அல் பைக் உணவகம்."
+    },
+    "latitude": 24.4639643,
+    "longitude": 39.6160875,
+    "region": "madinah",
+    "type": "Amenity: Food & Dining",
+    "subCategory": "Fast Food & Dining",
+    "thumbnail": "assets/image/amenity.webp"
+  },
+  {
+    "id": "amenity_food_madinah_indonesia",
+    "name": {
+      "en": "Rumah Makan Indonesia (Madinah)",
+      "ms": "Restoran Rumah Makan Indonesia",
+      "ml": "റുമാഹ് മക്കാൻ ഇന്തോനേഷ്യൻ റെസ്റ്റോറന്റ്",
+      "ta": "ருமா மக்கான் இந்தோனேசிய உணவகம்"
+    },
+    "description": {
+      "en": "Authentic Southeast Asian cuisine serving Nasi Padang, Rendang, Bakso, and Soto, located within walking distance from northern courtyard gates.",
+      "ms": "Masakan asli Nusantara menyediakan Nasi Padang, Rendang, Bakso dan Soto hanya beberapa minit berjalan kaki dari dataran utara.",
+      "ml": "മസ്ജിദുന്നബവിയുടെ വടക്കൻ ഭാഗത്തുള്ള ആധികാരിക ഇന്തോനേഷ്യൻ റസ്റ്റോറന്റ്.",
+      "ta": "நபவி பள்ளிவாசலின் வடக்கு வாசலுக்கு அருகிலுள்ள பாரம்பரிய இந்தோனேசிய உணவகம்."
+    },
+    "latitude": 24.4727899,
+    "longitude": 39.6091697,
+    "region": "madinah",
+    "type": "Amenity: Food & Dining",
+    "subCategory": "Food & Dining",
+    "thumbnail": "assets/image/amenity.webp"
+  },
+  {
+    "id": "amenity_food_madinah_javanese",
+    "name": {
+      "en": "Javanese Restaurant Madinah",
+      "ms": "Restoran Jawa Madinah",
+      "ml": "ജാവനീസ് റെസ്റ്റോറന്റ് മദീന",
+      "ta": "ஜாவானீஸ் உணவகம் மதீனா"
+    },
+    "description": {
+      "en": "Popular Nusantara restaurant specializing in Javanese home-style dishes, chicken satay, sambal, and warm soups for pilgrims.",
+      "ms": "Restoran masakan Jawa menyajikan lauk-pauk tradisional, sate ayam, sambal dan sup panas untuk jemaah.",
+      "ml": "പരമ്പരാഗത ജാവനീസ് വിഭവങ്ങൾ ലഭ്യമാകുന്ന ഭക്ഷണശാല.",
+      "ta": "யாத்ரீகர்களுக்கான பாரம்பரிய ஜாவானீஸ் உணவுகள் கிடைக்கும் இடம்."
+    },
+    "latitude": 24.4734114,
+    "longitude": 39.6132254,
+    "region": "madinah",
+    "type": "Amenity: Food & Dining",
+    "subCategory": "Food & Dining",
+    "thumbnail": "assets/image/amenity.webp"
+  },
+  {
+    "id": "amenity_food_madinah_hadramout",
+    "name": {
+      "en": "Hadramout Stars Restaurant (مطعم نجوم حضرموت)",
+      "ms": "Restoran Bintang Hadramout (Mandi)",
+      "ml": "ഹളർമൗത്ത് സ്റ്റാർസ് റെസ്റ്റോറന്റ്",
+      "ta": "ஹள்ரமவ்த் ஸ்டார்ஸ் உணவகம்"
+    },
+    "description": {
+      "en": "Traditional Yemeni Mandi, Madhbi chicken, and fragrant spiced rice served in authentic family style seating.",
+      "ms": "Hidangan Mandi Yaman asli, ayam Madhbi dan nasi berempah wangi dengan ruang makan keluarga.",
+      "ml": "യമനി ശൈലിയിലുള്ള രുചികരമായ മന്തിയും മദ്ബിയും ലഭ്യമാകുന്ന റെസ്റ്റോറന്റ്.",
+      "ta": "பாரம்பரிய யேமனி மந்தி மற்றும் மழ்பி உணவுகள் கிடைக்கும் உணவகம்."
+    },
+    "latitude": 24.4648229,
+    "longitude": 39.6016406,
+    "region": "madinah",
+    "type": "Amenity: Food & Dining",
+    "subCategory": "Food & Dining",
+    "thumbnail": "assets/image/amenity.webp"
+  },
+  {
+    "id": "amenity_food_madinah_halabi",
+    "name": {
+      "en": "Halabi Bukhari Rice (مطعم الحلبي للرز البخاري)",
+      "ms": "Restoran Halabi Nasi Bukhari",
+      "ml": "ഹലബി ബുഖാരി റൈസ് റെസ്റ്റോറന്റ്",
+      "ta": "ஹலபி புகாரி ரைஸ் உணவகம்"
+    },
+    "description": {
+      "en": "Famous traditional Bukhari spiced rice with rotisserie chicken, spiced tomato daqoos sauce, and lentil soup.",
+      "ms": "Nasi Bukhari berempah tradisional dengan ayam panggang golek, sos daqoos tomato dan sup dal.",
+      "ml": "പരമ്പരാഗത ബുഖാരി റൈസും ചിക്കനും ലഭ്യമാകുന്ന പ്രശസ്തമായ കേന്ദ്രം.",
+      "ta": "பாரம்பரிய புகாரி சாதம் மற்றும் சுவையான வறுத்த கோழி கிடைக்கும் இடம்."
+    },
+    "latitude": 24.4737298,
+    "longitude": 39.6076784,
+    "region": "madinah",
+    "type": "Amenity: Food & Dining",
+    "subCategory": "Food & Dining",
+    "thumbnail": "assets/image/amenity.webp"
+  },
+  {
+    "id": "amenity_food_madinah_turkish",
+    "name": {
+      "en": "Al Sanabel Turkish Restaurant",
+      "ms": "Restoran Turki Al Sanabel",
+      "ml": "അൽ സനാബിൽ ടർക്കിഷ് റെസ്റ്റോറന്റ്",
+      "ta": "அல் சனாபில் துருக்கிய உணவகம்"
+    },
+    "description": {
+      "en": "Turkish grills, doner kebab shawarma, fresh clay-oven baked bread, and mixed mezze appetizers facing northern hotels.",
+      "ms": "Panggang Turki, kebab shawarma, roti bakar segar dan pembuka selera mezze berhampiran hotel utara.",
+      "ml": "ടർക്കിഷ് ഗ്രിൽ വിഭവങ്ങളും ഷവർമയും ലഭിക്കുന്ന ഭക്ഷണശാല.",
+      "ta": "துருக்கிய கிரில் வகைகள் மற்றும் ஷவர்மா கிடைக்கும் உணவகம்."
+    },
+    "latitude": 24.4727509,
+    "longitude": 39.6122178,
+    "region": "madinah",
+    "type": "Amenity: Food & Dining",
+    "subCategory": "Food & Dining",
+    "thumbnail": "assets/image/amenity.webp"
+  },
+  {
+    "id": "amenity_food_madinah_starbucks_north",
+    "name": {
+      "en": "Starbucks Coffee (Northern Haram Arcade)",
+      "ms": "Starbucks Coffee (Arked Utara Haram)",
+      "ml": "സ്റ്റാർബക്സ് കോഫി (നോർത്ത് ആർക്കേഡ്)",
+      "ta": "ஸ்டார்பக்ஸ் காபி (வடக்கு வளாகம்)"
+    },
+    "description": {
+      "en": "Air-conditioned cafe offering coffee, espresso beverages, pastries, sandwiches, and takeaway drinks right opposite the mosque.",
+      "ms": "Kafe berhawa dingin menyediakan kopi, espresso, pastri, sandwic dan minuman segera di hadapan masjid.",
+      "ml": "ഹറം മുറ്റത്തിന് എതിർവശത്തുള്ള പ്രശസ്തമായ കോഫി ഷോപ്പ്.",
+      "ta": "நபவி பள்ளிவாசலுக்கு எதிரே அமைந்துள்ள குளிரூட்டப்பட்ட காபி நிலையம்."
+    },
+    "latitude": 24.4712854,
+    "longitude": 39.6132297,
+    "region": "madinah",
+    "type": "Amenity: Food & Dining",
+    "subCategory": "Cafe & Beverages",
+    "thumbnail": "assets/image/amenity.webp"
+  },
+  {
+    "id": "amenity_medical_madinah_safiah",
+    "name": {
+      "en": "Al Safiah Health Centre (مركز صحي الصافية)",
+      "ms": "Pusat Kesihatan Al Safiah",
+      "ml": "അൽ സാഫിയ ഹെൽത്ത് സെന്റർ",
+      "ta": "அல் சாஃபியா சுகாதார மையம்"
+    },
+    "description": {
+      "en": "Official Ministry of Health pilgrim primary clinic and emergency care unit on the southern plaza of Masjid Nabawi, providing free triage, doctor consultation, and medications.",
+      "ms": "Klinik kesihatan utama dan kecemasan Kementerian Kesihatan di dataran selatan Masjid Nabawi dengan rawatan doktor dan ubat-ubatan.",
+      "ml": "മസ്ജിദുന്നബവിയുടെ തെക്കൻ മുറ്റത്തുള്ള ആരോഗ്യ മന്ത്രാലയത്തിന്റെ സൗജന്യ ക്ലിനിക്കും അത്യാഹിത വിഭാഗവും.",
+      "ta": "தெற்கு முற்றத்தில் அமைந்துள்ள சவுதி சுகாதார அமைச்சகத்தின் இலவச மருத்துவ மையம்."
+    },
+    "latitude": 24.4658029,
+    "longitude": 39.6101257,
+    "region": "madinah",
+    "type": "Amenity: Medical",
+    "subCategory": "Medical & Clinic",
+    "thumbnail": "assets/image/amenity.webp"
+  },
+  {
+    "id": "amenity_medical_madinah_nahdi_north",
+    "name": {
+      "en": "Nahdi Pharmacy (North Plaza - King Fahd Gate)",
+      "ms": "Farmasi Nahdi (Dataran Utara - Pintu Raja Fahd)",
+      "ml": "നഹ്ദി ഫാർമസി (നോർത്ത് പ്ലാസ)",
+      "ta": "நஹ்தி பார்மசி (வடக்கு வளாகம்)"
+    },
+    "description": {
+      "en": "Prominent branch of Saudi Arabia's leading pharmacy chain, stocked with cough syrups, throat lozenges, rehydration salts, muscle creams, and face masks.",
+      "ms": "Cawangan utama rangkaian farmasi terbesar Saudi menyediakan ubat batuk, gula-gula tekak, garam hidrasi dan krim otot.",
+      "ml": "തീർത്ഥാടകർക്ക് ആവശ്യമായ എല്ലാ മരുന്നുകളും ലഭ്യമാകുന്ന പ്രധാന ഫാർമസി.",
+      "ta": "யாத்ரீகர்களுக்கான அவசர மருந்துகள் மற்றும் அடிப்படை மருத்துவ பொருட்கள் கிடைக்கும் முன்னணி மருந்தகம்."
+    },
+    "latitude": 24.4727785,
+    "longitude": 39.6109068,
+    "region": "madinah",
+    "type": "Amenity: Medical",
+    "subCategory": "Pharmacy",
+    "thumbnail": "assets/image/amenity.webp"
+  },
+  {
+    "id": "amenity_medical_madinah_nahdi_south",
+    "name": {
+      "en": "Nahdi Pharmacy (South Courtyard)",
+      "ms": "Farmasi Nahdi (Dataran Selatan)",
+      "ml": "നഹ്ദി ഫാർമസി (സൗത്ത് പ്ലാസ)",
+      "ta": "நஹ்தி பார்மசி (தெற்கு வளாகம்)"
+    },
+    "description": {
+      "en": "Convenient pharmacy on the southern perimeter near Al Safiah, providing quick pilgrim medical supplies, blister plasters, and prescriptions.",
+      "ms": "Farmasi mudah diakses di bahagian selatan berhampiran Al Safiah menyediakan ubat-ubatan, plaster lepuh dan preskripsi.",
+      "ml": "തെക്കൻ കവാടത്തിന് സമീപമുള്ള നഹ്ദി ഫാർമസി ശാഖ.",
+      "ta": "தெற்கு வாசலுக்கு அருகிலுள்ள நஹ்தி மருந்தக கிளை."
+    },
+    "latitude": 24.4652485,
+    "longitude": 39.6103005,
+    "region": "madinah",
+    "type": "Amenity: Medical",
+    "subCategory": "Pharmacy",
+    "thumbnail": "assets/image/amenity.webp"
+  },
+  {
+    "id": "amenity_medical_madinah_dawaa",
+    "name": {
+      "en": "Al-Dawaa Pharmacy (صيدليات الدواء)",
+      "ms": "Farmasi Al-Dawaa",
+      "ml": "അൽ-ദവാ ഫാർമസി",
+      "ta": "அல்-தவா பார்மசி"
+    },
+    "description": {
+      "en": "Major 24-hour pharmaceutical chain branch right next to Anwar Al Madinah complex offering healthcare items, skincare, and traveler first aid.",
+      "ms": "Rangkaian farmasi 24 jam berhampiran Anwar Al Madinah menyediakan produk penjagaan kesihatan dan pertolongan cemas.",
+      "ml": "അൻവർ അൽ മദീനക്ക് സമീപമുള്ള 24 മണിക്കൂറും പ്രവർത്തിക്കുന്ന ഫാർമസി.",
+      "ta": "அன்வர் அல் மதீனா வளாகத்திற்கு அருகிலுள்ள 24 மணி நேர மருந்தகம்."
+    },
+    "latitude": 24.4711914,
+    "longitude": 39.6077725,
+    "region": "madinah",
+    "type": "Amenity: Medical",
+    "subCategory": "Pharmacy",
+    "thumbnail": "assets/image/amenity.webp"
+  },
+  {
+    "id": "amenity_medical_madinah_boots",
+    "name": {
+      "en": "Boots Pharmacy (Northern Commercial Gallery)",
+      "ms": "Farmasi Boots (Galeri Komersial Utara)",
+      "ml": "ബൂട്ട്സ് ഫാർമസി (നോർത്തേൺ ഗാലറി)",
+      "ta": "பூட்ஸ் பார்மசி (வடக்கு வணிக வளாகம்)"
+    },
+    "description": {
+      "en": "Well-stocked international pharmacy with personal toiletries, vitamins, pain relief, and baby care essentials.",
+      "ms": "Farmasi antarabangsa dengan barangan mandian, vitamin, ubat tahan sakit dan keperluan bayi.",
+      "ml": "അന്താരാഷ്ട്ര നിലവാരത്തിലുള്ള മരുന്നുകളും അനുബന്ധ ഉൽപന്നങ്ങളും ലഭിക്കുന്ന കേന്ദ്രം.",
+      "ta": "அனைத்து அடிப்படை மருத்துவ மற்றும் அழகுசாதன பொருட்கள் கிடைக்கும் மருந்தகம்."
+    },
+    "latitude": 24.4715229,
+    "longitude": 39.6132455,
+    "region": "madinah",
+    "type": "Amenity: Medical",
+    "subCategory": "Pharmacy",
+    "thumbnail": "assets/image/amenity.webp"
+  },
+  {
+    "id": "amenity_shop_madinah_bindawood_anwar",
+    "name": {
+      "en": "Bin Dawood Supermarket (Anwar Al Madinah)",
+      "ms": "Pasar Raya Bin Dawood (Anwar Al Madinah)",
+      "ml": "ബിൻ ദാവൂദ് (അൻവർ അൽ മദീന)",
+      "ta": "பின் தாவூத் (அன்வர் அல் மதீனா)"
+    },
+    "description": {
+      "en": "Large hypermarket inside the Anwar Al Madinah Mövenpick commercial arcade with dates, packed foods, luggage, and pilgrim essentials.",
+      "ms": "Pasar raya besar di arked Anwar Al Madinah menjual kurma, makanan bungkus, beg bagasi dan kelengkapan jemaah.",
+      "ml": "അൻവർ അൽ മദീന മാളിനുള്ളിലെ വലിയ ബിൻ ദാവൂദ് ഹൈപ്പർമാർക്കറ്റ്.",
+      "ta": "அன்வர் அல் மதீனா வணிக வளாகத்தில் உள்ள பெரிய சூப்பர் மார்க்கெட்."
+    },
+    "latitude": 24.4713538,
+    "longitude": 39.6076305,
+    "region": "madinah",
+    "type": "Amenity: Shopping",
+    "subCategory": "Shopping & Dates",
+    "thumbnail": "assets/image/amenity.webp"
+  },
+  {
+    "id": "amenity_shop_madinah_namia",
+    "name": {
+      "en": "Namia Centre (مركز نامية)",
+      "ms": "Pusat Beli-belah Namia",
+      "ml": "നാമിയ കൊമേഴ്‌സ്യൽ സെന്റർ",
+      "ta": "நாமியா வணிக மையம்"
+    },
+    "description": {
+      "en": "Multi-story shopping complex housing clothing, abayas, electronic accessories, and travel goods facing northern plazas.",
+      "ms": "Pusat beli-belah bertingkat menyediakan jubah, abaya, aksesori telefon dan kelengkapan kembara.",
+      "ml": "വസ്ത്രങ്ങളും യാത്രാ സാമഗ്രികളും ലഭിക്കുന്ന വലിയ ഷോപ്പിംഗ് മാൾ.",
+      "ta": "ஆடைகள் மற்றும் எலக்ட்ரானிக் பொருட்கள் கிடைக்கும் பல அடுக்கு வணிக மையம்."
+    },
+    "latitude": 24.4719531,
+    "longitude": 39.6127669,
+    "region": "madinah",
+    "type": "Amenity: Shopping",
+    "subCategory": "Shopping & Dates",
+    "thumbnail": "assets/image/amenity.webp"
+  },
+  {
+    "id": "amenity_shop_madinah_hm",
+    "name": {
+      "en": "H&M (Northern Haram Plaza)",
+      "ms": "H&M (Dataran Utara Haram)",
+      "ml": "എച്ച് ആൻഡ് എം (നോർത്ത് പ്ലാസ)",
+      "ta": "எச் அண்ட் எம் (வடக்கு வளாகம்)"
+    },
+    "description": {
+      "en": "International fashion and apparel outlet offering light cotton wear, modest fashion, and travel garments.",
+      "ms": "Butik pakaian antarabangsa menawarkan pakaian kapas ringan, busana sopan dan pakaian kembara.",
+      "ml": "മസ്ജിദുന്നബവിക്ക് സമീപമുള്ള പ്രമുഖ അന്താരാഷ്ട്ര വസ്ത്രശാല.",
+      "ta": "பயணத்திற்கான ஆடைகள் வாங்கக்கூடிய சர்வதேச ஆடை அங்காடி."
+    },
+    "latitude": 24.4713587,
+    "longitude": 39.6132478,
+    "region": "madinah",
+    "type": "Amenity: Shopping",
+    "subCategory": "Shopping & Dates",
+    "thumbnail": "assets/image/amenity.webp"
+  },
+  {
+    "id": "amenity_essential_madinah_money_changer",
+    "name": {
+      "en": "Madinah Western Money Changer & Currency Exchange",
+      "ms": "Pengurup Wang & Pertukaran Mata Wang Madinah Barat",
+      "ml": "മണി ചേഞ്ചർ & കറൻസി എക്സ്ചേഞ്ച്",
+      "ta": "மனி சேஞ்சர் மற்றும் கரன்சி எக்ஸ்சேஞ்ச்"
+    },
+    "description": {
+      "en": "Authorized foreign currency exchange bureau for exchanging MYR, IDR, USD, EUR, INR and GBP into Saudi Riyals (SAR).",
+      "ms": "Pusat pertukaran mata wang asing berlesen untuk menukar Ringgit Malaysia (MYR), Rupiah (IDR) dan mata wang lain ke Riyal Saudi (SAR).",
+      "ml": "വിദേശ കറൻസികൾ സൗദി റിയാലിലേക്ക് മാറ്റിയെടുക്കാനുള്ള അംഗീകൃത എക്സ്ചേഞ്ച് കൗണ്ടർ.",
+      "ta": "வெளிநாட்டு நாணயங்களை சவுதி ரியாலாக மாற்றும் அங்கீகரிக்கப்பட்ட பணப் பரிமாற்ற மையம்."
+    },
+    "latitude": 24.4660381,
+    "longitude": 39.6054452,
+    "region": "madinah",
+    "type": "Amenity: Essentials",
+    "subCategory": "Currency Exchange",
+    "thumbnail": "assets/image/amenity.webp"
+  },
+  {
+    "id": "amenity_essential_madinah_alrajhi",
+    "name": {
+      "en": "Al Rajhi Bank (مصرف الراجحي) Branch & ATM",
+      "ms": "Bank Al Rajhi (Cawangan & ATM)",
+      "ml": "അൽ രാജ്ഹി ബാങ്ക് & എടിഎം",
+      "ta": "அல் ராஜ்ஹி வங்கி & ஏடிஎம்"
+    },
+    "description": {
+      "en": "Full-service Islamic bank branch with international multi-network ATMs supporting Visa, Mastercard, and Mada cards.",
+      "ms": "Cawangan bank Islam dengan mesin ATM antarabangsa menyokong kad Visa, Mastercard dan Mada.",
+      "ml": "വിസ, മാസ്റ്റർകാർഡ് എന്നിവ സ്വീകരിക്കുന്ന എടിഎം സൗകര്യമുള്ള പ്രധാന ബാങ്ക് ശാഖ.",
+      "ta": "அனைத்து சர்வதேச கார்டுகளும் இயங்கும் ஏடிஎம் வசதியுடன் கூடிய வங்கி கிளை."
+    },
+    "latitude": 24.4611951,
+    "longitude": 39.6029015,
+    "region": "madinah",
+    "type": "Amenity: Essentials",
+    "subCategory": "ATM & Banking",
+    "thumbnail": "assets/image/amenity.webp"
+  },
+  {
+    "id": "amenity_essential_madinah_grapari",
+    "name": {
+      "en": "GraPARI Madinah (SIM & Telco Center)",
+      "ms": "GraPARI Madinah (Pusat SIM & Telekomunikasi)",
+      "ml": "ഗ്രാപാരി മദീന (സിം & ടെലികോം സെന്റർ)",
+      "ta": "கிராபாரி மதீனா (சிம் & தொலைத்தொடர்பு மையம்)"
+    },
+    "description": {
+      "en": "Pilgrim telecommunication service point specializing in traveler SIM cards, data roaming packs, top-ups, and Indonesian/Southeast Asian support.",
+      "ms": "Pusat perkhidmatan telekomunikasi jemaah untuk kad SIM, pakej internet, tambah nilai dan bantuan bahasa Nusantara.",
+      "ml": "തീർത്ഥാടകർക്ക് സിം കാർഡുകളും ഇന്റർനെറ്റ് പാക്കേജുകളും ലഭ്യമാക്കുന്ന ടെലികോം കേന്ദ്രം.",
+      "ta": "யாத்ரீகர்களுக்கான சிம் கார்டுகள் மற்றும் இணைய வசதிகள் வழங்கும் தொலைத்தொடர்பு மையம்."
+    },
+    "latitude": 24.4720069,
+    "longitude": 39.6129499,
+    "region": "madinah",
+    "type": "Amenity: Essentials",
+    "subCategory": "Telecommunication & SIM",
+    "thumbnail": "assets/image/amenity.webp"
+  },
+  {
+    "id": "amenity_toilet_madinah_203",
+    "name": {
+      "en": "Masjid Nabawi Courtyard Restrooms & Wudu #203",
+      "ms": "Tandas & Tempat Wuduk Dataran Masjid Nabawi #203",
+      "ml": "മസ്ജിദുന്നബവി ശൗചാലയ സമുച്ചയം #203",
+      "ta": "மஸ்ஜிது நபவி கழிப்பறை மற்றும் உளு வளாகம் #203"
+    },
+    "description": {
+      "en": "Large underground multi-level ablution (Wudu) and toilet facility located in the northern plaza, accessible via escalators and stairs.",
+      "ms": "Kemudahan wuduk dan tandas bawah tanah bertingkat di dataran utara dengan kemudahan eskalator dan tangga.",
+      "ml": "മസ്ജിദുന്നബവിയുടെ വടക്കൻ മുറ്റത്തുള്ള വലിയ ഭൂഗർഭ വുദു, ശൗചാലയ സമുച്ചയം.",
+      "ta": "வடக்கு முற்றத்தில் அமைந்துள்ள பெரிய நிலத்தடி உளு மற்றும் கழிப்பறை வளாகம்."
+    },
+    "latitude": 24.4668398,
+    "longitude": 39.6116344,
+    "region": "madinah",
+    "type": "Amenity: Toilets",
+    "subCategory": "Courtyard Restrooms",
+    "thumbnail": "assets/image/amenity.webp"
+  }
+]

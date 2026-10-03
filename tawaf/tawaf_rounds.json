@@ -5,7 +5,12 @@
   "card_templates": {
     "aswad": {
       "titlePattern": "Aswad (Round {round})",
-      "description": "Face the Hajarul Aswad, raise your right hand, and say Bismillahi Allahu Akbar.",
+      "description": {
+        "en": "Face the Hajarul Aswad, raise your right hand, and say Bismillahi Allahu Akbar.",
+        "ms": "Menghadap Hajarul Aswad, angkat tangan kanan, dan ucapkan Bismillahi Allahu Akbar.",
+        "ml": "ഹജറുൽ അസ്‌വദിന് നേരെ തിരിഞ്ഞ് വലതു കൈ ഉയർത്തി ബിസ്മില്ലാഹി അല്ലാഹു അക്ബർ എന്ന് പറയുക.",
+        "ta": "ஹஜருல் அஸ்வத்தை நோக்கி நின்று, உங்கள் வலது கையை உயர்த்தி, பிஸ்மில்லாஹி அல்லாஹு அக்பர் என்று கூறுங்கள்."
+      },
       "mediaItems": [
         {
           "type": "image",
@@ -21,11 +26,18 @@
       "audio": {
         "url": "audio/tawafaswad.mp3",
         "subtitles": "tawaf/tawafaswad.json"
-      }
+      },
+      "arabic": "بِسْمِ اللَّهِ وَاللَّهُ أَكْبَرُ",
+      "transliteration": "Bismillāhi wallāhu Akbar"
     },
     "aswad_end": {
       "titlePattern": "Aswad (End) (Round {round})",
-      "description": "Face the Hajarul Aswad, raise your right hand, and say Bismillahi Allahu Akbar one final time.",
+      "description": {
+        "en": "Face the Hajarul Aswad, raise your right hand, and say Bismillahi Allahu Akbar one final time.",
+        "ms": "Menghadap Hajarul Aswad, angkat tangan kanan, dan ucapkan Bismillahi Allahu Akbar buat kali terakhir.",
+        "ml": "ഹജറുൽ അസ്‌വദിന് നേരെ തിരിഞ്ഞ് വലതു കൈ ഉയർത്തി അവസാനമായി ബിസ്മില്ലാഹി അല്ലാഹു അക്ബർ എന്ന് പറയുക.",
+        "ta": "ஹஜருல் அஸ்வத்தை நோக்கி நின்று, உங்கள் வலது கையை உயர்த்தி, இறுதியாக பிஸ்மில்லாஹி அல்லாஹு அக்பர் என்று கூறுங்கள்."
+      },
       "mediaItems": [
         {
           "type": "image",
@@ -41,11 +53,20 @@
       "audio": {
         "url": "audio/tawafaswad.mp3",
         "subtitles": "tawaf/tawafaswad.json"
-      }
+      },
+      "arabic": "بِسْمِ اللَّهِ وَاللَّهُ أَكْبَرُ، وَلِلَّهِ الْحَمْدُ",
+      "transliteration": "Bismillāhi wallāhu Akbar, wa lillāhil-ḥamd"
     },
     "yamani": {
       "titlePattern": "Yamani (Round {round})",
-      "description": "Between the Yemeni Corner and the Hajarul Aswad, recite: Rabbana atina fid-dunya hasanatan wa fil-akhirati hasanatan wa qina 'adhaban-nar.",
+      "arabic": "رَبَّنَا آتِنَا فِي الدُّنْيَا حَسَنَةً وَفِي الْآخِرَةِ حَسَنَةً وَقِنَا عَذَابَ النَّارِ",
+      "transliteration": "Rabbana atina fid-dunya hasanatan wa fil-akhirati hasanatan wa qina 'adhaban-nar.",
+      "description": {
+        "en": "Between the Yemeni Corner and the Hajarul Aswad, recite: Rabbana atina fid-dunya hasanatan wa fil-akhirati hasanatan wa qina 'adhaban-nar.",
+        "ms": "Di antara Rukun Yamani dan Hajarul Aswad, bacalah: Rabbana atina fid-dunya hasanatan wa fil-akhirati hasanatan wa qina 'adhaban-nar.",
+        "ml": "റുക്നുൽ യമാനിക്കും ഹജറുൽ അസ്‌വദിനും ഇടയിൽ പ്രാർത്ഥിക്കുക: റബ്ബനാ ആതിനാ ഫിദ്ദുൻയാ ഹസനത്തൻ വഫിൽ ആഖിറതി ഹസനത്തൻ വഖിനാ അദാബന്നാർ.",
+        "ta": "ருக்னுல் யமானிக்கும் ஹஜருல் அஸ்வத்துக்கும் இடையில் ஓதவும்: ரப்பனா ஆதினா ஃபித்-துன்யா ஹஸனதன் வ ஃபில்-ஆஹிரதி ஹஸனதன் வகினா அதாபன்-நார்."
+      },
       "mediaItems": [
         {
           "type": "image",
@@ -70,7 +91,12 @@
       "is_last": false,
       "dua": {
         "titlePattern": "Tawaf (Round {round})",
-        "description": "Read any doa or zikir until rukun yamani. one is provided here with the meaning.",
+        "description": {
+          "en": "Walk around the kaabah with the kaabah in your left side",
+          "ms": "Berjalan mengelilingi Kaabah dengan Kaabah berada di sebelah kiri anda",
+          "ml": "കഅബ നിങ്ങളുടെ ഇടത് വശത്തായി കഅബയ്ക്ക് ചുറ്റും പ്രദക്ഷിണം ചെയ്യുക",
+          "ta": "கஃபாவை உங்கள் இடது பக்கத்தில் வைத்து கஃபாவை சுற்றி வாருங்கள்"
+        },
         "mediaItems": [
           {
             "type": "image",
@@ -86,7 +112,9 @@
         "audio": {
           "url": "audio/tawaf1.mp3",
           "subtitles": "tawaf/tawaf1.json"
-        }
+        },
+        "arabic": "سُبْحَانَ اللَّهِ، وَالْحَمْدُ لِلَّهِ، وَلَا إِلَهَ إِلَّا اللَّهُ، وَاللَّهُ أَكْبَرُ، وَلَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللَّهِ الْعَلِيِّ الْعَظِيمِ",
+        "transliteration": "Subḥānallāh, wal-ḥamdu lillāh, wa lā ilāha illallāh, wallāhu Akbar, wa lā ḥawla wa lā quwwata illā billāhil-ʿAliyyil-ʿAẓīm."
       }
     },
     {
@@ -94,7 +122,12 @@
       "is_last": false,
       "dua": {
         "titlePattern": "Tawaf (Round {round})",
-        "description": "Read any doa or zikir until rukun yamani. one is provided here with the meaning.",
+        "description": {
+          "en": "Walk around the kaabah with the kaabah in your left side",
+          "ms": "Berjalan mengelilingi Kaabah dengan Kaabah berada di sebelah kiri anda",
+          "ml": "കഅബ നിങ്ങളുടെ ഇടത് വശത്തായി കഅബയ്ക്ക് ചുറ്റും പ്രദക്ഷിണം ചെയ്യുക",
+          "ta": "கஃபாவை உங்கள் இடது பக்கத்தில் வைத்து கஃபாவை சுற்றி வாருங்கள்"
+        },
         "mediaItems": [
           {
             "type": "image",
@@ -110,7 +143,9 @@
         "audio": {
           "url": "audio/tawaf2.mp3",
           "subtitles": "tawaf/tawaf2.json"
-        }
+        },
+        "arabic": "اللَّهُمَّ إِنَّ هَذَا الْبَيْتَ بَيْتُكَ، وَالْحَرَمَ حَرَمُكَ، وَالأَمْنَ أَمْنُكَ، وَهَذَا مَقَامُ الْعَائِذِ بِكَ مِنَ النَّارِ",
+        "transliteration": "Allāhumma inna hādhal-bayta baytuk, wal-ḥarama ḥaramuk, wal-amna amnuk, wa hādhā maqāmul-ʿā’idhi bika minan-nār."
       }
     },
     {
@@ -118,7 +153,12 @@
       "is_last": false,
       "dua": {
         "titlePattern": "Tawaf (Round {round})",
-        "description": "Read any doa or zikir until rukun yamani. one is provided here with the meaning.",
+        "description": {
+          "en": "Walk around the kaabah with the kaabah in your left side",
+          "ms": "Berjalan mengelilingi Kaabah dengan Kaabah berada di sebelah kiri anda",
+          "ml": "കഅബ നിങ്ങളുടെ ഇടത് വശത്തായി കഅബയ്ക്ക് ചുറ്റും പ്രദക്ഷിണം ചെയ്യുക",
+          "ta": "கஃபாவை உங்கள் இடது பக்கத்தில் வைத்து கஃபாவை சுற்றி வாருங்கள்"
+        },
         "mediaItems": [
           {
             "type": "image",
@@ -134,7 +174,9 @@
         "audio": {
           "url": "audio/tawaf3.mp3",
           "subtitles": "tawaf/tawaf3.json"
-        }
+        },
+        "arabic": "اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ الشَّكِّ وَالشِّرْكِ وَالشِّقَاقِ وَالنِّفَاقِ وَسُوءِ الأَخْلَاقِ وَسُوءِ الْمُنْقَلَبِ فِي الْمَالِ وَالأَهْلِ وَالْوَلَدِ",
+        "transliteration": "Allāhumma innī aʿūdhu bika minash-shakki wash-shirki wash-shiqāqi wan-nifāqi wa sū’il-akhlāqi wa sū’il-munqalabi fil-māli wal-ahli wal-walad."
       }
     },
     {
@@ -142,7 +184,12 @@
       "is_last": false,
       "dua": {
         "titlePattern": "Tawaf (Round {round})",
-        "description": "Read any doa or zikir until rukun yamani. one is provided here with the meaning.",
+        "description": {
+          "en": "Walk around the kaabah with the kaabah in your left side",
+          "ms": "Berjalan mengelilingi Kaabah dengan Kaabah berada di sebelah kiri anda",
+          "ml": "കഅബ നിങ്ങളുടെ ഇടത് വശത്തായി കഅബയ്ക്ക് ചുറ്റും പ്രദക്ഷിണം ചെയ്യുക",
+          "ta": "கஃபாவை உங்கள் இடது பக்கத்தில் வைத்து கஃபாவை சுற்றி வாருங்கள்"
+        },
         "mediaItems": [
           {
             "type": "image",
@@ -158,7 +205,9 @@
         "audio": {
           "url": "audio/tawaf4.mp3",
           "subtitles": "tawaf/tawaf4.json"
-        }
+        },
+        "arabic": "اللَّهُمَّ اجْعَلْهُ حَجّاً مَبْرُوراً، وَسَعْياً مَشْكُوراً، وَذَنْباً مَغْفُوراً، وَعَمَلاً صَالِحاً مَقْبُولاً، وَتِجَارَةً لَنْ تَبُورَ",
+        "transliteration": "Allāhummajʿalhu ḥajjan mabrūran, wa saʿyan mashkūran, wa dhanban maghfūran, wa ʿamalan ṣāliḥan maqbūlan, wa tijāratan lan tabūr."
       }
     },
     {
@@ -166,7 +215,12 @@
       "is_last": false,
       "dua": {
         "titlePattern": "Tawaf (Round {round})",
-        "description": "Read any doa or zikir until rukun yamani. one is provided here with the meaning.",
+        "description": {
+          "en": "Walk around the kaabah with the kaabah in your left side",
+          "ms": "Berjalan mengelilingi Kaabah dengan Kaabah berada di sebelah kiri anda",
+          "ml": "കഅബ നിങ്ങളുടെ ഇടത് വശത്തായി കഅബയ്ക്ക് ചുറ്റും പ്രദക്ഷിണം ചെയ്യുക",
+          "ta": "கஃபாவை உங்கள் இடது பக்கத்தில் வைத்து கஃபாவை சுற்றி வாருங்கள்"
+        },
         "mediaItems": [
           {
             "type": "image",
@@ -182,7 +236,9 @@
         "audio": {
           "url": "audio/tawaf5.mp3",
           "subtitles": "tawaf/tawaf5.json"
-        }
+        },
+        "arabic": "اللَّهُمَّ أَظِلَّنِي تَحْتَ ظِلِّ عَرْشِكَ يَوْمَ لَا ظِلَّ إِلَّا ظِلُّكَ، وَلَا بَاقِيَ إِلَّا وَجْهُكَ، وَاسْقِنِي مِنْ حَوْضِ نَبِيِّكَ مُحَمَّدٍ ﷺ",
+        "transliteration": "Allāhumma aẓillanī taḥta ẓilli ʿarshika yawma lā ẓilla illā ẓilluk, wa lā bāqiya illā wajhuk, wasqinī min ḥawḍi nabiyyika Muḥammadin ﷺ."
       }
     },
     {
@@ -190,7 +246,12 @@
       "is_last": false,
       "dua": {
         "titlePattern": "Tawaf (Round {round})",
-        "description": "Read any doa or zikir until rukun yamani. one is provided here with the meaning.",
+        "description": {
+          "en": "Walk around the kaabah with the kaabah in your left side",
+          "ms": "Berjalan mengelilingi Kaabah dengan Kaabah berada di sebelah kiri anda",
+          "ml": "കഅബ നിങ്ങളുടെ ഇടത് വശത്തായി കഅബയ്ക്ക് ചുറ്റും പ്രദക്ഷിണം ചെയ്യുക",
+          "ta": "கஃபாவை உங்கள் இடது பக்கத்தில் வைத்து கஃபாவை சுற்றி வாருங்கள்"
+        },
         "mediaItems": [
           {
             "type": "image",
@@ -206,7 +267,9 @@
         "audio": {
           "url": "audio/tawaf6.mp3",
           "subtitles": "tawaf/tawaf6.json"
-        }
+        },
+        "arabic": "اللَّهُمَّ إِنَّ لَكَ عَلَيَّ حُقُوقاً كَثِيرَةً فِيمَا بَيْنِي وَبَيْنَكَ، وَحُقُوقاً كَثِيرَةً فِيمَا بَيْنِي وَبَيْنَ خَلْقِكَ، فَاغْفِرْ لِي مَا كَانَ لَكَ، وَتَحَمَّلْ عَنِّي مَا كَانَ لِخَلْقِكَ",
+        "transliteration": "Allāhumma inna laka ʿalayya ḥuqūqan kathīratan fīmā baynī wa baynak, wa ḥuqūqan kathīratan fīmā baynī wa bayna khalqik, faghfir lī mā kāna lak, wa taḥammal ʿannī mā kāna li-khalqik."
       }
     },
     {
@@ -214,7 +277,12 @@
       "is_last": true,
       "dua": {
         "titlePattern": "Tawaf (Round {round})",
-        "description": "Read any doa or zikir until rukun yamani. one is provided here with the meaning.",
+        "description": {
+          "en": "Walk around the kaabah with the kaabah in your left side",
+          "ms": "Berjalan mengelilingi Kaabah dengan Kaabah berada di sebelah kiri anda",
+          "ml": "കഅബ നിങ്ങളുടെ ഇടത് വശത്തായി കഅബയ്ക്ക് ചുറ്റും പ്രദക്ഷിണം ചെയ്യുക",
+          "ta": "கஃபாவை உங்கள் இடது பக்கத்தில் வைத்து கஃபாவை சுற்றி வாருங்கள்"
+        },
         "mediaItems": [
           {
             "type": "image",
@@ -230,7 +298,9 @@
         "audio": {
           "url": "audio/tawaf7.mp3",
           "subtitles": "tawaf/tawaf7.json"
-        }
+        },
+        "arabic": "اللَّهُمَّ إِنِّي أَسْأَلُكَ إِيمَاناً كَامِلاً، وَيَقِيناً صَادِقاً، وَرِزْقاً وَاسِعاً، وَقَلْباً خَاشِعاً، وَلِسَاناً ذَاكِراً، وَحَلَالاً طَيِّباً، وَتَوْبَةً نَصُوحاً قَبْلَ الْمَوْتِ",
+        "transliteration": "Allāhumma innī as’aluka īmānan kāmilan, wa yaqīnan ṣādiqan, wa rizqan wāsiʿan, wa qalban khāshiʿan, wa lisānan dhākiran, wa ḥalālan ṭayyiban, wa tawbatan naṣūḥan qablal-mawt."
       }
     }
   ]

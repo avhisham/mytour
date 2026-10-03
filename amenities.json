@@ -29588,5 +29588,533 @@
     "region": "madinah",
     "type": "Amenity: Essentials",
     "thumbnail": "assets/image/amenity.webp"
+  },
+  {
+    "id": "amenity_food_madinah_02",
+    "name": {
+      "en": "Arabesque Restaurant (Oberoi Madinah)",
+      "ms": "Restoran Arabesque (Oberoi Madinah)",
+      "ml": "അറബെസ്‌ക് റെസ്റ്റോറന്റ് (ഒബ്‌റോയ് മദീന)",
+      "ta": "அரபெஸ்க் உணவகம் (ஓபராய் மதீனா)"
+    },
+    "description": {
+      "en": "Popular international and Middle Eastern buffet dining overlooking the northern courtyard of Masjid Nabawi.",
+      "ms": "Restoran bufet antarabangsa dan Timur Tengah menghadap dataran utara Masjid Nabawi.",
+      "ml": "മസ്ജിദുന്നബവിയുടെ വടക്കൻ മുറ്റത്തിന് അഭിമുഖമായുള്ള പ്രശസ്ത റെസ്റ്റോറന്റ്.",
+      "ta": "நபவி பள்ளிவாசலின் வடக்கு முற்றத்தை நோக்கிய பிரபலமான பஃபே உணவகம்."
+    },
+    "latitude": 24.472368,
+    "longitude": 39.6114943,
+    "region": "madinah",
+    "type": "Amenity: Food & Dining",
+    "subCategory": "Food & Dining",
+    "thumbnail": "assets/image/amenity.webp",
+    "socialLinks": [
+      "tel:+966148290001"
+    ]
+  },
+  {
+    "id": "amenity_food_madinah_03",
+    "name": {
+      "en": "Al-Romansiah Restaurant Madinah",
+      "ms": "Restoran Al-Romansiah Madinah",
+      "ml": "അൽ-റൊമാൻസിയ്യ റെസ്റ്റോറന്റ് മദീന",
+      "ta": "அல்-ரொமான்சியா உணவகம் மദീனா"
+    },
+    "description": {
+      "en": "Famous traditional Saudi Mandi, Kabsa rice and grilled barbecue meats with family dining cubicles.",
+      "ms": "Mandi tradisional Saudi, nasi Kabsa dan ayam panggang yang terkenal dengan ruang keluarga yang selesa.",
+      "ml": "പരമ്പരാഗത സൗദി മന്തിയും കബ്‌സയും ലഭ്യമാകുന്ന കുടുംബ സൗഹൃദ റെസ്റ്റോറന്റ്.",
+      "ta": "பாரம்பரிய சவுதி மந்தி மற்றும் கப்சா உணவுகளுக்கு புகழ்பெற்ற உணவகம்."
+    },
+    "latitude": 24.463,
+    "longitude": 39.605,
+    "region": "madinah",
+    "type": "Amenity: Food & Dining",
+    "subCategory": "Food & Dining",
+    "thumbnail": "assets/image/amenity.webp"
+  },
+  {
+    "id": "amenity_food_madinah_04",
+    "name": {
+      "en": "Kudu Fast Food (Bab Al-Majeedi)",
+      "ms": "Kudu Makanan Segera (Bab Al-Majeedi)",
+      "ml": "കുഡു ഫാസ്റ്റ് ഫുഡ് (ബാബുൽ മജീദി)",
+      "ta": "குடு துரித உணவு (பாப் அல்-மஜீதி)"
+    },
+    "description": {
+      "en": "Popular Saudi sandwich and breakfast chain directly opposite the northern Haram courtyard.",
+      "ms": "Rangkaian sandwic dan sarapan pagi popular Saudi betul-betul di hadapan dataran utara Haram.",
+      "ml": "ഹറം മുറ്റത്തിന് സമീപമുള്ള സൗദി സാൻഡ്‌വിച്ച് ഫാസ്റ്റ് ഫുഡ് കേന്ദ്രം.",
+      "ta": "ஹரம் வளாகத்திற்கு எதிரே அமைந்துள்ள பிரபலமான சவுதி சாண்ட்விச் உணவகம்."
+    },
+    "latitude": 24.4721742,
+    "longitude": 39.6119646,
+    "region": "madinah",
+    "type": "Amenity: Food & Dining",
+    "subCategory": "Food & Dining",
+    "thumbnail": "assets/image/amenity.webp"
+  },
+  {
+    "id": "amenity_shop_madinah_02",
+    "name": {
+      "en": "Taiba Commercial Center",
+      "ms": "Pusat Komersial Taiba",
+      "ml": "ത്വയ്ബ കൊമേഴ്‌സ്യൽ സെന്റർ",
+      "ta": "தைபா வர்த்தக மையம்"
+    },
+    "description": {
+      "en": "Multi-level shopping center facing Masjid Nabawi northern plaza with abayas, prayer mats, perfumes and dates.",
+      "ms": "Pusat beli-belah bertingkat menghadap dataran utara Masjid Nabawi menjual jubah, sejadah, wangian dan kurma.",
+      "ml": "മസ്ജിദുന്നബവിക്ക് എതിർവശമുള്ള വലിയ ഷോപ്പിംഗ് മാൾ.",
+      "ta": "மஸ்ஜிது நபவிக்கு எதிரே உள்ள பல அடுக்கு வணிக வளாகம்."
+    },
+    "latitude": 24.4702,
+    "longitude": 39.61,
+    "region": "madinah",
+    "type": "Amenity: Shopping",
+    "subCategory": "Shopping & Dates",
+    "thumbnail": "assets/image/amenity.webp"
+  },
+  {
+    "id": "amenity_shop_madinah_03",
+    "name": {
+      "en": "Bin Dawood Supermarket (Taiba Front)",
+      "ms": "Pasar Raya Bin Dawood (Depan Taiba)",
+      "ml": "ബിൻ ദാവൂദ് സൂപ്പർമാർക്കറ്റ് (ത്വയ്ബ)",
+      "ta": "பின் தாவூத் சூப்பர் மார்க்கெட் (தைபா)"
+    },
+    "description": {
+      "en": "Large supermarket for pilgrim grocery essentials, SIM cards, toiletries, fruits, and snacks.",
+      "ms": "Pasar raya besar untuk barangan keperluan jemaah, kad SIM, ubat-ubatan asas, buah-buahan dan makanan ringan.",
+      "ml": "തീർത്ഥാടകർക്ക് ആവശ്യമായ പലചരക്ക് സാധനങ്ങളും മറ്റ് അവശ്യവസ്തുക്കളും ലഭിക്കുന്ന സൂപ്പർമാർക്കറ്റ്.",
+      "ta": "யாத்ரீகர்களுக்கான மளிகை பொருட்கள் மற்றும் அடிப்படை தேவைகள் கிடைக்கும் பெரிய பல்பொருள் அங்காடி."
+    },
+    "latitude": 24.4712944,
+    "longitude": 39.6096465,
+    "region": "madinah",
+    "type": "Amenity: Shopping",
+    "subCategory": "Shopping & Dates",
+    "thumbnail": "assets/image/amenity.webp"
+  },
+  {
+    "id": "amenity_shop_madinah_04",
+    "name": {
+      "en": "Al Noor Mall Madinah",
+      "ms": "Pusat Membeli-belah Al Noor",
+      "ml": "അൽ നൂർ മാൾ മദീന",
+      "ta": "அல் நൂർ மால் മദീന"
+    },
+    "description": {
+      "en": "Major air-conditioned shopping mall with fashion outlets, electronics, food court, and Saudi specialty gifts.",
+      "ms": "Pusat beli-belah berhawa dingin terbesar dengan fesyen, elektronik, medan selera dan cenderahati khas Saudi.",
+      "ml": "ഫാഷൻ, ഇലക്ട്രോണിക്സ്, ഫുഡ് കോർട്ട് എന്നിവയുള്ള മദീനയിലെ പ്രധാന ഷോപ്പിംഗ് മാൾ.",
+      "ta": "ஆடைகள் மற்றும் பரிசுப் பொருட்கள் வாங்கக்கூடிய மദീனாவின் மிகப்பெரிய ஷாப்பிங் மால்."
+    },
+    "latitude": 24.492,
+    "longitude": 39.591,
+    "region": "madinah",
+    "type": "Amenity: Shopping",
+    "subCategory": "Shopping & Dates",
+    "thumbnail": "assets/image/amenity.webp"
+  },
+  {
+    "id": "amenity_food_madinah_albaik",
+    "name": {
+      "en": "Albaik (البيك) Madinah Central",
+      "ms": "Albaik (البيك) Madinah Pusat",
+      "ml": "അൽബൈക് മദീന",
+      "ta": "அல் பைக் மதீனா"
+    },
+    "description": {
+      "en": "Iconic Saudi broasted chicken and seafood fast food restaurant, famous among pilgrims worldwide for its signature garlic sauce and spicy chicken.",
+      "ms": "Restoran ayam goreng dan makanan laut segera kegemaran jemaah haji dan umrah dengan sos bawang putih istimewa.",
+      "ml": "തീർത്ഥാടകരുടെ പ്രിയപ്പെട്ട സൗദി അൽബൈക് ചിക്കൻ ഫാസ്റ്റ് ഫുഡ് കേന്ദ്രം.",
+      "ta": "யாத்ரீகர்களிடையே மிகவும் பிரபலமான புகழ்பெற்ற சவுதி அல் பைக் உணவகம்."
+    },
+    "latitude": 24.4639643,
+    "longitude": 39.6160875,
+    "region": "madinah",
+    "type": "Amenity: Food & Dining",
+    "subCategory": "Fast Food & Dining",
+    "thumbnail": "assets/image/amenity.webp"
+  },
+  {
+    "id": "amenity_food_madinah_indonesia",
+    "name": {
+      "en": "Rumah Makan Indonesia (Madinah)",
+      "ms": "Restoran Rumah Makan Indonesia",
+      "ml": "റുമാഹ് മക്കാൻ ഇന്തോനേഷ്യൻ റെസ്റ്റോറന്റ്",
+      "ta": "ருமா மக்கான் இந்தோனேசிய உணவகம்"
+    },
+    "description": {
+      "en": "Authentic Southeast Asian cuisine serving Nasi Padang, Rendang, Bakso, and Soto, located within walking distance from northern courtyard gates.",
+      "ms": "Masakan asli Nusantara menyediakan Nasi Padang, Rendang, Bakso dan Soto hanya beberapa minit berjalan kaki dari dataran utara.",
+      "ml": "മസ്ജിദുന്നബവിയുടെ വടക്കൻ ഭാഗത്തുള്ള ആധികാരിക ഇന്തോനേഷ്യൻ റസ്റ്റോറന്റ്.",
+      "ta": "நபவி பள்ளிவாசலின் வடக்கு வாசலுக்கு அருகிலுள்ள பாரம்பரிய இந்தோனேசிய உணவகம்."
+    },
+    "latitude": 24.4727899,
+    "longitude": 39.6091697,
+    "region": "madinah",
+    "type": "Amenity: Food & Dining",
+    "subCategory": "Food & Dining",
+    "thumbnail": "assets/image/amenity.webp"
+  },
+  {
+    "id": "amenity_food_madinah_javanese",
+    "name": {
+      "en": "Javanese Restaurant Madinah",
+      "ms": "Restoran Jawa Madinah",
+      "ml": "ജാവനീസ് റെസ്റ്റോറന്റ് മദീന",
+      "ta": "ஜாவானீஸ் உணவகம் மதீனா"
+    },
+    "description": {
+      "en": "Popular Nusantara restaurant specializing in Javanese home-style dishes, chicken satay, sambal, and warm soups for pilgrims.",
+      "ms": "Restoran masakan Jawa menyajikan lauk-pauk tradisional, sate ayam, sambal dan sup panas untuk jemaah.",
+      "ml": "പരമ്പരാഗത ജാവനീസ് വിഭവങ്ങൾ ലഭ്യമാകുന്ന ഭക്ഷണശാല.",
+      "ta": "யாத்ரீகர்களுக்கான பாரம்பரிய ஜாவானீஸ் உணவுகள் கிடைக்கும் இடம்."
+    },
+    "latitude": 24.4734114,
+    "longitude": 39.6132254,
+    "region": "madinah",
+    "type": "Amenity: Food & Dining",
+    "subCategory": "Food & Dining",
+    "thumbnail": "assets/image/amenity.webp"
+  },
+  {
+    "id": "amenity_food_madinah_hadramout",
+    "name": {
+      "en": "Hadramout Stars Restaurant (مطعم نجوم حضرموت)",
+      "ms": "Restoran Bintang Hadramout (Mandi)",
+      "ml": "ഹളർമൗത്ത് സ്റ്റാർസ് റെസ്റ്റോറന്റ്",
+      "ta": "ஹள்ரமவ்த் ஸ்டார்ஸ் உணவகம்"
+    },
+    "description": {
+      "en": "Traditional Yemeni Mandi, Madhbi chicken, and fragrant spiced rice served in authentic family style seating.",
+      "ms": "Hidangan Mandi Yaman asli, ayam Madhbi dan nasi berempah wangi dengan ruang makan keluarga.",
+      "ml": "യമനി ശൈലിയിലുള്ള രുചികരമായ മന്തിയും മദ്ബിയും ലഭ്യമാകുന്ന റെസ്റ്റോറന്റ്.",
+      "ta": "பாரம்பரிய யேமனி மந்தி மற்றும் மழ்பி உணவுகள் கிடைக்கும் உணவகம்."
+    },
+    "latitude": 24.4648229,
+    "longitude": 39.6016406,
+    "region": "madinah",
+    "type": "Amenity: Food & Dining",
+    "subCategory": "Food & Dining",
+    "thumbnail": "assets/image/amenity.webp"
+  },
+  {
+    "id": "amenity_food_madinah_halabi",
+    "name": {
+      "en": "Halabi Bukhari Rice (مطعم الحلبي للرز البخاري)",
+      "ms": "Restoran Halabi Nasi Bukhari",
+      "ml": "ഹലബി ബുഖാരി റൈസ് റെസ്റ്റോറന്റ്",
+      "ta": "ஹலபி புகாரி ரைஸ் உணவகம்"
+    },
+    "description": {
+      "en": "Famous traditional Bukhari spiced rice with rotisserie chicken, spiced tomato daqoos sauce, and lentil soup.",
+      "ms": "Nasi Bukhari berempah tradisional dengan ayam panggang golek, sos daqoos tomato dan sup dal.",
+      "ml": "പരമ്പരാഗത ബുഖാരി റൈസും ചിക്കനും ലഭ്യമാകുന്ന പ്രശസ്തമായ കേന്ദ്രം.",
+      "ta": "பாரம்பரிய புகாரி சாதம் மற்றும் சுவையான வறுத்த கோழி கிடைக்கும் இடம்."
+    },
+    "latitude": 24.4737298,
+    "longitude": 39.6076784,
+    "region": "madinah",
+    "type": "Amenity: Food & Dining",
+    "subCategory": "Food & Dining",
+    "thumbnail": "assets/image/amenity.webp"
+  },
+  {
+    "id": "amenity_food_madinah_turkish",
+    "name": {
+      "en": "Al Sanabel Turkish Restaurant",
+      "ms": "Restoran Turki Al Sanabel",
+      "ml": "അൽ സനാബിൽ ടർക്കിഷ് റെസ്റ്റോറന്റ്",
+      "ta": "அல் சனாபில் துருக்கிய உணவகம்"
+    },
+    "description": {
+      "en": "Turkish grills, doner kebab shawarma, fresh clay-oven baked bread, and mixed mezze appetizers facing northern hotels.",
+      "ms": "Panggang Turki, kebab shawarma, roti bakar segar dan pembuka selera mezze berhampiran hotel utara.",
+      "ml": "ടർക്കിഷ് ഗ്രിൽ വിഭവങ്ങളും ഷവർമയും ലഭിക്കുന്ന ഭക്ഷണശാല.",
+      "ta": "துருக்கிய கிரில் வகைகள் மற்றும் ஷவர்மா கிடைக்கும் உணவகம்."
+    },
+    "latitude": 24.4727509,
+    "longitude": 39.6122178,
+    "region": "madinah",
+    "type": "Amenity: Food & Dining",
+    "subCategory": "Food & Dining",
+    "thumbnail": "assets/image/amenity.webp"
+  },
+  {
+    "id": "amenity_food_madinah_starbucks_north",
+    "name": {
+      "en": "Starbucks Coffee (Northern Haram Arcade)",
+      "ms": "Starbucks Coffee (Arked Utara Haram)",
+      "ml": "സ്റ്റാർബക്സ് കോഫി (നോർത്ത് ആർക്കേഡ്)",
+      "ta": "ஸ்டார்பக்ஸ் காபி (வடக்கு வளாகம்)"
+    },
+    "description": {
+      "en": "Air-conditioned cafe offering coffee, espresso beverages, pastries, sandwiches, and takeaway drinks right opposite the mosque.",
+      "ms": "Kafe berhawa dingin menyediakan kopi, espresso, pastri, sandwic dan minuman segera di hadapan masjid.",
+      "ml": "ഹറം മുറ്റത്തിന് എതിർവശത്തുള്ള പ്രശസ്തമായ കോഫി ഷോപ്പ്.",
+      "ta": "நபவி பள்ளிவாசலுக்கு எதிரே அமைந்துள்ள குளிரூட்டப்பட்ட காபி நிலையம்."
+    },
+    "latitude": 24.4712854,
+    "longitude": 39.6132297,
+    "region": "madinah",
+    "type": "Amenity: Food & Dining",
+    "subCategory": "Cafe & Beverages",
+    "thumbnail": "assets/image/amenity.webp"
+  },
+  {
+    "id": "amenity_medical_madinah_safiah",
+    "name": {
+      "en": "Al Safiah Health Centre (مركز صحي الصافية)",
+      "ms": "Pusat Kesihatan Al Safiah",
+      "ml": "അൽ സാഫിയ ഹെൽത്ത് സെന്റർ",
+      "ta": "அல் சாஃபியா சுகாதார மையம்"
+    },
+    "description": {
+      "en": "Official Ministry of Health pilgrim primary clinic and emergency care unit on the southern plaza of Masjid Nabawi, providing free triage, doctor consultation, and medications.",
+      "ms": "Klinik kesihatan utama dan kecemasan Kementerian Kesihatan di dataran selatan Masjid Nabawi dengan rawatan doktor dan ubat-ubatan.",
+      "ml": "മസ്ജിദുന്നബവിയുടെ തെക്കൻ മുറ്റത്തുള്ള ആരോഗ്യ മന്ത്രാലയത്തിന്റെ സൗജന്യ ക്ലിനിക്കും അത്യാഹിത വിഭാഗവും.",
+      "ta": "தெற்கு முற்றத்தில் அமைந்துள்ள சவுதி சுகாதார அமைச்சகத்தின் இலவச மருத்துவ மையம்."
+    },
+    "latitude": 24.4658029,
+    "longitude": 39.6101257,
+    "region": "madinah",
+    "type": "Amenity: Medical",
+    "subCategory": "Medical & Clinic",
+    "thumbnail": "assets/image/amenity.webp"
+  },
+  {
+    "id": "amenity_medical_madinah_nahdi_north",
+    "name": {
+      "en": "Nahdi Pharmacy (North Plaza - King Fahd Gate)",
+      "ms": "Farmasi Nahdi (Dataran Utara - Pintu Raja Fahd)",
+      "ml": "നഹ്ദി ഫാർമസി (നോർത്ത് പ്ലാസ)",
+      "ta": "நஹ்தி பார்மசி (வடக்கு வளாகம்)"
+    },
+    "description": {
+      "en": "Prominent branch of Saudi Arabia's leading pharmacy chain, stocked with cough syrups, throat lozenges, rehydration salts, muscle creams, and face masks.",
+      "ms": "Cawangan utama rangkaian farmasi terbesar Saudi menyediakan ubat batuk, gula-gula tekak, garam hidrasi dan krim otot.",
+      "ml": "തീർത്ഥാടകർക്ക് ആവശ്യമായ എല്ലാ മരുന്നുകളും ലഭ്യമാകുന്ന പ്രധാന ഫാർമസി.",
+      "ta": "யாத்ரீகர்களுக்கான அவசர மருந்துகள் மற்றும் அடிப்படை மருத்துவ பொருட்கள் கிடைக்கும் முன்னணி மருந்தகம்."
+    },
+    "latitude": 24.4727785,
+    "longitude": 39.6109068,
+    "region": "madinah",
+    "type": "Amenity: Medical",
+    "subCategory": "Pharmacy",
+    "thumbnail": "assets/image/amenity.webp"
+  },
+  {
+    "id": "amenity_medical_madinah_nahdi_south",
+    "name": {
+      "en": "Nahdi Pharmacy (South Courtyard)",
+      "ms": "Farmasi Nahdi (Dataran Selatan)",
+      "ml": "നഹ്ദി ഫാർമസി (സൗത്ത് പ്ലാസ)",
+      "ta": "நஹ்தி பார்மசி (தெற்கு வளாகம்)"
+    },
+    "description": {
+      "en": "Convenient pharmacy on the southern perimeter near Al Safiah, providing quick pilgrim medical supplies, blister plasters, and prescriptions.",
+      "ms": "Farmasi mudah diakses di bahagian selatan berhampiran Al Safiah menyediakan ubat-ubatan, plaster lepuh dan preskripsi.",
+      "ml": "തെക്കൻ കവാടത്തിന് സമീപമുള്ള നഹ്ദി ഫാർമസി ശാഖ.",
+      "ta": "தெற்கு வாசலுக்கு அருகிலுள்ள நஹ்தி மருந்தக கிளை."
+    },
+    "latitude": 24.4652485,
+    "longitude": 39.6103005,
+    "region": "madinah",
+    "type": "Amenity: Medical",
+    "subCategory": "Pharmacy",
+    "thumbnail": "assets/image/amenity.webp"
+  },
+  {
+    "id": "amenity_medical_madinah_dawaa",
+    "name": {
+      "en": "Al-Dawaa Pharmacy (صيدليات الدواء)",
+      "ms": "Farmasi Al-Dawaa",
+      "ml": "അൽ-ദവാ ഫാർമസി",
+      "ta": "அல்-தவா பார்மசி"
+    },
+    "description": {
+      "en": "Major 24-hour pharmaceutical chain branch right next to Anwar Al Madinah complex offering healthcare items, skincare, and traveler first aid.",
+      "ms": "Rangkaian farmasi 24 jam berhampiran Anwar Al Madinah menyediakan produk penjagaan kesihatan dan pertolongan cemas.",
+      "ml": "അൻവർ അൽ മദീനക്ക് സമീപമുള്ള 24 മണിക്കൂറും പ്രവർത്തിക്കുന്ന ഫാർമസി.",
+      "ta": "அன்வர் அல் மதீனா வளாகத்திற்கு அருகிலுள்ள 24 மணி நேர மருந்தகம்."
+    },
+    "latitude": 24.4711914,
+    "longitude": 39.6077725,
+    "region": "madinah",
+    "type": "Amenity: Medical",
+    "subCategory": "Pharmacy",
+    "thumbnail": "assets/image/amenity.webp"
+  },
+  {
+    "id": "amenity_medical_madinah_boots",
+    "name": {
+      "en": "Boots Pharmacy (Northern Commercial Gallery)",
+      "ms": "Farmasi Boots (Galeri Komersial Utara)",
+      "ml": "ബൂട്ട്സ് ഫാർമസി (നോർത്തേൺ ഗാലറി)",
+      "ta": "பூட்ஸ் பார்மசி (வடக்கு வணிக வளாகம்)"
+    },
+    "description": {
+      "en": "Well-stocked international pharmacy with personal toiletries, vitamins, pain relief, and baby care essentials.",
+      "ms": "Farmasi antarabangsa dengan barangan mandian, vitamin, ubat tahan sakit dan keperluan bayi.",
+      "ml": "അന്താരാഷ്ട്ര നിലവാരത്തിലുള്ള മരുന്നുകളും അനുബന്ധ ഉൽപന്നങ്ങളും ലഭിക്കുന്ന കേന്ദ്രം.",
+      "ta": "அனைத்து அடிப்படை மருத்துவ மற்றும் அழகுசாதன பொருட்கள் கிடைக்கும் மருந்தகம்."
+    },
+    "latitude": 24.4715229,
+    "longitude": 39.6132455,
+    "region": "madinah",
+    "type": "Amenity: Medical",
+    "subCategory": "Pharmacy",
+    "thumbnail": "assets/image/amenity.webp"
+  },
+  {
+    "id": "amenity_shop_madinah_bindawood_anwar",
+    "name": {
+      "en": "Bin Dawood Supermarket (Anwar Al Madinah)",
+      "ms": "Pasar Raya Bin Dawood (Anwar Al Madinah)",
+      "ml": "ബിൻ ദാവൂദ് (അൻവർ അൽ മദീന)",
+      "ta": "பின் தாவூத் (அன்வர் அல் மதீனா)"
+    },
+    "description": {
+      "en": "Large hypermarket inside the Anwar Al Madinah Mövenpick commercial arcade with dates, packed foods, luggage, and pilgrim essentials.",
+      "ms": "Pasar raya besar di arked Anwar Al Madinah menjual kurma, makanan bungkus, beg bagasi dan kelengkapan jemaah.",
+      "ml": "അൻവർ അൽ മദീന മാളിനുള്ളിലെ വലിയ ബിൻ ദാവൂദ് ഹൈപ്പർമാർക്കറ്റ്.",
+      "ta": "அன்வர் அல் மதீனா வணிக வளாகத்தில் உள்ள பெரிய சூப்பர் மார்க்கெட்."
+    },
+    "latitude": 24.4713538,
+    "longitude": 39.6076305,
+    "region": "madinah",
+    "type": "Amenity: Shopping",
+    "subCategory": "Shopping & Dates",
+    "thumbnail": "assets/image/amenity.webp"
+  },
+  {
+    "id": "amenity_shop_madinah_namia",
+    "name": {
+      "en": "Namia Centre (مركز نامية)",
+      "ms": "Pusat Beli-belah Namia",
+      "ml": "നാമിയ കൊമേഴ്‌സ്യൽ സെന്റർ",
+      "ta": "நாமியா வணிக மையம்"
+    },
+    "description": {
+      "en": "Multi-story shopping complex housing clothing, abayas, electronic accessories, and travel goods facing northern plazas.",
+      "ms": "Pusat beli-belah bertingkat menyediakan jubah, abaya, aksesori telefon dan kelengkapan kembara.",
+      "ml": "വസ്ത്രങ്ങളും യാത്രാ സാമഗ്രികളും ലഭിക്കുന്ന വലിയ ഷോപ്പിംഗ് മാൾ.",
+      "ta": "ஆடைகள் மற்றும் எலக்ட்ரானிக் பொருட்கள் கிடைக்கும் பல அடுக்கு வணிக மையம்."
+    },
+    "latitude": 24.4719531,
+    "longitude": 39.6127669,
+    "region": "madinah",
+    "type": "Amenity: Shopping",
+    "subCategory": "Shopping & Dates",
+    "thumbnail": "assets/image/amenity.webp"
+  },
+  {
+    "id": "amenity_shop_madinah_hm",
+    "name": {
+      "en": "H&M (Northern Haram Plaza)",
+      "ms": "H&M (Dataran Utara Haram)",
+      "ml": "എച്ച് ആൻഡ് എം (നോർത്ത് പ്ലാസ)",
+      "ta": "எச் அண்ட் எம் (வடக்கு வளாகம்)"
+    },
+    "description": {
+      "en": "International fashion and apparel outlet offering light cotton wear, modest fashion, and travel garments.",
+      "ms": "Butik pakaian antarabangsa menawarkan pakaian kapas ringan, busana sopan dan pakaian kembara.",
+      "ml": "മസ്ജിദുന്നബവിക്ക് സമീപമുള്ള പ്രമുഖ അന്താരാഷ്ട്ര വസ്ത്രശാല.",
+      "ta": "பயணத்திற்கான ஆடைகள் வாங்கக்கூடிய சர்வதேச ஆடை அங்காடி."
+    },
+    "latitude": 24.4713587,
+    "longitude": 39.6132478,
+    "region": "madinah",
+    "type": "Amenity: Shopping",
+    "subCategory": "Shopping & Dates",
+    "thumbnail": "assets/image/amenity.webp"
+  },
+  {
+    "id": "amenity_essential_madinah_money_changer",
+    "name": {
+      "en": "Madinah Western Money Changer & Currency Exchange",
+      "ms": "Pengurup Wang & Pertukaran Mata Wang Madinah Barat",
+      "ml": "മണി ചേഞ്ചർ & കറൻസി എക്സ്ചേഞ്ച്",
+      "ta": "மனி சேஞ்சர் மற்றும் கரன்சி எக்ஸ்சேஞ்ச்"
+    },
+    "description": {
+      "en": "Authorized foreign currency exchange bureau for exchanging MYR, IDR, USD, EUR, INR and GBP into Saudi Riyals (SAR).",
+      "ms": "Pusat pertukaran mata wang asing berlesen untuk menukar Ringgit Malaysia (MYR), Rupiah (IDR) dan mata wang lain ke Riyal Saudi (SAR).",
+      "ml": "വിദേശ കറൻസികൾ സൗദി റിയാലിലേക്ക് മാറ്റിയെടുക്കാനുള്ള അംഗീകൃത എക്സ്ചേഞ്ച് കൗണ്ടർ.",
+      "ta": "வெளிநாட்டு நாணயங்களை சவுதி ரியாலாக மாற்றும் அங்கீகரிக்கப்பட்ட பணப் பரிமாற்ற மையம்."
+    },
+    "latitude": 24.4660381,
+    "longitude": 39.6054452,
+    "region": "madinah",
+    "type": "Amenity: Essentials",
+    "subCategory": "Currency Exchange",
+    "thumbnail": "assets/image/amenity.webp"
+  },
+  {
+    "id": "amenity_essential_madinah_alrajhi",
+    "name": {
+      "en": "Al Rajhi Bank (مصرف الراجحي) Branch & ATM",
+      "ms": "Bank Al Rajhi (Cawangan & ATM)",
+      "ml": "അൽ രാജ്ഹി ബാങ്ക് & എടിഎം",
+      "ta": "அல் ராஜ்ஹி வங்கி & ஏடிஎம்"
+    },
+    "description": {
+      "en": "Full-service Islamic bank branch with international multi-network ATMs supporting Visa, Mastercard, and Mada cards.",
+      "ms": "Cawangan bank Islam dengan mesin ATM antarabangsa menyokong kad Visa, Mastercard dan Mada.",
+      "ml": "വിസ, മാസ്റ്റർകാർഡ് എന്നിവ സ്വീകരിക്കുന്ന എടിഎം സൗകര്യമുള്ള പ്രധാന ബാങ്ക് ശാഖ.",
+      "ta": "அனைத்து சர்வதேச கார்டுகளும் இயங்கும் ஏடிஎம் வசதியுடன் கூடிய வங்கி கிளை."
+    },
+    "latitude": 24.4611951,
+    "longitude": 39.6029015,
+    "region": "madinah",
+    "type": "Amenity: Essentials",
+    "subCategory": "ATM & Banking",
+    "thumbnail": "assets/image/amenity.webp"
+  },
+  {
+    "id": "amenity_essential_madinah_grapari",
+    "name": {
+      "en": "GraPARI Madinah (SIM & Telco Center)",
+      "ms": "GraPARI Madinah (Pusat SIM & Telekomunikasi)",
+      "ml": "ഗ്രാപാരി മദീന (സിം & ടെലികോം സെന്റർ)",
+      "ta": "கிராபாரி மதீனா (சிம் & தொலைத்தொடர்பு மையம்)"
+    },
+    "description": {
+      "en": "Pilgrim telecommunication service point specializing in traveler SIM cards, data roaming packs, top-ups, and Indonesian/Southeast Asian support.",
+      "ms": "Pusat perkhidmatan telekomunikasi jemaah untuk kad SIM, pakej internet, tambah nilai dan bantuan bahasa Nusantara.",
+      "ml": "തീർത്ഥാടകർക്ക് സിം കാർഡുകളും ഇന്റർനെറ്റ് പാക്കേജുകളും ലഭ്യമാക്കുന്ന ടെലികോം കേന്ദ്രം.",
+      "ta": "யாத்ரீகர்களுக்கான சிம் கார்டுகள் மற்றும் இணைய வசதிகள் வழங்கும் தொலைத்தொடர்பு மையம்."
+    },
+    "latitude": 24.4720069,
+    "longitude": 39.6129499,
+    "region": "madinah",
+    "type": "Amenity: Essentials",
+    "subCategory": "Telecommunication & SIM",
+    "thumbnail": "assets/image/amenity.webp"
+  },
+  {
+    "id": "amenity_toilet_madinah_203",
+    "name": {
+      "en": "Masjid Nabawi Courtyard Restrooms & Wudu #203",
+      "ms": "Tandas & Tempat Wuduk Dataran Masjid Nabawi #203",
+      "ml": "മസ്ജിദുന്നബവി ശൗചാലയ സമുച്ചയം #203",
+      "ta": "மஸ்ஜிது நபவி கழிப்பறை மற்றும் உளு வளாகம் #203"
+    },
+    "description": {
+      "en": "Large underground multi-level ablution (Wudu) and toilet facility located in the northern plaza, accessible via escalators and stairs.",
+      "ms": "Kemudahan wuduk dan tandas bawah tanah bertingkat di dataran utara dengan kemudahan eskalator dan tangga.",
+      "ml": "മസ്ജിദുന്നബവിയുടെ വടക്കൻ മുറ്റത്തുള്ള വലിയ ഭൂഗർഭ വുദു, ശൗചാലയ സമുച്ചയം.",
+      "ta": "வடக்கு முற்றத்தில் அமைந்துள்ள பெரிய நிலத்தடி உளு மற்றும் கழிப்பறை வளாகம்."
+    },
+    "latitude": 24.4668398,
+    "longitude": 39.6116344,
+    "region": "madinah",
+    "type": "Amenity: Toilets",
+    "subCategory": "Courtyard Restrooms",
+    "thumbnail": "assets/image/amenity.webp"
   }
 ]
