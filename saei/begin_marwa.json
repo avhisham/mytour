@@ -1,53 +1,64 @@
 {
-  "_mock": true,
-  "_note": "Dua recited while standing at Marwa before beginning each even trip back. Shared for trips 2,4,6.",
+  "_note": "Dua recited while standing at Marwa before beginning each even trip back. Broken into phrases with follower repetition gaps.",
   "subtitles": [
     {
       "start": "00:00:00,000",
-      "end": "00:00:03,000",
+      "end": "00:00:03,500",
       "text": {
         "ar": "اللهُ أَكْبَرُ، اللهُ أَكْبَرُ، اللهُ أَكْبَرُ",
         "tl": "Allāhu Akbar, Allāhu Akbar, Allāhu Akbar",
         "en": "Allah is the Greatest, Allah is the Greatest, Allah is the Greatest.",
         "ms": "Allah Maha Besar, Allah Maha Besar, Allah Maha Besar.",
-        "ml": "അല്ലാഹു ഏറ്റവും വലിയവനാണ്, അല്ലാഹു ഏറ്റവും വലിയവനാണ്.",
+        "ml": "അല്ലാഹു ഏറ്റവും വലിയവനാണ്, അല്ലാഹു ഏറ്റവും വലിയവനാണ്, അല്ലാഹു ഏറ്റവും വലിയവനാണ്.",
         "ta": "அல்லாஹ் மிகப்பெரியவன், அல்லாஹ் மிகப்பெரியவன், அல்லாஹ் மிகப்பெரியவன்."
       }
     },
     {
-      "start": "00:00:04,000",
-      "end": "00:00:07,000",
+      "start": "00:00:06,500",
+      "end": "00:00:10,000",
       "text": {
         "ar": "لَا إِلٰهَ إِلَّا اللهُ وَحْدَهُ لَا شَرِيْكَ لَهُ",
         "tl": "Lā ilāha illallāhu wahdahu lā sharīka lah",
         "en": "There is no god but Allah alone, with no partner.",
         "ms": "Tiada tuhan melainkan Allah Yang Maha Esa, tiada sekutu bagi-Nya.",
-        "ml": "അല്ലാഹു അല്ലാതെ ആരാധനയ്ക്ക് അർഹനായ ആരുമില്ല, അവൻ ഏകനാണ്.",
+        "ml": "അല്ലാഹു അല്ലാതെ ആരാധനയ്ക്ക് അർഹനായ ആരുമില്ല, അവൻ ഏകനാണ്, അവന് പങ്കുകാരില്ല.",
         "ta": "அல்லாஹ்வைத் தவிர வேறு இறைவனில்லை, அவனுக்கு இணையாளர்கள் எவருமில்லை."
       }
     },
     {
-      "start": "00:00:08,000",
-      "end": "00:00:11,000",
+      "start": "00:00:13,000",
+      "end": "00:00:17,000",
       "text": {
         "ar": "لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ يُحْيِي وَيُمِيتُ",
         "tl": "lahul-mulku wa lahul-hamdu yuhyī wa yumīt",
         "en": "To Him belongs all dominion and praise; He gives life and causes death.",
-        "ms": "Bagi-Nya kerajaan dan pujian; Dia menghidupkan dan mematikan.",
-        "ml": "അവനാണ് ആധിപത്യം, അവനാണ് സ്തുതി; അവൻ ജീവിപ്പിക്കുകയും മരിപ്പിക്കുകയും ചെയ്യുന്നു.",
+        "ms": "Bagi-Nya kerajaan dan pujian; Dia yang menghidupkan dan mematikan.",
+        "ml": "അവനാണ് ആധിപത്യം, അവനാണ് സ്туതി; അവൻ ജീവിപ്പിക്കുകയും മരിപ്പിക്കുകയും ചെയ്യുന്നു.",
         "ta": "அவனுக்கே ஆட்சியதிகாரமும் புகழும் உரியன; அவன் உயிரூட்டவும் மரணிக்கவும் செய்கிறான்."
       }
     },
     {
-      "start": "00:00:12,000",
-      "end": "00:00:16,000",
+      "start": "00:00:20,000",
+      "end": "00:00:23,500",
       "text": {
         "ar": "وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ",
         "tl": "wa huwa 'alā kulli shay'in qadīr",
         "en": "And He is over all things powerful.",
         "ms": "Dan Dia Maha Kuasa atas segala sesuatu.",
         "ml": "അവൻ സർവ്വ കാര്യത്തിനും കഴിവുള്ളവനാണ്.",
-        "ta": "அவன் அனைத்தின் மீதும் ஆற்றல் கொண்டவன்."
+        "ta": "அவன் அனைத்தின் மீதும் பேராற்றல் கொண்டவன்."
+      }
+    },
+    {
+      "start": "00:00:27,000",
+      "end": "00:00:33,000",
+      "text": {
+        "ar": "لَا إِلٰهَ إِلَّا اللهُ، أَنْجَزَ وَعْدَهُ، وَنَصَرَ عَبْدَهُ، وَهَزَمَ الْأَحْزَابَ وَحْدَهُ",
+        "tl": "Lā ilāha illallāh, anjaza wa'dah, wa naṣara 'abdah, wa hazamal-aḥzāba waḥdah",
+        "en": "There is no god but Allah; He fulfilled His promise, granted victory to His servant, and defeated the allied clans alone.",
+        "ms": "Tiada tuhan melainkan Allah; Dia telah menepati janji-Nya, menolong hamba-Nya, dan mengalahkan tentera bersekutu dengan keesaan-Nya.",
+        "ml": "അല്ലാഹുവല്ലാതെ മറ്റ് ദൈവമില്ല; അവൻ വാഗ്ദത്തം പാലിച്ചു, ദാസനെ സഹായിച്ചു, ശത്രുസൈന്യത്തെ അവൻ തനിയെ തോൽപ്പിച്ചു.",
+        "ta": "அல்லாஹ்வைத் தவிர வேறு இறைவனில்லை; அவன் தன் வாக்கை நிறைவேற்றினான், தன் அடியானுக்கு உதவினான், எதிரிகளின் படைகளை அவன் ஒருவனே தோற்கடித்தான்."
       }
     }
   ]

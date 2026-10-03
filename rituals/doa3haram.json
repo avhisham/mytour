@@ -3,62 +3,50 @@
   "subtitles": [
     {
       "start": "00:00:00,000",
-      "end": "00:00:02,500",
+      "end": "00:00:03,500",
       "text": {
         "ar": "اللَّهُمَّ إِنَّ هَذَا الْحَرَمَ حَرَمُكَ",
-        "tl": "Allahumma inna hadhal harama haramuka",
-        "ms": "Ya Allah, sesungguhnya Tanah Haram ini adalah milik-Mu",
-        "en": "O Allah, indeed this Sanctuary is Your Sanctuary",
-        "ml": "അല്ലാഹുവേ, തീർച്ചയായും ഈ ഹറം നിന്റേതാണ്",
-        "ta": "யா அல்லாஹ், நிச்சயமாக இந்த ஹரம் உன்னுடைய ஹரம்"
-      }
-    },
-    {
-      "start": "00:00:02,500",
-      "end": "00:00:04,500",
-      "text": {
-        "ar": "وَالْبَلَدَ بَلَدُكَ",
-        "tl": "wal balada baladuka",
-        "ms": "Dan negeri ini adalah negeri-Mu",
-        "en": "And this city is Your city",
-        "ml": "ഈ നാടും നിന്റേതാണ്",
-        "ta": "இந்த நகரம் உன்னுடைய நகரம்"
-      }
-    },
-    {
-      "start": "00:00:04,500",
-      "end": "00:00:06,500",
-      "text": {
-        "ar": "وَالْأَمْنَ أَمْنُكَ",
-        "tl": "wal amna amnuka",
-        "ms": "Dan keamanan ini adalah daripada-Mu",
-        "en": "And this safety is Your security",
-        "ml": "ഈ സുരക്ഷിതത്വം നിന്റേതാണ്",
-        "ta": "இந்த அபயம் உன்னுடைய அபயம்"
+        "tl": "Allāhumma inna hādhal-ḥarama ḥaramuk",
+        "ms": "Ya Allah, sesungguhnya Tanah Haram ini adalah milik-Mu,",
+        "en": "O Allah, indeed this Sanctuary is Your Sanctuary,",
+        "ml": "അല്ലാഹുവേ, തീർച്ചയായും ഈ ഹറം നിന്റേതാണ്,",
+        "ta": "யா அல்லாஹ், நிச்சயமாக இந்த ஹரம் உன்னுடைய ஹரம்,"
       }
     },
     {
       "start": "00:00:06,500",
-      "end": "00:00:09,500",
+      "end": "00:00:10,500",
       "text": {
-        "ar": "فَحَرِّمْنِي عَلَى النَّارِ",
-        "tl": "fa harrimni 'alan-nar",
-        "ms": "Maka haramkanlah aku daripada api neraka",
-        "en": "So forbid my flesh to the Fire",
-        "ml": "അതുകൊണ്ട് എന്നെ നരകത്തിന് നിഷിദ്ധമാക്കേണമേ",
-        "ta": "எனவே நரக நெருப்பை எனக்கு ஹராமாக்கி விடு"
+        "ar": "وَالْبَلَدَ بَلَدُكَ، وَالْأَمْنَ أَمْنُكَ",
+        "tl": "wal-balada baladuka, wal-amna amnuk",
+        "ms": "dan negeri ini negeri-Mu, dan keamanan ini keamanan-Mu,",
+        "en": "and this city is Your city, and this peace is Your security,",
+        "ml": "ഈ നാട് നിന്റേതാണ്, ഈ സുരക്ഷിതത്വം നിന്റേതാണ്,",
+        "ta": "இந்த நகரம் உன்னுடைய நகரம், இந்த அபயம் உன்னுடைய அபயம்,"
       }
     },
     {
-      "start": "00:00:09,500",
-      "end": "00:00:15,000",
+      "start": "00:00:13,500",
+      "end": "00:00:19,000",
       "text": {
-        "ar": "وَآمِنِّي مِنْ عَذَابِكَ يَوْمَ تَبْعَثُ عِبَادَكَ",
-        "tl": "wa aminni min 'adhabika yawma tab'athu 'ibadaka",
-        "ms": "Dan selamatkanlah aku daripada azab-Mu pada hari Engkau membangkitkan hamba-hamba-Mu",
-        "en": "And protect me from Your punishment on the Day You resurrect Your servants",
-        "ml": "നിന്റെ അടിമകളെ ഉയിർത്തെഴുന്നേൽപ്പിക്കുന്ന നാളിൽ നിന്റെ ശിക്ഷയിൽ നിന്ന് എനിക്ക് സംരക്ഷണം നൽകേണമേ",
-        "ta": "உன் அடியார்களை நீ எழுப்பும் நாளில் உன்னுடைய தண்டனையிலிருந்து எனக்கு பாதுகாப்பு அளிப்பாயாக"
+        "ar": "فَحَرِّمْ لَحْمِي وَدَمِي وَشَعْرِي وَبَشَرِي عَلَى النَّارِ",
+        "tl": "faḥarrim laḥmī wa damī wa sha‘rī wa basharī ‘alan-nār",
+        "ms": "maka haramkanlah dagingku, darahku, rambutku, dan kulitku daripada api neraka,",
+        "en": "so forbid my flesh, my blood, my hair, and my skin from the Fire,",
+        "ml": "അതുകൊണ്ട് എന്റെ മാംസവും രക്തവും മുടിയും ചർമ്മവും നരകത്തിന് നിഷിദ്ധമാക്കേണമേ,",
+        "ta": "எனவே என் மாமிசம், இரத்தம், முடி மற்றும் தோலை நரக நெருப்பிற்கு ஹராமாக்கி விடுவாயாக,"
+      }
+    },
+    {
+      "start": "00:00:22,000",
+      "end": "00:00:27,500",
+      "text": {
+        "ar": "وَآمِنِّي مِنْ عَذَابِكَ يَوْمَ تَبْعَثُ عِبَادَكَ",
+        "tl": "wa āminnī min ‘adhābika yawma tab‘athu ‘ibādak",
+        "ms": "dan selamatkanlah aku daripada azab-Mu pada hari Engkau membangkitkan hamba-hamba-Mu.",
+        "en": "and protect me from Your punishment on the Day You resurrect Your servants.",
+        "ml": "നിന്റെ അടിമകളെ ഉയിർത്തെഴുന്നേൽപ്പിക്കുന്ന നാളിൽ നിന്റെ ശിക്ഷയിൽ നിന്ന് എനിക്ക് സംരക്ഷണം നൽകേണമേ.",
+        "ta": "உன் அடியார்களை நீ எழுப்பும் நாளில் உன்னுடைய தண்டனையிலிருந்து எனக்கு பாதுகாப்பு அளிப்பாயாக."
       }
     }
   ]

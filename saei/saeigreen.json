@@ -2,62 +2,62 @@
   "subtitles": [
     {
       "start": "00:00:00,000",
-      "end": "00:00:02,000",
+      "end": "00:00:02,500",
       "text": {
         "ar": "رَبِّ اغْفِرْ وَارْحَمْ",
         "tl": "Rabbi-ghfir warḥam",
-        "ms": "Ya Allah! Ampunilah daku, rahmatilah daku,",
-        "en": "O my Lord! Forgive and have mercy,",
-        "ml": "എന്റെ രക്ഷിതാവേ! പൊറുത്തുതരികയും കരുണ കാണിക്കുകയും ചെയ്യേണമേ,",
+        "ms": "Wahai Tuhanku! Ampunilah dan kasihanilah,",
+        "en": "My Lord! Forgive and have mercy,",
+        "ml": "എന്റെ രക്ഷിതാവേ! പൊറുത്തുതരികയും കരുണ ചെയ്യുകയും ചെയ്യേണമേ,",
         "ta": "என் இறைவா! மன்னித்து அருள் புரிவாயாக,"
       }
     },
     {
-      "start": "00:00:03,000",
-      "end": "00:00:05,000",
+      "start": "00:00:05,000",
+      "end": "00:00:07,500",
       "text": {
         "ar": "وَاعْفُ وَتَكَرَّمْ",
         "tl": "wa'fu wa takarram",
-        "ms": "maafkanlah daku dan kurniakan kemuliaan,",
+        "ms": "maafkanlah dan muliakanlah,",
         "en": "pardon and be generous,",
         "ml": "മാപ്പാക്കുകയും ഉദാരത കാണിക്കുകയും ചെയ്യേണമേ,",
-        "ta": "மன்னித்து தாராளமாக அருள்வாயாக,"
+        "ta": "பிழை பொறுத்து கண்ணியப்படுத்துவாயாக,"
       }
     },
     {
-      "start": "00:00:06,000",
-      "end": "00:00:08,500",
+      "start": "00:00:10,000",
+      "end": "00:00:13,000",
       "text": {
         "ar": "وَتَجَاوَزْ عَمَّا تَعْلَمْ",
         "tl": "wa tajāwaz 'ammā ta'lam",
-        "ms": "dan ampunilah segala apa yang Engkau ketahui,",
+        "ms": "dan maafkanlah apa yang Engkau ketahui,",
         "en": "and overlook what You know,",
-        "ml": "നിനക്കറിയാവുന്ന ഞങ്ങളുടെ പാപങ്ങൾ വിട്ടുവീഴ്ച ചെയ്യേണമേ,",
-        "ta": "உனக்குத் தெரிந்த குற்றங்களைப் பொறுத்தருள்வாயாக,"
+        "ml": "നിനക്കറിയാവുന്ന പാപങ്ങൾ വിട്ടുവീഴ്ച ചെയ്യേണമേ,",
+        "ta": "நீ அறிந்திருக்கும் குற்றங்களை மன்னித்தருள்வாயாக,"
       }
     },
     {
-      "start": "00:00:09,500",
-      "end": "00:00:12,000",
+      "start": "00:00:15,500",
+      "end": "00:00:19,000",
       "text": {
         "ar": "إِنَّكَ تَعْلَمُ مَا لَا نَعْلَمُ",
         "tl": "innaka ta'lamu mā lā na'lam",
         "ms": "sesungguhnya Engkau mengetahui apa yang kami tidak ketahui,",
-        "en": "Indeed, You know what we do not know,",
-        "ml": "നിശ്ചയമായും, ഞങ്ങൾക്ക് അറിയാത്തത് നീ അറിയുന്നു,",
-        "ta": "நிச்சயமாக, எங்களுக்குத் தெரியாததை நீ அறிவாய்,"
+        "en": "indeed You know that which we know not,",
+        "ml": "തീർച്ചയായും ഞങ്ങൾക്ക് അറിയാത്തത് നീ അറിയുന്നു,",
+        "ta": "நாங்கள் அறியாததை நிச்சயமாக நீ அறிவாய்,"
       }
     },
     {
-      "start": "00:00:13,000",
-      "end": "00:00:15,500",
+      "start": "00:00:21,500",
+      "end": "00:00:25,500",
       "text": {
-        "ar": "إِنَّكَ الْأَعَزُّ الْأَكْرَمُ",
-        "tl": "innaka l-a'azzu l-akram",
-        "ms": "sesungguhnya Engkaulah Yang Maha Mulia lagi Maha Terpuji.",
-        "en": "Indeed, You are the Most Mighty, the Most Generous.",
-        "ml": "നിശ്ചയമായും നീ ഏറ്റവും പ്രതാപിയും ഏറ്റവും ഔദാര്യവാനുമാകുന്നു.",
-        "ta": "நிச்சயமாக நீயே மிகவும் கண்ணியமானவனும், மிக்க கொடையாளியுமாவாய்."
+        "ar": "إِنَّكَ أَنْتَ اللَّهُ الأَعَزُّ الأَكْرَمُ",
+        "tl": "innaka Antal-Lāhul-A'azzul-Akram",
+        "ms": "sesungguhnya Engkaulah Allah yang Maha Perkasa lagi Maha Mulia.",
+        "en": "truly You are Allah, the Most Mighty, the Most Generous.",
+        "ml": "നീ തന്നെയാണ് ഏറ്റവും പ്രതാപിയും ഔദാര്യവാനുമായ അല്ലാഹു.",
+        "ta": "நிச்சயமாக நீயே யாவற்றிலும் மிகைத்தவனும், மிக்க கண்ணியமிக்கவனுமாகிய அல்லாஹ்."
       }
     }
   ]

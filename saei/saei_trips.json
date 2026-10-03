@@ -6,7 +6,14 @@
     "begin_safa": {
       "_comment": "Used for trips 1, 3, 5, 7 — starting at Safa",
       "titlePattern": "At Safa — Begin Trip {trip}",
-      "description": "Climb the steps of Safa, face the direction of the Kaabah, raise your hands and recite the niyyah dua. Begin with what Allah began with.",
+      "arabic": "إِنَّ الصَّفَا وَالْمَرْوَةَ مِنْ شَعَائِرِ اللَّهِ... نَبْدَأُ بِمَا بَدَأَ اللَّهُ بِهِ. اللَّهُ أَكْبَرُ، اللَّهُ أَكْبَرُ، اللَّهُ أَكْبَرُ. لَا إِلَهَ إِلَّا اللَّهُ وَحْدَهُ لَا شَرِيكَ لَهُ، لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ. لَا إِلَهَ إِلَّا اللَّهُ، أَنْجَزَ وَعْدَهُ، وَنَصَرَ عَبْدَهُ، وَهَزَمَ الأَحْزَابَ وَحْدَهُ",
+      "transliteration": "Innaṣ-ṣafā wal-marwata min sha‘ā’irillāh... Nabda’u bimā bada’allāhu bih. Allāhu Akbar (3x). Lā ilāha illallāh, waḥdahū lā sharīka lah, lahul-mulku wa lahul-ḥamdu wa Huwa ‘alā kulli shay’in Qadīr. Lā ilāha illallāh, anjaza wa‘dah, wa naṣara ‘abdah, wa hazamal-aḥzāba waḥdah.",
+      "description": {
+        "en": "Climb Safa, face the Kaabah, raise your hands and recite: Indeed as-Safa and al-Marwah are among the symbols of Allah. Allah is the Greatest (3x), there is no god but Allah alone...",
+        "ms": "Daki bukit Safa, menghadap kiblat ke arah Kaabah, angkat tangan dan berdoa: Sesungguhnya Safa dan Marwah sebahagian syiar Allah. Allah Maha Besar (3x), tiada tuhan selain Allah yang Maha Esa...",
+        "ml": "സഫാ മല കയറുക, കഅബയ്ക്ക് നേരെ തിരിയുക, കൈകൾ ഉയർത്തി പ്രാർത്ഥിക്കുക: തീർച്ചയായും സഫയും മർവയും അല്ലാഹുവിന്റെ ചിഹ്നങ്ങളിൽ പെട്ടതാകുന്നു. അല്ലാഹുവാണ് ഏറ്റവും വലിയവൻ (3x)...",
+        "ta": "ஸஃபா மலையில் ஏறி, கஃபாவை நோக்கி நின்று, கைகளை உயர்த்தி துஆ செய்யுங்கள்: நிச்சயமாக ஸஃபாவும் மர்வாவும் அல்லாஹ்வின் சின்னங்களாகும். அல்லாஹ் மிகப் பெரியவன் (3x)..."
+      },
       "mediaItems": [
         {
           "type": "image",
@@ -27,7 +34,14 @@
     "begin_marwa": {
       "_comment": "Used for trips 2, 4, 6 — starting at Marwa",
       "titlePattern": "At Marwa — Begin Trip {trip}",
-      "description": "Climb the steps of Marwa, face the direction of the Kaabah, raise your hands and make dua before walking back toward Safa.",
+      "arabic": "اللَّهُ أَكْبَرُ، اللَّهُ أَكْبَرُ، اللَّهُ أَكْبَرُ. لَا إِلَهَ إِلَّا اللَّهُ وَحْدَهُ لَا شَرِيكَ لَهُ، لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ. لَا إِلَهَ إِلَّا اللَّهُ، أَنْجَزَ وَعْدَهُ، وَنَصَرَ عَبْدَهُ، وَهَزَمَ الأَحْزَابَ وَحْدَهُ",
+      "transliteration": "Allāhu Akbar (3x). Lā ilāha illallāh, waḥdahū lā sharīka lah, lahul-mulku wa lahul-ḥamdu wa Huwa ‘alā kulli shay’in Qadīr. Lā ilāha illallāh, anjaza wa‘dah, wa naṣara ‘abdah, wa hazamal-aḥzāba waḥdah.",
+      "description": {
+        "en": "Climb Marwa, face the Kaabah, raise your hands and repeat the praise and takbir before walking back toward Safa.",
+        "ms": "Daki bukit Marwah, menghadap ke arah Kaabah, angkat tangan dan ulang zikir serta takbir sebelum berjalan pulang ke Safa.",
+        "ml": "മർവാ മല കയറുക, കഅബയ്ക്ക് നേരെ തിരിയുക, കൈകൾ ഉയർത്തി പ്രാർത്ഥിച്ച ശേഷം സഫയിലേക്ക് മടങ്ങുക.",
+        "ta": "மர்வா மலையில் ஏறி, கஃபாவை நோக்கி நின்று கைகளை உயர்த்தி துஆ செய்யுங்கள், பின் ஸஃபாவை நோக்கி நடக்கவும்."
+      },
       "mediaItems": [
         {
           "type": "image",
@@ -48,11 +62,18 @@
     "green_area": {
       "_comment": "Shared for all 7 trips — jog through the green-lit Masa'a section",
       "titlePattern": "Green Zone — Trip {trip}",
-      "description": "Men: increase your pace (harwala) through the green-lit section of the Masa'a. Women continue at a normal walking pace. Recite: Rabbi-ghfir warḥam wa'fu wa takarram wa tajāwaz 'ammā ta'lam.",
+      "arabic": "رَبِّ اغْفِرْ وَارْحَمْ، وَاعْفُ وَتَكَرَّمْ، وَتَجَاوَزْ عَمَّا تَعْلَمُ، إِنَّكَ تَعْلَمُ مَا لَا نَعْلَمُ، إِنَّكَ أَنْتَ اللَّهُ الأَعَزُّ الأَكْرَمُ",
+      "transliteration": "Rabbighfir warḥam, wa‘fu wa takarram, wa tajāwaz ‘ammā ta‘lam, innaka ta‘lamu mā lā na‘lam, innaka Antal-Lāhul-A‘azzul-Akram",
+      "description": {
+        "en": "Men jog lightly (harwala) through the green-lit Masa'a section while women walk at normal pace. Recite: My Lord, forgive and have mercy, pardon and be generous, and overlook what You know; indeed You know that which we know not; truly You are Allah, the Most Mighty, the Most Generous.",
+        "ms": "Jemaah lelaki disunatkan berlari anak (harwala) di kawasan berlampu hijau, manakala wanita berjalan biasa. Bacalah: Wahai Tuhanku, ampunkanlah dan kasihanilah, maafkanlah dan muliakanlah, dan maafkanlah apa yang Engkau ketahui; sesungguhnya Engkau mengetahui apa yang kami tidak ketahui; sesungguhnya Engkaulah Allah yang Maha Perkasa lagi Maha Mulia.",
+        "ml": "പച്ച വിളക്കുകൾക്കിടയിലൂടെ പുരുഷന്മാർ പതുക്കെ ഓടുക, സ്ത്രീകൾ സാധാരണ വേഗതയിൽ നടക്കുക. പ്രാർത്ഥിക്കുക: എന്റെ രക്ഷിതാവേ! പൊറുത്തുതരികയും കരുണ ചെയ്യുകയും മാപ്പാക്കുകയും ഉദാരത കാണിക്കുകയും ചെയ്യേണമേ; ഞങ്ങൾക്കറിയാത്തത് നീ അറിയുന്നു; നീ തന്നെയാണ് ഏറ്റവും പ്രതാപിയും ഔദാര്യവാനുമായ അല്ലാഹു.",
+        "ta": "பச்சை விளக்குகளுக்கு இடையில் ஆண்கள் சற்று வேகமாக ஓடவும், பெண்கள் வழக்கம் போல் நடக்கவும். ஓதவும்: என் இறைவா! மன்னித்து அருள் புரிவாயாக, பிழை பொறுத்து கண்ணியப்படுத்துவாயாக, நீ அறிந்திருக்கும் குறைகளை மன்னித்தருள்வாயாக; நாங்கள் அறியாததை நிச்சயமாக நீ அறிவாய்; நிச்சயமாக நீயே அல்லாஹ், மிக்க கண்ணியமிக்கவன்."
+      },
       "mediaItems": [
         {
           "type": "image",
-          "url": "image/seaigreen.png",
+          "url": "image/seaigreen.webp",
           "caption": {
             "en": "",
             "ms": "",
@@ -69,7 +90,14 @@
     "later_saei": {
       "_comment": "Shared for all 7 trips — after the green zone, continue to the destination hill",
       "titlePattern": "Continue — Trip {trip}",
-      "description": "After passing the green zone, resume normal pace and continue toward the destination. Recite: Rabbanā ātinā fid-dunyā hasanatan wa fil-ākhirati hasanatan wa qinā 'adhāban-nār.",
+      "arabic": "رَبَّنَا آتِنَا فِي الدُّنْيَا حَسَنَةً وَفِي الآخِرَةِ حَسَنَةً وَقِنَا عَذَابَ النَّارِ",
+      "transliteration": "Rabbanā ātinā fid-dunyā ḥasanatan wa fīl-ākhirati ḥasanatan wa qinā ‘adhāb an-nār",
+      "description": {
+        "en": "Resume normal pace and continue toward the destination. Recite: Our Lord, give us in this world that which is good and in the Hereafter that which is good, and save us from the punishment of the Fire.",
+        "ms": "Kembali berjalan biasa menuju ke bukit destinasi. Bacalah: Wahai Tuhan kami, berikanlah kepada kami kebaikan di dunia dan kebaikan di akhirat, dan peliharalah kami daripada azab neraka.",
+        "ml": "സാധാരണ വേഗതയിൽ ലക്ഷ്യസ്ഥാനത്തേക്ക് നടക്കുക. പ്രാർത്ഥിക്കുക: ഞങ്ങളുടെ നാഥാ, ഞങ്ങൾക്ക് ഇഹലോകത്ത് നന്മ നൽകേണമേ, പരലോകത്തും നന്മ നൽകേണമേ...",
+        "ta": "வழக்கமான வேகத்தில் தொடர்ந்து செல்லவும். ஓதவும்: எங்கள் இறைவா! எங்களுக்கு இவ்வுலகிலும் நன்மையை வழங்குவாயாக, மறுமையிலும் நன்மையை வழங்குவாயாக..."
+      },
       "mediaItems": [
         {
           "type": "image",
@@ -90,7 +118,14 @@
     "end_saei": {
       "_comment": "Trip 7 only — completion of Sa'i",
       "titlePattern": "Sa'i Complete",
-      "description": "You have completed 7 trips of Sa'i. At Marwa, face the Kaabah, raise your hands and make the acceptance dua. Your Sa'i is now complete.",
+      "arabic": "اللَّهُمَّ تَقَبَّلْ مِنَّا، وَعَافِنَا وَاعْفُ عَنَّا، وَعَلَى طَاعَتِكَ وَشُكْرِكَ أَعِنَّا",
+      "transliteration": "Allāhumma taqabbal minnā, wa ‘āfinā wa‘fu ‘annā, wa ‘alā ṭā‘atika wa shukrika a‘innā",
+      "description": {
+        "en": "You have completed all 7 trips of Sa'i. At Marwa, face the Kaabah, raise your hands and make the acceptance du'a. Proceed to Tahallul (hair cutting).",
+        "ms": "Alhamdulillah, anda telah menyempurnakan 7 pusingan Sa'i. Di Marwah, mengadap Kaabah, angkat tangan dan berdoa memohon penerimaan amal. Seterusnya teruskan ke Tahallul (bergunting).",
+        "ml": "നിങ്ങൾ സഅ്‌യിന്റെ 7 റൗണ്ടുകളും പൂർത്തിയാക്കി. മർവയിൽ വെച്ച് കഅബയിലേക്ക് തിരിഞ്ഞ് കൈകൾ ഉയർത്തി പ്രാർത്ഥിക്കുക. ശേഷം തഹല്ലുലിലേക്ക് കടക്കുക.",
+        "ta": "நீங்கள் ஸயீயின் 7 சுற்றுகளையும் நிறைவு செய்துவிட்டீர்கள். மர்வாவில் கஃபாவை நோக்கி நின்று கைகளை உயர்த்தி துஆ செய்யுங்கள். பின்னர் தஹல்லுல் (முடி கத்தரித்தல்) செய்யவும்."
+      },
       "mediaItems": [
         {
           "type": "image",
@@ -118,7 +153,12 @@
       "start_lng": 39.8275,
       "dua": {
         "titlePattern": "Walking Trip {trip} — Safa to Marwa",
-        "description": "Innash-Shafā wal-Marwata min sha'ā'irillāh. Abda'u bimā bada'allāhu bih. (Verily, Safa and Marwah are among the signs of Allah. I begin with that which Allah began with.)",
+        "description": {
+          "en": "Indeed, as-Safa and al-Marwah are among the symbols of Allah. So whoever makes Hajj to the House or performs Umrah - there is no blame upon him for walking between them. We begin with that which Allah began with.",
+          "ms": "Sesungguhnya Safa dan Marwah adalah sebahagian daripada syiar Allah. Sesiapa yang menunaikan haji ke Baitullah atau mengerjakan umrah, maka tiada salahnya dia berulang-alik antara keduanya. Kami memulakan dengan apa yang dimulakan oleh Allah.",
+          "ml": "തീർച്ചയായും സഫയും മർവയും അല്ലാഹുവിന്റെ ചിഹ്നങ്ങളിൽ പെട്ടതാകുന്നു. അല്ലാഹു ആരംഭിച്ചതിലൂടെ ഞങ്ങൾ ആരംഭിക്കുന്നു.",
+          "ta": "நிச்சயமாக ஸஃபாவும் மர்வாவும் அல்லாஹ்வின் சின்னங்களாகும். அல்லாஹ் எதைக் கொண்டு துவங்கினானോ அதைக் கொண்டு நாமும் துவங்குவோம்."
+        },
         "mediaItems": [
           {
             "type": "map",
@@ -128,7 +168,9 @@
         "audio": {
           "url": "audio/saei1.mp3",
           "subtitles": "saei/saeitrip1.json"
-        }
+        },
+        "arabic": "إِنَّ الصَّفَا وَالْمَرْوَةَ مِنْ شَعَائِرِ اللَّهِ ۖ فَمَنْ حَجَّ الْبَيْتَ أَوِ اعْتَمَرَ فَلَا جُنَاحَ عَلَيْهِ أَنْ يَطَّوَّفَ بِهِمَا ۚ وَمَنْ تَطَوَّعَ خَيْرًا فَإِنَّ اللَّهَ شَاكِرٌ عَلِيمٌ. نَبْدَأُ بِمَا بَدَأَ اللَّهُ بِهِ",
+        "transliteration": "Innaṣ-ṣafā wal-marwata min sha‘ā’irillāh, faman ḥajjal-bayta awi‘tamara falā junāḥa ‘alayhi ay-yaṭṭawwafa bihimā, wa man taṭawwa‘a khayran fa-innallāha Shākirun ‘Alīm. Nabda’u bimā bada’allāhu bih."
       }
     },
     {
@@ -139,7 +181,12 @@
       "start_lng": 39.8272,
       "dua": {
         "titlePattern": "Walking Trip {trip} — Marwa to Safa",
-        "description": "Allāhu Akbar, Allāhu Akbar, Allāhu Akbar, wa lillāhil-hamd. (Allah is the Greatest, Allah is the Greatest, Allah is the Greatest, and for Allah is all praise.)",
+        "description": {
+          "en": "Allah is the Greatest, Allah is the Greatest, Allah is the Greatest, and to Allah belongs all praise. Glory be to Allah, all praise is for Allah, there is no god but Allah, and Allah is the Greatest.",
+          "ms": "Allah Maha Besar, Allah Maha Besar, Allah Maha Besar, dan bagi Allah segala puji-pujian. Maha Suci Allah, segala puji bagi Allah, tiada tuhan selain Allah, dan Allah Maha Besar.",
+          "ml": "അല്ലാഹുവാണ് ഏറ്റവും വലിയവൻ (3x), അല്ലാഹുവിനാണ് സർവ്വ സ്തുതിയും. അല്ലാഹു എത്ര പരിശുദ്ധൻ, അല്ലാഹുവിനാകുന്നു സർവ്വ സ്തുതിയും.",
+          "ta": "அல்லாஹ் மிகப் பெரியவன் (3x), அல்லாஹ்விற்கே புகழனைத்தும். அல்லாஹ் மகா தூயவன், புகழ் அனைத்தும் அவனுக்கே."
+        },
         "mediaItems": [
           {
             "type": "map",
@@ -149,7 +196,9 @@
         "audio": {
           "url": "audio/saei2.mp3",
           "subtitles": "saei/saeitrip2.json"
-        }
+        },
+        "arabic": "اللَّهُ أَكْبَرُ، اللَّهُ أَكْبَرُ، اللَّهُ أَكْبَرُ، وَلِلَّهِ الْحَمْدُ. سُبْحَانَ اللَّهِ وَالْحَمْدُ لِلَّهِ وَلَا إِلَهَ إِلَّا اللَّهُ وَاللَّهُ أَكْبَرُ",
+        "transliteration": "Allāhu Akbar, Allāhu Akbar, Allāhu Akbar, wa lillāhil-ḥamd. Subḥānallāhi wal-ḥamdu lillāhi wa lā ilāha illallāhu wallāhu Akbar."
       }
     },
     {
@@ -160,7 +209,12 @@
       "start_lng": 39.8275,
       "dua": {
         "titlePattern": "Walking Trip {trip} — Safa to Marwa",
-        "description": "Rabbighfir warham wa tajawaz 'amma ta'lam innaka antal-a'azzul-akram. (My Lord, forgive and have mercy and overlook that which You know, for You are the Most Mighty, the Most Noble.)",
+        "description": {
+          "en": "My Lord, forgive and have mercy and overlook that which You know, for You are the Most Mighty, the Most Noble.",
+          "ms": "Wahai Tuhanku, ampunkanlah dan kasihanilah, dan maafkanlah apa yang Engkau ketahui, sesungguhnya Engkaulah yang Maha Perkasa lagi Maha Mulia.",
+          "ml": "എന്റെ രക്ഷിതാവേ, എനിക്ക് പൊറുത്തുതരികയും കരുണ ചെയ്യുകയും ചെയ്യേണമേ, നിനക്കറിയാവുന്ന തെറ്റുകൾ നീ വിട്ടുവീഴ്ച ചെയ്തു തരേണമേ.",
+          "ta": "என் இறைவா! என்னை மன்னித்தருள்வாயாக, கருணை புரிவாயாக, நீ அறிந்திருக்கும் குறைகளை மன்னித்தருள்வாயாக."
+        },
         "mediaItems": [
           {
             "type": "map",
@@ -170,7 +224,9 @@
         "audio": {
           "url": "audio/saei3.mp3",
           "subtitles": "saei/saeitrip3.json"
-        }
+        },
+        "arabic": "رَبِّ اغْفِرْ وَارْحَمْ وَتَجَاوَزْ عَمَّا تَعْلَمُ إِنَّكَ أَنْتَ الأَعَزُّ الأَكْرَمُ",
+        "transliteration": "Rabbighfir warḥam wa tajāwaz ‘ammā ta‘lam innaka Antal-A‘azzul-Akram."
       }
     },
     {
@@ -181,7 +237,12 @@
       "start_lng": 39.8272,
       "dua": {
         "titlePattern": "Walking Trip {trip} — Marwa to Safa",
-        "description": "La ilaha ill-Allahu wahdahu la sharika lahu, lahul-mulku wa lahul-hamdu wa huwa 'ala kulli shay'in qadir. (There is no god but Allah alone, no partner has He, to Him belongs the dominion and to Him the praise.)",
+        "description": {
+          "en": "There is no god but Allah alone, with no partner. To Him belongs the sovereignty and to Him all praise, He gives life and causes death, and He is over all things capable.",
+          "ms": "Tiada tuhan melainkan Allah yang Maha Esa, tiada sekutu bagi-Nya. Bagi-Nya kerajaan dan bagi-Nya segala pujian, Dia yang menghidupkan dan mematikan, dan Dia Maha Kuasa atas segala sesuatu.",
+          "ml": "അല്ലാഹുവല്ലാതെ യാതൊരു ദൈവവുമില്ല, അവൻ ഏകനാണ്, അവന് യാതൊരു പങ്കുകാരനുമില്ല. അവന്നാണ് സർവ്വാധിപത്യവും സ്തുതിയും.",
+          "ta": "வணக்கத்திற்குரியவன் அல்லாஹ்வைத்தவிர வேறு யாருமில்லை, அவன் தனித்தவன், அவனுக்கு இணை இல்லை. அவனுக்கே ஆட்சியும் புகழும் உரியது."
+        },
         "mediaItems": [
           {
             "type": "map",
@@ -191,7 +252,9 @@
         "audio": {
           "url": "audio/saei4.mp3",
           "subtitles": "saei/saeitrip4.json"
-        }
+        },
+        "arabic": "لَا إِلَهَ إِلَّا اللَّهُ وَحْدَهُ لَا شَرِيكَ لَهُ، لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ يُحْيِي وَيُمِيتُ وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ",
+        "transliteration": "Lā ilāha illallāhu waḥdahū lā sharīka lah, lahul-mulku wa lahul-ḥamdu yuḥyī wa yumītu wa Huwa ‘alā kulli shay’in Qadīr."
       }
     },
     {
@@ -202,7 +265,12 @@
       "start_lng": 39.8275,
       "dua": {
         "titlePattern": "Walking Trip {trip} — Safa to Marwa",
-        "description": "Allahumma inni as'aluka al-'afwa wal-'afiyah fid-dunya wal-akhirah. (O Allah, I ask You for forgiveness and well-being in this world and the Hereafter.)",
+        "description": {
+          "en": "O Allah, I ask You for pardon and well-being in this world and the Hereafter. O Allah, I ask You for Your pleasure and Paradise, and I seek refuge in You from the Fire.",
+          "ms": "Ya Allah, sesungguhnya aku memohon keampunan dan kesejahteraan kepada-Mu di dunia dan akhirat. Ya Allah, kurniakanlah keredaan-Mu dan syurga, dan lindungilah aku daripada seksaan neraka.",
+          "ml": "അല്ലാഹുവേ, ഇഹത്തിലും പരത്തിലും ഞാൻ നിന്നോട് മാപ്പും സൗഖ്യവും തേടുന്നു. നിന്റെ പ്രീതിയും സ്വർഗ്ഗവും ഞാൻ യാചിക്കുന്നു.",
+          "ta": "யா அல்லாஹ்! இம்மையிலும் மறுமையிலும் மன்னிப்பையும் நல்வாழ்வையும் வேண்டுகிறேன். உன் திருப்தியையும் சொர்க்கத்தையும் வேண்டுகிறேன்."
+        },
         "mediaItems": [
           {
             "type": "map",
@@ -212,7 +280,9 @@
         "audio": {
           "url": "audio/saei5.mp3",
           "subtitles": "saei/saeitrip5.json"
-        }
+        },
+        "arabic": "اللَّهُمَّ إِنِّي أَسْأَلُكَ الْعَفْوَ وَالْعَافِيَةَ فِي الدُّنْيَا وَالآخِرَةِ، اللَّهُمَّ إِنِّي أَسْأَلُكَ الرِّضَا وَالْجَنَّةَ وَأَعُوذُ بِكَ مِنَ النَّارِ",
+        "transliteration": "Allāhumma innī as’alukal-‘afwa wal-‘āfiyata fid-dunyā wal-ākhirah, Allāhumma innī as’alukar-riḍā wal-jannah wa a‘ūdhu bika minan-nār."
       }
     },
     {
@@ -223,7 +293,12 @@
       "start_lng": 39.8272,
       "dua": {
         "titlePattern": "Walking Trip {trip} — Marwa to Safa",
-        "description": "Rabbana atina fid-dunya hasanatan wa fil-akhirati hasanatan wa qina 'adhaban-nar. (Our Lord, give us good in this world and good in the Hereafter, and save us from the punishment of the Fire.)",
+        "description": {
+          "en": "Our Lord, give us in this world that which is good and in the Hereafter that which is good, and save us from the punishment of the Fire, and admit us to Paradise with the righteous, O Mighty, O Forgiver.",
+          "ms": "Wahai Tuhan kami, berikanlah kami kebaikan di dunia dan kebaikan di akhirat, dan peliharalah kami dari azab neraka, serta masukkanlah kami ke dalam syurga bersama orang-orang yang soleh, wahai Yang Maha Perkasa lagi Maha Pengampun.",
+          "ml": "ഞങ്ങളുടെ നാഥാ, ഞങ്ങൾക്ക് ഇഹലോകത്ത് നന്മ നൽകേണമേ, പരലോകത്തും നന്മ നൽകേണമേ, നരകശിക്ഷയിൽ നിന്ന് ഞങ്ങളെ കാക്കേണമേ.",
+          "ta": "எங்கள் இறைவா! எங்களுக்கு இவ்வுலகிலும் நன்மையை வழங்குவாயாக, மறுமையிலும் நன்மையை வழங்குவாயாக, நரக வேதனையிலிருந்து எங்களை காப்பாற்றுவாயாக."
+        },
         "mediaItems": [
           {
             "type": "map",
@@ -233,7 +308,9 @@
         "audio": {
           "url": "audio/saei6.mp3",
           "subtitles": "saei/saeitrip6.json"
-        }
+        },
+        "arabic": "رَبَّنَا آتِنَا فِي الدُّنْيَا حَسَنَةً وَفِي الآخِرَةِ حَسَنَةً وَقِنَا عَذَابَ النَّارِ، وَأَدْخِلْنَا الْجَنَّةَ مَعَ الأَبْرَارِ يَا عَزِيزُ يَا غَفَّارُ",
+        "transliteration": "Rabbanā ātinā fid-dunyā ḥasanatan wa fīl-ākhirati ḥasanatan wa qinā ‘adhāban-nār, wa adkhilnal-jannata ma‘al-abrār yā ‘Azīzu yā Ghaffār."
       }
     },
     {
@@ -244,7 +321,12 @@
       "start_lng": 39.8275,
       "dua": {
         "titlePattern": "Walking Trip {trip} — Safa to Marwa (Final)",
-        "description": "Allahumma taqabbal minna sa'yana kama taqabbalta min nabiyyika Ibrahim alayhis-salam. (O Allah, accept our Sa'i as You accepted from Your Prophet Ibrahim, peace be upon him.)",
+        "description": {
+          "en": "O Allah, accept our Sa'i from us, forgive our sins, expiate our misdeeds, and let us die with the righteous. Our Lord, accept from us, truly You are the Hearing, the Knowing.",
+          "ms": "Ya Allah, terimalah Sa'i kami, ampunkanlah dosa-dosa kami, hapuskanlah kesilapan kami, dan matikanlah kami bersama orang-orang yang berbakti. Ya Tuhan kami, terimalah daripada kami sesungguhnya Engkau Maha Mendengar lagi Maha Mengetahui.",
+          "ml": "അല്ലാഹുവേ, ഞങ്ങളുടെ സഅ്‌യ് നീ സ്വീകരിക്കേണമേ, ഞങ്ങളുടെ പാപങ്ങൾ പൊറുക്കേണമേ, സജ്ജനങ്ങളോടൊപ്പം ഞങ്ങളെ മരിപ്പിക്കേണമേ.",
+          "ta": "யா அல்லாஹ்! எங்கள் ஸயீயை ஏற்றுக்கொள்வாயாக, எங்கள் பாவங்களை மன்னித்தருள்வாயாக, நல்லவர்களுடன் எங்களை மரணிக்கச் செய்வாயாக."
+        },
         "mediaItems": [
           {
             "type": "map",
@@ -254,7 +336,9 @@
         "audio": {
           "url": "audio/saei7.mp3",
           "subtitles": "saei/saeitrip7.json"
-        }
+        },
+        "arabic": "اللَّهُمَّ تَقَبَّلْ مِنَّا سَعْيَنَا، وَاغْفِرْ ذُنُوبَنَا، وَكَفِّرْ عَنَّا سَيِّئَاتِنَا، وَتَوَفَّنَا مَعَ الأَبْرَارِ. رَبَّنَا تَقَبَّلْ مِنَّا إِنَّكَ أَنْتَ السَّمِيعُ الْعَلِيمُ",
+        "transliteration": "Allāhumma taqabbal minnā sa‘yanā, waghfir dhunūbanā, wa kaffir ‘annā sayyi’ātinā, wa tawaffanā ma‘al-abrār. Rabbanā taqabbal minnā innaka Antas-Samī‘ul-‘Alīm."
       }
     }
   ]

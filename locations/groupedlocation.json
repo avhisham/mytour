@@ -1,0 +1,2560 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "version": "1.0.0",
+  "generated_at": "2026-09-26T07:45:00Z",
+  "groups": [
+    {
+      "id": "mataf_kaabah",
+      "region": "makkah",
+      "title": {
+        "en": "Inside the Mataf & The Holy Kaaba",
+        "ms": "Di Dalam Mataf & Kaabah Musyarafah",
+        "ml": "മത്വാഫും വിശുദ്ധ കഅ്ബയും",
+        "ta": "மதாஃப் மற்றும் புனித கஅபா"
+      },
+      "summary": {
+        "en": "The central focal point of Islam comprising the Kaaba and immediate circumambulation micro-landmarks.",
+        "ms": "Pusat tumpuan utama umat Islam yang merangkumi Kaabah dan mercu tanda mikro di sekelilingnya.",
+        "ml": "വിശുദ്ധ കഅ്ബയും ത്വവാഫ് ചെയ്യുന്ന മത്വാഫിലെ ചരിത്ര പ്രാധാന്യമുള്ള ചെറു അടയാളങ്ങളും.",
+        "ta": "கஅபா மற்றும் தவாஃப் செய்யும் மதாஃப் பகுதியிலுள்ள முக்கிய வரலாற்று அடையாளங்கள்."
+      },
+      "places": [
+        {
+          "id": "hajar_al_aswad",
+          "title": {
+            "en": "Al-Hajar al-Aswad (The Black Stone)",
+            "ms": "Al-Hajar al-Aswad (Hajarul Aswad)",
+            "ml": "ഹജറുൽ അസ്‌വദ് (കറുത്ത ശില)",
+            "ta": "ஹஜருல் அஸ்வத் (கருப்புக்கல்)"
+          },
+          "summary": {
+            "en": "The heavenly stone set into the eastern corner of the Kaaba marking the Tawaf boundary.",
+            "ms": "Batu dari syurga di sudut timur Kaabah yang menandakan permulaan dan pengakhiran tawaf.",
+            "ml": "ത്വവാഫ് ആരംഭിക്കുന്ന കഅ്ബയുടെ കിഴക്കേ മൂലയിലെ സ്വർഗ്ഗീയ ശില.",
+            "ta": "தவாஃபின் தொடக்கத்தைக் குறிக்கும் கஅபாவின் கிழக்கு மூலையிலுள்ள கல்."
+          },
+          "details": {
+            "en": "Set in a pure silver casing at the eastern corner of the Kaaba. Pilgrims kiss, touch, or salute it with Takbir at the start of each circuit.",
+            "ms": "Diletakkan dalam bingkai perak tulen di rukun timur Kaabah. Para jemaah mengucup, menyentuh, atau beristilam dengan takbir setiap pusingan.",
+            "ml": "കഅ്ബയുടെ കിഴക്കേ മൂലയിൽ വെള്ളി ഫ്രെയിമിൽ സ്ഥാപിച്ചിരിക്കുന്നു. ഓരോ ത്വവാഫും ഇവിടെ നിന്നാണ് ആരംഭിക്കുന്നത്.",
+            "ta": "கஅபாவின் கிழக்கு மூலையில் வெள்ளி சட்டத்தில் பதிக்கப்பட்டுள்ளது. ஒவ்வொரு தவாஃபும் இங்கிருந்தே துவங்குகிறது."
+          },
+          "images": {
+            "thumbnail": "assets/image/locations/hajar_al_aswad.webp",
+            "gallery": [
+              "assets/image/locations/hajar_al_aswad.webp"
+            ]
+          }
+        },
+        {
+          "id": "bab_al_kaaba",
+          "title": {
+            "en": "Bab al-Kaaba & Al-Multazam",
+            "ms": "Pintu Kaabah & Al-Multazam",
+            "ml": "ബാബുൽ കഅ്ബയും മുൽതസമും",
+            "ta": "கஅபா வாசல் மற்றும் முல்தஸம்"
+          },
+          "summary": {
+            "en": "The elevated golden entrance and the sacred wall section of supplication.",
+            "ms": "Pintu emas Kaabah dan dinding mustajab doa di antara pintu dan Hajarul Aswad.",
+            "ml": "കഅ്ബയുടെ സ്വർണ്ണ വാതിലും പ്രാർത്ഥനക്ക് ഉത്തരം ലഭിക്കുന്ന മുൽതസം മതിലും.",
+            "ta": "கஅபாவின் தங்க வாசல் மற்றும் துஆ ஏற்றுக்கொள்ளப்படும் முல்தஸம் சுவர்."
+          },
+          "details": {
+            "en": "The Multazam is the approximately two-meter wall between the Black Stone and the door where supplications are accepted.",
+            "ms": "Multazam ialah bahagian dinding sekitar dua meter antara Hajarul Aswad dan pintu Kaabah di mana doa sangat mustajab.",
+            "ml": "ഹജറുൽ അസ്‌വദിനും കഅ്ബയുടെ വാതിലിനും ഇടയിലുള്ള ഭാഗമാണ് മുൽതസം. ഇവിടെ വെച്ചുള്ള പ്രാർത്ഥനകൾക്ക് ഏറെ ഉത്തരമുണ്ട്.",
+            "ta": "ஹஜருல் அஸ்வத்திற்கும் கஅபாவின் வாசலுக்கும் இடைப்பட்ட இரண்டு மீட்டர் சுவர் பகுதி முல்தஸம் எனப்படும்."
+          },
+          "images": {
+            "thumbnail": "assets/image/locations/bab_al_kaaba.webp",
+            "gallery": [
+              "assets/image/locations/bab_al_kaaba.webp"
+            ]
+          }
+        },
+        {
+          "id": "hijr_ismail",
+          "title": {
+            "en": "Hijr Ismail (Hateem) & Meezab ar-Rahmah",
+            "ms": "Hijr Ismail (Hateem) & Meezab ar-Rahmah",
+            "ml": "ഹിജ്ർ ഇസ്മാഈൽ (ഹതീം) & മീസാബുർറഹ്മ",
+            "ta": "ஹிஜ்ர் இஸ்மாயீல் (ஹதீம்) & மீஸாபுர் ரஹ்மா"
+          },
+          "summary": {
+            "en": "The semi-circular enclosure integral to the Kaaba beneath the golden rainwater spout.",
+            "ms": "Kawasan melengkung separa bulat yang asalnya sebahagian dari Kaabah di bawah pancuran emas.",
+            "ml": "കഅ്ബയുടെ മേൽക്കൂരയിലെ സ്വർണ്ണ പാത്തിക്ക് കീഴെയുള്ള അർദ്ധവൃത്താകൃതിയിലുള്ള ഭാഗം.",
+            "ta": "கஅபாவின் தங்க மழைநீர்ப் பீலிக்கு கீழே உள்ள அரைவட்ட மதில் பகுதி."
+          },
+          "details": {
+            "en": "Praying inside the Hateem carries the reward of praying inside the Kaaba itself. Above it is the gilded gutter (Meezab ar-Rahmah).",
+            "ms": "Solat di dalam Hateem mempunyai ganjaran seperti bersolat di dalam Kaabah. Di atasnya terdapat pancuran emas Meezab ar-Rahmah.",
+            "ml": "ഹതീമിനുള്ളിൽ നമസ്കരിക്കുന്നത് കഅ്ബയ്ക്കുള്ളിൽ നമസ്കരിക്കുന്നതിന് തുല്യമാണ്. ഇതിന് മുകളിലാണ് മീസാബുർറഹ്മ സ്ഥിതി ചെയ്യുന്നത്.",
+            "ta": "ஹதீமுக்குள் தொழுவது கஅபாவிற்குள் தொழுவதற்குச் சமமாகும். இதன் மேல் தங்க மழைநீர் தாரை உள்ளது."
+          },
+          "images": {
+            "thumbnail": "assets/image/locations/hijr_ismail.webp",
+            "gallery": [
+              "assets/image/locations/hijr_ismail.webp"
+            ]
+          }
+        },
+        {
+          "id": "maqam_ibrahim",
+          "title": {
+            "en": "Maqam Ibrahim",
+            "ms": "Maqam Ibrahim",
+            "ml": "മഖാമു ഇബ്രാഹീം",
+            "ta": "மகாமு இப்ராஹீம்"
+          },
+          "summary": {
+            "en": "The crystalline enclosure bearing the imprinted footprints of Prophet Ibrahim.",
+            "ms": "Kubah kaca bertatah emas yang menyimpan batu kesan tapak kaki Nabi Ibrahim a.s.",
+            "ml": "ഇബ്രാഹീം നബിയുടെ കാൽപ്പാടുകൾ പതിഞ്ഞ ശില സൂക്ഷിച്ചിരിക്കുന്ന കേന്ദ്രം.",
+            "ta": "இப்ராஹீம் நபியின் பாதச்சுவடுகள் பதிந்த கல் வைக்கப்பட்டுள்ள இடம்."
+          },
+          "details": {
+            "en": "The stone Prophet Ibrahim stood on while raising the foundations of the Kaaba. Pilgrims pray two rak'ahs behind it after Tawaf.",
+            "ms": "Batu tempat berdirinya Nabi Ibrahim semasa membina Kaabah. Sunat bersolat dua rakaat tawaf di belakangnya.",
+            "ml": "കഅ്ബ നിർമ്മാണ വേളയിൽ ഇബ്രാഹീം നബി കയറിനിന്ന കല്ല്. ത്വവാഫിന് ശേഷം ഇതിന്റെ പിന്നിൽ രണ്ട് റക്അത്ത് നമസ്കരിക്കൽ സുന്നത്താണ്.",
+            "ta": "கஅபாவை உயர்த்தியபோது இப்ராஹீம் நபி நின்ற கல். தவாஃபிற்குப் பின் இதன் பின்னால் இரண்டு ரக்அத்கள் தொழுவது சுன்னத்."
+          },
+          "images": {
+            "thumbnail": "assets/image/locations/maqam_ibrahim.webp",
+            "gallery": [
+              "assets/image/locations/maqam_ibrahim.webp"
+            ]
+          }
+        },
+        {
+          "id": "zamzam_site",
+          "title": {
+            "en": "Historical Zamzam Well Location",
+            "ms": "Lokasi Asal Telaga Zamzam",
+            "ml": "സംസം കിണറിന്റെ ചരിത്ര സ്ഥാനം",
+            "ta": "ஸம்ஸம் கிணற்றின் வரலாற்று இடம்"
+          },
+          "summary": {
+            "en": "Subterranean site of the miraculous freshwater well revealed to Hajar and Ismail.",
+            "ms": "Tapak bawah tanah telaga mukjizat yang memancar untuk Hajar dan Nabi Ismail a.s.",
+            "ml": "ഹാജർ ബീവിക്കും ഇസ്മാഈൽ നബിക്കും വേണ്ടി അല്ലാഹു നൽകിയ സംസം കിണറിന്റെ സ്ഥാനം.",
+            "ta": "ஹாஜர் மற்றும் இஸ்மாயீல் நபிக்காக அல்லாஹ் வெளிப்படுத்திய ஸம்ஸம் நீரூற்றின் தரைக்கீழ் தளம்."
+          },
+          "details": {
+            "en": "Formerly had a domed structure and stairs down to the wellhead; now integrated safely beneath the Mataf tiles to ease crowd flow.",
+            "ms": "Dahulu mempunyai kubah dan tangga turun, kini ditutup dan dipam di bawah lantai marmar Mataf bagi memudahkan aliran tawaf.",
+            "ml": "മുമ്പ് പടവുകളിറങ്ങി കിണറിനടുത്തേക്ക് പോകാമായിരുന്നു, ഇപ്പോൾ മത്വാഫ് വികസനത്തിന്റെ ഭാഗമായി തറയ്ക്ക് അടിയിലാണ്.",
+            "ta": "முன்பு படிக்கட்டுகள் வழியாக செல்ல முடிந்தது, இப்போது கூட்ட நெரிசலைத் தவிர்க்க தரைக்கீழ் அமைப்பாக மாற்றப்பட்டுள்ளது."
+          },
+          "images": {
+            "thumbnail": "assets/image/locations/zamzam_site.webp",
+            "gallery": [
+              "assets/image/locations/zamzam_site.webp"
+            ]
+          }
+        },
+        {
+          "id": "dar_an_nadwah_site",
+          "title": {
+            "en": "Site of Dar an-Nadwah",
+            "ms": "Tapak Darun Nadwah",
+            "ml": "ദാറുന്നുദ്‌വയുടെ ചരിത്ര സ്ഥലം",
+            "ta": "தாருந் நத்வா அமைந்திருந்த இடம்"
+          },
+          "summary": {
+            "en": "Historic council chamber of Quraysh on the northwestern border of the old courtyard.",
+            "ms": "Tapak dewan musyawarah pembesar Quraisy di sebelah barat laut dataran Kaabah.",
+            "ml": "ഖുറൈശികളുടെ ഭരണകാര്യാലയവും പാർലമെന്റുമായിരുന്ന ദാറുന്നുദ്‌വ നിലനിന്നിരുന്ന പ്രദേശം.",
+            "ta": "குறைஷிகள் கூடி ஆலோசனை செய்த பழைய மண்டபம் அமைந்திருந்த வரலாற்று இடம்."
+          },
+          "details": {
+            "en": "Originally built by Qusayy ibn Kilab. This was the place where Quraysh plotted against the Prophet ﷺ prior to the Hijrah.",
+            "ms": "Diasaskan oleh Qusayy bin Kilab. Tempat pembesar Quraisy merancang konspirasi membunuh Rasulullah ﷺ sebelum peristiwa Hijrah.",
+            "ml": "ഖുസ്വയ്യ് ബിൻ കിലാബ് നിർമ്മിച്ചത്. ഹിജ്റക്ക് മുൻപ് നബിക്കെതിരെ ഖുറൈശികൾ ഗൂഢാലോചന നടത്തിയ കേന്ദ്രം.",
+            "ta": "குஸைய் இப்னு கிலாப் என்பவரால் கட்டப்பட்டது. ஹிஜ்ரத்திற்கு முன் நபிகளாருக்கு எதிராக குறைஷிகள் திட்டம் தீட்டிய இடம்."
+          },
+          "images": {
+            "thumbnail": "assets/image/locations/dar_an_nadwah_site.webp",
+            "gallery": [
+              "assets/image/locations/dar_an_nadwah_site.webp"
+            ]
+          }
+        },
+        {
+          "id": "umm_hani_house_site",
+          "title": {
+            "en": "Site of Umm Hani's House (Isra' Start)",
+            "ms": "Tapak Rumah Ummu Hani (Permulaan Isra')",
+            "ml": "ഉമ്മുഹാനിയുടെ വീട് (ഇസ്റാഇന്റെ തുടക്കം)",
+            "ta": "உம்மு ஹானியின் இல்லம் (இஸ்ரா துவங்கிய இடம்)"
+          },
+          "summary": {
+            "en": "Location on the southern perimeter where the Night Journey (Al-Isra') commenced.",
+            "ms": "Tapak kediaman Ummu Hani di mana peristiwa Al-Isra' bermula pada malam hari.",
+            "ml": "ഇസ്‌റാഅ്-മിഅ്‌റാജ് യാത്ര നബി ﷺ ആരംഭിച്ച ഉമ്മുഹാനി(റ)യുടെ വീട് നിലനിന്നിരുന്ന സ്ഥലം.",
+            "ta": "நபிகள் நாயகம் ﷺ அவர்களின் இஸ்ரா பயணம் தொடங்கிய உம்மு ஹானியின் இல்லம் இருந்த இடம்."
+          },
+          "details": {
+            "en": "Located near the old Bab Ali/Bab Hazwah area. The Prophet ﷺ was resting here when Angel Jibril brought Buraq for the journey to Jerusalem.",
+            "ms": "Terletak berhampiran pintu lama Bab Ali. Baginda ﷺ sedang berehat di rumah sepupunya ini sebelum dibawa Malaikat Jibril ke Baitulmaqdis.",
+            "ml": "ബാബു അലിക്ക് സമീപം. ജിബ്‌രീൽ (അ) ബുറാഖുമായി വന്ന് നബിയെ ബൈത്തുൽ മുഖദ്ദസിലേക്ക് കൊണ്ടുപോയ ചരിത്ര പ്രധാന ഇടം.",
+            "ta": "பாப் அலி வாயிலுக்கு அருகில் அமைந்திருந்தது. ஜிப்ரீல் (அலை) அவர்கள் புராக் வாகனத்தைக் கொண்டுவந்து நபிகளை அழைத்துச் சென்ற இடம்."
+          },
+          "images": {
+            "thumbnail": "assets/image/locations/umm_hani_house_site.webp",
+            "gallery": [
+              "assets/image/locations/umm_hani_house_site.webp"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "masa_and_gates",
+      "region": "makkah",
+      "title": {
+        "en": "The Mas'a Gallery & Major Gates",
+        "ms": "Laluan Mas'a & Pintu-Pintu Utama",
+        "ml": "മസ്അയും പ്രധാന കവാടങ്ങളും",
+        "ta": "மஸ்ஆ பாதை மற்றும் பிரதான வாசல்கள்"
+      },
+      "summary": {
+        "en": "The corridor of ritual running between Safa and Marwah, and the architectural gates of the Grand Mosque.",
+        "ms": "Galeri sa'ie antara Safa dan Marwah serta pintu gerbang bersejarah Masjidil Haram.",
+        "ml": "സ്വഫാ-മർവ്വയ്ക്കിടയിലെ സഈ ചെയ്യുന്ന പാതയും മസ്ജിദുൽ ഹറാമിലെ പ്രധാന കവാടങ്ങളും.",
+        "ta": "ஸஃபா மற்றும் மர்வாவுக்கு இடைப்பட்ட சயீ பகுதி மற்றும் மஸ்ஜிதுல் ஹராமின் பிரதான வாயில்கள்."
+      },
+      "places": [
+        {
+          "id": "jabal_safa",
+          "title": {
+            "en": "Mount Safa (Starting Point)",
+            "ms": "Bukit Safa (Permulaan Sa'ie)",
+            "ml": "സ്വഫാ മല (സഈയുടെ തുടക്കം)",
+            "ta": "ஸஃபா மலை (சயீ தொடங்குமிடம்)"
+          },
+          "summary": {
+            "en": "The rocky hill from which pilgrims commence the seven laps of Sa'i.",
+            "ms": "Batuan bukit di mana jemaah memulakan pusingan pertama sa'ie menghadap kiblat.",
+            "ml": "സഈ ആരംഭിക്കുന്ന സ്വഫാ മലയുടെ ഭാഗം.",
+            "ta": "சயீ வணக்கத்தின் முதல் சுற்றை தொடங்கும் பாறை மலை."
+          },
+          "details": {
+            "en": "The outcrop where the Prophet ﷺ declared open monotheism to Quraysh (Call of Safa). The 7 laps of Sa'i begin here.",
+            "ms": "Bukit di mana Baginda ﷺ menyeru kaum Quraisy secara terang-terangan. Pusingan ganjil sa'ie (1, 3, 5, 7) bermula dari sini.",
+            "ml": "നബി ﷺ പരസ്യ പ്രബോധനം ആരംഭിച്ച സ്വഫാ മല. സഈ ആരംഭിക്കുന്നത് ഇവിടെ നിന്നാണ്.",
+            "ta": "நபிகள் நாயகம் பகிரங்க பிரச்சாரத்தை தொடங்கிய மலை. சயீயின் 7 சுற்றுகள் இங்கிருந்தே துவங்கும்."
+          },
+          "images": {
+            "thumbnail": "assets/image/locations/jabal_safa.webp",
+            "gallery": [
+              "assets/image/locations/jabal_safa.webp"
+            ]
+          }
+        },
+        {
+          "id": "jabal_marwah",
+          "title": {
+            "en": "Mount Marwah (End of Sa'i)",
+            "ms": "Bukit Marwah (Penamat Sa'ie)",
+            "ml": "മർവ്വാ മല (സഈയുടെ പൂർത്തീകരണം)",
+            "ta": "மர்வா மலை (சயீ முடிவடையும் இடம்)"
+          },
+          "summary": {
+            "en": "The rocky mound where the seventh lap of Sa'i finishes prior to tahallul.",
+            "ms": "Batuan bukit di mana pusingan ketujuh sa'ie berakhir sebelum bercukur atau bertahalul.",
+            "ml": "ഏഴാമത്തെ സഈ പൂർത്തിയാകുന്ന മർവ്വാ മല.",
+            "ta": "சயீயின் ஏழாவது சுற்று நிறைவடைந்து தஹல்லுல் செய்யும் மலை."
+          },
+          "details": {
+            "en": "Facing southwest toward the Kaaba for du'a at the end of each arrival from Safa. Lap 7 concludes here.",
+            "ms": "Menghadap ke arah barat daya ke Kaabah untuk berdoa di setiap penghujung pusingan. Pusingan ketujuh tamat di sini.",
+            "ml": "സഈയുടെ ഏഴാം ഘട്ടം ഇവിടെ അവസാനിക്കുന്നു. ഇവിടെ വെച്ച് കഅ്ബയിലേക്ക് തിരിഞ്ഞു ദുആ ചെയ്യൽ സുന്നത്താണ്.",
+            "ta": "ஒவ்வொரு சுற்றின் முடிவிலும் தென்மேற்கு திசையிலுள்ள கஅபாவை நோக்கி துஆ செய்யும் இடம். ஏழாவது சுற்று இங்கு நிறவடைகிறது."
+          },
+          "images": {
+            "thumbnail": "assets/image/locations/jabal_marwah.webp",
+            "gallery": [
+              "assets/image/locations/jabal_marwah.webp"
+            ]
+          }
+        },
+        {
+          "id": "milayn_al_akhdarayn",
+          "title": {
+            "en": "The Green Marker Run Section",
+            "ms": "Kawasan Lampu Hijau (Lari Anak)",
+            "ml": "പച്ച ലൈറ്റുകൾ ഉള്ള സഈ പാത",
+            "ta": "பச்சை விளக்கு பகுதி (மெதுவோட்டம்)"
+          },
+          "summary": {
+            "en": "The lighted gallery section where male pilgrims perform gentle jogging.",
+            "ms": "Kawasan bertanda tiub lampu hijau di mana jemaah lelaki disunatkan berlari anak.",
+            "ml": "സഈ ചെയ്യുമ്പോൾ പുരുഷന്മാർ വേഗത്തിൽ നടക്കേണ്ട പച്ച വെളിച്ചമുള്ള പ്രദേശം.",
+            "ta": "சயீயின் போது ஆண்கள் மெதுவாக ஓட வேண்டிய பச்சை விளக்கு பகுதி."
+          },
+          "details": {
+            "en": "Commemorates the area of the dry bed where Lady Hajar ran swiftly to maintain sight of infant Ismail.",
+            "ms": "Memperingati kawasan lembah di mana Sayyidatina Hajar berlari pantas mencari air sambil memerhatikan Nabi Ismail a.s.",
+            "ml": "ഇസ്മാഈൽ നബിയെ കാണാൻ ഹാജർ ബീവി വേഗത്തിൽ ഓടിയ ചരിത്ര ഭാഗം.",
+            "ta": "இஸ்மாயீல் நபியை கவனித்தவாறு அன்னை ஹாஜர் வேகமாக ஓடிய பள்ளத்தாக்கு பகுதி."
+          },
+          "images": {
+            "thumbnail": "assets/image/locations/milayn_al_akhdarayn.webp",
+            "gallery": [
+              "assets/image/locations/milayn_al_akhdarayn.webp"
+            ]
+          }
+        },
+        {
+          "id": "bab_al_fatah",
+          "title": {
+            "en": "Bab al-Fatah (Gate of Victory)",
+            "ms": "Bab al-Fatah (Pintu Kemenangan)",
+            "ml": "ബാബുൽ ഫത്ഹ് (വിജയ കവാടം)",
+            "ta": "பாப் அல்-ஃபத்தஹ் (வெற்றி வாசல்)"
+          },
+          "summary": {
+            "en": "The historic entrance through which the Prophet entered upon the Conquest of Makkah.",
+            "ms": "Pintu bersejarah di mana Baginda ﷺ masuk ke Masjidil Haram semasa Fath Makkah.",
+            "ml": "മക്കാ ഫത്ഹിൽ നബി ﷺ മസ്ജിദുൽ ഹറാമിലേക്ക് പ്രവേശിച്ച വാതിൽ.",
+            "ta": "மக்கா வெற்றியின் போது நபிகளார் மஸ்ஜிதுல் ஹராமுக்குள் நுழைந்த வரலாற்று வாசல்."
+          },
+          "details": {
+            "en": "Situated on the northern face of the mosque. The victorious entry occurred in 8 AH without bloodshed.",
+            "ms": "Terletak di bahagian utara masjid. Pintu masuk pembebasan kota Makkah pada 8 Hijrah secara aman tanpa tumpahan darah.",
+            "ml": "മക്ക വിജയ വേളയിൽ നബി ﷺ സൈന്യത്തോടൊപ്പം പ്രവേശിച്ച കവാടം.",
+            "ta": "ஹிஜ்ரி 8-ல் மக்கா வெற்றியின் போது நபிகளார் அமைதியாக நுழைந்த வாசல்."
+          },
+          "images": {
+            "thumbnail": "assets/image/locations/bab_al_fatah.webp",
+            "gallery": [
+              "assets/image/locations/bab_al_fatah.webp"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "sirah_makkah_houses",
+      "region": "makkah",
+      "title": {
+        "en": "Historic Houses & Early Sirah in Makkah",
+        "ms": "Kediaman Bersejarah & Lokasi Awal Sirah di Makkah",
+        "ml": "മക്കയിലെ ചരിത്ര വീടുകളും പ്രവാചക ചരിത്രവും",
+        "ta": "மக்காவின் வரலாற்று இல்லங்கள் மற்றும் ஆரம்பகால சீரா"
+      },
+      "summary": {
+        "en": "The birth and domestic sanctuaries of early Islam, as well as sites of oppression and sacrifice.",
+        "ms": "Lokasi kelahiran, rumah kediaman sahabat, dan medan pengorbanan para syuhada terawal di Makkah.",
+        "ml": "നബിയുടെ ജന്മസ്ഥലം, വീടുകൾ, പ്രാരംഭകാല ഇസ്ലാമിക ത്യാഗങ്ങളുടെ കേന്ദ്രങ്ങൾ.",
+        "ta": "நபிகளாரின் பிறந்த இடம், வரலாற்று இல்லங்கள் மற்றும் ஆரம்பகால தியாக இடங்கள்."
+      },
+      "places": [
+        {
+          "id": "bayt_al_mawlid",
+          "title": {
+            "en": "Bayt al-Mawlid (Birthplace of the Prophet)",
+            "ms": "Bayt al-Mawlid (Tapak Kelahiran Nabi ﷺ)",
+            "ml": "മൗലിദുന്നബി (നബിയുടെ ജന്മസ്ഥലം)",
+            "ta": "மௌலிதுன் நபி (நபிகளார் பிறந்த இடம்)"
+          },
+          "summary": {
+            "en": "The ancestral home in Suq al-Layl where the Prophet was born, now Makkah Library.",
+            "ms": "Rumah keluarga Bani Hashim di mana Baginda ﷺ dilahirkan, kini Maktabah Makkah.",
+            "ml": "നബി ﷺ ജനിച്ച പ്രദേശം, നിലവിൽ മക്കാ ലൈബ്രറി സ്ഥിതി ചെയ്യുന്നയിടം.",
+            "ta": "நபிகளார் பிறந்த பனூ ஹாஷிம் பகுதியிலுள்ள இல்லம், தற்போது மக்கா நூலகம்."
+          },
+          "details": {
+            "en": "Located in Shib Abi Talib/Suq al-Layl district east of the Haram. Rebuilt as a public library (Maktabat Makkah al-Mukarramah).",
+            "ms": "Terletak di kawasan Syi'ib Abi Talib di timur Masjidil Haram. Kini dijadikan perpustakaan awam.",
+            "ml": "ശീഅബ് അബീത്വാലിബിൽ സ്ഥിതി ചെയ്യുന്നു. നിലവിൽ ഇതൊരു ഗ്രന്ഥശാലയാണ്.",
+            "ta": "ஷியப் அபீதாலிப் பகுதியில் அமைந்தது. தற்போது மக்கா பொது நூலகமாக உள்ளது."
+          },
+          "images": {
+            "thumbnail": "assets/image/locations/bayt_al_mawlid.webp",
+            "gallery": [
+              "assets/image/locations/bayt_al_mawlid.webp"
+            ]
+          }
+        },
+        {
+          "id": "khadijah_house_site",
+          "title": {
+            "en": "Site of Khadijah's House",
+            "ms": "Tapak Rumah Sayyidatina Khadijah",
+            "ml": "ഖദീജ (റ) യുടെ വീട് സ്ഥിതി ചെയ്ത സ്ഥലം",
+            "ta": "கதீஜா (ரலி) இல்லம் அமைந்திருந்த இடம்"
+          },
+          "summary": {
+            "en": "Sanctuary where the Prophet lived for 28 years and where his children were born.",
+            "ms": "Rumah kediaman Baginda ﷺ bersama Khadijah selama 28 tahun dan tempat lahir anak-anak baginda.",
+            "ml": "നബി ﷺ തന്റെ മക്കൾ ജനിക്കുകയും 28 വർഷം താമസിക്കുകയും ചെയ്ത ഖദീജ(റ)യുടെ വീട്.",
+            "ta": "நபிகளார் 28 ஆண்டுகள் வாழ்ந்ததும், குழந்தைகள் பிறந்ததும் ஆன கதீஜா (ரலி) இல்லம்."
+          },
+          "details": {
+            "en": "Located in the Marwah/Suq al-Layl plaza expansion. Here Angel Jibril descended repeatedly with early revelations.",
+            "ms": "Terletak di dataran berhampiran Marwah. Tempat Jibril kerap turun membawa wahyu dalam kehidupan berkeluarga.",
+            "ml": "മർവ്വയുടെ വടക്കുകിഴക്ക് ഭാഗത്തായിരുന്നു. ജിബ്‌രീൽ (അ) നിരവധി തവണ വഹ്‌യുമായി എത്തിയ വീട്.",
+            "ta": "மர்வா பிளாசா பகுதியில் அமைந்திருந்தது. பல ஆரம்பகால வஹீகள் இறங்கிய இடம்."
+          },
+          "images": {
+            "thumbnail": "assets/image/locations/khadijah_house_site.webp",
+            "gallery": [
+              "assets/image/locations/khadijah_house_site.webp"
+            ]
+          }
+        },
+        {
+          "id": "abu_bakr_house_site",
+          "title": {
+            "en": "Site of Abu Bakr's House (Misfalah)",
+            "ms": "Tapak Rumah Abu Bakar as-Siddiq (Misfalah)",
+            "ml": "അബൂബക്കർ സിദ്ദീഖിന്റെ വീട് (മിസ്ഫല)",
+            "ta": "அபூபக்கர் சித்தீக் இல்லம் (மிஸ்ஃபலா)"
+          },
+          "summary": {
+            "en": "The departure point from which the Prophet and Abu Bakr slipped away for Hijrah.",
+            "ms": "Kediaman Abu Bakar di Misfalah dari mana Baginda ﷺ dan beliau bertolak keluar memulakan Hijrah.",
+            "ml": "ഹിജ്റക്ക് വേണ്ടി നബിയും അബൂബക്കറും യാത്ര തിരിച്ച വീട് സ്ഥിതി ചെയ്ത പ്രദേശം.",
+            "ta": "ஹிஜ்ரத் பயணத்திற்காக நபிகளாரும் அபூபக்கரும் புறப்பட்ட இல்லம் அமைந்திருந்த தளம்."
+          },
+          "details": {
+            "en": "Located in Misfalah near the present Jabal Omar development. From here, they exited through a back aperture to Mount Thawr.",
+            "ms": "Terletak di lembah Misfalah berhampiran Jabal Omar. Dari pintu belakang rumah ini mereka bertolak ke Gua Thaur.",
+            "ml": "ജബൽ ഉമർ ഭാഗത്ത്. ഈ വീടിന്റെ പിൻവാതിലിലൂടെയാണ് സൗർ ഗുഹയിലേക്ക് അവർ പുറപ്പെട്ടത്.",
+            "ta": "ஜபல் உமர் திட்டத்திற்கு அருகில் அமைந்தது. இதன் பின்வழியாக சவ்ர் குகைக்குப் புறப்பட்டனர்."
+          },
+          "images": {
+            "thumbnail": "assets/image/locations/abu_bakr_house_site.webp",
+            "gallery": [
+              "assets/image/locations/abu_bakr_house_site.webp"
+            ]
+          }
+        },
+        {
+          "id": "al_shubaikah_district",
+          "title": {
+            "en": "Al-Shubaikah (Martyrdom of Sumayyah)",
+            "ms": "Al-Syubaikah (Tapak Syahid Sayyidatina Sumayyah)",
+            "ml": "അശ്ശുബൈക (സുമയ്യ ബീവിയുടെ രക്തസാക്ഷിത്വം)",
+            "ta": "அஷ்-ஷுபைகா (ஸுமய்யா ரலி ஷஹீதான இடம்)"
+          },
+          "summary": {
+            "en": "The open quarter where Yasir's family endured torture and Sumayyah became Islam's first martyr.",
+            "ms": "Kawasan lapang di mana keluarga Yasir diseksa dan Sumayyah gugur sebagai syahid pertama Islam.",
+            "ml": "യാസിർ കുടുംബം പീഡിപ്പിക്കപ്പെടുകയും സുമയ്യ ബീവി ആദ്യത്തെ രക്തസാക്ഷിയാകുകയും ചെയ്ത സ്ഥലം.",
+            "ta": "யாசிர் குடும்பத்தினர் சித்திரவதை செய்யப்பட்டு ஸுமய்யா (ரலி) முதல் தியாகியான பகுதி."
+          },
+          "details": {
+            "en": "Near the western base of Jabal Omar. Abu Jahal fatally speared Sumayyah here for refusing to recant her faith.",
+            "ms": "Berhampiran kaki barat Jabal Omar. Abu Jahal merejam dan menikam Sumayyah r.a. kerana enggan murtad.",
+            "ml": "ജബൽ ഉമറിന്റെ പടിഞ്ഞാറ് ഭാഗം. അബൂജഹൽ സുമയ്യ ബീവിയെ കുത്തിക്കൊലപ്പെടുത്തിയ പ്രദേശം.",
+            "ta": "ஜபல் உமரின் மேற்கு அடிவாரம். ஈமானை கைவிட மறுத்ததற்காக அபூஜஹ்லால் ஸுமய்யா கொல்லப்பட்ட இடம்."
+          },
+          "images": {
+            "thumbnail": "assets/image/locations/al_shubaikah_district.webp",
+            "gallery": [
+              "assets/image/locations/al_shubaikah_district.webp"
+            ]
+          }
+        },
+        {
+          "id": "jannat_al_mualla",
+          "title": {
+            "en": "Jannat al-Mu'alla (Al-Hajun Cemetery)",
+            "ms": "Jannat al-Mu'alla (Perkuburan Ma'la / Al-Hajun)",
+            "ml": "ജന്നത്തുൽ മുഅല്ല (ഹജൂൻ ഖബർസ്ഥാൻ)",
+            "ta": "ஜன்னத்துல் முஅல்லா (அல்-ஹஜூன் மையவாடி)"
+          },
+          "summary": {
+            "en": "The sacred ancient cemetery sheltering Khadijah, Abu Talib, and Abdul Muttalib.",
+            "ms": "Tanah perkuburan purba Makkah tempat makam Ummul Mukminin Khadijah, Abu Talib, dan Abdul Muttalib.",
+            "ml": "ഖദീജ (റ), അബൂത്വാലിബ്, അബ്ദുൽ മുത്വലിബ് എന്നിവരുടെ ഖബറുകൾ സ്ഥിതി ചെയ്യുന്ന ഖബർസ്ഥാൻ.",
+            "ta": "அன்னை கதீஜா (ரலி), அபூதாலிப், மற்றும் அப்துல் முத்தலிப் அடக்கம் செய்யப்பட்ட மையவாடி."
+          },
+          "details": {
+            "en": "Located along the road to Mina through Al-Hajun. Also rests Asma bint Abi Bakr and Abdullah ibn al-Zubayr.",
+            "ms": "Terletak di jalan Al-Hajun ke Mina. Juga bersemadi Asma' binti Abu Bakar dan Abdullah bin az-Zubair.",
+            "ml": "അൽ-ഹജൂൻ താഴ്‌വരയിൽ സ്ഥിതി ചെയ്യുന്നു. അസ്മാ ബിൻത് അബീബക്കറും ഇവിടെ അന്ത്യവിശ്രമം കൊള്ളുന്നു.",
+            "ta": "அல்-ஹஜூன் பகுதியில் அமைந்துள்ளது. அஸ்மா பின்த் அபீபக்கர் ஆகியோரும் இங்கு நல்லடக்கம் செய்யப்பட்டுள்ளனர்."
+          },
+          "images": {
+            "thumbnail": "assets/image/locations/jannat_al_mualla.webp",
+            "gallery": [
+              "assets/image/locations/jannat_al_mualla.webp"
+            ]
+          }
+        },
+        {
+          "id": "masjid_al_jinn",
+          "title": {
+            "en": "Masjid al-Jinn",
+            "ms": "Masjid al-Jinn",
+            "ml": "മസ്ജിദുൽ ജിന്ന്",
+            "ta": "மஸ்ஜிதுல் ஜின்"
+          },
+          "summary": {
+            "en": "Sanctuary where a delegation of jinn accepted Islam after hearing the Quran.",
+            "ms": "Masjid di tapak sekumpulan jin mendengar al-Quran dan berbai'ah memeluk Islam.",
+            "ml": "ജിന്നുകൾ നബിയിൽ നിന്ന് ഖുർആൻ കേട്ട് ഇസ്ലാം സ്വീകരിച്ച സ്ഥലം.",
+            "ta": "ஜின் கூட்டத்தினர் நபிகளாரிடம் குர்ஆனைக் கேட்டு இஸ்லாத்தை ஏற்ற இடம்."
+          },
+          "details": {
+            "en": "Near Jannat al-Mu'alla. The event prompted the revelation of Surah al-Jinn.",
+            "ms": "Berhampiran perkuburan Ma'la. Peristiwa ini melatarbelakangi penurunan Surah al-Jinn.",
+            "ml": "സൂറത്തുൽ ജിന്ന് അവതരിക്കാൻ കാരണമായ സംഭവം നടന്ന ചരിത്ര സ്ഥലം.",
+            "ta": "ஜன்னத்துல் முஅல்லா அருகில் உள்ளது. இங்கு தான் சூரத்துல் ஜின் வசனங்கள் அருளப்பட்டன."
+          },
+          "images": {
+            "thumbnail": "assets/image/locations/masjid_al_jinn.webp",
+            "gallery": [
+              "assets/image/locations/masjid_al_jinn.webp"
+            ]
+          }
+        },
+        {
+          "id": "masjid_ash_shajarah",
+          "title": {
+            "en": "Masjid ash-Shajarah (Mosque of the Tree)",
+            "ms": "Masjid ash-Shajarah (Masjid Pokok)",
+            "ml": "മസ്ജിദുശ്ശജറ (വൃക്ഷത്തിന്റെ പള്ളി)",
+            "ta": "மஸ்ஜிதுஷ் ஷஜரா (மரத்தின் பள்ளிவாசல்)"
+          },
+          "summary": {
+            "en": "Site where a tree miraculously moved to the Prophet when summoned.",
+            "ms": "Tapak di mana sepohon pokok bergerak menghampiri Baginda ﷺ sebagai mukjizat.",
+            "ml": "നബിയുടെ കൽപ്പന കേട്ട് ഒരു മരം വേരോടെ നടന്നു വന്ന മുഅ്ജിസത്ത് നടന്ന സ്ഥലം.",
+            "ta": "நபிகளாரின் அழைப்பையேற்று மரம் ஒன்று வேரோடு நகர்ந்து வந்த அற்புதம் நிகழ்ந்த இடம்."
+          },
+          "details": {
+            "en": "Facing Masjid al-Jinn. Occurred when the polytheists demanded a physical sign proving his prophethood.",
+            "ms": "Bertentangan Masjid al-Jinn. Peristiwa mukjizat apabila musyrikin meminta bukti kenabian.",
+            "ml": "മുശ്‌രിക്കുകൾ ദൃഷ്ടാന്തം ആവശ്യപ്പെട്ടപ്പോൾ നബി കാണിച്ചുകൊടുത്ത മുഅ്ജിസത്തിന്റെ സ്മരണ.",
+            "ta": "மஸ்ஜிதுல் ஜின்க்கு எதிரில் உள்ளது. குறைஷிகள் அத்தாட்சி கேட்டபோது நிகழ்ந்த அற்புதம்."
+          },
+          "images": {
+            "thumbnail": "assets/image/locations/masjid_ash_shajarah.webp",
+            "gallery": [
+              "assets/image/locations/masjid_ash_shajarah.webp"
+            ]
+          }
+        },
+        {
+          "id": "masjid_ar_rayah",
+          "title": {
+            "en": "Masjid ar-Rayah (Mosque of the Banner)",
+            "ms": "Masjid ar-Rayah (Masjid Bendera)",
+            "ml": "മസ്ജിദുർറായ (പതാകയുടെ പള്ളി)",
+            "ta": "மஸ்ஜிதுர் ராயா (கொடி பள்ளிவாசல்)"
+          },
+          "summary": {
+            "en": "The spot where the Prophet's flag was planted during the Conquest of Makkah.",
+            "ms": "Tapak bendera panji Islam dipacakkan semasa pembukaan kota Makkah.",
+            "ml": "മക്ക വിജയ വേളയിൽ ഇസ്ലാമിക പതാക നാട്ടിയ സ്ഥലം.",
+            "ta": "மக்கா வெற்றியின் போது இஸ்லாமிய வெற்றிக் கொடி நாட்டப்பட்ட இடம்."
+          },
+          "details": {
+            "en": "Located in Al-Judariyyah quarter near Hajun. Marks the military command assembly of the Prophet's battalion.",
+            "ms": "Terletak di kawasan Al-Judariyyah dekat Hajun. Tempat berkumpulnya batalion tentera Rasulullah ﷺ.",
+            "ml": "ഹജൂൻ ഭാഗത്ത്. നബി ﷺ തന്റെ സൈന്യത്തിന് നിർദ്ദേശം നൽകിയ കേന്ദ്രം.",
+            "ta": "ஹஜூன் அருகில் உள்ள இடம். நபிகளார் படைகளை வழிநடத்திய கட்டளை தளம்."
+          },
+          "images": {
+            "thumbnail": "assets/image/locations/masjid_ar_rayah.webp",
+            "gallery": [
+              "assets/image/locations/masjid_ar_rayah.webp"
+            ]
+          }
+        },
+        {
+          "id": "dhi_tuwa_valley",
+          "title": {
+            "en": "Dhi Tuwa Well & Encampment (Jarwal)",
+            "ms": "Lembah & Telaga Dhi Tuwa (Jarwal)",
+            "ml": "ദീ തുവ (ജർവൽ)",
+            "ta": "தீ துவா பள்ளத்தாக்கு (ஜர்வால்)"
+          },
+          "summary": {
+            "en": "Valley where the Prophet encamped and bathed before entering Makkah.",
+            "ms": "Lembah di Jarwal di mana Baginda ﷺ bermalam dan mandi sebelum memasuki Makkah.",
+            "ml": "മക്കയിലേക്ക് പ്രവേശിക്കുന്നതിന് മുമ്പ് നബി കുളിക്കുകയും തങ്ങുകയും ചെയ്ത കിണറും താഴ്‌വരയും.",
+            "ta": "மக்காவிற்குள் நுழைவதற்கு முன் நபிகளார் குளித்து தங்கிய பள்ளத்தாக்கு மற்றும் கிணறு."
+          },
+          "details": {
+            "en": "Located in modern Jarwal. Used as the staging encampment during the Conquest of Makkah and Hajjat al-Wada'.",
+            "ms": "Terletak di daerah Jarwal. Menjadi markas kemasukan tentera Fath Makkah dan tempat rehat Haji Wada'.",
+            "ml": "ജർവൽ ഭാഗത്താണ്. മക്കാ ഫത്ഹിലും ഹജ്ജത്തുൽ വിദാഇലും നബി ഇവിടെ തങ്ങിയിരുന്നു.",
+            "ta": "தற்கால ஜர்வால் பகுதியில் உள்ளது. மக்கா வெற்றியின் போதும் விடைபெறும் ஹஜ்ஜின் போதும் நபிகளார் இங்கு தங்கினார்."
+          },
+          "images": {
+            "thumbnail": "assets/image/locations/dhi_tuwa_valley.webp",
+            "gallery": [
+              "assets/image/locations/dhi_tuwa_valley.webp"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "mountains_makkah",
+      "region": "makkah",
+      "title": {
+        "en": "Sacred Mountains around Makkah",
+        "ms": "Pergunungan Bersejarah di Sekitar Makkah",
+        "ml": "മക്കയിലെ പ്രധാന മലകൾ",
+        "ta": "மக்காவைச் சுற்றியுள்ள முக்கிய மலைகள்"
+      },
+      "summary": {
+        "en": "The towering granite peaks that hosted foundational revelations and miracles.",
+        "ms": "Gunung-ganang batu granit saksi penurunan wahyu pertama dan mukjizat kenabian.",
+        "ml": "ആദ്യ വഹ്‌യിനും പലായനത്തിനും സാക്ഷ്യം വഹിച്ച മക്കയിലെ മലനിരകൾ.",
+        "ta": "முதல் வஹீ மற்றும் பலாயன வரலாற்று சான்றுகளான மக்காவின் மலைகள்."
+      },
+      "places": [
+        {
+          "id": "jabal_an_nur",
+          "title": {
+            "en": "Jabal an-Nur & Ghar Hira'",
+            "ms": "Jabal an-Nur & Gua Hira'",
+            "ml": "ജബലുന്നുറും ഹിറാ ഗുഹയും",
+            "ta": "ஜபலுன் நூர் மற்றும் ஹிரா குகை"
+          },
+          "summary": {
+            "en": "The Mountain of Light containing the cave of the first revelation (Iqra').",
+            "ms": "Gunung Cahaya di mana terletaknya Gua Hira' tempat wahyu pertama diturunkan.",
+            "ml": "ആദ്യ ഖുർആൻ വചനങ്ങൾ (ഇഖ്‌റഅ്) അവതരിച്ച ഹിറാ ഗുഹ സ്ഥിതി ചെയ്യുന്ന മല.",
+            "ta": "முதல் குர்ஆன் வசனங்கள் அருளப்பட்ட ஹிரா குகை அமைந்த மலை."
+          },
+          "details": {
+            "en": "Rises northeast of Makkah. Near the crest is the narrow cavern where Angel Jibril brought Surah al-'Alaq in 610 CE.",
+            "ms": "Terletak di timur laut Makkah. Di puncaknya terdapat rongga gua sempit tempat turunnya Surah al-'Alaq.",
+            "ml": "മക്കയുടെ വടക്കുകിഴക്ക്. നബി ധ്യാനത്തിലിരിക്കെ ജിബ്‌രീൽ (അ) വഴി ആദ്യ വഹ്‌യ് അവതരിച്ചു.",
+            "ta": "மக்காவின் வடகிழக்கில் உள்ளது. நபிகள் நாயகம் தியானம் செய்தபோது முதல் வஹீ அருளப்பட்டது."
+          },
+          "images": {
+            "thumbnail": "assets/image/locations/jabal_an_nur.webp",
+            "gallery": [
+              "assets/image/locations/jabal_an_nur.webp"
+            ]
+          }
+        },
+        {
+          "id": "jabal_thawr",
+          "title": {
+            "en": "Jabal Thawr & Ghar Thawr",
+            "ms": "Jabal Thaur & Gua Thaur",
+            "ml": "ജബലു സൗറും സൗർ ഗുഹയും",
+            "ta": "ஜபல் சவ்ர் மற்றும் சவ்ர் குகை"
+          },
+          "summary": {
+            "en": "The southern refuge where the Prophet and Abu Bakr hid for three days during the Hijrah.",
+            "ms": "Gunung di selatan Makkah di mana Baginda ﷺ dan Abu Bakar bersembunyi 3 malam dalam peristiwa Hijrah.",
+            "ml": "ഹിജ്റ വേളയിൽ നബിയും അബൂബക്കറും മൂന്ന് ദിവസം ഒളിച്ചുതാമസിച്ച ഗുഹ.",
+            "ta": "ஹிஜ்ரத்தின் போது நபிகளாரும் அபூபக்கரும் மூன்று நாட்கள் தங்கியிருந்த குகை."
+          },
+          "details": {
+            "en": "Site commemorated in Surah at-Tawbah (40) where a spider's web and nesting dove protected the fugitives from Quraysh scouts.",
+            "ms": "Disebut dalam Surah at-Tawbah ayat 40. Sarang labah-labah dan burung merpati melindungi mereka daripada musyrikin Quraisy.",
+            "ml": "സൂറത്തു തൗബയിൽ പരാമർശിച്ച ഗുഹ. ചിലന്തിവലയും പ്രാവുകളും കൊണ്ട് അല്ലാഹു അവരെ സംരക്ഷിച്ചു.",
+            "ta": "சூரா தவ்பாவில் கூறப்பட்டுள்ள குகை. சிலந்தி வலையாலும் புறாக்களாலும் அல்லாஹ் அவர்களைப் பாதுகாத்தான்."
+          },
+          "images": {
+            "thumbnail": "assets/image/locations/jabal_thawr.webp",
+            "gallery": [
+              "assets/image/locations/jabal_thawr.webp"
+            ]
+          }
+        },
+        {
+          "id": "jabal_abu_qubays",
+          "title": {
+            "en": "Jabal Abu Qubays",
+            "ms": "Jabal Abu Qubays",
+            "ml": "ജബൽ അബൂ ഖുബൈസ്",
+            "ta": "ஜபல் அபூ குபைஸ்"
+          },
+          "summary": {
+            "en": "The sacred mountain immediately east of Safa, associated with the miracle of the split moon.",
+            "ms": "Gunung bersebelahan bukit Safa, tapak mukjizat bulan terbelah dua.",
+            "ml": "ചന്ദ്രൻ പിളർന്ന മുഅ്ജിസത്തിന് സാക്ഷ്യം വഹിച്ച സ്വഫായ്ക്ക് അടുത്തുള്ള മല.",
+            "ta": "ஸஃபாவுக்கு அருகில் சந்திரனைப் பிளந்த அற்புதம் நிகழ்ந்த மலை."
+          },
+          "details": {
+            "en": "Believed to be the first mountain created on earth. Housed the Black Stone during Noah's flood and witnessed the moon splitting.",
+            "ms": "Dipercayai gunung terawal diciptakan. Tempat menyimpan Hajarul Aswad semasa banjir Nabi Nuh a.s. dan saksi terbelahnya bulan.",
+            "ml": "ഭൂമിയിൽ ആദ്യമായി പടക്കപ്പെട്ട മലയായി കണക്കാക്കപ്പെടുന്നു. നൂഹ് നബിയുടെ കാലത്തെ പ്രളയത്തിൽ ഹജറുൽ അസ്‌വദ് ഇവിടെ സൂക്ഷിച്ചിരുന്നു.",
+            "ta": "பூமியில் படைக்கப்பட்ட முதல் மலையாகக் கருதப்படுகிறது. நூஹ் நபியின் காலத்தில் கருப்புக்கல் இங்கு பாதுகாக்கப்பட்டது."
+          },
+          "images": {
+            "thumbnail": "assets/image/locations/jabal_abu_qubays.webp",
+            "gallery": [
+              "assets/image/locations/jabal_abu_qubays.webp"
+            ]
+          }
+        },
+        {
+          "id": "jabal_quayqian",
+          "title": {
+            "en": "Jabal Qu'ayqi'an (Jabal Hindi)",
+            "ms": "Jabal Qu'ayqi'an (Jabal Hindi)",
+            "ml": "ജബൽ ഖുഐഖിആൻ",
+            "ta": "ஜபல் குஐகிஆன் (ஜபல் ஹிந்தி)"
+          },
+          "summary": {
+            "en": "The western counter-peak balancing Abu Qubays, flanking the Haram basin.",
+            "ms": "Gunung bertentangan Abu Qubays di sebelah barat Masjidil Haram.",
+            "ml": "അബൂ ഖുബൈസിന് എതിർവശത്ത് മസ്ജിദുൽ ഹറാമിന്റെ പടിഞ്ഞാറുള്ള മല.",
+            "ta": "அபூ குபைஸுக்கு எதிரில் மஸ்ஜிதுல் ஹராமின் மேற்கு பகுதியில் உள்ள மலை."
+          },
+          "details": {
+            "en": "Formed the western defense of ancient Makkah; named after the clattering of arms in ancient tribal conflicts.",
+            "ms": "Benteng barat Makkah lama; dinamakan sempena dentuman senjata dalam pertempuran kabilah Jurhum purba.",
+            "ml": "പുരാതന മക്കയുടെ പടിഞ്ഞാറേ കോട്ട. ആയുധങ്ങളുടെ ശബ്ദം കാരണമാണ് ഈ പേര് ലഭിച്ചത്.",
+            "ta": "பண்டைய மக்காவின் மேற்கு எல்லையாக விளங்கியது; போர் ஆயுதங்களின் சத்தத்தால் இப்பெயர் பெற்றது."
+          },
+          "images": {
+            "thumbnail": "assets/image/locations/jabal_quayqian.webp",
+            "gallery": [
+              "assets/image/locations/jabal_quayqian.webp"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "hajj_mashair",
+      "region": "makkah",
+      "title": {
+        "en": "The Sacred Hajj Pilgrimage Sites (Al-Masha'ir)",
+        "ms": "Masyā'ir Muqaddasah (Tapak-tapak Ibadah Haji)",
+        "ml": "ഹജ്ജിന്റെ പുണ്യസ്ഥലങ്ങൾ (മശാഇർ)",
+        "ta": "புனித ஹஜ் வழிபாட்டுத் தலங்கள் (மஷாஇர்)"
+      },
+      "summary": {
+        "en": "The valleys and plains of Mina, Muzdalifah, and Arafat where the annual pilgrimage is consummated.",
+        "ms": "Kawasan lapang dan lembah Mina, Muzdalifah, dan Arafah bagi pelaksanaan rukun dan wajib haji.",
+        "ml": "മിനാ, മുസ്ദലിഫ, അറഫാത്ത് അടങ്ങിയ ഹജ്ജ് കർമ്മങ്ങളുടെ കേന്ദ്രങ്ങൾ.",
+        "ta": "மினா, முஸ்தலிஃபா மற்றும் அரஃபா உள்ளிட்ட ஹஜ் கடமைகள் நிறைவேற்றப்படும் புனித இடங்கள்."
+      },
+      "places": [
+        {
+          "id": "masjid_al_khayf",
+          "title": {
+            "en": "Masjid al-Khayf (Mina)",
+            "ms": "Masjid al-Khayf (Mina)",
+            "ml": "മസ്ജിദുൽ ഖൈഫ് (മിന)",
+            "ta": "மஸ்ஜிதுல் கைஃப் (மினா)"
+          },
+          "summary": {
+            "en": "The venerable mosque in Mina where seventy previous prophets offered prayer.",
+            "ms": "Masjid agung di kaki bukit Mina di mana 70 nabi terdahulu pernah bersolat.",
+            "ml": "എഴുപതോളം പ്രവാചകന്മാർ നമസ്കരിച്ച മിനായിലെ പുണ്യ മസ്ജിദ്.",
+            "ta": "எழுபது நபிமார்கள் தொழுத மினாவிலுள்ள வரலாற்று சிறப்புமிக்க பள்ளிவாசல்."
+          },
+          "details": {
+            "en": "Situated at the base of the northern slope of Mina. The Prophet camped and addressed his companions here during the Farewell Pilgrimage.",
+            "ms": "Terletak di kaki gunung utara Mina. Baginda ﷺ berkhemah dan menyampaikan khutbah di sini pada Haji Wada'.",
+            "ml": "മിനയുടെ താഴ്‌വരയിൽ സ്ഥിതി ചെയ്യുന്നു. ഹജ്ജത്തുൽ വിദാഇൽ നബി ഇവിടെയാണ് തങ്ങിയത്.",
+            "ta": "மினா மலையடிவாரத்தில் அமைந்துள்ளது. விடைபெறும் ஹஜ்ஜின் போது நபிகளார் இங்கு தங்கி உரையாற்றினார்."
+          },
+          "images": {
+            "thumbnail": "assets/image/locations/masjid_al_khayf.webp",
+            "gallery": [
+              "assets/image/locations/masjid_al_khayf.webp"
+            ]
+          }
+        },
+        {
+          "id": "jamarah_ula",
+          "title": {
+            "en": "Small Jamarah (al-Ula)",
+            "ms": "Jamrah Pertama (al-Ula / al-Sughra)",
+            "ml": "ജംറത്തുൽ ഊല (ചെറിയ ജംറ)",
+            "ta": "சிறிய ஜமரா (அல்-ஊலா)",
+            "ar": "الجَمْرَة الصُّغْرَى (الأُولَى)"
+          },
+          "summary": {
+            "en": "The first and smallest stone pillar pelted during the days of Tashreeq in Mina, closest to Masjid al-Khayf.",
+            "ms": "Tiang jamrah pertama yang dilontar semasa hari-hari Tasyrik di Mina, paling hampir dengan Masjid al-Khayf.",
+            "ml": "മിനായിൽ മസ്ജിദുൽ ഖൈഫിന് ഏറ്റവും അടുത്തുള്ള ഒന്നാമത്തെ ചെറിയ ജംറ.",
+            "ta": "மினாவில் மஸ்ஜித் அல்-கைஃபிற்கு மிக அருகில் உள்ள முதல் சிறிய ஜமரா."
+          },
+          "details": {
+            "en": "The first and smallest stone pillar pelted during the days of Tashreeq in Mina, closest to Masjid al-Khayf.",
+            "ms": "Tiang jamrah pertama yang dilontar semasa hari-hari Tasyrik di Mina, paling hampir dengan Masjid al-Khayf.",
+            "ml": "മിനായിൽ മസ്ജിദുൽ ഖൈഫിന് ഏറ്റവും അടുത്തുള്ള ഒന്നാമത്തെ ചെറിയ ജംറ.",
+            "ta": "மினாவில் மஸ்ஜித் அல்-கைஃபிற்கு மிக அருகில் உள்ள முதல் சிறிய ஜமரா."
+          },
+          "images": {
+            "thumbnail": "assets/image/locations/jamarah_ula.webp",
+            "gallery": [
+              "assets/image/locations/jamarah_ula.webp"
+            ]
+          }
+        },
+        {
+          "id": "jamarah_wusta",
+          "title": {
+            "en": "Middle Jamarah (al-Wusta)",
+            "ms": "Jamrah Pertengahan (al-Wusta)",
+            "ml": "ജംറത്തുൽ വുസ്ത്വ (നടുവിലെ ജംറ)",
+            "ta": "நடுத்தர ஜமரா (அல்-வுஸ்தா)",
+            "ar": "الجَمْرَة الوُسْطَى"
+          },
+          "summary": {
+            "en": "The middle stone pillar pelted between Jamrah al-Ula and Jamrah al-Aqabah during the days of Tashreeq.",
+            "ms": "Tiang jamrah kedua di antara Jamrah al-Ula dan Jamrah al-Aqabah yang dilontar semasa hari-hari Tasyrik.",
+            "ml": "ജംറത്തുൽ ഊലയ്ക്കും ജംറത്തുൽ അഖബയ്ക്കും ഇടയിലുള്ള രണ്ടാമത്തെ നടുവിലെ ജംറ.",
+            "ta": "ஜம்ரத்துல் ஊலா மற்றும் ஜம்ரத்துல் அகபாவிற்கு இடைப்பட்ட இரண்டாவது நடுத்தர ஜமரா."
+          },
+          "details": {
+            "en": "The middle stone pillar pelted between Jamrah al-Ula and Jamrah al-Aqabah during the days of Tashreeq.",
+            "ms": "Tiang jamrah kedua di antara Jamrah al-Ula dan Jamrah al-Aqabah yang dilontar semasa hari-hari Tasyrik.",
+            "ml": "ജംറത്തുൽ ഊലയ്ക്കും ജംറത്തുൽ അഖബയ്ക്കും ഇടയിലുള്ള രണ്ടാമത്തെ നടുവിലെ ജംറ.",
+            "ta": "ஜம்ரத்துல் ஊலா மற்றும் ஜம்ரத்துல் அகபாவிற்கு இடைப்பட்ட இரண்டாவது நடுத்தர ஜமரா."
+          },
+          "images": {
+            "thumbnail": "assets/image/locations/jamarah_wusta.webp",
+            "gallery": [
+              "assets/image/locations/jamarah_wusta.webp"
+            ]
+          }
+        },
+        {
+          "id": "jamarah_aqabah",
+          "title": {
+            "en": "Big Jamarah (al-Aqabah)",
+            "ms": "Jamrah Terbesar (al-Aqabah / al-Kubra)",
+            "ml": "ജംറത്തുൽ അഖബ (വലിയ ജംറ)",
+            "ta": "பெரிய ஜமரா (அல்-அகபா)",
+            "ar": "جَمْرَة العَقَبَة (الكُبْرَى)"
+          },
+          "summary": {
+            "en": "The third and largest stone pillar closest to Makkah, pelted on the 10th of Dhul Hijjah (Yawm an-Nahr) and Tashreeq.",
+            "ms": "Tiang jamrah ketiga dan terbesar paling hampir ke arah Makkah, dilontar pada 10 Zulhijjah dan hari-hari Tasyrik.",
+            "ml": "മക്കയോട് ഏറ്റവും അടുത്തുള്ള മൂന്നാമത്തെ വലിയ ജംറ, ദുൽഹജ്ജ് 10-നും തശ്രീഖ് നാളുകളിലും കല്ലെറിയുന്നു.",
+            "ta": "மக்காவிற்கு மிக அருகில் உள்ள மூன்றாவது பெரிய ஜமரா."
+          },
+          "details": {
+            "en": "The third and largest stone pillar closest to Makkah, pelted on the 10th of Dhul Hijjah (Yawm an-Nahr) and Tashreeq.",
+            "ms": "Tiang jamrah ketiga dan terbesar paling hampir ke arah Makkah, dilontar pada 10 Zulhijjah dan hari-hari Tasyrik.",
+            "ml": "മക്കയോട് ഏറ്റവും അടുത്തുള്ള മൂന്നാമത്തെ വലിയ ജംറ, ദുൽഹജ്ജ് 10-നും തശ്രീഖ് നാളുകളിലും കല്ലെറിയുന്നു.",
+            "ta": "மக்காவிற்கு மிக அருகில் உள்ள மூன்றாவது பெரிய ஜமரா."
+          },
+          "images": {
+            "thumbnail": "assets/image/locations/jamarah_aqabah.webp",
+            "gallery": [
+              "assets/image/locations/jamarah_aqabah.webp"
+            ]
+          }
+        },
+        {
+          "id": "masjid_al_bayah",
+          "title": {
+            "en": "Masjid al-Bay'ah (Aqabah Pledge Site)",
+            "ms": "Masjid al-Bay'ah (Tapak Perjanjian Aqabah)",
+            "ml": "മസ്ജിദുൽ ബൈഅ (അഖബ ഉടമ്പടി സ്ഥലം)",
+            "ta": "மஸ்ஜிதுல் பைஆ (அகபா உடன்படிக்கை இடம்)"
+          },
+          "summary": {
+            "en": "Historic open-roof mosque marking the two pledges between the Prophet and the Ansar.",
+            "ms": "Masjid bersejarah tanpa bumbung menandakan tapak Bai'ah Aqabah Pertama dan Kedua oleh kaum Ansar.",
+            "ml": "മദീനയിലെ അൻസാറുകൾ നബിയുമായി അഖബ ഉടമ്പടി നടത്തിയ സ്ഥലം.",
+            "ta": "மதீனா அன்சாரிகள் நபிகளாருடன் அகபா உடன்படிக்கை செய்த வரலாற்று இடம்."
+          },
+          "details": {
+            "en": "Built by Abbasid Caliph Abu Ja'far al-Mansur near Jamrat al-Aqabah where early Madinans pledged defense and allegiance.",
+            "ms": "Dibina oleh Khalifah Abu Ja'far al-Mansur di celah bukit dekat Jamratul Aqabah memperingati janji setia Ansar.",
+            "ml": "അബൂ ജഅ്ഫർ അൽ മൻസൂർ നിർമ്മിച്ച പള്ളി. ഇസ്ലാമിക ചരിത്രത്തിലെ വഴിത്തിരിവായ ബൈഅത്ത് നടന്നയിടം.",
+            "ta": "அப்பாசிய கலீபா அல்-மன்சூரால் கட்டப்பட்டது. இஸ்லாமிய வரலாற்றில் திருப்புமுனையான உடன்படிக்கை தளம்."
+          },
+          "images": {
+            "thumbnail": "assets/image/locations/masjid_al_bayah.webp",
+            "gallery": [
+              "assets/image/locations/masjid_al_bayah.webp"
+            ]
+          }
+        },
+        {
+          "id": "masjid_mashar_al_haram",
+          "title": {
+            "en": "Masjid Mash'ar al-Haram (Muzdalifah)",
+            "ms": "Masjid Mash'ar al-Haram (Muzdalifah)",
+            "ml": "മസ്ജിദുൽ മശ്അറുൽ ഹറാം (മുസ്ദലിഫ)",
+            "ta": "மஸ்ஜிதுல் மஷ்அருல் ஹராம் (முஸ்தலிஃபா)"
+          },
+          "summary": {
+            "en": "The sacred monument in Muzdalifah cited in the Quran for remembrance of God.",
+            "ms": "Monumen suci di Muzdalifah yang disebut dalam Surah al-Baqarah untuk berzikir selepas wukuf.",
+            "ml": "മുസ്ദലിഫയിൽ പ്രാർത്ഥിക്കാൻ വിശുദ്ധ ഖുർആൻ ആഹ്വാനം ചെയ്ത പുണ്യ സങ്കേതം.",
+            "ta": "முஸ்தலிஃபாவில் தங்கி இறைவனை தியானிக்க திருக்குர்ஆனில் குறிப்பிடப்பட்ட புனித இடம்."
+          },
+          "details": {
+            "en": "Pilgrims gather here after Arafat on the eve of the 10th of Dhul Hijjah to collect pebbles and supplicate through Fajr.",
+            "ms": "Jemaah berhimpun di sini selepas Maghrib pada 9 Zulhijjah untuk bermabit, mengutip anak batu, dan berdoa hingga subuh.",
+            "ml": "അറഫാ സംഗമത്തിന് ശേഷം ഹാജിമാർ രാത്രി തങ്ങുന്ന മുസ്ദലിഫയിലെ പ്രധാന പള്ളി.",
+            "ta": "அரஃபா நின்ற பின் ஹாஜிகள் இரவு தங்கி கல் சேகரித்து தொழும் முஸ்தலிஃபாவின் பிரதான பள்ளி."
+          },
+          "images": {
+            "thumbnail": "assets/image/locations/masjid_mashar_al_haram.webp",
+            "gallery": [
+              "assets/image/locations/masjid_mashar_al_haram.webp"
+            ]
+          }
+        },
+        {
+          "id": "wadi_muhassir",
+          "title": {
+            "en": "Wadi Muhassir",
+            "ms": "Lembah Wadi Muhassir",
+            "ml": "വാദി മുഹസ്സിർ",
+            "ta": "வாதி முஹஸ்ஸிர்"
+          },
+          "summary": {
+            "en": "The valley of divine retribution where Abraha's elephant army was destroyed.",
+            "ms": "Lembah antara Mina dan Muzdalifah tempat tentera bergajah Abrahah dihancurkan.",
+            "ml": "അബ്റഹത്തിന്റെ ആനപ്പടയെ അല്ലാഹു പക്ഷികളെ അയച്ച് നശിപ്പിച്ച താഴ്‌വര.",
+            "ta": "அப்ரஹாவின் யானைப்படை அழிக்கப்பட்ட மினா-முஸ்தலிஃபா எல்லைப் பள்ளத்தாக்கு."
+          },
+          "details": {
+            "en": "A small valley separating Muzdalifah and Mina. Pilgrims hasten their pace here, following the Sunnah when crossing areas of historical divine punishment.",
+            "ms": "Lembah sempadan di mana jemaah haji disunatkan mempercepatkan langkah kerana tempat diturunkan azab ke atas musuh Allah.",
+            "ml": "ഇതിലൂടെ കടന്നുപോകുമ്പോൾ വേഗത്തിൽ നടക്കൽ സുന്നത്താണ്; മുൻപ് ശിക്ഷ ഇറങ്ങിയ സ്ഥലമായതിനാലാണിത്.",
+            "ta": "அல்லாஹ்வின் தண்டனை இறங்கிய இடம் என்பதால், இங்கு செல்லும் போது வேகத்தை அதிகரிப்பது சுன்னத்."
+          },
+          "images": {
+            "thumbnail": "assets/image/locations/wadi_muhassir.webp",
+            "gallery": [
+              "assets/image/locations/wadi_muhassir.webp"
+            ]
+          }
+        },
+        {
+          "id": "masjid_namirah",
+          "title": {
+            "en": "Masjid Namirah (Arafat)",
+            "ms": "Masjid Namirah (Arafah)",
+            "ml": "മസ്ജിദു നമിറ (അറഫാത്ത്)",
+            "ta": "மஸ்ஜிது நமிரா (அரஃபா)"
+          },
+          "summary": {
+            "en": "The vast mosque at Arafat where the Hajj sermon and combined Dhuhr-Asr prayers take place.",
+            "ms": "Masjid gergasi di sempadan Arafah tempat khutbah Hari Arafah dan jamak solat Zohor-Asar.",
+            "ml": "അറഫാ ദിനത്തിൽ ഖുതുബയും നമസ്കാരവും നടക്കുന്ന വിശാലമായ മസ്ജിദ്.",
+            "ta": "அரஃபா தின உரை மற்றும் ளுஹர்-அஸர் ஜம்ஆ தொழுகைகள் நடைபெறும் பிரமாண்ட பள்ளிவாசல்."
+          },
+          "details": {
+            "en": "The western third lies outside Arafat proper in Wadi Urana where the Prophet delivered the Farewell Sermon.",
+            "ms": "Sebahagian barat masjid terletak di luar Arafah (di Wadi Uranah) di mana khutbah Haji Perpisahan disampaikan.",
+            "ml": "പള്ളിയുടെ മുൻഭാഗം വാദി ഉറനയിലാണ്, പിൻഭാഗം അറഫാത്തിന്റെ അതിർത്തിക്കുള്ളിലും.",
+            "ta": "பள்ளியின் முன்பகுதி வாதி உரனாவிலும், பின்பகுதி அரஃபா எல்லைக்குள்ளும் அமைந்துள்ளது."
+          },
+          "images": {
+            "thumbnail": "assets/image/locations/masjid_namirah.webp",
+            "gallery": [
+              "assets/image/locations/masjid_namirah.webp"
+            ]
+          }
+        },
+        {
+          "id": "jabal_ar_rahmah",
+          "title": {
+            "en": "Jabal ar-Rahmah (Mount of Mercy, Arafat)",
+            "ms": "Jabal ar-Rahmah (Bukit Rahmat, Arafah)",
+            "ml": "ജബലുറഹ്മ (കാരുണ്യത്തിന്റെ മല)",
+            "ta": "ஜபலுர் ரஹ்மா (அருள் மலை, அரஃபா)"
+          },
+          "summary": {
+            "en": "The prominent granite hill on the plain of Arafat marking the Prophet's stand in prayer.",
+            "ms": "Bukit batu di tengah Arafah berhampiran tempat Baginda ﷺ berdiri berdoa di atas untanya.",
+            "ml": "നബി ﷺ ഹജ്ജത്തുൽ വിദാഇൽ ദുആ ചെയ്തു നിന്ന അറഫാത്തിലെ ചരിത്ര പ്രസിദ്ധമായ മല.",
+            "ta": "விடைபெறும் ஹஜ்ஜின் போது நபிகளார் நின்று துஆ செய்த அரஃபாவின் புகழ்பெற்ற மலை."
+          },
+          "details": {
+            "en": "Features a white pillar marker at its summit. Supplication anywhere within the plain of Arafat fulfills the rite of Wuquf.",
+            "ms": "Mempunyai monumen putih di puncaknya. Berdoa di mana-mana bahagian padang Arafah mencukupi syarat wukuf.",
+            "ml": "മുകളിൽ ഒരു വെളുത്ത സ്തംഭമുണ്ട്. അറഫാ മൈതാനത്ത് എവിടെ നിന്നും വുഖൂഫ് നിർവ്വഹിക്കാവുന്നതാണ്.",
+            "ta": "உச்சியில் வெள்ளை தூண் உள்ளது. அரஃபா மைதானத்தின் எந்தப் பகுதியிலும் வுகூஃப் நிறைவேற்றலாம்."
+          },
+          "images": {
+            "thumbnail": "assets/image/locations/jabal_ar_rahmah.webp",
+            "gallery": [
+              "assets/image/locations/jabal_ar_rahmah.webp"
+            ]
+          }
+        },
+        {
+          "id": "ain_zubaydah_ruins",
+          "title": {
+            "en": "Ain Zubaydah Aqueduct Remnants",
+            "ms": "Runtuhan Terusan Air Ain Zubaydah",
+            "ml": "ഐൻ സുബൈദ ജലവിതരണ ചാലുകൾ",
+            "ta": "ஐன் ஜுபைதா நீர் வாய்க்கால் எச்சங்கள்"
+          },
+          "summary": {
+            "en": "Ancient stone aqueduct engineered by Queen Zubaydah to bring fresh water across the desert.",
+            "ms": "Saliran air batu purba binaan Permaisuri Zubaydah membekalkan air tawar kepada para jemaah haji.",
+            "ml": "സുബൈദ രാജ്ഞി തീർത്ഥാടകർക്കായി നിർമ്മിച്ച പുരാതന ശുദ്ധജല വിതരണ കനാൽ.",
+            "ta": "ஜுபைதா அரசியால் ஹாஜிகளுக்காக கட்டப்பட்ட பழமையான குடிநீர் கால்வாய்."
+          },
+          "details": {
+            "en": "Channels water from the mountains around Taif across the plains of Arafat and Mina to Makkah. Remnants are clearly visible along Arafat's borders.",
+            "ms": "Menyalurkan air dari pergunungan Taif merentasi padang Arafah dan Mina hingga ke Makkah. Runtuhan batu kukuhnya masih jelas kelihatan.",
+            "ml": "ത്വാഇഫിൽ നിന്നും മക്ക വരെ കിലോമീറ്ററുകളോളം നീളുന്ന എൻജിനീയറിംഗ് അത്ഭുതമായ ജലപാത.",
+            "ta": "தாயிஃப் மலைகளிலிருந்து மக்கா வரை நீர் கொண்டு வந்த வரலாற்று சிறப்புமிக்க கால்வாய் எச்சங்கள்."
+          },
+          "images": {
+            "thumbnail": "assets/image/locations/ain_zubaydah_ruins.webp",
+            "gallery": [
+              "assets/image/locations/ain_zubaydah_ruins.webp"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "haram_boundaries",
+      "region": "makkah",
+      "title": {
+        "en": "Makkah Sacred Sanctuary Boundary (A'lam al-Haram)",
+        "ms": "Sempadan Tanah Haram Makkah (A'lam al-Haram)",
+        "ml": "വിശുദ്ധ മക്കയുടെ അതിർത്തികൾ (അഅ്‌ലാമുൽ ഹറാം)",
+        "ta": "புனித மக்காவின் எல்லைகள் (அஃலாமுல் ஹராம்)",
+        "ar": "حدود الحرم المكي الشريف (أعلام الحرم)"
+      },
+      "summary": {
+        "en": "The sacred boundary markers (A'lam al-Haram) established since Prophet Ibrahim (AS) demarcating the perimeter of Tanah Haram.",
+        "ms": "Batu tanda sempadan bersejarah sejak zaman Nabi Ibrahim (AS) yang memisahkan Tanah Haram dan Tanah Halal.",
+        "ml": "ഇബ്രാഹീം നബി (അ) മുതൽ നിശ്ചയിക്കപ്പെട്ട വിശുദ്ധ ഹറമിന്റെ ചരിത്ര അതിർത്തി അടയാളങ്ങൾ.",
+        "ta": "இப்ராஹீம் (அலை) காலம் முதல் புனித மக்காவின் எல்லையைக் குறிக்கும் வரலாற்றுத் தூண்கள்.",
+        "ar": "علامات حدود الحرم المكي الشريف المنصوبة منذ عهد خليل الله إبراهيم عليه السلام والتي تفصل بين الحل والحرم."
+      },
+      "places": [
+        {
+          "id": "boundary_taneem",
+          "title": {
+            "en": "Tan'im Haram Boundary (Northern Marker)",
+            "ms": "Sempadan Tanah Haram Tan'im (Utara)",
+            "ar": "حد الحرم بالتنعيم (الشمال)",
+            "ml": "തൻഈം ഹറം അതിർത്തി (വടക്ക്)",
+            "ta": "தன்ஈம் ஹராம் எல்லை (வடக்கு)"
+          },
+          "summary": {
+            "en": "The northern boundary marker of the Sacred Sanctuary of Makkah on the Madinah Road, located approximately 6.5 km from th...",
+            "ms": "Batu tanda sempadan utara Tanah Haram Makkah di Jalan Madinah Lama, terletak kira-kira 6.5 km dari Kaabah berhampiran Ma...",
+            "ml": "മദീന റോഡിൽ മസ്ജിദ് ആയിശക്ക് സമീപമുള്ള വടക്കൻ ഹറം അതിർത്തി അടയാളം. കഅ്ബയിൽ നിന്ന് ഏകദേശം 6.5 കി.മീ അകലെ സ്ഥിതി ചെയ്യുന്നു...",
+            "ta": "மதீனா சாலையில் மஸ்ஜித் ஆயிஷாவுக்கு அருகில் அமைந்துள்ள வடக்கு ஹராம் எல்லை அடையாளம். கஅபாவிலிருந்து சுமார் 6.5 கி.மீ தொலைவ...",
+            "ar": "علامة حد الحرم الشمالية الواقعة على طريق المدينة المنورة القديم بالقرب من مسجد السيدة عائشة رضي الله عنها بالتنعيم، وتبع..."
+          },
+          "details": {
+            "en": "The northern boundary marker of the Sacred Sanctuary of Makkah on the Madinah Road, located approximately 6.5 km from the Holy Kaaba near Masjid Aisha (Tan'im). Pilgrims entering from Madinah or completing Ihram at Tan'im cross this landmark into the sacred territory.",
+            "ms": "Batu tanda sempadan utara Tanah Haram Makkah di Jalan Madinah Lama, terletak kira-kira 6.5 km dari Kaabah berhampiran Masjid Aisha (Tan'im). Jemaah yang datang dari Madinah atau berniat Ihram di Tan'im melepasi tanda ini untuk memasuki Tanah Suci.",
+            "ar": "علامة حد الحرم الشمالية الواقعة على طريق المدينة المنورة القديم بالقرب من مسجد السيدة عائشة رضي الله عنها بالتنعيم، وتبعد حوالي 6.5 كم عن الكعبة المشرفة.",
+            "ml": "മദീന റോഡിൽ മസ്ജിദ് ആയിശക്ക് സമീപമുള്ള വടക്കൻ ഹറം അതിർത്തി അടയാളം. കഅ്ബയിൽ നിന്ന് ഏകദേശം 6.5 കി.മീ അകലെ സ്ഥിതി ചെയ്യുന്നു.",
+            "ta": "மதீனா சாலையில் மஸ்ஜித் ஆயிஷாவுக்கு அருகில் அமைந்துள்ள வடக்கு ஹராம் எல்லை அடையாளம். கஅபாவிலிருந்து சுமார் 6.5 கி.மீ தொலைவில் உள்ளது."
+          },
+          "coordinates": {
+            "latitude": 21.4602,
+            "longitude": 39.8138
+          },
+          "images": {
+            "thumbnail": "assets/image/locations/makkah.webp",
+            "gallery": [
+              "assets/image/locations/makkah.webp"
+            ]
+          }
+        },
+        {
+          "id": "boundary_jiranah",
+          "title": {
+            "en": "Ji'ranah Haram Boundary (North-Eastern Marker)",
+            "ms": "Sempadan Tanah Haram Ji'ranah (Timur Laut)",
+            "ar": "حد الحرم بالجعرانة (الشمال الشرقي)",
+            "ml": "ജിഅ്റാന ഹറം അതിർത്തി (വടക്കുകിഴക്ക്)",
+            "ta": "ஜிஃரானா ஹராம் எல்லை (வடகிழக்கு)"
+          },
+          "summary": {
+            "en": "The north-eastern boundary marker of Tanah Haram located along Wadi Nakhlah on the road to Ji'ranah, approx 15 km from t...",
+            "ms": "Batu tanda sempadan timur laut Tanah Haram di Wadi Nakhlah menghala ke Ji'ranah, kira-kira 15 km dari Kaabah. Menandakan...",
+            "ml": "ജിഅ്റാനയിലേക്കുള്ള വഴിയിൽ വാദി നഖ്‌ലയിലുള്ള വടക്കുകിഴക്കൻ ഹറം അതിർത്തി അടയാളം....",
+            "ta": "ஜிஃரானா சாலையில் அமைந்துள்ள வடகிழக்கு ஹராம் எல்லை அடையாளம்....",
+            "ar": "علامة حد الحرم الشمالية الشرقية بوادي نخلة على طريق الجعرانة، وتبعد حوالي 15 كم عن الكعبة المشرفة...."
+          },
+          "details": {
+            "en": "The north-eastern boundary marker of Tanah Haram located along Wadi Nakhlah on the road to Ji'ranah, approx 15 km from the Kaaba. This marks the entry point into the sanctuary for pilgrims coming from Masjid Ji'ranah where the Prophet ﷺ entered into Ihram after the Battle of Hunayn.",
+            "ms": "Batu tanda sempadan timur laut Tanah Haram di Wadi Nakhlah menghala ke Ji'ranah, kira-kira 15 km dari Kaabah. Menandakan tempat masuk ke Tanah Suci bagi jemaah dari Masjid Ji'ranah.",
+            "ar": "علامة حد الحرم الشمالية الشرقية بوادي نخلة على طريق الجعرانة، وتبعد حوالي 15 كم عن الكعبة المشرفة.",
+            "ml": "ജിഅ്റാനയിലേക്കുള്ള വഴിയിൽ വാദി നഖ്‌ലയിലുള്ള വടക്കുകിഴക്കൻ ഹറം അതിർത്തി അടയാളം.",
+            "ta": "ஜிஃரானா சாலையில் அமைந்துள்ள வடகிழக்கு ஹராம் எல்லை அடையாளம்."
+          },
+          "coordinates": {
+            "latitude": 21.5097,
+            "longitude": 39.94
+          },
+          "images": {
+            "thumbnail": "assets/image/locations/makkah.webp",
+            "gallery": [
+              "assets/image/locations/makkah.webp"
+            ]
+          }
+        },
+        {
+          "id": "boundary_sharayi",
+          "title": {
+            "en": "Al-Sharayi' Haram Boundary (Eastern Marker - Al-Alamain)",
+            "ms": "Sempadan Tanah Haram Al-Sharayi' (Timur - Al-Alamain)",
+            "ar": "حد الحرم بالشرائع - العلمين (الشرق)",
+            "ml": "ശറായിഅ് ഹറം അതിർത്തി (കിഴക്ക്)",
+            "ta": "அல்-ஷராயிஃ ஹராம் எல்லை (கிழக்கு)"
+          },
+          "summary": {
+            "en": "The eastern boundary of the Haram situated at Al-Sharayi' along the As-Sayl highway from Taif (Qarn al-Manazil) and Riya...",
+            "ms": "Sempadan timur Tanah Haram di Al-Sharayi' sepanjang lebuhraya As-Sayl dari Taif (Qarn al-Manazil) dan Riyadh, kira-kira ...",
+            "ml": "ത്വാഇഫിൽ നിന്നുള്ള റോഡിൽ ശറായിഇലുള്ള കിഴക്കൻ ഹറം അതിർത്തി അടയാളം (അൽ-അലമൈൻ)....",
+            "ta": "தாயிஃப் சாலையில் அல்-ஷராயிஃ பகுதியில் அமைந்துள்ள கிழக்கு ஹராம் எல்லை அடையாளம்....",
+            "ar": "علامة حد الحرم الشرقية الواقعة في الشرائع على طريق السيل الكبير القادم من الطائف والرياض، وتبعد حوالي 14.5 كم عن الكعبة ..."
+          },
+          "details": {
+            "en": "The eastern boundary of the Haram situated at Al-Sharayi' along the As-Sayl highway from Taif (Qarn al-Manazil) and Riyadh, approx 14.5 km from the Kaaba. Prominently marked by twin monumental stone pillars known historically as Al-Alamain.",
+            "ms": "Sempadan timur Tanah Haram di Al-Sharayi' sepanjang lebuhraya As-Sayl dari Taif (Qarn al-Manazil) dan Riyadh, kira-kira 14.5 km dari Kaabah. Ditandai oleh tiang berkembar bersejarah Al-Alamain.",
+            "ar": "علامة حد الحرم الشرقية الواقعة في الشرائع على طريق السيل الكبير القادم من الطائف والرياض، وتبعد حوالي 14.5 كم عن الكعبة المشرفة، وتعرف بمنارتي العلمين.",
+            "ml": "ത്വാഇഫിൽ നിന്നുള്ള റോഡിൽ ശറായിഇലുള്ള കിഴക്കൻ ഹറം അതിർത്തി അടയാളം (അൽ-അലമൈൻ).",
+            "ta": "தாயிஃப் சாலையில் அல்-ஷராயிஃ பகுதியில் அமைந்துள்ள கிழக்கு ஹராம் எல்லை அடையாளம்."
+          },
+          "coordinates": {
+            "latitude": 21.493,
+            "longitude": 39.957
+          },
+          "images": {
+            "thumbnail": "assets/image/locations/makkah.webp",
+            "gallery": [
+              "assets/image/locations/makkah.webp"
+            ]
+          }
+        },
+        {
+          "id": "boundary_namirah",
+          "title": {
+            "en": "Namirah / Batn 'Uranah Boundary (South-Eastern Marker)",
+            "ms": "Sempadan Tanah Haram Namirah / Batn 'Uranah (Tenggara)",
+            "ar": "حد الحرم بنمرة - بطن عرنة (الجنوب الشرقي)",
+            "ml": "നമിറ / ബത്‌നു ഉറന ഹറം അതിർത്തി (തെക്കുകിഴക്ക്)",
+            "ta": "நமிரா / பத்னு உரானா ஹராம் எல்லை (தென்கிழக்கு)"
+          },
+          "summary": {
+            "en": "The south-eastern boundary separating the sacred sanctuary from the plains of Arafat. Masjid Namirah straddles this boun...",
+            "ms": "Sempadan tenggara yang memisahkan Tanah Haram daripada padang Arafah. Masjid Namirah merentasi sempadan ini: bahagian ha...",
+            "ml": "അറഫയെയും ഹറമിനെയും വേർതിരിക്കുന്ന തെക്കുകിഴക്കൻ അതിർത്തി അടയാളം. മസ്ജിദ് നമിറയുടെ നടുവിലൂടെയാണ് ഈ അതിർത്തി കടന്നുപോകുന്ന...",
+            "ta": "அரஃபா மைதானத்தையும் புனித ஹரமையும் பிரிக்கும் தென்கிழக்கு எல்லை அடையாளம். மஸ்ஜித் நமிராவின் மையப்பகுதி வழியாக இவ்வெல்லை ...",
+            "ar": "علامة حد الحرم الجنوبية الشرقية الفاصلة بين الحرم وعرفة. يمر الحد بمنتصف مسجد نمرة: فمقدمة المسجد خارج الحرم ببطن عرنة و..."
+          },
+          "details": {
+            "en": "The south-eastern boundary separating the sacred sanctuary from the plains of Arafat. Masjid Namirah straddles this boundary: the front portion lies outside the Haram in Batn 'Uranah (Hil), while the back portion lies inside the Haram boundary, approx 15.5 km from the Kaaba.",
+            "ms": "Sempadan tenggara yang memisahkan Tanah Haram daripada padang Arafah. Masjid Namirah merentasi sempadan ini: bahagian hadapan berada di luar Tanah Haram (Lembah Uranah), manakala bahagian belakang berada di dalam Tanah Haram, kira-kira 15.5 km dari Kaabah.",
+            "ar": "علامة حد الحرم الجنوبية الشرقية الفاصلة بين الحرم وعرفة. يمر الحد بمنتصف مسجد نمرة: فمقدمة المسجد خارج الحرم ببطن عرنة ومؤخرته داخل الحرم.",
+            "ml": "അറഫയെയും ഹറമിനെയും വേർതിരിക്കുന്ന തെക്കുകിഴക്കൻ അതിർത്തി അടയാളം. മസ്ജിദ് നമിറയുടെ നടുവിലൂടെയാണ് ഈ അതിർത്തി കടന്നുപോകുന്നത്.",
+            "ta": "அரஃபா மைதானத்தையும் புனித ஹரமையும் பிரிக்கும் தென்கிழக்கு எல்லை அடையாளம். மஸ்ஜித் நமிராவின் மையப்பகுதி வழியாக இவ்வெல்லை செல்கிறது."
+          },
+          "coordinates": {
+            "latitude": 21.3562,
+            "longitude": 39.9723
+          },
+          "images": {
+            "thumbnail": "assets/image/locations/masjid_namirah.webp",
+            "gallery": [
+              "assets/image/locations/masjid_namirah.webp"
+            ]
+          }
+        },
+        {
+          "id": "boundary_adat_laban",
+          "title": {
+            "en": "Adat Laban Haram Boundary (Southern Marker)",
+            "ms": "Sempadan Tanah Haram Adat Laban (Selatan)",
+            "ar": "حد الحرم بإضاة لبن (الجنوب)",
+            "ml": "ഇദാഅത്തു ലബൻ ഹറം അതിർത്തി (തെക്ക്)",
+            "ta": "இதாஅத் லபன் ஹராம் எல்லை (தெற்கு)"
+          },
+          "summary": {
+            "en": "The southern boundary of Tanah Haram situated at Adat Laban on the coastal highway toward Al-Lith and Yalamlam (Yemen Mi...",
+            "ms": "Sempadan selatan Tanah Haram di Adat Laban di lebuhraya pesisir pantai menghala ke Al-Lith dan Yalamlam (laluan Miqat Ya...",
+            "ml": "യലംലം മീഖാത്തിലേക്കുള്ള വഴിയിൽ ഇദാഅത്തു ലബനിലുള്ള തെക്കൻ ഹറം അതിർത്തി അടയാളം....",
+            "ta": "யலம்லம் செல்லும் வழியில் இதாஅத் லபன் பகுதியில் அமைந்துள்ள தெற்கு ஹராம் எல்லை அடையாளம்....",
+            "ar": "علامة حد الحرم الجنوبية الواقعة بإضاة لبن على طريق الليث المؤدي إلى ميقات يلملم وجنوب الجزيرة، وتبعد حوالي 14.5 كم عن ال..."
+          },
+          "details": {
+            "en": "The southern boundary of Tanah Haram situated at Adat Laban on the coastal highway toward Al-Lith and Yalamlam (Yemen Miqat route), approx 14.5 km south of the Kaaba.",
+            "ms": "Sempadan selatan Tanah Haram di Adat Laban di lebuhraya pesisir pantai menghala ke Al-Lith dan Yalamlam (laluan Miqat Yaman), kira-kira 14.5 km di selatan Kaabah.",
+            "ar": "علامة حد الحرم الجنوبية الواقعة بإضاة لبن على طريق الليث المؤدي إلى ميقات يلملم وجنوب الجزيرة، وتبعد حوالي 14.5 كم عن الكعبة المشرفة.",
+            "ml": "യലംലം മീഖാത്തിലേക്കുള്ള വഴിയിൽ ഇദാഅത്തു ലബനിലുള്ള തെക്കൻ ഹറം അതിർത്തി അടയാളം.",
+            "ta": "யலம்லம் செல்லும் வழியில் இதாஅத் லபன் பகுதியில் அமைந்துள்ள தெற்கு ஹராம் எல்லை அடையாளம்."
+          },
+          "coordinates": {
+            "latitude": 21.289,
+            "longitude": 39.832
+          },
+          "images": {
+            "thumbnail": "assets/image/locations/makkah.webp",
+            "gallery": [
+              "assets/image/locations/makkah.webp"
+            ]
+          }
+        },
+        {
+          "id": "boundary_shumaisi",
+          "title": {
+            "en": "Al-Shumaisi / Hudaybiyyah Boundary (Western Marker)",
+            "ms": "Sempadan Tanah Haram Al-Shumaisi / Hudaybiyyah (Barat)",
+            "ar": "حد الحرم بالشميسي - الحديبية (الغرب)",
+            "ml": "ശുമൈസി / ഹുദൈബിയ്യ ഹറം അതിർത്തി (പടിഞ്ഞാറ്)",
+            "ta": "அல்-சுமைஸி / ஹுதைபிய்யா ஹராம் எல்லை (மேற்கு)"
+          },
+          "summary": {
+            "en": "The western boundary of Tanah Haram situated near Al-Shumaisi and the historic grounds of the Treaty of Hudaybiyyah on t...",
+            "ms": "Sempadan barat Tanah Haram berhampiran Al-Shumaisi dan tapak bersejarah Perjanjian Hudaybiyyah di Jalan Jeddah Lama, kir...",
+            "ml": "ജിദ്ദയിൽ നിന്നുള്ള പഴയ റോഡിൽ ഹുദൈബിയ്യക്ക് സമീപമുള്ള പടിഞ്ഞാറൻ ഹറം അതിർത്തി അടയാളം....",
+            "ta": "பழைய ஜித்தா சாலையில் ஹுதைபிய்யா பகுதியில் அமைந்துள்ள மேற்கு ஹராம் எல்லை அடையாளம்....",
+            "ar": "علامة حد الحرم الغربية الواقعة عند الشميسي بالقرب من أرض الحديبية التاريخية على طريق جدة القديم، وتبعد حوالي 15 كم غرب ا..."
+          },
+          "details": {
+            "en": "The western boundary of Tanah Haram situated near Al-Shumaisi and the historic grounds of the Treaty of Hudaybiyyah on the Old Jeddah Road, approx 15 km west of the Kaaba. All pilgrims arriving from King Abdulaziz International Airport in Jeddah cross this boundary.",
+            "ms": "Sempadan barat Tanah Haram berhampiran Al-Shumaisi dan tapak bersejarah Perjanjian Hudaybiyyah di Jalan Jeddah Lama, kira-kira 15 km di barat Kaabah. Semua jemaah dari Lapangan Terbang Jeddah melepasi sempadan ini.",
+            "ar": "علامة حد الحرم الغربية الواقعة عند الشميسي بالقرب من أرض الحديبية التاريخية على طريق جدة القديم، وتبعد حوالي 15 كم غرب الكعبة المشرفة.",
+            "ml": "ജിദ്ദയിൽ നിന്നുള്ള പഴയ റോഡിൽ ഹുദൈബിയ്യക്ക് സമീപമുള്ള പടിഞ്ഞാറൻ ഹറം അതിർത്തി അടയാളം.",
+            "ta": "பழைய ஜித்தா சாலையில் ஹுதைபிய்யா பகுதியில் அமைந்துள்ள மேற்கு ஹராம் எல்லை அடையாளம்."
+          },
+          "coordinates": {
+            "latitude": 21.4398,
+            "longitude": 39.6738
+          },
+          "images": {
+            "thumbnail": "assets/image/locations/makkah.webp",
+            "gallery": [
+              "assets/image/locations/makkah.webp"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "taif_locations",
+      "region": "taif",
+      "title": {
+        "en": "Historical Sites of Taif",
+        "ms": "Lokasi Bersejarah Bandar Taif",
+        "ml": "ത്വാഇഫിലെ ചരിത്ര സ്മാരകങ്ങൾ",
+        "ta": "தாயிஃபின் வரலாற்றுத் தலங்கள்"
+      },
+      "summary": {
+        "en": "Mountain city where the Prophet sought refuge in Year 10 of Prophethood and won the heart of Addas.",
+        "ms": "Bandar pergunungan saksi dakwah baginda, keislaman Addas, dan persemadian Ibnu Abbas.",
+        "ml": "പ്രവാചകൻ പ്രബോധനത്തിനായി പോവുകയും ത്യാഗങ്ങൾ സഹിക്കുകയും ചെയ്ത പർവ്വത നഗരം.",
+        "ta": "நபிகள் நாயகம் பிரச்சாரம் செய்து தியாகங்களை சந்தித்த மலை நகரம்."
+      },
+      "places": [
+        {
+          "id": "masjid_ibn_abbas",
+          "title": {
+            "en": "Masjid & Tomb of Abdullah ibn Abbas",
+            "ms": "Masjid & Makam Abdullah bin Abbas",
+            "ml": "അബ്ദുല്ലാഹിബ്നു അബ്ബാസ് പള്ളിയും മഖാമും",
+            "ta": "அப்துல்லாஹ் இப்னு அப்பாஸ் பள்ளி மற்றும் மகாப்"
+          },
+          "summary": {
+            "en": "Major center of scholarship in Taif housing the tomb of the 'Scholar of the Ummah'.",
+            "ms": "Pusat ilmu bersejarah yang menempatkan makam sepupu baginda, Abdullah bin Abbas (ahli tafsir umat).",
+            "ml": "പ്രമുഖ ഖുർആൻ വ്യാഖ്യാതാവ് ഇബ്നു അബ്ബാസിന്റെ മഖാമും പള്ളിയും.",
+            "ta": "குர்ஆனின் விரிவுரையாளர் இப்னு அப்பாஸ் (ரலி) அவர்களின் அடக்கஸ்தலம் மற்றும் பள்ளி."
+          },
+          "details": {
+            "en": "Features the historic mosque, Ibn Abbas's resting place outside the qibla wall, adjacent graveyard of Taif's martyrs, and the research library.",
+            "ms": "Merangkumi masjid utama, makam Ibnu Abbas, perkuburan Syuhada Taif, dan perpustakaan manuskrip berharga.",
+            "ml": "ഇബ്നു അബ്ബാസിന്റെ മഖ്ബറയോടൊപ്പം ത്വാഇഫ് ഉപരോധത്തിൽ ശഹീദായ സ്വഹാബികളുടെ ഖബറുകളും ഇവിടെയുണ്ട്.",
+            "ta": "இப்னு அப்பாஸ் மகாமுடன் தாயிஃப் போரில் ஷஹீதான சஹாபாக்களின் அடக்கஸ்தலமும் இங்குள்ளது."
+          },
+          "images": {
+            "thumbnail": "assets/image/locations/masjid_ibn_abbas.webp",
+            "gallery": [
+              "assets/image/locations/masjid_ibn_abbas.webp"
+            ]
+          }
+        },
+        {
+          "id": "masjid_addas",
+          "title": {
+            "en": "Masjid Addas (Vineyard of Utbah)",
+            "ms": "Masjid Addas (Kebun Anggur Addas)",
+            "ml": "മസ്ജിദ് അദ്ദാസ് (മുന്തിരിത്തോട്ടം)",
+            "ta": "மஸ்ஜிது அத்தாஸ் (திராட்சைத் தோட்டம்)"
+          },
+          "summary": {
+            "en": "Historic garden site where the Christian servant Addas offered grapes and embraced Islam.",
+            "ms": "Tapak kebun anggur di mana Addas menghulurkan buah anggur lalu memeluk Islam mendengar lafaz Bismillah.",
+            "ml": "അദ്ദാസ് എന്ന ക്രിസ്ത്യൻ അടിമ നബിക്ക് മുന്തിരി നൽകുകയും ഇസ്ലാം സ്വീകരിക്കുകയും ചെയ്ത സ്ഥലം.",
+            "ta": "அத்தாஸ் என்ற கிறிஸ்தவ அடிமை நபிகளாருக்கு திராட்சை வழங்கி இஸ்லாத்தை ஏற்ற இடம்."
+          },
+          "details": {
+            "en": "Located in Al-Mathnah valley. The Prophet ﷺ sheltered here after being pelted with stones by the chiefs of Thaqif.",
+            "ms": "Terletak di lembah Al-Mathnah. Tempat Baginda ﷺ berehat dan bermunajat selepas dihalau oleh pembesar Taif.",
+            "ml": "അൽ-മഥ്ന താഴ്‌വരയിലാണ്. ത്വാഇഫുകാരുടെ കല്ലേറുകൊണ്ട് പരിക്കേറ്റ നബി ആശ്വസിച്ച ഇടം.",
+            "ta": "அல்-மத்னா பள்ளத்தாக்கில் உள்ளது. தாயிஃப் மக்களின் தாக்குதலுக்குப் பின் நபிகள் இளைப்பாறிய தோட்டம்."
+          },
+          "images": {
+            "thumbnail": "assets/image/locations/masjid_addas.webp",
+            "gallery": [
+              "assets/image/locations/masjid_addas.webp"
+            ]
+          }
+        },
+        {
+          "id": "masjid_al_kouk",
+          "title": {
+            "en": "Masjid Al-Kouk (The Elbow Mosque)",
+            "ms": "Masjid Al-Kouk (Masjid Siku)",
+            "ml": "മസ്ജിദുൽ കൂഅ് (മുട്ടിന്റെ പള്ളി)",
+            "ta": "மஸ்ஜிதுல் கூக் (முழங்கை பள்ளி)"
+          },
+          "summary": {
+            "en": "Small mountain-edge mosque where the Prophet leaned his elbow against a rock to rest.",
+            "ms": "Masjid kecil di mana terdapat kesan batu tempat Baginda ﷺ menyandarkan siku untuk berehat.",
+            "ml": "നബി ﷺ ത്വാഇഫിൽ വെച്ച് കൈമുട്ട് ചാരി വിശ്രമിച്ച സ്ഥലത്ത് നിർമ്മിച്ച പള്ളി.",
+            "ta": "தாயிஃபில் நபிகளார் முழங்கையை ஊன்றி ஓய்வெடுத்த இடத்தில் கட்டப்பட்ட பள்ளி."
+          },
+          "details": {
+            "en": "Situated in Al-Mathnah near the ridge. Known historically as Masjid al-Kou' for the stone impression where he reclined during hardship.",
+            "ms": "Terletak di lereng batu Al-Mathnah. Mengenang kepayahan dan kesabaran dakwah Baginda ﷺ di Taif.",
+            "ml": "അൽ-മഥ്നയിലെ മലയടിവാരം. പ്രവാചകന്റെ കഠിന ത്യാഗങ്ങളെ ഓർമ്മിപ്പിക്കുന്ന പുരാതന പള്ളി.",
+            "ta": "அல்-மத்னாவில் அமைந்துள்ளது. நபிகளாரின் தாயிஃப் பிரச்சார சோதனைகளை நினைவூட்டும் இடம்."
+          },
+          "images": {
+            "thumbnail": "assets/image/locations/masjid_al_kouk.webp",
+            "gallery": [
+              "assets/image/locations/masjid_al_kouk.webp"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "badr_battlefield",
+      "region": "badr",
+      "title": {
+        "en": "Badr Battlefield & Memorials",
+        "ms": "Medan Pertempuran & Mercu Tanda Badr",
+        "ml": "ബദർ യുദ്ധക്കളവും സ്മാരകങ്ങളും",
+        "ta": "பத்ரு போர்க்களம் மற்றும் வரலாற்று இடங்கள்"
+      },
+      "summary": {
+        "en": "The decisive victory plain of Ramadan 2 AH where the nascent Muslim community vanquished Quraysh.",
+        "ms": "Dataran kemenangan agung Perang Badar (17 Ramadan 2H) yang membezakan kebenaran dan kebatilan (Yawm al-Furqan).",
+        "ml": "സത്യവും അസത്യവും വേർതിരിച്ച ചരിത്രപ്രസിദ്ധമായ ബദർ യുദ്ധം നടന്ന പ്രദേശം.",
+        "ta": "சத்தியத்திற்கும் அசத்தியத்திற்கும் இடையே தீர்ப்பு வழங்கிய வரலாற்று சிறப்புமிக்க பத்ரு போர்க்களம்."
+      },
+      "places": [
+        {
+          "id": "masjid_al_areesh",
+          "title": {
+            "en": "Masjid Al-Areesh",
+            "ms": "Masjid Al-'Areesh",
+            "ml": "മസ്ജിദുൽ അരീഷ്",
+            "ta": "மஸ்ஜிதுல் அரீஷ்"
+          },
+          "summary": {
+            "en": "Mosque built atop the command pavilion where the Prophet wept in deep supplication.",
+            "ms": "Masjid di tapak khemah markas kayu kurma di mana Rasulullah ﷺ memimpin perang dan bermunajat.",
+            "ml": "നബി ﷺ ബദറിൽ സൈന്യത്തെ നയിക്കുകയും കണ്ണീരോടെ പ്രാർത്ഥിക്കുകയും ചെയ്ത കൂടാരത്തിന്റെ സ്ഥാനം.",
+            "ta": "பத்ரு போரில் நபிகளார் கூடாரம் அமைத்து கண்ணீருடன் இறைவனிடம் மன்றாடிய இடம்."
+          },
+          "details": {
+            "en": "Stands elevated overlooking the southern valley bed. Abu Bakr stood guard outside while the Prophet poured his heartfelt prayer for victory.",
+            "ms": "Terletak di atas rabung tinggi menghadap medan perigi. Sayyidina Abu Bakar berkawal di hadapan khemah tersebut semasa baginda berdoa.",
+            "ml": "താഴ്‌വരയിലേക്ക് ദർശനമുള്ള ഉയർന്ന പ്രദേശം. അബൂബക്കർ (റ) കാവൽ നിന്ന നബിയുടെ കമാൻഡ് സെന്റർ.",
+            "ta": "பள்ளத்தாக்கை நோக்கிய மேடான பகுதி. நபிகளார் துஆ செய்த போது அபூபக்கர் (ரலி) காவல் நின்ற இடம்."
+          },
+          "images": {
+            "thumbnail": "assets/image/locations/masjid_al_areesh.webp",
+            "gallery": [
+              "assets/image/locations/masjid_al_areesh.webp"
+            ]
+          }
+        },
+        {
+          "id": "shuhada_badr_graveyard",
+          "title": {
+            "en": "Badr Shuhada Graveyard",
+            "ms": "Makam 14 Syuhada Badar",
+            "ml": "ബദർ ശുഹദാക്കളുടെ മഖ്ബറ",
+            "ta": "பத்ரு ஷுஹதாக்கள் மையவாடி"
+          },
+          "summary": {
+            "en": "Walled cemetery enclosing the 14 noble companions martyred in the battle.",
+            "ms": "Kawasan perkuburan berdinding menempatkan 14 sahabat (Muhajirin & Ansar) yang gugur syahid di Badar.",
+            "ml": "ബദർ യുദ്ധത്തിൽ രക്തസാക്ഷികളായ 14 സ്വഹാബികളുടെ ഖബറുകൾ അടങ്ങിയ ഇടം.",
+            "ta": "பத்ரு போரில் வீரமரணமடைந்த 14 சஹாபாக்களின் அடக்கஸ்தலம்."
+          },
+          "details": {
+            "en": "Names of all 14 martyrs (including Ubaydah ibn al-Harith and Umayr ibn Abi Waqqas) are commemorated outside the enclosure gates.",
+            "ms": "Nama-nama 14 syuhada terpahat pada papan tanda di luar pintu pagar makam.",
+            "ml": "ഉബൈദത്ത് ബിൻ അൽ-ഹാരിഥ് ഉൾപ്പെടെയുള്ള 14 ശുഹദാക്കളുടെ പേരുകൾ കവാടത്തിൽ ആലേഖനം ചെയ്തിട്ടുണ്ട്.",
+            "ta": "உபைதா இப்னுல் ஹாரிஸ் உள்ளிட்ட 14 தியாகிகளின் பெயர்கள் முகப்பில் பொறிக்கப்பட்டுள்ளன."
+          },
+          "images": {
+            "thumbnail": "assets/image/locations/shuhada_badr_graveyard.webp",
+            "gallery": [
+              "assets/image/locations/shuhada_badr_graveyard.webp"
+            ]
+          }
+        },
+        {
+          "id": "jabal_al_malaikah",
+          "title": {
+            "en": "Jabal Al-Mala'ikah (Mountain of the Angels)",
+            "ms": "Jabal Al-Mala'ikah (Bukit Malaikat)",
+            "ml": "ജബലുൽ മലായിക (മലക്കുകളുടെ മല)",
+            "ta": "ஜபலுல் மலாயிகா (வானவர்களின் மலை)"
+          },
+          "summary": {
+            "en": "The clean white sand dune ridge where angels descended to fight alongside the believers.",
+            "ms": "Bukit rabung pasir putih bersih di mana bala tentera malaikat turun membantu kaum muslimin.",
+            "ml": "മുസ്‌ലിംകളെ സഹായിക്കാൻ മലക്കുകൾ ഇറങ്ങിവന്ന വെളുത്ത മണൽക്കുന്ന്.",
+            "ta": "முஸ்லிம்களுக்கு உதவ வானவர்கள் இறங்கிய வெள்ளை மணல் குன்று."
+          },
+          "details": {
+            "en": "Situated on the western fringe of the battlefield plain. Mentioned in Surah Al-Anfal and Ali 'Imran as divine reinforcement.",
+            "ms": "Terletak di sebelah barat daya medan. Disebut dalam al-Quran mengenai bantuan ribuan malaikat berpasukan.",
+            "ml": "സൂറത്തുൽ അൻഫാലിൽ പരാമർശിച്ച മണൽക്കുന്ന്. അല്ലാഹു മലക്കുകളെ അയച്ച ചരിത്ര ഭൂമി.",
+            "ta": "சூரா அன்பாலில் குறிப்பிடப்பட்ட தளம். இறைவனின் உதவி வானவர்கள் வடிவில் இறங்கிய இடம்."
+          },
+          "images": {
+            "thumbnail": "assets/image/locations/jabal_al_malaikah.webp",
+            "gallery": [
+              "assets/image/locations/jabal_al_malaikah.webp"
+            ]
+          }
+        },
+        {
+          "id": "bir_badr_valley",
+          "title": {
+            "en": "Valley Bed of the Badr Wells",
+            "ms": "Lembah Telaga Badr Purba",
+            "ml": "ബദറിലെ കിണറുകൾ നിലനിന്ന താഴ്‌വര",
+            "ta": "பத்ரு கிணறுகள் இருந்த பள்ளத்தாக்கு"
+          },
+          "summary": {
+            "en": "The aquifer valley where the Muslims secured the water supply before combat.",
+            "ms": "Lembah sumber air di mana tentera Islam menguasai telaga atas cadangan Al-Hubab bin Al-Mundhir.",
+            "ml": "ഹുബാബ് ബിൻ മുൻദിറിന്റെ ഉപദേശപ്രകാരം മുസ്ലിംകൾ വെള്ളം ശേഖരിച്ച കിണറുകളുടെ താഴ്‌വര.",
+            "ta": "ஹுபாப் இப்னு முன்திரின் ஆலோசனையின்படி முஸ்லிம்கள் வசப்படுத்திய நீரூற்று பகுதி."
+          },
+          "details": {
+            "en": "Now a level open historic terrain in front of Masjid Al-Areesh; the original ancient individual well pits are sealed.",
+            "ms": "Kini kawasan tanah lapang bersejarah di hadapan Masjid Al-Areesh; telaga-telaga purba tidak lagi terbuka.",
+            "ml": "ഇന്ന് തുറന്ന മൈതാനമാണ്. അന്ന് നിലനിന്നിരുന്ന പഴയ കിണറുകൾ പിന്നീട് മൂടപ്പെട്ടു.",
+            "ta": "தற்போது சமவெளி நிலமாக உள்ளது. வரலாற்று சிறப்புமிக்க பழைய கிணறுகள் மூடப்பட்டுவிட்டன."
+          },
+          "images": {
+            "thumbnail": "assets/image/locations/bir_badr_valley.webp",
+            "gallery": [
+              "assets/image/locations/bir_badr_valley.webp"
+            ]
+          }
+        },
+        {
+          "id": "al_qalib_pit",
+          "title": {
+            "en": "Site of Al-Qalib (Disposal Pit of Quraysh)",
+            "ms": "Tapak Al-Qalib (Telaga Mayat Pembesar Quraisy)",
+            "ml": "അൽ-ഖലീബ് (ഖുറൈശി നേതാക്കളെ മറവുചെയ്ത കിണർ)",
+            "ta": "அல்-கலீப் (குறைஷி தலைவர்கள் புதைக்கப்பட்ட கிணறு)"
+          },
+          "summary": {
+            "en": "Dry pit where bodies of 24 slain Qurayshi tyrants (including Abu Jahl) were buried.",
+            "ms": "Telaga kering di mana 24 jenazah pemimpin kafir Quraisy termasuk Abu Jahal dihumban dan ditimbus.",
+            "ml": "അബൂജഹൽ അടക്കമുള്ള 24 ഖുറൈശി പ്രമുഖരുടെ മൃതദേഹങ്ങൾ ഇട്ടുമൂടിയ ഉണങ്ങിയ കിണർ.",
+            "ta": "அபூஜஹ்ல் உள்ளிட்ட 24 குறைஷி தலைவர்களின் உடல்கள் போடப்பட்டு மூடப்பட்ட கிணறு."
+          },
+          "details": {
+            "en": "Located southwest of the martyrs' cemetery. The Prophet ﷺ stood at its edge and addressed the dead leaders three days after the battle.",
+            "ms": "Terletak di arah barat daya makam syuhada. Baginda ﷺ berbicara kepada mayat mereka tiga hari selepas kemenangan.",
+            "ml": "യുദ്ധത്തിന് മൂന്ന് ദിവസത്തിന് ശേഷം നബി ഈ കിണറിനരികിൽ നിന്ന് അവരോട് സംസാരിച്ചു.",
+            "ta": "போர் முடிந்த மூன்று நாட்களுக்குப் பின் நபிகளார் இக்கிணற்றின் அருகே நின்று உரையாற்றினார்."
+          },
+          "images": {
+            "thumbnail": "assets/image/locations/al_qalib_pit.webp",
+            "gallery": [
+              "assets/image/locations/al_qalib_pit.webp"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "bir_ar_rawha",
+      "region": "madinah_outskirts",
+      "title": {
+        "en": "Wadi & Well of Ar-Rawha",
+        "ms": "Lembah & Telaga Bir Ar-Rawha",
+        "ml": "വാദി അർ-റൗഹായും ബിഅ്‌റു റൗഹായും",
+        "ta": "வாதி அர்-ரவ்ஹா மற்றும் ரவ்ஹா கிணறு"
+      },
+      "summary": {
+        "en": "Historic valley halfway to Badr where seventy prophets, including Musa, traversed and prayed.",
+        "ms": "Lembah pertengahan ke Badr di mana 70 nabi (termasuk Nabi Musa a.s.) pernah berwuduk dan bersolat.",
+        "ml": "മൂസാ നബി ഉൾപ്പെടെ എഴുപത് പ്രവാചകന്മാർ സഞ്ചരിക്കുകയും നമസ്കരിക്കുകയും ചെയ്ത താഴ്‌വര.",
+        "ta": "மூஸா நபி உள்ளிட்ட 70 இறைத்தூதர்கள் நடந்து சென்று தொழுத வரலாற்றுப் பள்ளத்தாக்கு."
+      },
+      "places": [
+        {
+          "id": "bir_rawha_well",
+          "title": {
+            "en": "Bir Ar-Rawha",
+            "ms": "Telaga Bir Ar-Rawha",
+            "ml": "ബിഅ്‌റു റൗഹാ",
+            "ta": "பிஃரு ரவ்ஹா"
+          },
+          "summary": {
+            "en": "The famous well whose saline water turned sweet after the Prophet's blessing.",
+            "ms": "Telaga musafir yang airnya masin bertukar menjadi tawar dan berkat setelah diludah oleh Baginda ﷺ.",
+            "ml": "നബിയുടെ ഉമിനീര് വീണ് ഉപ്പുരസം മാറി മധുരജലമായി മാറിയ കിണർ.",
+            "ta": "நபிகளாரின் எச்சில் பட்டதால் உவர்நீர் நன்னீராக மாறிய வரலாற்று சிறப்புமிக்க கிணறு."
+          },
+          "details": {
+            "en": "Located ~80 km southwest of Madinah on the ancient caravan highway. Troops drank from it before proceeding to Badr.",
+            "ms": "Terletak 80 km barat daya Madinah. Tempat tentera Islam minum air segar sebelum meneruskan ekspedisi ke medan Badar.",
+            "ml": "മദീനയിൽ നിന്ന് 80 കി.മീ ദൂരെ. ബദറിലേക്ക് പോകുന്ന വഴിയിൽ സൈന്യം ഇവിടെ നിന്ന് വെള്ളം കുടിച്ചു.",
+            "ta": "மதீனாவிலிருந்து 80 கிமீ தொலைவில் உள்ளது. பத்ரு செல்லும் வழியில் முஸ்லிம் படைகள் நீர் அருந்திய இடம்."
+          },
+          "images": {
+            "thumbnail": "assets/image/locations/bir_rawha_well.webp",
+            "gallery": [
+              "assets/image/locations/bir_rawha_well.webp"
+            ]
+          }
+        },
+        {
+          "id": "masjid_ar_rawha",
+          "title": {
+            "en": "Masjid Ar-Rawha",
+            "ms": "Masjid Ar-Rawha",
+            "ml": "മസ്ജിദ് അർ-റൗഹാ",
+            "ta": "மஸ்ஜிது அர்-ரவ்ஹா"
+          },
+          "summary": {
+            "en": "Ancient roadside mosque commemorating prayers of multiple biblical and Islamic prophets.",
+            "ms": "Masjid purba di mana ramai nabi-nabi terdahulu pernah mendirikan solat ketika bermusafir ke Kaabah.",
+            "ml": "മുൻകാല പ്രവാചകന്മാർ കഅ്ബ സന്ദർശന വേളയിൽ നമസ്കരിച്ച പള്ളി.",
+            "ta": "முந்தைய நபிமார்கள் கஅபா செல்லும் வழியில் தொழுத வரலாற்று பள்ளிவாசல்."
+          },
+          "details": {
+            "en": "Mentioned in hadith: Seventy prophets passed through Wadi ar-Rawha making pilgrimage to the Ancient House.",
+            "ms": "Disebut dalam hadis bahawa 70 nabi melintasi lembah ini dengan bertelanjang kaki menunaikan haji ke Baitullah.",
+            "ml": "എഴുപതോളം നബിമാർ ഈ വഴിയിലൂടെ ഹജ്ജിനായി പോയിട്ടുണ്ടെന്ന് ഹദീസുകളിൽ കാണാം.",
+            "ta": "எழுபது நபிமார்கள் ஹஜ்ஜிற்காக இவ்வழியாக நடந்து சென்றதாக ஹதீஸ்களில் கூறப்பட்டுள்ளது."
+          },
+          "images": {
+            "thumbnail": "assets/image/locations/masjid_ar_rawha.webp",
+            "gallery": [
+              "assets/image/locations/masjid_ar_rawha.webp"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "rawdah_nabawi",
+      "region": "madinah",
+      "title": {
+        "en": "Inside Masjid Nabawi: Rawdah Mubarak & Historical Pillars",
+        "ms": "Di Dalam Masjid Nabawi: Rawdah & Tiang-Tiang Bersejarah",
+        "ml": "റൗദ ശരീഫും ചരിത്ര സ്തംഭങ്ങളും",
+        "ta": "ரவ்ழா ஷரீஃப் மற்றும் வரலாற்றுத் தூண்கள்"
+      },
+      "summary": {
+        "en": "The heavenly garden between the Minbar and the Prophet's Sacred Chamber featuring the eight labelled pillars.",
+        "ms": "Taman syurga antara mimbar dan rumah Rasulullah ﷺ yang menempatkan lapan tiang saksi sirah.",
+        "ml": "നബിയുടെ ഖബറിടത്തിനും മിമ്പറിനും ഇടയിലുള്ള സ്വർഗ്ഗീയ പൂന്തോപ്പും ചരിത്ര സ്തംഭങ്ങളും.",
+        "ta": "மிம்பர் மற்றும் நபிகளாரின் அடக்கஸ்தலத்திற்கு இடைப்பட்ட சொர்க்கப் பூங்காவும் தூண்களும்."
+      },
+      "places": [
+        {
+          "id": "hujrah_sharifah",
+          "title": {
+            "en": "Al-Hujrah ash-Sharifah (The Sacred Chamber)",
+            "ms": "Al-Hujrah asy-Syarifah (Makam Rasulullah ﷺ & Sahabat)",
+            "ml": "ഹുജ്റ ശരീഫ് (നബിയുടെയും സ്വഹാബികളുടെയും ഖബറുകൾ)",
+            "ta": "ஹுஜ்ரா ஷரீஃப் (நபிகள் மற்றும் சஹாபாக்களின் அடக்கஸ்தலம்)"
+          },
+          "summary": {
+            "en": "Room of Aisha containing the resting places of the Prophet, Abu Bakr, and Umar.",
+            "ms": "Bilik rumah Sayyidatina Aisha tempat makam Rasulullah ﷺ, Abu Bakar, dan Umar r.a.",
+            "ml": "നബി ﷺ, അബൂബക്കർ (റ), ഉമർ (റ) എന്നിവർ അന്ത്യവിശ്രമം കൊള്ളുന്ന ആയിശ(റ)യുടെ വീട്.",
+            "ta": "நபிகள் நாயகம், அபூபக்கர், மற்றும் உமர் (ரலி) அடக்கம் செய்யப்பட்ட அன்னை ஆயிஷா இல்லம்."
+          },
+          "details": {
+            "en": "Pilgrims send greetings facing the three golden brass viewing apertures (Muwaajahah) on the southern corridor.",
+            "ms": "Jemaah memberi salam di hadapan tiga lubang kisi-kisi emas menghadap makam dari arah selatan.",
+            "ml": "തെക്കേ കവാടത്തിലൂടെ പ്രവേശിക്കുന്ന വിശ്വാസികൾ സലാം പറയുന്ന സ്വർണ്ണ ജാലകം.",
+            "ta": "ஹாஜிகள் தெற்குப் பாதையில் நின்று ஸலாம் கூறும் தங்க ஜன்னல் அமைந்த பகுதி."
+          },
+          "images": {
+            "thumbnail": "assets/image/locations/hujrah_sharifah.webp",
+            "gallery": [
+              "assets/image/locations/hujrah_sharifah.webp"
+            ]
+          }
+        },
+        {
+          "id": "minbar_nabawi",
+          "title": {
+            "en": "Minbar of the Prophet",
+            "ms": "Minbar Rasulullah ﷺ",
+            "ml": "നബിയുടെ മിമ്പർ",
+            "ta": "நபிகளாரின் மிம்பர்"
+          },
+          "summary": {
+            "en": "The pulpit of Islamic leadership situated upon a fountain of the springs of Paradise.",
+            "ms": "Mimbar tempat Baginda ﷺ berkhutbah; 'Minbarku berada di atas telagaku (Al-Kawthar)'.",
+            "ml": "സ്വർഗ്ഗത്തിലെ ഹൗളിന് മുകളിലാണ് എന്റെ മിമ്പർ എന്ന് നബി വിശേഷിപ്പിച്ച സ്ഥാനം.",
+            "ta": "என் மிம்பர் எனது ஹவ்ள் தடாகத்தின் மீது உள்ளது என்று நபிகளார் கூறிய இடம்."
+          },
+          "details": {
+            "en": "The modern marble Ottoman pulpit stands at the exact geographical spot of the Prophet's three-step wooden minbar.",
+            "ms": "Mimbar marmar Uthmaniyyah kini berdiri tepat di atas kedudukan mimbar kayu asal Rasulullah ﷺ.",
+            "ml": "നബിയുടെ തടി മിമ്പർ നിന്നിരുന്ന അതേ സ്ഥാനത്ത് ഇന്ന് തുർക്കി ശൈലിയിലുള്ള മിമ്പർ കാണാം.",
+            "ta": "நபிகளார் நின்ற மர மிம்பரின் அதே இடத்தில் தற்போதைய உஸ்மானிய சலவைக்கல் மிம்பர் உள்ளது."
+          },
+          "images": {
+            "thumbnail": "assets/image/locations/minbar_nabawi.webp",
+            "gallery": [
+              "assets/image/locations/minbar_nabawi.webp"
+            ]
+          }
+        },
+        {
+          "id": "ustuwanah_aisha",
+          "title": {
+            "en": "Ustuwaanah Aisha (Pillar of Lots)",
+            "ms": "Tiang Aisha (Ustuwaanah Aisha / Al-Qur'ah)",
+            "ml": "ഉസ്തുവാനത്തു ആയിശ (നറുക്കെടുപ്പിന്റെ തൂൺ)",
+            "ta": "உஸ்துவானா ஆயிஷா (ஆயிஷா தூண்)"
+          },
+          "summary": {
+            "en": "Pillar marking the exact spot where the Prophet led prayers after the Qibla change.",
+            "ms": "Tiang tempat Baginda ﷺ sering mengimami solat selepas kiblat bertukar ke Kaabah.",
+            "ml": "ഖിബ്‌ല മാറ്റത്തിന് ശേഷം നബി നമസ്കാരത്തിന് നേതൃത്വം നൽകിയ പ്രിയപ്പെട്ട സ്ഥലം.",
+            "ta": "கிப்லா மாற்றத்திற்குப் பிறகு நபிகளார் தொழுகை நடத்திய இடம்."
+          },
+          "details": {
+            "en": "Aisha said: 'If people knew the blessing of praying here, they would cast lots for it.' The third pillar from the chamber.",
+            "ms": "Sayyidatina Aisha meriwayatkan sekiranya orang ramai tahu kelebihan solat di sini, nescaya mereka sanggup mengundi.",
+            "ml": "ഇവിടെ നമസ്കരിക്കാനുള്ള പുണ്യം അറിഞ്ഞിരുന്നെങ്കിൽ ആളുകൾ നറുക്കെടുക്കുമായിരുന്നു എന്ന് ആയിശ (റ) പറഞ്ഞ സ്ഥലം.",
+            "ta": "இங்கு தொழுவதன் சிறப்பை மக்கள் அறிந்தால் சீட்டுப் போட்டு போட்டியிடுவார்கள் என ஆயிஷா கூறிய தூண்."
+          },
+          "images": {
+            "thumbnail": "assets/image/locations/ustuwanah_aisha.webp",
+            "gallery": [
+              "assets/image/locations/ustuwanah_aisha.webp"
+            ]
+          }
+        },
+        {
+          "id": "ustuwanah_tawbah",
+          "title": {
+            "en": "Ustuwaanah Tawbah (Abu Lubabah)",
+            "ms": "Tiang Taubat (Ustuwaanah Abu Lubabah)",
+            "ml": "ഉസ്തുവാനത്തു തൗബ (അബൂ ലുബാബ തൂൺ)",
+            "ta": "உஸ்துவானா தவ்பா (அபூ லுபாபா தூண்)"
+          },
+          "summary": {
+            "en": "Pillar where Abu Lubabah tied himself until God revealed forgiveness for his mistake.",
+            "ms": "Tiang di mana Abu Lubabah mengikat dirinya sehingga taubatnya diterima Allah.",
+            "ml": "അബൂ ലുബാബ സ്വയം ബന്ധിക്കുകയും അല്ലാഹു തൗബ സ്വീകരിക്കുകയും ചെയ്ത തൂൺ.",
+            "ta": "பாவமன்னிப்பு கிடைக்கும் வரை அபூ லுபாபா தன்னைத் தாமே கட்டிக்கொண்ட தூண்."
+          },
+          "details": {
+            "en": "Tied himself in grief after inadvertently disclosing strategic advice to Banu Qurayza; the Prophet unfastened him once forgiveness was revealed.",
+            "ms": "Mengikat diri kerana rasa bersalah terhadap kesilapan kata kepada Bani Quraizah sehingga wahyu taubat turun.",
+            "ml": "ബനൂ ഖുറൈള സംഭവത്തിൽ ഉണ്ടായ പിഴവിൽ മനംനൊന്ത് ബന്ധിക്കുകയും നബി നേരിട്ട് അഴിച്ചുവിടുകയും ചെയ്തു.",
+            "ta": "பனூ குறைளா விஷயத்தில் ஏற்பட்ட தவறால் தன்னை கட்டிக்கொண்டார்; மன்னிப்பு வசனம் வந்த பின் நபிகளார் விடுவித்தார்."
+          },
+          "images": {
+            "thumbnail": "assets/image/locations/ustuwanah_tawbah.webp",
+            "gallery": [
+              "assets/image/locations/ustuwanah_tawbah.webp"
+            ]
+          }
+        },
+        {
+          "id": "ustuwanah_hannanah",
+          "title": {
+            "en": "Ustuwaanah Hannanah (The Weeping Trunk)",
+            "ms": "Tiang Hannanah (Batang Tamar Menangis)",
+            "ml": "ഉസ്തുവാനത്തു ഹന്നാന (കരഞ്ഞ ഈന്തപ്പനത്തടി)",
+            "ta": "உஸ்துவானா ஹன்னானா (அழுத மரத்தின் தூண்)"
+          },
+          "summary": {
+            "en": "Location of the dry palm trunk that wept loudly when replaced by the crafted minbar.",
+            "ms": "Tapak batang tamar yang menangis merintih kerana rindu pelukan Baginda ﷺ apabila mimbar mula digunakan.",
+            "ml": "മിമ്പർ വെച്ചപ്പോൾ നബിയുടെ വിയോഗത്തിൽ തേങ്ങിക്കരഞ്ഞ ഈന്തപ്പനത്തടി നിന്ന സ്ഥലം.",
+            "ta": "நபிகளாரின் பிரிவைத் தாங்காமல் அழுத பேரீச்சை மரத்தடி இருந்த இடம்."
+          },
+          "details": {
+            "en": "Located just to the right of Mihrab Nabawi. The Prophet embraced the trunk until it quieted down like a comforted child.",
+            "ms": "Terletak di sisi Mihrab Nabawi. Baginda ﷺ turun memeluk batang pokok itu sehingga ia tenang seperti anak kecil.",
+            "ml": "മിഹ്റാബിന് വലതുവശം. നബി ഇറങ്ങിവന്ന് കെട്ടിപ്പിടിച്ചാണ് അതിനെ ആശ്വസിപ്പിച്ചത്.",
+            "ta": "மிஹ்ராபுக்கு வலதுபுறம் உள்ளது. நபிகளார் இறங்கி வந்து கட்டியணைத்து அதை அமைதிப்படுத்தினார்."
+          },
+          "images": {
+            "thumbnail": "assets/image/locations/ustuwanah_hannanah.webp",
+            "gallery": [
+              "assets/image/locations/ustuwanah_hannanah.webp"
+            ]
+          }
+        },
+        {
+          "id": "ustuwanah_ali_haras",
+          "title": {
+            "en": "Ustuwaanah Ali / Al-Haras (The Guard Pillar)",
+            "ms": "Tiang Pengawal (Ustuwaanah Ali / Haras)",
+            "ml": "ഉസ്തുവാനത്തു അലി / ഹറസ് (കാവൽക്കാരുടെ തൂൺ)",
+            "ta": "உஸ்துவானா அலி / அல்-ஹரஸ் (பாதுகாவலர் தூண்)"
+          },
+          "summary": {
+            "en": "Post where Ali and companions guarded the entrance to the Prophet's house.",
+            "ms": "Tiang tempat Ali r.a. dan para sahabat berkawal menjaga keselamatan pintu rumah Nabi ﷺ.",
+            "ml": "അലി (റ) നബിയുടെ വീടിന് കാവൽ നിന്നിരുന്ന സ്ഥാനം.",
+            "ta": "அலி (ரலி) நபிகளாரின் இல்ல வாசலில் பாதுகாப்பிற்காக நின்ற தூண்."
+          },
+          "details": {
+            "en": "Located facing the chamber door. Guarding discontinued after the revelation: 'And Allah will protect you from the people' (5:67).",
+            "ms": "Bersebelahan pintu rumah Nabi. Kawalan diberhentikan selepas turunnya ayat jaminan perlindungan Allah dalam Surah Al-Ma'idah: 67.",
+            "ml": "അല്ലാഹു താങ്കളെ ജനങ്ങളിൽ നിന്ന് കാത്തുസൂക്ഷിക്കും എന്ന ആയത്ത് ഇറങ്ങിയതോടെ കാവൽ നിർത്തി.",
+            "ta": "அல்லாஹ் மக்களை விட்டும் உம்மை பாதுகாப்பான் என்ற வசனம் இறங்கியதும் காவல் நிறுத்தப்பட்டது."
+          },
+          "images": {
+            "thumbnail": "assets/image/locations/ustuwanah_ali_haras.webp",
+            "gallery": [
+              "assets/image/locations/ustuwanah_ali_haras.webp"
+            ]
+          }
+        },
+        {
+          "id": "ustuwanah_wufud",
+          "title": {
+            "en": "Ustuwaanah Wufud (Pillar of Delegations)",
+            "ms": "Tiang Utusan (Ustuwaanah Wufud)",
+            "ml": "ഉസ്തുവാനത്തുൽ വുഫൂദ് (പ്രതിനിധി സംഘങ്ങളുടെ തൂൺ)",
+            "ta": "உஸ்துவானா வுஃபூத் (தூதுக்குழுக்கள் தூண்)"
+          },
+          "summary": {
+            "en": "Location where the Prophet held court and received tribal embassies and delegations.",
+            "ms": "Tiang tempat Baginda ﷺ menyambut dan bermesyuarat bersama kabilah-kabilah utusan luar.",
+            "ml": "അറേബ്യയുടെ നാനാഭാഗങ്ങളിൽ നിന്നുമുള്ള പ്രതിനിധി സംഘങ്ങളെ നബി സ്വീകരിച്ചിരുന്ന സ്ഥലം.",
+            "ta": "பல்வேறு கோத்திர தூதுக்குழுக்களை நபிகளார் வரவேற்று உரையாடிய இடம்."
+          },
+          "details": {
+            "en": "Situated immediately north of the Guard Pillar. Central to the political and diplomatic expansion of the Islamic state.",
+            "ms": "Terletak di utara tiang pengawal. Menjadi pusat diplomasi dan penerimaan delegasi kabilah Arab.",
+            "ml": "രാഷ്ട്രീയ നയതന്ത്ര ചർച്ചകൾക്ക് സാക്ഷ്യം വഹിച്ച സ്തംഭം.",
+            "ta": "அரசியல் மற்றும் தூதரக சந்திப்புகள் நடைபெற்ற முக்கிய தூண்."
+          },
+          "images": {
+            "thumbnail": "assets/image/locations/ustuwanah_wufud.webp",
+            "gallery": [
+              "assets/image/locations/ustuwanah_wufud.webp"
+            ]
+          }
+        },
+        {
+          "id": "al_suffah_platform",
+          "title": {
+            "en": "Platform of Ashab al-Suffah",
+            "ms": "Pentas Ahli Suffah",
+            "ml": "അസ്ഹാബുസ്സുഫ്ഫയുടെ തിണ്ണ",
+            "ta": "அஸ்ஹாபுஸ் ஸுஃப்பாவின் மேடை"
+          },
+          "summary": {
+            "en": "The elevated bench where poor students and ascetic companions lived and memorized hadiths.",
+            "ms": "Pentas teduhan tempat tinggal sahabat-sahabat bujang miskin penuntut ilmu seperti Abu Hurairah.",
+            "ml": "അബൂഹുറൈറ അടക്കമുള്ള ദരിദ്രരായ സ്വഹാബികൾ താമസിച്ചു പഠിച്ച തിണ്ണ.",
+            "ta": "அபூஹுரைரா உள்ளிட்ட ஏழை சஹாபாக்கள் தங்கி கல்வி கற்ற வரலாற்று மேடை."
+          },
+          "details": {
+            "en": "Located just behind the partition wall north of Aisha and Fatima's apartments. Center of residential Quranic and Hadith study.",
+            "ms": "Terletak di belakang makam Rasulullah ﷺ di sudut timur laut bahagian asal masjid.",
+            "ml": "നബിയുടെ വീടിന് തൊട്ടുപിന്നിൽ. വിജ്ഞാന സമ്പാദനത്തിനായി ജീവിതം സമർപ്പിച്ച സ്വഹാബികളുടെ സങ്കേതം.",
+            "ta": "நபிகளாரின் இல்லத்திற்குப் பின்னால் அமைந்துள்ளது. மார்க்கக் கல்விக்காக அர்ப்பணித்தவர்களின் இல்லம்."
+          },
+          "images": {
+            "thumbnail": "assets/image/locations/al_suffah_platform.webp",
+            "gallery": [
+              "assets/image/locations/al_suffah_platform.webp"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "perimeter_nabawi",
+      "region": "madinah",
+      "title": {
+        "en": "Immediate Perimeter of Masjid Nabawi",
+        "ms": "Sekitar Dataran Luar Masjid Nabawi",
+        "ml": "മസ്ജിദുന്നബവിയുടെ പരിസര പ്രദേശങ്ങൾ",
+        "ta": "மஸ்ஜிது நபவியின் சுற்றியுள்ள பகுதிகள்"
+      },
+      "summary": {
+        "en": "The sacred burial ground and historic prayer courtyards bordering the central sanctuary.",
+        "ms": "Tanah perkuburan Baqi dan masjid-masjid solat hari raya di luar perkarangan masjid.",
+        "ml": "ജന്നത്തുൽ ബഖീഉം നബി ഈദ് നമസ്കാരം നിർവ്വഹിച്ച പരിസര പള്ളികളും.",
+        "ta": "ஜன்னத்துல் பகீ மற்றும் நபிகளார் பெருநாள் தொழுத வெளிப்புற பள்ளிவாசல்கள்."
+      },
+      "places": [
+        {
+          "id": "jannat_al_baqi",
+          "title": {
+            "en": "Jannat al-Baqi (Baqi al-Gharqad)",
+            "ms": "Jannat al-Baqi' (Perkuburan Baqi')",
+            "ml": "ജന്നത്തുൽ ബഖീഅ്",
+            "ta": "ஜன்னத்துல் பகீ"
+          },
+          "summary": {
+            "en": "The principal graveyard of Madinah holding 10,000 companions and the Mothers of the Believers.",
+            "ms": "Perkuburan utama Madinah menempatkan makam 10,000 sahabat, isteri-isteri baginda, dan kaum kerabat.",
+            "ml": "പതിനായിരത്തോളം സ്വഹാബികളും പ്രവാചക പത്നിമാരും അന്ത്യവിശ്രമം കൊള്ളുന്ന പുണ്യ ഖബർസ്ഥാൻ.",
+            "ta": "பத்தாயிரத்திற்கும் மேற்பட்ட சஹாபாக்களும் நபிமனைவியரும் நல்லடக்கம் செய்யப்பட்ட மையவாடி."
+          },
+          "details": {
+            "en": "Extends immediately east of Masjid Nabawi. Contains the graves of Uthman ibn Affan, Imam Hasan, Abbas, and the Prophet's daughters.",
+            "ms": "Terletak di timur Masjid Nabawi. Menempatkan makam Khalifah Uthman, Hassan bin Ali, Abbas, dan puteri-puteri Rasulullah ﷺ.",
+            "ml": "ഉസ്മാൻ (റ), ഹസൻ (റ), ഫാത്വിമ (റ) തുടങ്ങി നിരവധി പ്രമുഖരുടെ ഖബറുകൾ ഇവിടെയാണ്.",
+            "ta": "உஸ்மான் (ரலி), அன்னை பாத்திமா, மற்றும் நபிகளாரின் மகள்கள் அடக்கம் செய்யப்பட்டுள்ளனர்."
+          },
+          "images": {
+            "thumbnail": "assets/image/locations/jannat_al_baqi.webp",
+            "gallery": [
+              "assets/image/locations/jannat_al_baqi.webp"
+            ]
+          }
+        },
+        {
+          "id": "masjid_al_ghamama",
+          "title": {
+            "en": "Masjid al-Ghamamah (The Cloud Mosque)",
+            "ms": "Masjid al-Ghamamah (Masjid Awan)",
+            "ml": "മസ്ജിദുൽ ഗമാമ (മേഘത്തിന്റെ പള്ളി)",
+            "ta": "மஸ்ஜிதுல் கமாமா (மேகப் பள்ளி)"
+          },
+          "summary": {
+            "en": "Open musalla where clouds provided shade while the Prophet offered rain prayers.",
+            "ms": "Tapak solat hari raya di mana awan menaungi Baginda ﷺ semasa memohon doa istisqa'.",
+            "ml": "മഴയെ തേടിയുള്ള നമസ്കാരത്തിൽ നബിക്ക് മേഘം തണൽ വിരിച്ച ചരിത്ര പള്ളി.",
+            "ta": "நபிகளார் மழை வேண்டி தொழுத போது மேகம் நிழல் தந்த வரலாற்று பள்ளி."
+          },
+          "details": {
+            "en": "Located 500 meters southwest of Bab as-Salam. This was also where the Prophet prayed Salatul Gha'ib for the Negus (Najashi) of Abyssinia.",
+            "ms": "Terletak 500 meter barat daya Bab as-Salam. Juga lokasi Baginda mendirikan solat jenazah ghaib untuk Raja Najasyi.",
+            "ml": "നജ്ജാശി രാജാവിന്റെ മരണവിവരമറിഞ്ഞ് നബി ഗാഇബായ ജനാസ നമസ്കാരം നിർവ്വഹിച്ചത് ഇവിടെ വെച്ചാണ്.",
+            "ta": "பாப் அஸ்ஸலாமிற்கு தென்மேற்கில் உள்ளது. நஜ்ஜாஷி மன்னருக்கு நபிகளார் மறைவான ஜனாஸா தொழுத இடம்."
+          },
+          "images": {
+            "thumbnail": "assets/image/locations/masjid_al_ghamama.webp",
+            "gallery": [
+              "assets/image/locations/masjid_al_ghamama.webp"
+            ]
+          }
+        },
+        {
+          "id": "saqifah_bani_saidah",
+          "title": {
+            "en": "Saqifah Bani Sa'idah",
+            "ms": "Saqifah Bani Sa'idah",
+            "ml": "സഖീഫ ബനീ സാഇദ",
+            "ta": "ஸகீஃபா பனீ ஸாஇதா"
+          },
+          "summary": {
+            "en": "The courtyard garden where companions convened and pledged allegiance to Abu Bakr as the First Caliph.",
+            "ms": "Taman terlindung di mana para sahabat bersepakat melantik Sayyidina Abu Bakar sebagai Khalifah pertama.",
+            "ml": "നബിയുടെ വഫാത്തോടെ അബൂബക്കർ സിദ്ദീഖിനെ ആദ്യ ഖലീഫയായി തിരഞ്ഞെടുത്ത സ്ഥലം.",
+            "ta": "நபிகளாரின் மறைவுக்குப் பின் அபூபக்கர் முதல் கலீபாவாக தேர்ந்தெடுக்கப்பட்ட இடம்."
+          },
+          "details": {
+            "en": "Located northwest of the mosque perimeter, preserved as a walled landscaped garden retaining its historical palm grove setting.",
+            "ms": "Terletak di barat laut Masjid Nabawi, kini dipelihara sebagai taman kehijauan berpagar.",
+            "ml": "മസ്ജിദുന്നബവിയുടെ വടക്കുപടിഞ്ഞാറ് സ്ഥിതി ചെയ്യുന്ന മനോഹരമായ ഒരു ഈന്തപ്പനത്തോട്ടം.",
+            "ta": "மஸ்ஜிது நபவியின் வடமேற்கில் தோட்டம் போன்ற சூழலில் பாதுகாக்கப்படுகிறது."
+          },
+          "images": {
+            "thumbnail": "assets/image/locations/saqifah_bani_saidah.webp",
+            "gallery": [
+              "assets/image/locations/saqifah_bani_saidah.webp"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "uhud_precinct",
+      "region": "madinah",
+      "title": {
+        "en": "Uhud Battlefield & Landmarks",
+        "ms": "Medan Perang & Mercu Tanda Uhud",
+        "ml": "ഉഹുദ് യുദ്ധക്കളവും സ്മാരകങ്ങളും",
+        "ta": "உஹுத் போர்க்களம் மற்றும் வரலாற்று இடங்கள்"
+      },
+      "summary": {
+        "en": "The sacred mountain beloved by the Prophet and the battlefield of the 70 martyrs (Shawwal 3 AH).",
+        "ms": "Gunung yang mencintai umat Islam serta medan pertempuran 70 orang syuhada Uhud.",
+        "ml": "നബി സ്നേഹിക്കുകയും നബിയെ സ്നേഹിക്കുകയും ചെയ്ത ഉഹുദ് മലയും രക്തസാക്ഷികളുടെ മണ്ണും.",
+        "ta": "நபிகளாரால் பெரிதும் நேசிக்கப்பட்ட உஹுத் மலையும் 70 தியாகிகள் மடிந்த போர்க்களமும்."
+      },
+      "places": [
+        {
+          "id": "jabal_ar_rumat",
+          "title": {
+            "en": "Jabal ar-Rumat (Mount of the Archers)",
+            "ms": "Jabal ar-Rumat (Bukit Pemanah)",
+            "ml": "ജബലുർറുമത് (അമ്പെയ്ത്തുകാരുടെ കുന്ന്)",
+            "ta": "ஜபலுர் ருமத் (வில்லாளிகள் மலை)"
+          },
+          "summary": {
+            "en": "The small mound where 50 archers were stationed with strict instructions not to vacate.",
+            "ms": "Bukit kecil berbatu di mana 50 pemanah diarahkan bertahan di bawah pimpinan Abdullah bin Jubayr.",
+            "ml": "യുദ്ധവേളയിൽ നബി 50 അമ്പെയ്ത്തുകാരെ നിയോഗിച്ച ചെറിയ കുന്ന്.",
+            "ta": "போரின் போது நபிகளார் 50 வில்லாளிகளை நிலைநிறுத்திய சிறிய குன்று."
+          },
+          "details": {
+            "en": "Positioned south of Wadi Qanat. When majority descended thinking the fight was won, Khalid ibn al-Walid's cavalry flanked the Muslims.",
+            "ms": "Terletak di hadapan perkuburan syuhada. Pasukan pemanah turun sebelum arahan rasmi menyebabkan tentera Islam dikepung.",
+            "ml": "അച്ചടക്കത്തിന്റെ പാഠം നൽകുന്ന ചരിത്ര കുന്ന്. അമ്പെയ്ത്തുകാർ കൽപ്പന മറന്ന് താഴെയിറങ്ങിയത് തിരിച്ചടിയായി.",
+            "ta": "கட்டளையை மீறி வில்லாளிகள் மலையிலிருந்து இறங்கியதால் போரின் போக்கு மாறிய இடம்."
+          },
+          "images": {
+            "thumbnail": "assets/image/locations/jabal_ar_rumat.webp",
+            "gallery": [
+              "assets/image/locations/jabal_ar_rumat.webp"
+            ]
+          }
+        },
+        {
+          "id": "maqam_shuhada_uhud",
+          "title": {
+            "en": "Maqam Shuhada Uhud (Graves of Hamzah & Martyrs)",
+            "ms": "Makam Syuhada Uhud (Makam Hamzah & 70 Syuhada)",
+            "ml": "ഉഹുദ് ശുഹദാക്കളുടെ മഖ്ബറ (ഹംസയുടെ ഖബർ)",
+            "ta": "உஹுத் ஷுஹதாக்கள் அடக்கஸ்தலம் (ஹம்ஸா ரலி மகாப்)"
+          },
+          "summary": {
+            "en": "Walled cemetery enclosing the 70 martyrs, prominently featuring Hamzah and Mus'ab ibn Umayr.",
+            "ms": "Tanah perkuburan bertembok menempatkan Sayyidush Shuhada Hamzah, Mus'ab bin Umayr, dan para syuhada.",
+            "ml": "ഹംസ (റ), മുസ്അബ് ബിൻ ഉമൈർ (റ) അടക്കം 70 രക്തസാക്ഷികൾ അന്ത്യവിശ്രമം കൊള്ളുന്ന ഇടം.",
+            "ta": "ஹம்ஸா (ரலி), முஸ்அப் இப்னு உமைர் (ரலி) உள்ளிட்ட 70 தியாகிகள் அடங்கிய மையவாடி."
+          },
+          "details": {
+            "en": "Buried on the battlefield in their blood-stained clothes without ritual washing. The Prophet visited their graves annually.",
+            "ms": "Dimakamkan bersama darah syahid tanpa dimandikan. Baginda ﷺ sentiasa menziarahi mereka semasa hayatnya.",
+            "ml": "കുളിപ്പിക്കാതെ അവരുടെ രക്തം പുരണ്ട വസ്ത്രങ്ങളോടെയാണ് അവരെ ഇവിടെ മറവ് ചെയ്തത്.",
+            "ta": "குளிப்பாட்டப்படாமல் இரத்தக் கறைகளுடனேயே நல்லடக்கம் செய்யப்பட்ட உன்னத தியாகிகள்."
+          },
+          "images": {
+            "thumbnail": "assets/image/locations/maqam_shuhada_uhud.webp",
+            "gallery": [
+              "assets/image/locations/maqam_shuhada_uhud.webp"
+            ]
+          }
+        },
+        {
+          "id": "ghar_uhud",
+          "title": {
+            "en": "Ghar Uhud (Rasulullah's Resting Cave)",
+            "ms": "Ghar Uhud (Gua Tempat Rehat Rasulullah ﷺ)",
+            "ml": "ഉഹുദ് ഗുഹ (നബി വിശ്രമിച്ച ഗുഹ)",
+            "ta": "உஹுத் குகை (நபிகளார் ஓய்வெடுத்த குகை)"
+          },
+          "summary": {
+            "en": "The mountain crevice where the injured Prophet was guided to rest and recover during the battle.",
+            "ms": "Rongga celah gunung Uhud tempat Baginda ﷺ yang cedera dibawa berehat dan dirawat oleh para sahabat.",
+            "ml": "യുദ്ധത്തിൽ പരിക്കേറ്റ നബിയെ സ്വഹാബികൾ വിശ്രമിക്കാനായി കൊണ്ടുപോയ മലയിലെ ഗുഹ.",
+            "ta": "போரில் காயமுற்ற நபிகளாரை சஹாபாக்கள் ஓய்வெடுக்க அழைத்துச் சென்ற மலைக் குகை."
+          },
+          "details": {
+            "en": "Located along the southern cliff face of Uhud. Fatima washed the Prophet's wounds and burned mats to staunch the bleeding.",
+            "ms": "Terletak di dinding tebing gunung. Sayyidatina Fatimah membakar tikar untuk menghentikan darah luka di pipi baginda.",
+            "ml": "ഫാത്തിമ (റ) പായ കത്തിച്ച ചാരം ഉപയോഗിച്ച് നബിയുടെ രക്തസ്രാവം നിർത്തിയത് ഇവിടെ വെച്ചാണ്.",
+            "ta": "அன்னை பாத்திமா பாயைச் சுட்டு சாம்பலைக் கொண்டு நபிகளாரின் காயத்திற்கு மருந்திட்ட இடம்."
+          },
+          "images": {
+            "thumbnail": "assets/image/locations/ghar_uhud.webp",
+            "gallery": [
+              "assets/image/locations/ghar_uhud.webp"
+            ]
+          }
+        },
+        {
+          "id": "masjid_al_fasah",
+          "title": {
+            "en": "Masjid al-Fasah (Uhud Mosque)",
+            "ms": "Masjid al-Fasah (Masjid Uhud)",
+            "ml": "മസ്ജിദുൽ ഫസഹ്",
+            "ta": "மஸ்ஜிதுல் ஃபஸஹ் (உஹுத் பள்ளி)"
+          },
+          "summary": {
+            "en": "Ancient stone structure at the mountain foot where the Prophet prayed Dhuhr seated after being wounded.",
+            "ms": "Runtuhan masjid batu di kaki Uhud tempat Baginda ﷺ bersolat Zohor secara duduk akibat kecederaan.",
+            "ml": "പരിക്കേറ്റതിനെ തുടർന്ന് നബി ﷺ ഇരുന്നു നമസ്കരിച്ച മലയടിവാരത്തിലെ പഴയ പള്ളി.",
+            "ta": "காயம் காரணமாக நபிகளார் அமர்ந்து ளுஹர் தொழுத உஹுத் அடிவாரப் பள்ளி."
+          },
+          "details": {
+            "en": "Nestled near the ravine trail. Associated with the Quranic verse in Surah al-Mujadila regarding making room (Tafassahu) in assemblies.",
+            "ms": "Terletak di laluan mendaki gaung Uhud. Saksi kecekalan sahabat solat di belakang imam yang terluka.",
+            "ml": "ഉഹുദിലെ മലയിടുക്കിൽ സ്ഥിതി ചെയ്യുന്നു. ചരിത്രപരമായ പ്രാധാന്യമുള്ള ചെറിയ കൽപള്ളി.",
+            "ta": "மலையிடுக்கில் அமைந்துள்ளது. காயமுற்ற நிலையிலும் தொழுகையை விடாத நபியின் தியாக தளம்."
+          },
+          "images": {
+            "thumbnail": "assets/image/locations/masjid_al_fasah.webp",
+            "gallery": [
+              "assets/image/locations/masjid_al_fasah.webp"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "quba_precinct",
+      "region": "madinah",
+      "title": {
+        "en": "The Quba Precinct & Sahabah Residences",
+        "ms": "Kawasan Quba & Rumah Sahabat Terawal",
+        "ml": "ഖുബാ പ്രദേശവും സ്വഹാബികളുടെ വീടുകളും",
+        "ta": "குபா பகுதி மற்றும் சஹாபாக்களின் இல்லங்கள்"
+      },
+      "summary": {
+        "en": "The southern Oasis where the Prophet arrived during Hijrah and erected Islam's first house of worship.",
+        "ms": "Oasis selatan Madinah tempat tibanya Baginda semasa Hijrah dan tapak masjid pertama Islam.",
+        "ml": "ഹിജ്റ വേളയിൽ നബി ആദ്യം എത്തിയതും ആദ്യ മസ്ജിദ് സ്ഥാപിച്ചതുമായ പ്രദേശം.",
+        "ta": "ஹிஜ்ரத்தின் போது நபிகளார் முதலில் வந்திறங்கி முதல் பள்ளிவாசலை நிறுவிய பகுதி."
+      },
+      "places": [
+        {
+          "id": "masjid_quba",
+          "title": {
+            "en": "Masjid Quba",
+            "ms": "Masjid Quba",
+            "ml": "മസ്ജിദ് ഖുബാ",
+            "ta": "மஸ்ஜிது குபா"
+          },
+          "summary": {
+            "en": "First mosque founded in Islam, offering the spiritual reward of an Umrah for two rak'ahs within.",
+            "ms": "Masjid pertama yang dibina dalam Islam; dua rakaat di dalamnya mendapat ganjaran menyamai ibadah Umrah.",
+            "ml": "ഇസ്ലാമിലെ ആദ്യത്തെ പള്ളി; ഇവിടെ വെച്ച് രണ്ട് റക്അത്ത് നമസ്കരിച്ചാൽ ഒരു ഉംറയുടെ പ്രതിഫലമുണ്ട്.",
+            "ta": "இஸ்லாத்தின் முதல் பள்ளிவாசல்; இங்கு இரண்டு ரக்அத்கள் தொழுதால் உம்ராவின் நன்மை கிடைக்கும்."
+          },
+          "details": {
+            "en": "Founded on piety from the first day (Surah at-Tawbah: 108). The Prophet visited every Saturday on foot or riding.",
+            "ms": "Dibina atas asas takwa. Rasulullah ﷺ mengunjunginya setiap hari Sabtu sama ada berjalan kaki atau menunggang unta.",
+            "ml": "തഖ്‌വയിൽ സ്ഥാപിതമായ പള്ളി. എല്ലാ ശനിയാഴ്ചകളിലും നബി ഇവിടെ സന്ദർശനം നടത്തുമായിരുന്നു.",
+            "ta": "தக்வாவின் அடிப்படையில் கட்டப்பட்டது. நபிகளார் ஒவ்வொரு சனிக்கிழமையும் இங்கு வருவது வழக்கம்."
+          },
+          "images": {
+            "thumbnail": "assets/image/locations/masjid_quba.webp",
+            "gallery": [
+              "assets/image/locations/masjid_quba.webp"
+            ]
+          }
+        },
+        {
+          "id": "bir_aris_khatam",
+          "title": {
+            "en": "Bir Aris (Well of the Ring / Bir al-Khatam)",
+            "ms": "Bir Aris (Telaga Cincin / Bir al-Khatam)",
+            "ml": "ബിഅ്‌റു ആരിസ് (മോതിരത്തിന്റെ കിണർ)",
+            "ta": "பிஃரு ஆரிஸ் (மோதிரக் கிணறு)"
+          },
+          "summary": {
+            "en": "Ancient garden well opposite Masjid Quba where the Prophet's signet ring fell from Caliph Uthman's hand.",
+            "ms": "Telaga bersebelahan Masjid Quba di mana cincin cap mohor Rasulullah ﷺ terjatuh dari tangan Khalifah Uthman.",
+            "ml": "ഖലീഫ ഉസ്മാന്റെ കയ്യിൽ നിന്ന് നബിയുടെ മുദ്രമോതിരം വീണുപോയ ചരിത്ര കിണർ.",
+            "ta": "கலீபா உஸ்மானின் கையிலிருந்து நபிகளாரின் முத்திரை மோதிரம் தவறி விழுந்த கிணறு."
+          },
+          "details": {
+            "en": "Site of the hadith where Abu Bakr, Umar, and Uthman were sequentially given glad tidings of Paradise. Now covered within the northern Quba plaza.",
+            "ms": "Tempat hadis masyhur tiga sahabat diberi khabar gembira syurga. Kini berada di bawah dataran taman Quba.",
+            "ml": "മൂന്ന് ഖലീഫമാർക്ക് സ്വർഗ്ഗം കൊണ്ട് സുവാർത്ത നൽകിയ സംഭവം നടന്ന കിണർ.",
+            "ta": "மூன்று கலீபாக்களுக்கு சொர்க்க நற்செய்தி கூறப்பட்ட இடம். தற்போது குபா பிளாசாவில் உள்ளது."
+          },
+          "images": {
+            "thumbnail": "assets/image/locations/bir_aris_khatam.webp",
+            "gallery": [
+              "assets/image/locations/bir_aris_khatam.webp"
+            ]
+          }
+        },
+        {
+          "id": "house_kulthum_hadm",
+          "title": {
+            "en": "House of Kulthum ibn al-Hadm",
+            "ms": "Rumah Kulthum bin al-Hadm",
+            "ml": "കുൽസൂം ബിൻ അൽ-ഹദ്മിന്റെ വീട്",
+            "ta": "குல்சூம் இப்னுல் ஹத்ம் இல்லம்"
+          },
+          "summary": {
+            "en": "The home where the Prophet stayed as an honored guest upon entering Quba during the Hijrah.",
+            "ms": "Rumah ketua kabilah tempat Baginda ﷺ menginap semasa mula-mula tiba di Quba dalam peristiwa Hijrah.",
+            "ml": "ഹിജ്റ വേളയിൽ നബി ഖുബായിൽ എത്തിയപ്പോൾ താമസിച്ച അൻസാരി പ്രമുഖന്റെ വീട്.",
+            "ta": "ஹிஜ்ரத்தின் போது குபாவிற்கு வந்திறங்கிய நபிகளார் தங்கியிருந்த இல்லம்."
+          },
+          "details": {
+            "en": "Located immediately southwest of Masjid Quba. The Prophet stayed here for multiple days before entering central Madinah.",
+            "ms": "Terletak berhampiran Masjid Quba. Baginda berehat beberapa hari di rumah ini menunggu kedatangan Ali r.a.",
+            "ml": "ഖുബാ പള്ളിക്ക് സമീപം. അലി (റ) എത്തുന്നതുവരെ നബി ഇവിടെയാണ് വിശ്രമിച്ചത്.",
+            "ta": "குபா பள்ளிக்கு அருகில் அமைந்தது. அலி (ரலி) வரும் வரை நபிகளார் இங்கு தங்கியிருந்தார்."
+          },
+          "images": {
+            "thumbnail": "assets/image/locations/house_kulthum_hadm.webp",
+            "gallery": [
+              "assets/image/locations/house_kulthum_hadm.webp"
+            ]
+          }
+        },
+        {
+          "id": "house_sad_khaythamah",
+          "title": {
+            "en": "House of Sa'd ibn Khaythamah",
+            "ms": "Rumah Sa'd bin Khaythamah (Bait al-Uzzab)",
+            "ml": "സഅ്ദ് ബിൻ ഖൈസമയുടെ വീട്",
+            "ta": "ஸஅத் இப்னு கைஸமா இல்லம்"
+          },
+          "summary": {
+            "en": "The 'House of Bachelors' where single Muhajireen lodged and where the Prophet held daily councils in Quba.",
+            "ms": "Rumah persinggahan Muhajirin bujang dan tempat Baginda bermajlis menyapa para sahabat.",
+            "ml": "അവിവാഹിതരായ മുഹാജിറുകൾ താമസിക്കുകയും നബി സ്വഹാബികളുമായി സംസാരിച്ചിരിക്കുകയും ചെയ്ത വീട്.",
+            "ta": "முஹாஜிர்கள் தங்கியிருந்த இல்லம் மற்றும் நபிகளார் தோழர்களை சந்தித்த இடம்."
+          },
+          "details": {
+            "en": "Near the Kulthum residence. While the Prophet slept at Kulthum's house, he held teaching circles at Sa'd's house.",
+            "ms": "Bersebelahan rumah Kulthum. Tempat Baginda mengajar dan berbincang hal ehwal kaum muslimin pada waktu siang.",
+            "ml": "പകൽ സമയങ്ങളിൽ നബി സദസ്സുകൾ നടത്തിയിരുന്നത് സഅ്ദിന്റെ ഈ വീട്ടിലായിരുന്നു.",
+            "ta": "பகல் நேரங்களில் நபிகளார் போதனைகள் வழங்கி தோழர்களை சந்தித்த இல்லம்."
+          },
+          "images": {
+            "thumbnail": "assets/image/locations/house_sad_khaythamah.webp",
+            "gallery": [
+              "assets/image/locations/house_sad_khaythamah.webp"
+            ]
+          }
+        },
+        {
+          "id": "masjid_al_jumah",
+          "title": {
+            "en": "Masjid al-Jum'ah (Wadi Ranuna)",
+            "ms": "Masjid al-Jum'ah (Wadi Ranuna)",
+            "ml": "മസ്ജിദുൽ ജുമുഅ (വാദി റാനൂന)",
+            "ta": "மஸ்ஜிதுல் ஜுமுஆ (வாதி ரானூனா)"
+          },
+          "summary": {
+            "en": "The valley sanctuary where the Prophet conducted the very first Friday congregational prayer.",
+            "ms": "Masjid di Wadi Ranuna tapak didirikan solat Jumaat pertama dalam sejarah Islam.",
+            "ml": "ഇസ്ലാമിലെ ആദ്യത്തെ ജുമുഅ നമസ്കാരം നടന്ന ചരിത്ര പള്ളി.",
+            "ta": "இஸ்லாமிய வரலாற்றின் முதல் ஜுமுஆ தொழுகை நடைபெற்ற பள்ளிவாசல்."
+          },
+          "details": {
+            "en": "Situated halfway between Quba and Masjid Nabawi. The Prophet halted here with 100 companions when Friday entry time set in.",
+            "ms": "Terletak antara Quba dan Masjid Nabawi. Baginda memimpin solat bersama 100 sahabat Bani Salim bin Auf.",
+            "ml": "ഖുബായിൽ നിന്ന് മദീനയിലേക്ക് പോകുംവഴി ബനൂ സാലിം ഗോത്രത്തിന്റെ താഴ്‌വരയിൽ വെച്ചാണ് ജുമുഅ നടന്നത്.",
+            "ta": "குபாவிலிருந்து மதீனா செல்லும் வழியில் பனூ சாலிம் பகுதியில் முதல் ஜுமுஆ நடைபெற்றது."
+          },
+          "images": {
+            "thumbnail": "assets/image/locations/masjid_al_jumah.webp",
+            "gallery": [
+              "assets/image/locations/masjid_al_jumah.webp"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "seven_mosques_khandaq",
+      "region": "madinah",
+      "title": {
+        "en": "Battle of the Trench (The Seven Mosques)",
+        "ms": "Medan Perang Khandaq (Tujuh Masjid)",
+        "ml": "ഖൻദഖ് യുദ്ധക്കളവും ഏഴ് പള്ളികളും",
+        "ta": "அகழ் போர்க்களம் மற்றும் ஏழு பள்ளிவாசல்கள்"
+      },
+      "summary": {
+        "en": "The northwest defensive line along Mount Sala' where the Confederates (Ahzab) were held at bay (5 AH).",
+        "ms": "Kaki Gunung Sila' kubu parit pertahanan Madinah saksi pertempuran Ahzab.",
+        "ml": "സൽഅ് മലയടിവാരത്തിൽ കിടങ്ങ് കുഴിച്ച് ശത്രുക്കളെ പ്രതിരോധിച്ച ഖൻദഖ് പ്രദേശം.",
+        "ta": "ஸலா மலையடிவாரத்தில் அகழ் தோண்டி எதிரிகளை தடுத்து நிறுத்திய வரலாற்று தளம்."
+      },
+      "places": [
+        {
+          "id": "masjid_al_fath_khandaq",
+          "title": {
+            "en": "Masjid al-Fath (Mount Sala')",
+            "ms": "Masjid al-Fath (Puncak Bukit Sila')",
+            "ml": "മസ്ജിദുൽ ഫത്ഹ് (സൽഅ് മല)",
+            "ta": "மஸ்ஜிதுல் ஃபத்தஹ் (ஸலா மலை)"
+          },
+          "summary": {
+            "en": "Elevated mosque atop the ridge where the Prophet supplicated for three days until victory was granted.",
+            "ms": "Masjid di rabung bukit tempat Baginda ﷺ berdoa bersungguh-sungguh selama 3 hari sehingga dikurniakan pertolongan angin ribut.",
+            "ml": "ശത്രുക്കളെ പരാജയപ്പെടുത്താൻ നബി മൂന്ന് ദിവസം തുടർച്ചയായി ദുആ ചെയ്ത കുന്നിൻ മുകളിലെ പള്ളി.",
+            "ta": "எதிரிகள் தோற்கடிக்கப்பட நபிகளார் மூன்று நாட்கள் தொடர்ந்து பிரார்த்தித்த குன்றுப் பள்ளி."
+          },
+          "details": {
+            "en": "Dominates the trench battlefield. God answered his prayer on Wednesday, sending the fierce icy wind that upended the coalition camp.",
+            "ms": "Menghadap dataran parit Khandaq. Doa dimakbulkan pada hari Rabu dengan turunnya ribut yang memorak-perandakan khemah musyrikin.",
+            "ml": "ബുധനാഴ്ച നബിയുടെ പ്രാർത്ഥനക്ക് ഉത്തരമായി അല്ലാഹു കാറ്റയച്ച് അഹ്സാബ് സൈന്യത്തെ തുരത്തി.",
+            "ta": "நபிகளாரின் துஆவிற்குப் பதிலாக அல்லாஹ் கடும் குளிர்காற்றை அனுப்பி எதிரிகளை விரட்டியடித்தான்."
+          },
+          "images": {
+            "thumbnail": "assets/image/locations/masjid_al_fath_khandaq.webp",
+            "gallery": [
+              "assets/image/locations/masjid_al_fath_khandaq.webp"
+            ]
+          }
+        },
+        {
+          "id": "masjid_salman_farsi",
+          "title": {
+            "en": "Masjid Salman al-Farsi",
+            "ms": "Masjid Salman al-Farsi",
+            "ml": "മസ്ജിദ് സൽമാനുൽ ഫാരിസി",
+            "ta": "மஸ்ஜிது ஸல்மானுல் பார்ஸி"
+          },
+          "summary": {
+            "en": "Mosque commemorating the companion who originated the trench fortification strategy.",
+            "ms": "Masjid memperingati Salman al-Farsi yang mencadangkan penggalian parit untuk melindungi Madinah.",
+            "ml": "കിടങ്ങ് കുഴിക്കാൻ തന്ത്രപരമായ ഉപദേശം നൽകിയ സൽമാനുൽ ഫാരിസിയുടെ സ്മരണയ്ക്കായുള്ള പള്ളി.",
+            "ta": "அகழ் தோண்டும் போர் உத்தியை வழங்கிய ஸல்மான் அல்-பார்ஸியின் நினைவாக அமைந்த பள்ளி."
+          },
+          "details": {
+            "en": "Located just downhill from Masjid al-Fath. Marks his defensive station along the trench perimeter.",
+            "ms": "Terletak di bawah Masjid al-Fath. Menandakan pos kawalan Salman al-Farsi semasa penggalian.",
+            "ml": "മസ്ജിദുൽ ഫത്ഹിന് താഴെയായി സ്ഥിതി ചെയ്യുന്നു. കിടങ്ങിന്റെ പ്രധാന പ്രതിരോധ നിരയായിരുന്നു.",
+            "ta": "மஸ்ஜிதுல் ஃபத்தஹிற்கு சற்று கீழே உள்ளது. போரின் போது ஸல்மான் நிலைநிறுத்தப்பட்ட தளம்."
+          },
+          "images": {
+            "thumbnail": "assets/image/locations/masjid_salman_farsi.webp",
+            "gallery": [
+              "assets/image/locations/masjid_salman_farsi.webp"
+            ]
+          }
+        },
+        {
+          "id": "masjid_al_qiblatayn",
+          "title": {
+            "en": "Masjid al-Qiblatayn (Mosque of the Two Qiblas)",
+            "ms": "Masjid al-Qiblatayn (Masjid Dua Kiblat)",
+            "ml": "മസ്ജിദുൽ ഖിബ്‌ലതൈൻ (രണ്ട് ഖിബ്‌ലകളുടെ പള്ളി)",
+            "ta": "மஸ்ஜிதுல் கிப்லதைன் (இரு கிப்லா பள்ளி)"
+          },
+          "summary": {
+            "en": "Sanctuary where the congregation turned mid-prayer from Jerusalem to the Kaaba (2 AH).",
+            "ms": "Masjid bersejarah di mana arah solat berpusing 180 darjah dari Baitulmaqdis ke Kaabah semasa solat.",
+            "ml": "നമസ്കാരത്തിനിടയിൽ ജെറുസലേമിൽ നിന്ന് കഅ്ബയിലേക്ക് ഖിബ്‌ല മാറിയ പള്ളി.",
+            "ta": "தொழுகையின் நடுவே ஜெருசலேமிலிருந்து கஅபாவை நோக்கி கிப்லா மாற்றப்பட்ட பள்ளிவாசல்."
+          },
+          "details": {
+            "en": "Located in the Bani Salamah quarter. Surah al-Baqarah (144) was revealed while the Prophet was leading congregational prayer.",
+            "ms": "Terletak di perkampungan Bani Salamah. Wahyu pertukaran kiblat turun semasa Baginda mengimami solat.",
+            "ml": "ബനൂ സലമ ഗോത്രത്തിൽ സ്ഥിതി ചെയ്യുന്നു. സൂറത്തുൽ ബഖറയിലെ 144-ാം വചനം അവതരിച്ചത് ഇവിടെ വെച്ചാണ്.",
+            "ta": "பனூ ஸலமா பகுதியில் உள்ளது. தொழுகையில் இருக்கும் போதே சூரா பகராவின் 144-வது வசனம் இறங்கியது."
+          },
+          "images": {
+            "thumbnail": "assets/image/locations/masjid_al_qiblatayn.webp",
+            "gallery": [
+              "assets/image/locations/masjid_al_qiblatayn.webp"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "historic_wells_madinah",
+      "region": "madinah",
+      "title": {
+        "en": "Historic Wells of the Prophet (Abar an-Nabi)",
+        "ms": "Telaga-Telaga Bersejarah Madinah",
+        "ml": "മദീനയിലെ ചരിത്രപ്രസിദ്ധമായ കിണറുകൾ",
+        "ta": "மதீனாவின் வரலாற்று சிறப்புமிக்க கிணறுகள்"
+      },
+      "summary": {
+        "en": "The blessed freshwater springs and orchards associated with the daily life and miracles of the Prophet.",
+        "ms": "Mata air tawar dan telaga kebun yang pernah diminum dan dilimpahi berkat oleh Baginda ﷺ.",
+        "ml": "പ്രവാചകന്റെ ഉമിനീരാലും പ്രാർത്ഥനയാലും അനുഗ്രഹിക്കപ്പെട്ട മദീനയിലെ കിണറുകൾ.",
+        "ta": "நபிகளாரின் பிரார்த்தனையாலும் உமிழ்நீராலும் பரக்கத் செய்யப்பட்ட புனித கிணறுகள்."
+      },
+      "places": [
+        {
+          "id": "bir_ghars",
+          "title": {
+            "en": "Bir Ghars",
+            "ms": "Bir Ghars",
+            "ml": "ബിഅ്‌റു ഗർസ്",
+            "ta": "பிஃரு கர்ஸ்"
+          },
+          "summary": {
+            "en": "The Prophet's favored drinking well; seven waterskins from here were used for his final ghusl.",
+            "ms": "Telaga kegemaran Baginda ﷺ untuk minum; air tujuh timba dari sini digunakan untuk memandikan jenazah baginda.",
+            "ml": "നബിക്ക് ഏറ്റവും ഇഷ്ടപ്പെട്ട കുടിവെള്ള കിണർ; നബിയെ വഫാത്തായ ശേഷം കുളിപ്പിച്ചത് ഈ കിണറിലെ വെള്ളം കൊണ്ടാണ്.",
+            "ta": "நபிகளாருக்கு மிகவும் பிடித்த குடிநீர் கிணறு; நபியின் உடலை குளிப்பாட்ட இக்கிணற்றின் நீர் பயன்படுத்தப்பட்டது."
+          },
+          "details": {
+            "en": "Located 1.5 km northeast of Masjid Quba. Fully restored with traditional stonework and flowing heritage water channels.",
+            "ms": "Terletak 1.5 km timur laut Masjid Quba. Kini dipulihkan semula dengan binaan batu warisan yang indah.",
+            "ml": "ഖുബാ പള്ളിക്ക് വടക്കുകിഴക്ക്. പൈതൃക സംരക്ഷണത്തിന്റെ ഭാഗമായി മനോഹരമായി പുനർനിർമ്മിച്ചിരിക്കുന്നു.",
+            "ta": "குபா பள்ளிக்கு வடகிழக்கில் உள்ளது. வரலாற்று பாணியில் அழகாக புதுப்பிக்கப்பட்டுள்ளது."
+          },
+          "images": {
+            "thumbnail": "assets/image/locations/bir_ghars.webp",
+            "gallery": [
+              "assets/image/locations/bir_ghars.webp"
+            ]
+          }
+        },
+        {
+          "id": "bir_ruma_uthman",
+          "title": {
+            "en": "Bir Rumah (Well of Uthman)",
+            "ms": "Bir Rumah (Telaga Uthman)",
+            "ml": "ബിഅ്‌റു റൂമ (ഉസ്മാന്റെ കിണർ)",
+            "ta": "பிஃரு ரூமா (உஸ்மான் கிணறு)"
+          },
+          "summary": {
+            "en": "The well purchased by Uthman ibn Affan as an enduring public waqf for all Muslims.",
+            "ms": "Telaga yang dibeli oleh Uthman bin Affan daripada Yahudi lalu diwakafkan secara percuma kepada umat Islam.",
+            "ml": "ഉസ്മാൻ (റ) ജൂതനിൽ നിന്ന് വാങ്ങി പൊതുജനങ്ങൾക്ക് ദാനമായി നൽകിയ വഖഫ് കിണർ.",
+            "ta": "உஸ்மான் (ரலி) யூதனிடமிருந்து வாங்கி மக்களுக்கு இலவசமாக வக்ப் செய்த கிணறு."
+          },
+          "details": {
+            "en": "Situated in the al-Azhari quarter. The date palm endowment stemming from this waqf operates actively to this day.",
+            "ms": "Terletak di kawasan Al-Azhari. Ladang tamar dan akaun wakaf Uthman yang terhasil masih menjana dana sehingga hari ini.",
+            "ml": "ഇസ്ലാമിക ചരിത്രത്തിലെ ആദ്യത്തെ നിത്യ വഖഫുകളിൽ ഒന്ന്. ഇന്നും ഇതിന്റെ പേരിലുള്ള ഈന്തപ്പനത്തോട്ടം നിലനിൽക്കുന്നു.",
+            "ta": "இஸ்லாமிய வரலாற்றின் முக்கிய வக்ப் சொத்து. இதன் பேரீச்சை தோட்டம் இன்றும் செயல்பட்டு வருகிறது."
+          },
+          "images": {
+            "thumbnail": "assets/image/locations/bir_ruma_uthman.webp",
+            "gallery": [
+              "assets/image/locations/bir_ruma_uthman.webp"
+            ]
+          }
+        },
+        {
+          "id": "bir_ha_abu_talha",
+          "title": {
+            "en": "Bir Ha' (Garden of Abu Talha)",
+            "ms": "Bir Ha' (Kebun Abu Talha)",
+            "ml": "ബിഅ്‌റു ഹാഅ് (അബൂത്വൽഹയുടെ തോട്ടം)",
+            "ta": "பிஃரு ஹா (அபூ தல்ஹாவின் தோட்டம்)"
+          },
+          "summary": {
+            "en": "The prized orchard and well donated by Abu Talha upon the revelation of Surah Ali 'Imran (92).",
+            "ms": "Telaga dan kebun kurma paling dicintai Abu Talha yang diinfakkan setelah turun ayat kebaikan sejati.",
+            "ml": "അബൂത്വൽഹ അല്ലാഹുവിന്റെ മാർഗ്ഗത്തിൽ ദാനം ചെയ്ത നബിക്ക് പ്രിയപ്പെട്ട കിണർ.",
+            "ta": "சூரா ஆல இம்ரானின் 92-வது வசனம் இறங்கியதும் அபூ தல்ஹா தர்மம் செய்த நேசத்துக்குரிய கிணறு."
+          },
+          "details": {
+            "en": "Preserved and demarcated by colored floor tiles inside the northern expansion plaza of Masjid Nabawi, facing Bab al-Malik Fahd.",
+            "ms": "Kini ditandakan dengan lantai bulat khas di dalam bangunan pembesaran utara Masjid Nabawi berhampiran Pintu King Fahd.",
+            "ml": "മസ്ജിദുന്നബവിയുടെ കിങ് ഫഹദ് കവാടത്തിന് സമീപം തറയിൽ ഇതിന്റെ സ്ഥാനം അടയാളപ്പെടുത്തിയിട്ടുണ്ട്.",
+            "ta": "மஸ்ஜிது நபவியின் மன்னர் ஃபஹத் வாசல் அருகே தரைத்தளத்தில் வட்ட வடிவில் குறிக்கப்பட்டுள்ளது."
+          },
+          "images": {
+            "thumbnail": "assets/image/locations/bir_ha_abu_talha.webp",
+            "gallery": [
+              "assets/image/locations/bir_ha_abu_talha.webp"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "main_doors_haram",
+      "region": "makkah",
+      "title": {
+        "en": "Main Doors of Masjid al-Haram",
+        "ms": "Pintu-Pintu Utama Masjidil Haram",
+        "ml": "മസ്ജിദുൽ ഹറാമിലെ പ്രധാന കവാടങ്ങൾ",
+        "ta": "மஸ்ஜிதுல் ஹராமின் பிரதான வாசல்கள்"
+      },
+      "summary": {
+        "en": "The monumental portals of Masjid al-Haram, instantly identifiable across Makkah by their majestic crowning twin minarets that act as navigational beacons for millions of pilgrims.",
+        "ms": "Pintu-pintu gerbang utama Masjidil Haram yang mudah dikenal pasti melalui menara berkembar yang menjulang megah di puncaknya sebagai panduan jemaah.",
+        "ml": "മസ്ജിദുൽ ഹറാമിന്റെ പ്രധാന കവാടങ്ങൾ. കവാടങ്ങൾക്ക് മുകളിലായി തലയുയർത്തി നിൽക്കുന്ന ഇരട്ട മിനാരങ്ങൾ ദൂരെ നിന്ന് തന്നെ ഇവയെ തിരിച്ചറിയാൻ സഹായിക്കുന്നു.",
+        "ta": "மஸ்ஜிதுல் ஹராமின் பிரதான வாசல்கள். அவற்றின் மீது அமைந்துள்ள கம்பீரமான இரட்டை மினாராக்கள் மூலம் தொலைவிலிருந்தே எளிதில் அடையாளம் காணலாம்."
+      },
+      "places": [
+        {
+          "id": "gate_abdulaziz",
+          "title": {
+            "en": "King Abdulaziz Gate (Gate 1)",
+            "ms": "Pintu Raja Abdulaziz (Pintu 1)",
+            "ml": "കിംഗ് അബ്ദുൽ അസീസ് ഗേറ്റ് (ഗേറ്റ് 1)",
+            "ta": "மன்னர் அப்துல் அஜீஸ் வாசல் (கேட் 1)"
+          },
+          "summary": {
+            "en": "The southern grand portal crowned with twin 89-meter minarets, providing direct ingress from Ibrahim Al-Khalil Street into the Mataf.",
+            "ms": "Pintu utama selatan dengan menara kembar 89 meter, menyediakan laluan terus dari Jalan Ibrahim Al-Khalil ke Mataf.",
+            "ml": "89 മീറ്റർ ഉയരമുള്ള ഇരട്ട മിനാരങ്ങളാൽ അലങ്കരിച്ച തെക്കൻ പ്രധാന കവാടം. ഇബ്രാഹിം അൽ-ഖലീൽ സ്ട്രീറ്റിൽ നിന്ന് നേരിട്ട് മത്വാഫിലേക്ക് പ്രവേശിക്കാം.",
+            "ta": "89 மீட்டர் இரட்டை மினாராக்கள் கொண்ட தெற்கு பிரதான வாசல். இப்ராஹீம் அல்-கலீல் சாலையிலிருந்து தவாஃப் செய்யும் மதாஃபுக்கு நேரடி வழி தருகிறது."
+          },
+          "details": {
+            "en": "Main gate identifiable by its twin minarets. Primary portal for pilgrims staying in the southern hotel precincts.",
+            "ms": "Pintu utama yang mudah dikenal pasti dengan menara kembarnya. Laluan utama jemaah dari hotel bahagian selatan.",
+            "ml": "ഇരട്ട മിനാരങ്ങൾ കൊണ്ട് തിരിച്ചറിയാം. തെക്ക് ഭാഗത്തെ ഹോട്ടലുകളിൽ നിന്നുള്ളവർക്ക് പ്രധാന പ്രവേശന കവാടം.",
+            "ta": "இரட்டை மினாராக்கள் மூலம் அடையாளம் காணக்கூடியது. தெற்குப் பகுதி ஹோட்டல்களிலிருந்து வரும் யாத்ரீகர்களுக்கு முதன்மையான வாசல்."
+          },
+          "images": {
+            "thumbnail": "assets/Ibadah/img/masjiddoors.webp",
+            "gallery": [
+              "assets/Ibadah/img/masjiddoors.webp"
+            ]
+          }
+        },
+        {
+          "id": "gate_fahad",
+          "title": {
+            "en": "King Fahad Gate (Gate 79)",
+            "ms": "Pintu Raja Fahad (Pintu 79)",
+            "ml": "കിംഗ് ഫഹദ് ഗേറ്റ് (ഗേറ്റ് 79)",
+            "ta": "மன்னர் ஃபஹத் வாசல் (கேட் 79)"
+          },
+          "summary": {
+            "en": "The western grand entrance with towering twin minarets, serving pilgrims arriving from Jabal Omar and western courtyards.",
+            "ms": "Pintu gerbang barat dengan menara kembar megah, melayani jemaah dari Jabal Omar dan dataran barat.",
+            "ml": "പടിഞ്ഞാറൻ ഭാഗത്തെ പ്രധാന കവാടം. ജബൽ ഉമർ ഭാഗത്ത് നിന്നുള്ളവർക്ക് പ്രവേശിക്കാൻ അനുയോജ്യം.",
+            "ta": "மேற்கு பகுதியின் கம்பீரமான இரட்டை மினாராக்கள் கொண்ட பிரதான வாசல். ஜபல் உமர் பகுதியிலிருந்து வருவோருக்கு உகந்தது."
+          },
+          "details": {
+            "en": "Identifiable by towering twin minarets. Features extensive multi-level escalators to prayer decks and Mataf.",
+            "ms": "Dikenal pasti melalui menara kembarnya. Dilengkapi eskalator bertingkat ke ruang solat dan Mataf.",
+            "ml": "ഇരട്ട മിനാരങ്ങൾ ഇതിന്റെ അടയാളമാണ്. മുകൾ തട്ടുകളിലേക്കും താഴത്തെ മത്വാഫിലേക്കും വിശാലമായ സൗകര്യങ്ങൾ.",
+            "ta": "இரட்டை மினாராக்கள் மூலம் எளிதில் அடையாளம் காணலாம். பல்வேறு தளங்களுக்குச் செல்ல எஸ்கலேட்டர் வசதிகள் உள்ளன."
+          },
+          "images": {
+            "thumbnail": "assets/image/locations/gate_fahad.webp",
+            "gallery": [
+              "assets/image/locations/gate_fahad.webp",
+              "assets/Ibadah/img/masjiddoors.webp"
+            ]
+          }
+        },
+        {
+          "id": "gate_king_abdullah",
+          "title": {
+            "en": "King Abdullah Gate (Gate 100)",
+            "ms": "Pintu Raja Abdullah (Pintu 100)",
+            "ml": "കിംഗ് അബ്ദുള്ള ഗേറ്റ് (ഗേറ്റ് 100)",
+            "ta": "மன்னர் அப்துல்லாஹ் வாசல் (கேட் 100)"
+          },
+          "summary": {
+            "en": "Monumental northern entrance of the Third Saudi Expansion, crowned by twin 133-meter minarets visible across Makkah.",
+            "ms": "Pintu gerbang utara Peluasan Saudi Ketiga, ditandai menara kembar 133 meter yang boleh dilihat dari kejauhan.",
+            "ml": "മൂന്നാം സൗദി വികസനത്തിന്റെ ഭാഗമായ വടക്കൻ കവാടം. 133 മീറ്റർ ഉയരമുള്ള ഇരട്ട മിനാരങ്ങൾ ഇതിന്റെ പ്രൗഢി കൂട്ടുന്നു.",
+            "ta": "மூன்றாவது சவூதி விரிவாக்கத்தின் வடக்கு வாசல். 133 மீட்டர் உயரமுள்ள இரட்டை மினாராக்கள் இதன் அடையாளமாகும்."
+          },
+          "details": {
+            "en": "Tallest gate of the mosque flanked by twin 133m minarets. Features multi-tier escalators and air-conditioned prayer halls.",
+            "ms": "Pintu tertinggi masjid dengan menara kembar 133m. Dilengkapi eskalator moden dan dewan solat berhawa dingin.",
+            "ml": "133 മീറ്റർ ഇരട്ട മിനാരങ്ങളുള്ള ഏറ്റവും വലിയ കവാടം. എയർ കണ്ടീഷൻ ചെയ്ത വലിയ ഹാളുകളിലേക്ക് പ്രവേശനം നൽകുന്നു.",
+            "ta": "மஸ்ஜிதின் மிக உயரமான வாசல். இரட்டை மினாராக்கள், நவீன எஸ்கலேட்டர்கள் மற்றும் குளிரூட்டப்பட்ட தொழுகைக் கூடங்கள் கொண்டது."
+          },
+          "images": {
+            "thumbnail": "assets/Ibadah/img/masjiddoors.webp",
+            "gallery": [
+              "assets/Ibadah/img/masjiddoors.webp"
+            ]
+          }
+        },
+        {
+          "id": "gate_umrah",
+          "title": {
+            "en": "Umrah Gate (Gate 62 - Bab al-Umrah)",
+            "ms": "Pintu Umrah (Pintu 62 - Bab al-Umrah)",
+            "ml": "ഉംറ ഗേറ്റ് (ബാബുൽ ഉംറ - ഗേറ്റ് 62)",
+            "ta": "உம்ரா வாசல் (பாப் அல்-உம்ரா - கேட் 62)"
+          },
+          "summary": {
+            "en": "The historic western portal crowned by twin minarets, traditionally chosen by pilgrims arriving in Ihram from Tan'im.",
+            "ms": "Pintu barat bersejarah dengan menara kembar, pintu masuk tradisi jemaah berihram dari Tan'im (Masjid Aisyah).",
+            "ml": "തൻഈമിൽ നിന്ന് ഇഹ്‌റാമിൽ വരുന്ന തീർത്ഥാടകരുടെ പരമ്പരാഗത കവാടം. ഇരട്ട മിനാരങ്ങളാൽ അലംകൃതം.",
+            "ta": "தன்ஈமிலிருந்து இஹ்ராமுடன் வரும் யாத்ரீகர்களின் பாரம்பரிய வாசல். இரட்டை மினாராக்கள் இதன் அடையாளமாகும்."
+          },
+          "details": {
+            "en": "Named because pilgrims arriving from Masjid Aisha traditionally enter through it to start their Umrah Tawaf. Identifiable by twin minarets.",
+            "ms": "Dinamakan sempena jemaah yang pulang berihram dari Masjid Aisyah untuk memulakan Tawaf. Dikenali melalui menara kembarnya.",
+            "ml": "മസ്ജിദ് ആയിശയിൽ നിന്ന് ഇഹ്‌റാം ചെയ്ത് വരുന്നവർ തവാഫിനായി ഇതിലൂടെ പ്രവേശിക്കുന്നു. ഇരട്ട മിനാരങ്ങൾ പ്രത്യേകത.",
+            "ta": "மஸ்ஜித் ஆயிஷாவிலிருந்து வரும் மக்கள் தவாஃப் செய்ய நுழையும் பாரம்பரிய வாசல். இரட்டை மினாராக்கள் மூலம் அடையாளம் காணலாம்."
+          },
+          "images": {
+            "thumbnail": "assets/image/locations/gate_fahad.webp",
+            "gallery": [
+              "assets/image/locations/gate_fahad.webp",
+              "assets/Ibadah/img/masjiddoors.webp"
+            ]
+          }
+        },
+        {
+          "id": "gate_babus_salam",
+          "title": {
+            "en": "Bab al-Salam (Gate of Peace)",
+            "ms": "Bab al-Salam (Pintu Kedamaian)",
+            "ml": "ബാബുസ്സലാം (സമാധാന കവാടം)",
+            "ta": "பாப் அஸ்-ஸலாம் (சாந்தி வாசல்)"
+          },
+          "summary": {
+            "en": "The revered historic entrance between Safa and Kaaba where the Prophet Muhammad ﷺ entered to perform Tawaf.",
+            "ms": "Pintu masuk bersejarah di antara Safa dan Kaabah di mana Rasulullah ﷺ melangkah masuk untuk menunaikan Tawaf.",
+            "ml": "സഫായ്ക്കും കഅ്ബയ്ക്കും ഇടയിൽ സ്ഥിതി ചെയ്യുന്ന ചരിത്ര കവാടം. നബി ﷺ ത്വവാഫിനായി പ്രവേശിച്ചത് ഇതിലൂടെയായിരുന്നു.",
+            "ta": "ஸஃபாவுக்கும் கஅபாவிற்கும் இடையில் அமைந்துள்ள புனித வாசல். நபிகள் நாயகம் ﷺ தவாஃப் செய்வதற்காக நுழைந்த வரலாற்று வாசல்."
+          },
+          "details": {
+            "en": "Historic Sunnah entrance flanked by twin minarets. Pilgrims historically recited: 'O Allah, You are Peace, and from You comes peace'.",
+            "ms": "Pintu masuk Sunnah bersejarah dengan menara kembar. Jemaah disunatkan berdoa memohon keselamatan dan keberkatan.",
+            "ml": "ഇരട്ട മിനാരങ്ങളാൽ അടയാളപ്പെടുത്തിയ സുന്നത്തായ കവാടം. നബി പ്രവേശിച്ച വഴിയെന്ന പുണ്യം ഇതിനുണ്ട്.",
+            "ta": "இரட்டை மினாராக்கள் கொண்ட சுன்னத்தான வாசல். நபி ﷺ அவர்கள் நுழைந்த வரலாற்றுச் சிறப்புடையது."
+          },
+          "images": {
+            "thumbnail": "assets/image/locations/bab_al_salam.webp",
+            "gallery": [
+              "assets/image/locations/bab_al_salam.webp",
+              "assets/Ibadah/img/masjiddoors.webp"
+            ]
+          }
+        },
+        {
+          "id": "bab_al_fatah",
+          "title": {
+            "en": "Bab al-Fatah (Gate of Victory)",
+            "ms": "Bab al-Fatah (Pintu Kemenangan)",
+            "ml": "ബാബുൽ ഫത്ഹ് (വിജയ കവാടം)",
+            "ta": "பாப் அல்-ஃபத்தஹ் (வெற்றி வாசல்)"
+          },
+          "summary": {
+            "en": "The historic northern entrance through which Prophet Muhammad ﷺ entered upon the peaceful Conquest of Makkah in 8 AH.",
+            "ms": "Pintu utara bersejarah di mana Rasulullah ﷺ masuk semasa pembukaan kota Makkah (Fath Makkah) pada tahun 8 Hijrah.",
+            "ml": "ഹിജ്റ 8-ൽ മക്കാ വിജയ വേളയിൽ നബി ﷺ സൈന്യത്തോടൊപ്പം പ്രവേശിച്ച വടക്കൻ കവാടം.",
+            "ta": "ஹிஜ்ரி 8-ல் மக்கா வெற்றியின் போது நபிகளார் அமைதியாக நுழைந்த வரலாற்று வடக்கு வாசல்."
+          },
+          "details": {
+            "en": "Crowned by majestic twin minarets. Commemorates the bloodless liberation of Makkah and purification of the Kaaba.",
+            "ms": "Dipuncaki menara kembar megah. Memperingati pembebasan Makkah secara aman dan pembersihan berhala di Kaabah.",
+            "ml": "ഇരട്ട മിനാരങ്ങളുള്ള കവാടം. മക്കാ ഫത്ഹിന്റെ ശാന്തമായ വിജയത്തെ സ്മരിപ്പിക്കുന്നു.",
+            "ta": "கம்பீரமான இரட்டை மினாராக்கள் கொண்டது. மக்காவின் அமைதியான வெற்றியின் நினைவாக விளங்குகிறது."
+          },
+          "images": {
+            "thumbnail": "assets/image/locations/bab_al_fatah.webp",
+            "gallery": [
+              "assets/image/locations/bab_al_fatah.webp",
+              "assets/Ibadah/img/masjiddoors.webp"
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

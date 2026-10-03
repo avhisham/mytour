@@ -1,10 +1,9 @@
 {
-  "_mock": true,
-  "_note": "Dua recited in the second half of each trip after passing the green zone. Same for all 7 trips — the Rabbana dua.",
+  "_note": "Dua recited in the second half of each trip after passing the green zone. Same for all 7 trips — the Rabbana dua. Broken into phrases with follower repetition gaps.",
   "subtitles": [
     {
       "start": "00:00:00,000",
-      "end": "00:00:03,000",
+      "end": "00:00:03,500",
       "text": {
         "ar": "رَبَّنَا آتِنَا فِي الدُّنْيَا حَسَنَةً",
         "tl": "Rabbanā ātinā fid-dunyā hasanah",
@@ -15,8 +14,8 @@
       }
     },
     {
-      "start": "00:00:04,000",
-      "end": "00:00:07,000",
+      "start": "00:00:06,500",
+      "end": "00:00:09,500",
       "text": {
         "ar": "وَفِي الآخِرَةِ حَسَنَةً",
         "tl": "wa fil-ākhirati hasanah",
@@ -27,8 +26,8 @@
       }
     },
     {
-      "start": "00:00:08,000",
-      "end": "00:00:11,000",
+      "start": "00:00:12,500",
+      "end": "00:00:15,500",
       "text": {
         "ar": "وَقِنَا عَذَابَ النَّارِ",
         "tl": "wa qinā 'adhāban-nār",

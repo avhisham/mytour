@@ -2,7 +2,7 @@
   {
     "id": "u00",
     "title": "[en]Introduction to Umrah[/en]\n[ms]Pengenalan kepada Umrah[/ms]\n[ml]ഉംറയുടെ ആമുഖം[/ml]\n[ta]உம்ரா அறிமுகம்[/ta]",
-    "description": "[en]Understanding the definition, types, and the mandatory pillars (Rukun) and obligations (Wajib) of Umrah.[/en] \n[ms]Memahami definisi, jenis, rukun, dan wajib bagi ibadah Umrah.[/ms] \n[ml]ഉംറയുടെ നിർവ്വചനം, ഇനങ്ങൾ, പ്രധാന കർമ്മങ്ങൾ (റുക്ൻ), നിർബന്ധ ബാധ്യതകൾ (വാജിബ്) എന്നിവ മനസ്സിലാക്കുക.[/ml] \n[ta]உம்ராவின் விளக்கம், வகைகள், அடிப்படை கடமைகள் (ருக்ன்) மற்றும் கட்டாயக் கடமைகள் (வாஜிப்) ஆகியவற்றைப் புரிந்துகொள்வது.[/ta]",
+    "description": "[en]Understanding the definition, types, mandatory pillars (Rukun), obligations (Wajib), prohibitions of Ihram, and Dam (penalties) of Umrah.[/en] \n[ms]Memahami definisi, jenis, rukun, wajib, larangan ihram, dan dam (fidyah) bagi ibadah Umrah.[/ms] \n[ml]ഉംറയുടെ നിർവ്വചനം, ഇനങ്ങൾ, റുക്നുകൾ, വാജിബുകൾ, ഇഹ്‌റാമിലെ നിരോധനങ്ങൾ, ദം (പിഴകൾ) എന്നിവ മനസ്സിലാക്കുക.[/ml] \n[ta]உம்ராவின் விளக்கம், வகைகள், அடிப்படை கடமைகள் (ருக்ன்), கட்டாயக் கடமைகள் (வாஜிப்), இஹ்ராமின் தடைகள் மற்றும் தம் (பரிகாரம்) ஆகியவற்றைப் புரிந்துகொள்வது.[/ta]",
     "type": "generalInfo",
     "status": "General",
     "lat": 21.4225,
@@ -43,15 +43,47 @@
       {
         "card": 3,
         "title": "[en]3. Rukun & Wajib Umrah[/en]\n[ms]3. Rukun & Wajib Umrah[/ms]\n[ml]3. ഉംറയിലെ റുക്നുകളും വാജിബുകളും[/ml]\n[ta]3. உம்ராவின் ருக்ன் & வாஜிப்[/ta]",
-        "description": "[en]Rukun (Pillars): 1. Niyyah for Ihram, 2. Tawaf, 3. Sa'ie, 4. Tahallul, 5. Tertib (Sequence). \nWajib (Obligations): 1. Niyyah at the Miqat, 2. Leaving Ihram prohibitions. Missing a Rukun invalidates Umrah, while missing a Wajib requires a penalty (Dam).[/en] \n[ms]Rukun Umrah: 1. Niat Ihram, 2. Tawaf Umrah, 3. Sa'ie, 4. Bercukur/Bergunting, 5. Tertib. \nWajib Umrah: 1. Berniat di Miqat, 2. Meninggalkan larangan Ihram. Meninggalkan Rukun membatalkan Umrah, manakala meninggalkan Wajib dikenakan Dam.[/ms] \n[ml]റുക്നുകൾ: 1. ഇഹ്റാമിനുള്ള നിയ്യത്ത്, 2. ത്വവാഫ്, 3. സഅയ്, 4. തഹല്ലുൽ, 5. ക്രമം (തർത്തീബ്). \nവാജിബുകൾ: 1. മീഖാത്തിൽ നിന്നുള്ള നിയ്യത്ത്, 2. ഇഹ്റാമിലെ വിലക്കുകൾ ഒഴിവാക്കൽ. റുക്ൻ ഒഴിവാക്കിയാൽ ഉംറ അസാധുവാകും, വാജിബ് ഒഴിവാക്കിയാൽ പിഴ (ദം) നൽകണം.[/ml] \n[ta]ருக்ன்கள் (அடிப்படை கடமைகள்): 1. இஹ்ராம் நிய்யத், 2. தவாஃப், 3. ஸயீ, 4. தஹல்லுல், 5. வரிசை. \nவாஜிபுகள் (கட்டாயக் கடமைகள்): 1. மீகாத்தில் நிய்யத் செய்தல், 2. இஹ்ராம் தடைகளைத் தவிர்த்தல். ருக்னை விட்டால் உம்ரா செல்லாது, வாஜிபை விட்டால் பரிகாரம் (தம்) செலுத்த வேண்டும்.[/ta]",
+        "description": "[en]To ensure your Umrah is accepted and complete, you must distinguish between two core categories: the Rukun, or essential pillars, and the Wajib, or obligations.\n\nFirst, let us look at the Five Rukun.\nThese are the foundational pillars. If you miss even one of them, your Umrah is invalid, and paying a penalty—known as Dam—cannot make up for it. You must perform the act itself.\n\nFirst is Niat and Ihram. This is your mental intention to perform Umrah, accompanied by the Talbiyah, entering into the sacred state of consecration.\nSecond is Tawaf. You must complete seven counter-clockwise circuits around the Kaaba, starting and ending at the Black Stone, keeping the Kaaba to your left.\nThird is Sa'i. Walk seven laps between the hills of Safa and Marwah, beginning at Safa and concluding at Marwah.\nFourth is Tahallul. This is the ceremonial cutting of hair. Men may shave or trim their hair, while women trim approximately one inch—about the length of a fingertip.\nFifth is Tertib. According to the Shafi'i Mazhab, strict order is itself an independent pillar. You must perform these acts in exact sequence: first Niat, then Tawaf, followed by Sa'i, and finally Tahallul.\n\nNext, let us look at the Two Wajib, or obligations.\nUnlike the pillars, if an obligation is missed due to a valid excuse or oversight, your Umrah remains technically valid, but you incur a sin and must compensate by paying Dam.\n\nThe First Obligation is Entering Ihram at the Miqat. You must assume the state of Ihram before or upon crossing the designated geographic boundary, such as Abyar Ali or Qarn al-Manazil.\nThe Second Obligation is Avoiding the Prohibitions of Ihram. Once in Ihram, specific restrictions apply:\nFor Men Only: Do not wear stitched or tailored garments, such as shirts, trousers, or underwear. Do not cover your head with anything that clings, like caps or hoods.\nFor Women Only: Do not wear face veils or niqabs that touch the facial skin, and do not wear gloves that enclose the fingers.\nFor Both Men and Women: Refrain from grooming—do not clip your nails or pluck hairs. Avoid all scents, perfumes, and scented toiletries. Do not enter into marriage contracts or engage in marital intimacy. Finally, show respect to nature by not hunting game or cutting trees within the sacred boundary.\n\nRemember this golden rule:\nOmitting a Rukun can never be resolved by Dam—you must complete the act.\nViolating a Wajib requires compensation through Dam—such as sacrificing a goat, observing a three-day fast, or feeding six needy persons.\nMay your Umrah be accepted, peaceful, and blessed.[/en]\n[ms]Bagi memastikan umrah anda diterima dan sempurna, anda perlu membezakan antara dua kategori utama: Rukun, iaitu tiang asas yang utama, dan Wajib, iaitu kewajipan.\n\nPertama, mari kita lihat Lima Rukun Umrah.\nIni adalah tiang-tiang asas. Jika tertinggal walaupun satu daripadanya, umrah anda tidak sah, dan membayar denda—iaitu Dam—tidak boleh menggantikannya. Anda wajib menyempurnakan amalan itu sendiri.\n\nPertama: Niat dan Ihram. Ini adalah ketetapan hati untuk menunaikan umrah yang disertakan dengan lafaz Talbiah, menandakan bermulanya keadaan suci dalam ihram.\nKedua: Tawaf. Anda mesti melengkapkan tujuh pusingan mengelilingi Kaabah mengikut arah lawan jam, bermula dan berakhir di Hajarul Aswad, dengan memastikan Kaabah sentiasa berada di sebelah kiri anda.\nKetiga: Sa'i. Berjalan berulang-alik sebanyak tujuh kali antara bukit Safa dan Marwah, bermula di Safa dan berakhir di Marwah.\nKeempat: Tahallul. Ini adalah amalan memotong atau mencukur rambut. Bagi lelaki, disunatkan bercukur licin atau bergunting, manakala wanita memotong rambut sepanjang kira-kira satu inci—iaitu sekadar hujung ruas jari.\nKelima: Tertib. Mengikut Mazhab Syafi'i, susunan yang teratur merupakan satu rukun yang tersendiri. Anda wajib melaksanakannya mengikut urutan yang tepat: bermula dengan Niat, diikuti Tawaf, kemudian Sa'i, dan diakhiri dengan Tahallul.\n\nSeterusnya, mari kita lihat Dua Perkara Wajib Umrah.\nBerbeza dengan rukun, jika perkara wajib ini terlepas kerana keuzuran atau kealpaan, umrah anda dari segi teknikalnya tetap sah, namun anda berdosa dan wajib menggantikannya dengan membayar Dam.\n\nKewajipan Pertama: Berihram di Miqat. Anda wajib berniat ihram sebelum atau setibanya di sempadan geografi yang telah ditetapkan, seperti Abyar Ali atau Qarnul Manazil.\nKewajipan Kedua: Menjauhi Larangan-Larangan Ihram. Sebaik sahaja berihram, larangan-larangan tertentu berkuat kuasa:\nKhusus untuk Lelaki: Jangan memakai pakaian berjahit atau mengikut bentuk tubuh, seperti kemeja, seluar, atau seluar dalam. Jangan menutup kepala dengan pakaian yang melekat, seperti kopiah atau hud penutup kepala.\nKhusus untuk Wanita: Jangan memakai purdah atau niqab yang menyentuh kulit muka, dan jangan memakai sarung tangan yang menutup jari-jemari.\nUntuk Lelaki dan Wanita: Elakkan dandanan diri—jangan memotong kuku atau mencabut bulu badan. Jauhi segala wangi-wangian, minyak wangi, dan sabun berbau harum. Jangan melangsungkan akad nikah atau melakukan hubungan intim. Akhir sekali, hormati alam sekitar dengan tidak memburu binatang atau menebang pokok di tanah haram.\n\nIngat kaedah penting ini:\nMeninggalkan Rukun sama sekali tidak boleh ditebus dengan Dam—anda wajib menyempurnakan amalan tersebut.\nMelanggar perkara Wajib memerlukan tebusan melalui Dam—seperti menyembelih seekor kambing, berpuasa selama tiga hari, atau memberi makan kepada enam orang miskin.\nSemoga umrah anda diterima, tenang, dan diberkati.[/ms]\n[ml]നിങ്ങളുടെ ഉംറ സ്വീകാര്യവും പൂർണ്ണവുമാകാൻ, രണ്ട് പ്രധാന വിഭാഗങ്ങൾ തമ്മിലുള്ള വ്യത്യാസം നിങ്ങൾ മനസ്സിലാക്കേണ്ടതുണ്ട്: 'റുക്നുകൾ' (അടിസ്ഥാന നിർബന്ധ ഘടകങ്ങൾ), 'വാജിബുകൾ' (ബാധ്യതകൾ).\n\nആദ്യമായി, അഞ്ച് റുക്നുകൾ പരിശോധിക്കാം.\nഇവ ഉംറയുടെ അടിസ്ഥാന തൂണുകളാണ്. ഇവയിൽ ഒന്നൊഴിവായാലും ഉംറ അസാധുവാകും (ബാത്വിലാകും). 'ദം' (പ്രായശ്ചിത്തം) നൽകിയതുകൊണ്ട് അത് പരിഹരിക്കപ്പെടില്ല. ആ കർമ്മം തന്നെ നിർവ്വഹിക്കൽ നിർബന്ധമാണ്.\n\nഒന്നാമതായി നിയ്യത്തും ഇഹ്‌റാമും: ഉംറ നിർവ്വഹിക്കാനുള്ള മനസ്സിലുള്ള തീരുമാനവും തൽബിയത്തും ചൊല്ലി പുണ്യമായ ഇഹ്‌റാമിന്റെ അവസ്ഥയിലേക്ക് പ്രവേശിക്കുക.\nരണ്ടാമതായി ത്വവാഫ്: കഅ്ബയെ ഇടതുവശത്താക്കി, ഹജറുൽ അസ്‌വദ് മുതൽ ആരംഭിച്ച് അവിടെത്തന്നെ അവസാനിക്കുന്ന രീതിയിൽ ഘടികാരദിശയ്ക്ക് എതിരായി ഏഴ് തവണ കഅ്ബയെ വലംവെക്കുക.\nമൂന്നാമതായി സഅ്‌യ്: സഫാ കുന്നിൽ തുടങ്ങി മർവ്വയിൽ അവസാനിക്കുന്ന വിധത്തിൽ സഫായ്ക്കും മർവ്വയ്ക്കും ഇടയിൽ ഏഴ് തവണ നടക്കുക.\nനാലാമതായി തഹല്ലുൽ: ഇത് മുടി മുറിക്കുന്ന കർമ്മമാണ്. പുരുഷന്മാർക്ക് മുടി പൂർണ്ണമായി കളയുകയോ (ഹൽഖ്) വെട്ടുകയോ (തഖ്സീർ) ചെയ്യാം; സ്ത്രീകൾ വിരൽത്തുമ്പിന്റെ നീളത്തിൽ (ഏകദേശം ഒരിഞ്ച്) മുടി അൽപം മുറിക്കുക.\nഅഞ്ചാമതായി തർതീബ് (ക്രമം പാലിക്കൽ): ശാഫിഈ മദ്ഹബ് പ്രകാരം ചിട്ടയായ ക്രമം പാലിക്കൽ തന്നെ ഒരു സ്വതന്ത്ര റുക്നാണ്. നിങ്ങൾ കൃത്യമായ ക്രമത്തിൽ തന്നെ ഇത് നിർവ്വഹിക്കണം: ആദ്യം നിയ്യത്ത്, പിന്നീട് ത്വവാഫ്, തുടർന്ന് സഅ്‌യ്, ഒടുവിൽ തഹല്ലുൽ.\n\nഅടുത്തതായി, രണ്ട് വാജിബുകൾ പരിശോധിക്കാം.\nറുക്നുകളിൽ നിന്ന് വ്യത്യസ്തമായി, ന്യായമായ കാരണമോ മറവിയോ കൊണ്ട് ഒരു വാജിബ് നഷ്ടപ്പെട്ടാൽ ഉംറ സാങ്കേതികമായി സാധുവാകും; എന്നാൽ കുറ്റകരമാവുകയും 'ദം' നൽകി പരിഹാരം ചെയ്യേണ്ടി വരികയും ചെയ്യും.\n\nഒന്നാമത്തെ വാജിബ് മീഖാത്തുകളിൽ നിന്ന് ഇഹ്‌റാം ചെയ്യൽ: അബ്‌യാർ അലി അല്ലെങ്കിൽ ഖർനുൽ മനാസിൽ പോലുള്ള നിശ്ചിത അതിർത്തി കടക്കുന്നതിന് മുമ്പോ അല്ലെങ്കിൽ അവിടെ എത്തുമ്പോഴോ ഇഹ്‌റാമിൽ പ്രവേശിക്കണം.\nരണ്ടാമത്തെ വാജിബ് ഇഹ്‌റാമിലെ വിലക്കുകൾ ഒഴിവാക്കൽ: ഇഹ്‌റാമിൽ പ്രവേശിച്ചുകഴിഞ്ഞാൽ താഴെ പറയുന്ന നിയന്ത്രണങ്ങൾ ബാധകമാണ്:\nപുരുഷന്മാർക്ക് മാത്രം: തുന്നിയതോ ശരീരത്തിനൊപ്പമുള്ളതോ ആയ വസ്ത്രങ്ങൾ (ഷർട്ട്, പാന്റ്സ്, അടിവസ്ത്രങ്ങൾ) ധരിക്കരുത്. തൊപ്പി, ഹുഡ് തുടങ്ങിയ തലയോട് ചേർന്നിരിക്കുന്നവ കൊണ്ട് തല മറയ്ക്കരുത്.\nസ്ത്രീകൾക്ക് മാത്രം: മുഖത്ത് തട്ടിനിൽക്കുന്ന തരത്തിൽ മുഖപടമോ (നഖാബ്) വിരലുകൾ മൂടുന്ന കൈയുറകളോ ധരിക്കരുത്.\nസ്ത്രീകൾക്കും പുരുഷന്മാർക്കും പൊതുവായത്: ശരീരഭംഗി വരുത്തൽ ഒഴിവാക്കുക—നഖം മുറിക്കാനോ മുടി പറിക്കാനോ പാടില്ല. സുഗന്ധദ്രവ്യങ്ങൾ, അത്തർ, സുഗന്ധമുള്ള സോപ്പുകൾ എന്നിവ ഉപയോഗിക്കരുത്. വിവാഹ കരാറുകളിൽ ഏർപ്പെടുകയോ ദാമ്പത്യബന്ധത്തിൽ ഏർപ്പെടുകയോ അരുത്. ഒടുവിൽ, ഹറം അതിർത്തിക്കുള്ളിലെ വേട്ടയാടലിൽ നിന്നോ മരങ്ങൾ മുറിക്കുന്നതിൽ നിന്നോ വിട്ടുനിന്ന് പ്രകൃതിയെ ആദരിക്കുക.\n\nഈ അടിസ്ഥാന തത്വം എപ്പോഴും ഓർക്കുക:\nഒരു റുക്ൻ ഒഴിവായാൽ അത് ഒരിക്കലും 'ദം' കൊണ്ട് പരിഹരിക്കാനാവില്ല—ആ കർമ്മം തന്നെ പൂർത്തിയാക്കണം.\nഒരു വാജിബ് ലംഘിക്കപ്പെട്ടാൽ 'ദം' നൽകി പ്രായശ്ചിത്തം ചെയ്യണം—ഒരു ആടിനെ അറുക്കുക, മൂന്ന് ദിവസം നോമ്പനുഷ്ഠിക്കുക, അല്ലെങ്കിൽ ആറ് അഗതികൾക്ക് ഭക്ഷണം നൽകുക എന്നിവയാണവ.\nഅല്ലാഹു നിങ്ങളുടെ ഉംറ സ്വീകരിക്കുകയും സമാധാനവും ബറകത്തും നൽകുകയും ചെയ്യട്ടെ.[/ml]\n[ta]உங்கள் உம்ரா ஏற்றுக்கொள்ளப்பட்டு முழுமையடைவதை உறுதிசெய்ய, நீங்கள் இரண்டு முக்கியப் பிரிவுகளைப் பிரித்தறிய வேண்டும்: 'ருக்ன்' எனப்படும் அத்தியாவசியத் தூண்கள், மற்றும் 'வாஜிப்' எனப்படும் கடமைகள்.\n\nமுதலில், ஐந்து ருக்ன்களைப் பார்ப்போம்.\nஇவை உம்ராவின் அடிப்படைத் தூண்கள். இவற்றில் ஏதேனும் ஒன்றை நீங்கள் தவறவிட்டால், உங்கள் உம்ரா செல்லாததாகிவிடும் (பாத்திலாகும்). 'தம்' எனப்படும் பரிகார அபராதம் செலுத்துவதன் மூலம் இதை ஈடுசெய்ய முடியாது. அந்தச் செயலை நீங்களே செய்து முடிக்க வேண்டும்.\n\nமுதலாவது நிய்யத்தும் இஹ்ராமும்: உம்ரா செய்வதற்கான மனப்பூர்வமான எண்ணமும் (நிய்யத்), தல்பியா கூறுவதும், புனிதமான இஹ்ராம் நிலைக்குள் நுழைவதும் ஆகும்.\nஇரண்டாவது தவாஃப்: கஃபாவை உங்கள் இடதுபுறத்தில் வைத்து, ஹஜருல் அஸ்வத்தில் தொடங்கி அங்கேயே முடிக்கும் வகையில், கடிகாரச் சுற்றுக்கு எதிர் திசையில் கஃபாவை ஏழு முறை வலம் வர வேண்டும்.\nமூன்றாவது ஸயீ: ஸஃபா மற்றும் மர்வா குன்றுகளுக்கு இடையே ஸஃபாவில் தொடங்கி மர்வாவில் முடிவடையும் வகையில் ஏழு முறை நடக்க வேண்டும்.\nநான்காவது தஹல்லுல்: இது தலைமுடியை அகற்றும் சடங்காகும். ஆண்கள் தங்கள் தலையை மழிக்கலாம் அல்லது முடியைக் கத்தரிக்கலாம்; பெண்கள் விரல் நுனி நீளத்திற்கு (சுமார் ஒரு அங்குலம்) தலைமுடியை வெட்ட வேண்டும்.\nஐந்தாவது தர்த்தீப் (வரிசை ஒழுங்கு): ஷாஃபிஈ மத்ஹபின்படி, முறையான வரிசை ஒழுங்கே ஒரு தனி ருக்ன் ஆகும். நீங்கள் இவற்றைச் சரியான வரிசையில் செய்ய வேண்டும்: முதலில் நிய்யத், பின்னர் தவாஃப், அதைத் தொடர்ந்து ஸயீ, இறுதியாக தஹல்லுல்.\n\nஅடுத்து, இரண்டு வாஜிபுகளைப் பார்ப்போம்.\nருக்ன்களைப் போலன்றி, தகுந்த காரணத்தினாலோ அல்லது மறதியினாலோ ஒரு வாஜிப் விடுபட்டால், உங்கள் உம்ரா முறைப்படி செல்லுபடியாகும்; ஆனால் அது குற்றமாகும், அதற்குப் பரிகாரமாக 'தம்' செலுத்த வேண்டும்.\n\nமுதல் வாஜிப் மீக்காத்திலிருந்து இஹ்ராம் அணிவது: அப்யார் அலி அல்லது கர்னுல் மனாஸில் போன்ற நிர்ணயிக்கப்பட்ட எல்லையைக் கடப்பதற்கு முன்போ அல்லது அந்த எல்லையிலோ இஹ்ராம் நிலையை அடைய வேண்டும்.\nஇரண்டாவது வாஜிப் இஹ்ராமின் தடைகளைத் தவிர்ப்பது: இஹ்ராம் நிலைக்கு வந்தவுடன், குறிப்பிட்ட கட்டுப்பாடுகள் பொருந்தும்:\nஆண்களுக்கு மட்டும்: சட்டை, கால்சட்டை அல்லது உள்ளாடைகள் போன்ற தைக்கப்பட்ட ஆடைகளை அணியக்கூடாது. தொப்பிகள் அல்லது ஹூட் போன்ற தலையோடு ஒட்டியிருக்கும் எதனாலும் தலையை மூடக்கூடாது.\nபெண்களுக்கு மட்டும்: முகத்தின் தோலில் படும் முகத்திரையையோ (நிகாப்) அல்லது விரல்களை மூடும் கையுறைகளையோ அணியக்கூடாது.\nஆண்கள் மற்றும் பெண்கள் இருவருக்கும் பொதுவானது: அழகுபடுத்துவதைத் தவிர்க்க வேண்டும்—நகங்களை வெட்டவோ முடியைப் பிடுங்கவோ கூடாது. வாசனை திரவியங்கள், அத்தர் மற்றும் நறுமணப் பொருட்களைத் தவிர்க்க வேண்டும். திருமண ஒப்பந்தங்கள் செய்யவோ அல்லது தாம்பத்திய உறவில் ஈடுபடவோ கூடாது. இறுதியாக, புனித எல்லைக்குள் வேட்டையாடாமலும், மரங்களை வெட்டாமலும் இயற்கையை மதிக்க வேண்டும்.\n\nஇந்த முக்கியமான விதியை நினைவில் கொள்ளுங்கள்:\nருக்ன் விடுபட்டால் அதை ஒருபோதும் 'தம்' மூலம் சரிசெய்ய முடியாது—அந்தச் செயலை முழுமையாகச் செய்ய வேண்டும்.\nவாஜிபை மீறினால் 'தம்' மூலம் பரிகாரம் செய்ய வேண்டும்—ஒரு ஆட்டைப் பலியிடுதல், மூன்று நாட்கள் நோன்பு நோற்பது அல்லது ஆறு ஏழைகளுக்கு உணவளிப்பது ஆகியவை இதில் அடங்கும்.\nஉங்கள் உம்ரா ஏற்றுக்கொள்ளப்பட்டதாகவும், அமைதியானதாகவும், பரக்கத் நிறைந்ததாகவும் அமையட்டும்.[/ta]",
         "mediaItems": [
           {
             "type": "image",
-            "url": "image/rukun_wajib.png"
+            "url": "image/rukun1.webp"
           }
         ],
         "audio": {
           "url": "audio/rukun_wajib.mp3",
+          "subtitles": null
+        },
+        "autoPlay": false
+      },
+      {
+        "card": 4,
+        "title": "[en]4. Prohibitions of Ihram[/en]\n[ms]4. Larangan Semasa Ihram[/ms]\n[ml]4. ഇഹ്‌റാമിലെ നിരോധനങ്ങൾ[/ml]\n[ta]4. இஹ்ராமின் தடைகள்[/ta]",
+        "description": "[en]Welcome. When you enter the sacred state of Ihram for Umrah, certain actions become prohibited to maintain spiritual focus. Here is a guide to those restrictions:\n\n1. General Prohibitions (Men & Women):\nYou must not remove any hair from your head or body by shaving or cutting. Clipping nails is also forbidden. Do not apply perfume or scent to your body, Ihram garments, or even scented soap. Engaging in hunting or harming land animals and cutting or uprooting trees within the sacred boundary of Makkah are strictly prohibited.\n\n2. Prohibitions for Men Only:\nFor men, there are specific dress restrictions. You must not wear sewn or tailored clothing that forms to the body, such as shirts, trousers, or underwear. Do not cover your head with anything that clings, like a cap or turban; however, umbrellas are allowed for shade.\n\n3. Prohibitions for Women Only:\nFor women, the face must remain visible. You must not wear a face veil, such as a Niqab, that touches the face. Additionally, wearing gloves to cover the hands is prohibited.\n\n4. Marital & Ethical Prohibitions:\nAll sexual intercourse or acts leading to intimacy are strictly forbidden. You cannot contract a marriage or make marriage proposals. Furthermore, abstain from obscene talk, abusive language, arguments, and fighting.\n\nThese restrictions remain until you complete your Umrah and perform Tahallul. May Allah accept your pilgrimage.[/en]\n[ms]Selamat datang. Apabila anda memasuki keadaan Ihram yang suci untuk Umrah, beberapa perkara menjadi dilarang untuk mengekalkan fokus kerohanian. Berikut adalah panduan mengenai larangan-larangan tersebut:\n\n1. Larangan Umum (Lelaki & Wanita):\nPertama, larangan yang berlaku kepada semua orang. Anda dilarang menanggalkan sebarang rambut atau bulu dari kepala atau badan dengan cara mencukur atau menggunting. Memotong kuku juga dilarang. Jangan memakai minyak wangi atau haruman pada badan, kain Ihram, atau menggunakan sabun berbau wangi. Berburu atau mencederakan binatang darat, serta menebang atau mencabut pokok di dalam kawasan Tanah Haram Makkah adalah dilarang keras.\n\n2. Larangan Khusus Lelaki:\nBagi lelaki, terdapat had berpakaian yang khusus. Anda tidak boleh memakai pakaian berjahit atau pakaian tersuai yang mengikut bentuk badan, seperti kemeja, seluar, atau seluar dalam. Jangan menutup kepala dengan apa-apa yang melekat, seperti songkok atau serban; bagaimanapun, penggunaan payung untuk berteduh adalah dibenarkan.\n\n3. Larangan Khusus Wanita:\nBagi wanita, muka mestilah kekal kelihatan. Anda tidak boleh memakai purdah atau Niqab yang menyentuh muka. Selain itu, memakai sarung tangan untuk menutup tangan adalah dilarang.\n\n4. Larangan Perkahwinan & Etika:\nAkhir sekali, tingkah laku perkahwinan dan etika. Sebarang hubungan seksual atau perbuatan yang membawa kepada keintiman adalah dilarang keras. Anda tidak boleh melakukan akad nikah atau membuat pinangan perkahwinan. Seterusnya, jauhi percakapan lucah, bahasa kesat, pertengkaran, dan pergaduhan.\n\nLarangan-larangan ini kekal sehingga anda menyelesaikan Umrah anda dan melakukan Tahallul. Semoga Allah menerima ibadah Umrah anda.[/ms]\n[ml]സ്വാഗതം. ഉംറയ്ക്കായി നിങ്ങൾ ഇഹ്‌റാമിന്റെ പവിത്രമായ അവസ്ഥയിൽ പ്രവേശിക്കുമ്പോൾ, ആത്മീയ ശ്രദ്ധ നിലനിർത്തുന്നതിനായി ചില പ്രവൃത്തികൾ നിരോധിക്കപ്പെട്ടിരിക്കുന്നു. ആ നിയന്ത്രണങ്ങളെക്കുറിച്ചുള്ള ഒരു ഗൈഡ് ഇതാ:\n\n1. പൊതുവായ നിരോധനങ്ങൾ (പുരുഷന്മാർക്കും സ്ത്രീകൾക്കും):\nആദ്യം, എല്ലാവർക്കും ബാധകമായ നിരോധനങ്ങൾ. തലയിൽ നിന്നോ ശരീരത്തിൽ നിന്നോ മുടി ക്ഷൗരം ചെയ്തോ മുറിച്ചോ നീക്കം ചെയ്യാൻ പാടില്ല. നഖം വെട്ടുന്നതും നിഷിദ്ധമാണ്. നിങ്ങളുടെ ശരീരത്തിലോ ഇഹ്‌റാം വസ്ത്രത്തിലോ സുഗന്ധദ്രവ്യങ്ങളോ സുഗന്ധമോ പുരട്ടരുത്, സുഗന്ധമുള്ള സോപ്പ് പോലും ഉപയോഗിക്കരുത്. വേട്ടയാടലിൽ ഏർപ്പെടുകയോ കരമൃഗങ്ങളെ ഉപദ്രവിക്കുകയോ ചെയ്യുന്നത്, മക്കയിലെ പവിത്രമായ അതിർത്തിക്കുള്ളിൽ മരങ്ങൾ വെട്ടുന്നതോ പിഴുതെറിയുന്നതോ കർശനമായി നിരോധിച്ചിരിക്കുന്നു.\n\n2. പുരുഷന്മാർക്ക് മാത്രമുള്ള നിരോധനങ്ങൾ:\nപുരുഷന്മാർക്ക്, പ്രത്യേക വസ്ത്രധാരണ നിയന്ത്രണങ്ങളുണ്ട്. ഷർട്ട്, പാന്റ്സ്, അല്ലെങ്കിൽ അടിവസ്ത്രം എന്നിവ പോലെ ശരീരത്തിന് അനുയോജ്യമായ തുന്നിയ വസ്ത്രങ്ങൾ ധരിക്കാൻ പാടില്ല. തൊപ്പി അല്ലെങ്കിൽ തലപ്പാവ് പോലെ തലയിൽ ഒട്ടിപ്പിടിക്കുന്ന ഒന്നും കൊണ്ട് തല മൂടരുത്; എന്നിരുന്നാലും, തണലിനായി കുടകൾ അനുവദനീയമാണ്.\n\n3. സ്ത്രീകൾക്ക് മാത്രമുള്ള നിരോധനങ്ങൾ:\nസ്ത്രീകൾക്ക്, മുഖം വ്യക്തമായി കാണണം. മുഖത്ത് സ്പർശിക്കുന്ന നിഖാബ് പോലുള്ള മുഖംമൂടി ധരിക്കാൻ പാടില്ല. കൂടാതെ, കൈകൾ മൂടുന്നതിനായി കയ്യുറകൾ ധരിക്കുന്നതും നിരോധിച്ചിരിക്കുന്നു.\n\n4. വൈവാഹികവും ധാർമ്മികവുമായ നിരോധനങ്ങൾ:\nഅവസാനമായി, വൈവാഹികവും ധാർമ്മികവുമായ പെരുമാറ്റം. എല്ലാ ലൈംഗിക ബന്ധങ്ങളും അല്ലെങ്കിൽ ലൈംഗികതയിലേക്ക് നയിക്കുന്ന പ്രവൃത്തികളും കർശനമായി നിരോധിച്ചിരിക്കുന്നു. നിങ്ങൾക്ക് വിവാഹ കരാറിൽ ഏർപ്പെടാനോ വിവാഹാലോചനകൾ നടത്താനോ കഴിയില്ല. കൂടാതെ, അശ്ലീല സംസാരം, അധിക്ഷേപകരമായ ഭാഷ, തർക്കങ്ങൾ, വഴക്കുകൾ എന്നിവയിൽ നിന്ന് വിട്ടുനിൽക്കുക.\n\nനിങ്ങളുടെ ഉംറ പൂർത്തിയാക്കി തഹല്ലുൽ ചെയ്യുന്നത് വരെ ഈ നിയന്ത്രണങ്ങൾ നിലനിൽക്കും. അള്ളാഹു നിങ്ങളുടെ തീർത്ഥാടനം സ്വീകരിക്കട്ടെ.[/ml]\n[ta]வரவேற்பு. உம்ராவிற்காக நீங்கள் இஹ்ராம் என்ற புனித நிலைக்குள் நுழையும்போது, ஆன்மீகக் கவனத்தைத் தக்கவைத்துக்கொள்ள சில செயல்கள் தடைசெய்யப்படுகின்றன. அந்தத் தடைகள் பற்றிய வழிகாட்டி இதோ:\n\n1. பொதுவான தடைகள் (ஆண்கள் மற்றும் பெண்கள்):\nமுதலில், அனைவருக்கும் பொருந்தும் தடைகள். உங்கள் தலை அல்லது உடலில் இருந்து எந்த முடியையும் ஷேவிங் செய்தோ அல்லது வெட்டியோ அகற்றக்கூடாது. நகங்களை வெட்டுவதும் தடைசெய்யப்பட்டுள்ளது. உங்கள் உடல், இஹ்ராம் ஆடைகள் அல்லது வாசனை சோப்பு ஆகியவற்றில் வாசனை திரவியங்கள் அல்லது வாசனையைப் பூசக்கூடாது. வேட்டையாடுவதில் ஈடுபடுவது அல்லது நில விலங்குகளைத் துன்புறுத்துவது, மற்றும் மக்காவின் புனித எல்லைக்குள் மரங்களை வெட்டுவது அல்லது வேரோடு பிடுங்குவது ஆகியவை கண்டிப்பாகத் தடைசெய்யப்பட்டுள்ளன.\n\n2. ஆண்களுக்கு மட்டுமான தடைகள்:\nஆண்களுக்கு, குறிப்பிட்ட ஆடைத் தடைகள் உள்ளன. சட்டை, பேன்ட் அல்லது உள்ளாடைகள் போன்ற உடலுக்கு ஏற்றவாறு தைக்கப்பட்ட ஆடைகளை அணியக்கூடாது. தொப்பி அல்லது தலைப்பாகை போன்ற ஒட்டிக்கொள்ளும் எதனாலும் தலையை மூடக்கூடாது; இருப்பினும், நிழலுக்காகக் குடைகள் அனுமதிக்கப்படுகின்றன.\n\n3. பெண்களுக்கு மட்டுமான தடைகள்:\nபெண்களுக்கு, முகம் தெரியும்படி இருக்க வேண்டும். முகத்தைத் தொடும் நிகாப் போன்ற முகத்திரையை அணியக்கூடாது. கூடுதலாக, கைகளை மூட கையுறைகளை அணிவது தடைசெய்யப்பட்டுள்ளது.\n\n4. திருமண மற்றும் நெறிமுறைத் தடைகள்:\nஇறுதியாக, திருமண மற்றும் நெறிமுறை நடத்தை. அனைத்து உடலுறவு அல்லது நெருக்கத்திற்கு இட்டுச்செல்லும் செயல்கள் கண்டிப்பாகத் தடைசெய்யப்பட்டுள்ளன. நீங்கள் திருமண ஒப்பந்தம் செய்யவோ அல்லது திருமண முன்மொழிவுகளைச் செய்யவோ முடியாது. மேலும், ஆபாசமான பேச்சு, துஷ்பிரயோகமான மொழி, வாக்குவாதங்கள் மற்றும் சண்டைகளைத் தவிர்க்கவும்.\n\nநீங்கள் உம்ராவை முடித்து தஹல்லுல் செய்யும் வரை இந்தக் கட்டுப்பாடுகள் இருக்கும். அல்லாஹ் உங்கள் யாத்திரையை ஏற்றுக்கொள்வானாக.[/ta]",
+        "mediaItems": [
+          {
+            "type": "image",
+            "url": "image/prohibition.webp"
+          }
+        ],
+        "audio": {
+          "url": "audio/prohibitions.mp3",
+          "subtitles": null
+        },
+        "autoPlay": false
+      },
+      {
+        "card": 5,
+        "title": "[en]5. Understanding Dam (Penalties & Fidyah)[/en]\n[ms]5. Memahami Dam (Penalti & Fidyah)[/ms]\n[ml]5. ദം (പിഴ & ഫിദ്യ) മനസ്സിലാക്കുക[/ml]\n[ta]5. தம் (பரிகாரம் & ஃபித்யா) புரிந்துகொள்ளுதல்[/ta]",
+        "description": "[en]When performing Umrah, committing certain prohibited acts or missing an obligatory duty requires Dam—a compensatory penalty or fidyah. In Shafi'i jurisprudence, every Dam falls into a two-by-two framework based on two core questions: Do you follow a strict sequence, or do you have a choice? And is the penalty a fixed amount, or is it appraised based on value?\n\n1. Sequential and Fixed: Tertib and Taqdir\nThis applies when an obligatory rite is missed, such as passing the Miqat boundary without setting your Niyyat and entering Ihram, or being prevented from completing your rites.\nBecause it is Tertib, you must fulfill the remedies in strict order:\nFirst: Slaughter one sheep or goat within the Haram precinct.\nIf you are unable: Fast a total of ten days—three days during your pilgrimage in Makkah, and seven days once you return home.\nIf still unable: Feed ten needy individuals with one mud of staple grain each.\n(Note: If you return to the Miqat station and assume Ihram before performing any rites, this Dam is completely waived.)\n\n2. Free Choice with Fixed Rates: Takhyir and Taqdir\nThis category governs personal grooming and attire violations, divided into two types:\nItlaf (permanent removal): Such as cutting your hair or trimming your nails.\nTaraffuh (temporary comfort): Such as wearing stitched garments for men, wearing a niqab for women, or applying perfume.\nFor Itlaf, or deliberate Taraffuh, you have a free choice among three equal options:\nOption A: Slaughter one sheep or goat in the Haram.\nOption B: Feed six needy persons, providing two muds of food to each.\nOption C: Fast for three days, anywhere you choose.\n(Key mercy: If a non-permanent violation like applying scent occurs purely by accident or out of genuine forgetfulness, no Dam is required—simply remove it immediately.)\n\n3. Sequential and Appraised: Tertib and Ta'dil\nThis is the most severe violation: engaging in marital relations (Jima') before completing Tahallul. This act invalidates the Umrah. You must still complete the invalid rites, repeat the pilgrimage later as Qadha', and settle a heavy sequential penalty:\nStep 1: Slaughter one camel in the Haram.\nStep 2: If unable, slaughter one cow.\nStep 3: If unable, slaughter seven sheep or goats.\nStep 4: If unable, distribute food grains equivalent to the market value of a camel to the poor of the Haram.\nStep 5: If unable, fast one day for every mud unit of that assessed food value.\n\n4. Free Choice with Value Appraisal: Takhyir and Ta'dil\nThis covers environmental and ecological violations within the sacred precinct, such as hunting wild game or uprooting green trees.\nPenalties are determined by appraisal:\nSlaughter a domestic animal equivalent in size to the animal harmed, or\nDistribute staple grains of equal market value to the local poor, or\nFast one day for every mud unit of that appraised value.[/en]\n[ms]Semasa mengerjakan Umrah, melakukan perbuatan dilarang tertentu atau meninggalkan kewajipan wajib memerlukan Dam—iaitu penalti pampasan atau fidyah. Dalam perundangan Shafi'i, setiap Dam jatuh ke dalam kerangka dua-kali-dua berdasarkan dua soalan teras: Adakah anda mengikut turutan yang ketat, atau adakah anda mempunyai pilihan? Dan adakah penalti itu jumlah tetap, atau adakah ia dinilai berdasarkan nilai?\n\n1. Berturutan dan Tetap: Tertib dan Taqdir\nIni terpakai apabila ibadah wajib ditinggalkan, seperti melepasi sempadan Miqat tanpa menetapkan Niat dan memasuki Ihram, atau dihalang daripada menyelesaikan ibadah anda.\nKerana ia adalah Tertib, anda mesti memenuhi remedi dalam turutan yang ketat:\nPertama: Menyembelih seekor biri-biri atau kambing di dalam kawasan Haram.\nJika tidak mampu: Berpuasa selama sepuluh hari—tiga hari semasa ziarah anda di Makkah, dan tujuh hari setelah anda pulang ke rumah.\nJika masih tidak mampu: Memberi makan sepuluh orang miskin dengan satu mud bijirin ruji setiap seorang.\n(Nota: Jika anda kembali ke stesen Miqat dan mengambil Ihram sebelum melakukan sebarang ibadah, Dam ini dimansuhkan sepenuhnya.)\n\n2. Pilihan Bebas dengan Kadar Tetap: Takhyir dan Taqdir\nKategori ini mengawal pelanggaran dandan diri dan pakaian, dibahagikan kepada dua jenis:\nItlaf (pembuangan kekal): Seperti memotong rambut atau memotong kuku anda.\nTaraffuh (keselesaan sementara): Seperti memakai pakaian berjahit untuk lelaki, memakai niqab untuk wanita, atau memakai minyak wangi.\nUntuk Itlaf, atau Taraffuh yang disengajakan, anda mempunyai pilihan bebas antara tiga pilihan yang sama:\nPilihan A: Menyembelih seekor biri-biri atau kambing di Haram.\nPilihan B: Memberi makan enam orang miskin, menyediakan dua mud makanan kepada setiap seorang.\nPilihan C: Berpuasa selama tiga hari, di mana-mana sahaja anda pilih.\n(Rahmat utama: Jika pelanggaran tidak kekal seperti menyapu wangian berlaku secara tidak sengaja atau kerana terlupa, tiada Dam diperlukan—hanya keluarkannya serta-merta.)\n\n3. Berturutan dan Dinilai: Tertib dan Ta'dil\nIni adalah pelanggaran yang paling berat: melakukan hubungan suami isteri (Jima') sebelum menyelesaikan Tahallul. Perbuatan ini membatalkan Umrah. Anda masih mesti menyelesaikan ibadah yang tidak sah, mengulangi ziarah kemudian sebagai Qadha', dan menyelesaikan penalti berturutan yang berat:\nLangkah 1: Menyembelih seekor unta di Haram.\nLangkah 2: Jika tidak mampu, menyembelih seekor lembu.\nLangkah 3: Jika tidak mampu, menyembelih tujuh ekor biri-biri atau kambing.\nLangkah 4: Jika tidak mampu, mengedarkan bijirin makanan yang setara dengan nilai pasaran seekor unta kepada fakir miskin Haram.\nLangkah 5: Jika tidak mampu, berpuasa satu hari bagi setiap unit mud nilai makanan yang dinilai itu.\n\n4. Pilihan Bebas dengan Penilaian Nilai: Takhyir dan Ta'dil\nIni merangkumi pelanggaran alam sekitar dan ekologi di dalam kawasan suci, seperti memburu binatang liar atau mencabut pokok hijau.\nPenalti ditentukan melalui penilaian:\nAnda boleh memilih untuk menyembelih haiwan domestik yang setara saiznya dengan haiwan yang dicederakan, atau\nMengedarkan bijirin ruji dengan nilai pasaran yang sama kepada penduduk miskin tempatan, atau\nBerpuasa satu hari bagi setiap unit mud nilai yang dinilai itu.[/ms]\n[ml]ഉംറ നിർവഹിക്കുമ്പോൾ, നിഷിദ്ധമായ ചില പ്രവൃത്തികൾ ചെയ്യുകയോ നിർബന്ധമായ ഒരു കടമ വീഴ്ചവരുത്തുകയോ ചെയ്യുന്നത് ദം (നഷ്ടപരിഹാര പിഴ അല്ലെങ്കിൽ ഫിദ്യ) ആവശ്യമാക്കുന്നു. ശാഫി മദ്ഹബ് പ്രകാരം, എല്ലാ ദമ്മുകളും രണ്ട് അടിസ്ഥാന ചോദ്യങ്ങളെ അടിസ്ഥാനമാക്കിയുള്ള രണ്ട്-ബൈ-രണ്ട് ചട്ടക്കൂടിൽ വരുന്നു: നിങ്ങൾ കർശനമായ ഒരു ക്രമം പാലിക്കുന്നുണ്ടോ, അതോ നിങ്ങൾക്ക് തിരഞ്ഞെടുക്കാൻ അവസരമുണ്ടോ? കൂടാതെ പിഴ നിശ്ചയിച്ച തുകയാണോ, അതോ മൂല്യത്തിന്റെ അടിസ്ഥാനത്തിൽ വിലയിരുത്തിയതാണോ?\n\n1. ക്രമവും നിശ്ചയിച്ചതും: തർത്തീബ്, തഖ്ദീർ\nമീഖാത്ത് അതിർത്തി അതിക്രമിച്ച് നിയ്യത്ത് വെക്കാതെ ഇഹ്‌റാമിൽ പ്രവേശിക്കുകയോ, അല്ലെങ്കിൽ നിങ്ങളുടെ കർമ്മങ്ങൾ പൂർത്തിയാക്കുന്നതിൽ നിന്ന് തടയപ്പെടുകയോ ചെയ്യുന്നത് പോലുള്ള നിർബന്ധിത കർമ്മങ്ങൾ വീഴ്ചവരുത്തുമ്പോൾ ഇത് ബാധകമാണ്.\nഇത് തർത്തീബ് ആയതിനാൽ, നിങ്ങൾ കർശനമായ ക്രമത്തിൽ പരിഹാരങ്ങൾ നിറവേറ്റണം:\nആദ്യം: ഹറം പരിധിയിൽ ഒരു ആടിനെയോ വെള്ളാടിനെയോ അറുക്കുക.\nനിങ്ങൾക്ക് കഴിയുന്നില്ലെങ്കിൽ: മൊത്തം പത്ത് ദിവസം നോമ്പ് അനുഷ്ഠിക്കുക-നിങ്ങളുടെ തീർത്ഥാടന വേളയിൽ മക്കയിൽ മൂന്ന് ദിവസവും, നാട്ടിൽ തിരിച്ചെത്തിയാൽ ഏഴ് ദിവസവും.\nഎന്നിട്ടും കഴിയുന്നില്ലെങ്കിൽ: പത്ത് പാവപ്പെട്ടവർക്ക് ഓരോ മുദ് വീതം പ്രധാന ധാന്യം നൽകുക.\n(ശ്രദ്ധിക്കുക: ഏതെങ്കിലും കർമ്മങ്ങൾ ചെയ്യുന്നതിന് മുമ്പ് നിങ്ങൾ മീഖാത്ത് സ്റ്റേഷനിലേക്ക് മടങ്ങി ഇഹ്‌റാം ധരിക്കുകയാണെങ്കിൽ, ഈ ദം പൂർണ്ണമായും ഒഴിവാക്കപ്പെടും.)\n\n2. നിശ്ചിത നിരക്കുകളോടെയുള്ള സ്വതന്ത്ര തിരഞ്ഞെടുപ്പ്: തഖ്‌യീർ, തഖ്ദീർ\nഈ വിഭാഗം വ്യക്തിഗത ഗ്രൂമിംഗ്, വസ്ത്രധാരണ ലംഘനങ്ങൾ എന്നിവയെ നിയന്ത്രിക്കുന്നു, അവയെ രണ്ട് തരങ്ങളായി തിരിച്ചിരിക്കുന്നു:\nഇത്‌ലാഫ് (ശാശ്വതമായ നീക്കം ചെയ്യൽ): മുടി മുറിക്കുകയോ നഖം വെട്ടുകയോ ചെയ്യുന്നത് പോലെ.\nതറഫ്ഫുഹ് (താൽക്കാലിക ആശ്വാസം): പുരുഷന്മാർക്ക് തുന്നിയ വസ്ത്രങ്ങൾ ധരിക്കുക, സ്ത്രീകൾക്ക് മുഖംമൂടി ധരിക്കുക, അല്ലെങ്കിൽ സുഗന്ധദ്രവ്യങ്ങൾ ഉപയോഗിക്കുക.\nഇത്‌ലാഫ് അല്ലെങ്കിൽ ബോധപൂർവ്വമായ തറഫ്ഫുഹ് എന്നിവയ്ക്ക്, നിങ്ങൾക്ക് മൂന്ന് തുല്യ ഓപ്ഷനുകളിൽ നിന്ന് സ്വതന്ത്രമായ തിരഞ്ഞെടുപ്പുണ്ട്:\nഓപ്ഷൻ എ: ഹറമിൽ ഒരു ആടിനെയോ വെള്ളാടിനെയോ അറുക്കുക.\nഓപ്ഷൻ ബി: ആറ് പാവപ്പെട്ടവർക്ക് ഭക്ഷണം നൽകുക, ഓരോരുത്തർക്കും രണ്ട് മുദ് വീതം ഭക്ഷണം നൽകുക.\nഓപ്ഷൻ സി: നിങ്ങൾ തിരഞ്ഞെടുക്കുന്ന എവിടെയെങ്കിലും മൂന്ന് ദിവസം നോമ്പ് അനുഷ്ഠിക്കുക.\n(ഒരു പ്രധാന കാരുണ്യം: സുഗന്ധം പൂശുന്നത് പോലുള്ള ശാശ്വതമല്ലാത്ത ലംഘനം തികച്ചും അബദ്ധവശാലോ വിസ്മൃതിയിലോ സംഭവിക്കുകയാണെങ്കിൽ, ദം ആവശ്യമില്ല-അത് ഉടൻ നീക്കം ചെയ്യുക.)\n\n3. ക്രമവും വിലയിരുത്തിയതും: തർത്തീബ്, തഅ്ദീൽ\nഇതാണ് ഏറ്റവും ഗുരുതരമായ ലംഘനം: തഹല്ലുൽ പൂർത്തിയാക്കുന്നതിന് മുമ്പ് വൈവാഹിക ബന്ധത്തിൽ (ജിമാഅ്) ഏർപ്പെടുക. ഈ പ്രവൃത്തി ഉംറയെ അസാധുവാക്കുന്നു. നിങ്ങൾ ഇപ്പോഴും അസാധുവായ കർമ്മങ്ങൾ പൂർത്തിയാക്കണം, പിന്നീട് തീർത്ഥാടനം ഖദാഅ് ആയി ആവർത്തിക്കണം, കൂടാതെ കനത്ത ക്രമ പിഴ അടയ്ക്കണം:\nസ്റ്റെപ്പ് 1: ഹറമിൽ ഒരു ഒട്ടകത്തെ അറുക്കുക.\nസ്റ്റെപ്പ് 2: കഴിയുന്നില്ലെങ്കിൽ, ഒരു പശുവിനെ അറുക്കുക.\nസ്റ്റെപ്പ് 3: കഴിയുന്നില്ലെങ്കിൽ, ഏഴ് ആടുകളെ അറുക്കുക.\nസ്റ്റെപ്പ് 4: കഴിയുന്നില്ലെങ്കിൽ, ഹറമിലെ പാവപ്പെട്ടവർക്ക് ഒരു ഒട്ടകത്തിന്റെ വിപണി മൂല്യത്തിന് തുല്യമായ ഭക്ഷ്യധാന്യങ്ങൾ വിതരണം ചെയ്യുക.\nസ്റ്റെപ്പ് 5: കഴിയുന്നില്ലെങ്കിൽ, വിലയിരുത്തിയ ഭക്ഷണ മൂല്യത്തിന്റെ ഓരോ മുദ് യൂണിറ്റിനും ഒരു ദിവസം നോമ്പ് അനുഷ്ഠിക്കുക.\n\n4. മൂല്യനിർണ്ണയത്തോടെയുള്ള സ്വതന്ത്ര തിരഞ്ഞെടുപ്പ്: തഖ്‌യീർ, തഅ്ദീൽ\nപവിത്രമായ പ്രദേശത്തിനുള്ളിലെ പാരിസ്ഥിതിക ലംഘനങ്ങൾ, അതായത് വന്യമൃഗങ്ങളെ വേട്ടയാടുകയോ പച്ച മരങ്ങൾ പിഴുതെറിയുകയോ ചെയ്യുന്നത് ഇത് ഉൾക്കൊള്ളുന്നു.\nമൂല്യനിർണ്ണയത്തിലൂടെയാണ് പിഴകൾ നിർണ്ണയിക്കുന്നത്:\nഉപദ്രവിച്ച മൃഗത്തിന്റെ വലുപ്പത്തിന് തുല്യമായ ഒരു വളർത്തുമൃഗത്തെ അറുക്കാൻ തിരഞ്ഞെടുക്കാം, അല്ലെങ്കിൽ\nതുല്യ വിപണി മൂല്യമുള്ള പ്രധാന ധാന്യങ്ങൾ പ്രാദേശிக പാവപ്പെട്ടവർക്ക് വിതരണം ചെയ്യുക, അല്ലെങ്കിൽ\nവിലയിരുത്തിയ മൂല്യത്തിന്റെ ഓരോ മുദ് യൂണിറ്റിനും ഒരു ദിവസം നോമ്പ് അനുഷ്ഠിക്കുക.[/ml]\n[ta]உம்ராவில் தம்மைப் புரிந்துகொள்ளுதல்: வகைப்பாடுகள் மற்றும் அபராதங்களுக்கான விரைவான வழிகாட்டி\n\nஉம்ரா செய்யும்போது, தடைசெய்யப்பட்ட சில செயல்களைச் செய்வது அல்லது ஒரு கட்டாயக் கடமையைத் தவறுவது தம்—ஒரு ஈடுசெய்யும் அபராதம் அல்லது ஃபித்யாவைத் தேவைப்படுத்துகிறது. ஷாஃபி மத்ஹபில், ஒவ்வொரு தமும் இரண்டு அடிப்படைக் கேள்விகளைக் கொண்ட 2x2 கட்டமைப்பிற்குள் வருகிறது: கடுமையான வரிசைமுறையைப் பின்பற்ற வேண்டுமா அல்லது தேர்வு செய்ய வாய்ப்பு உள்ளதா? மேலும் அபராதம் நிர்ணயிக்கப்பட்ட தொகையா அல்லது சந்தை மதிப்பின் அடிப்படையில் கணக்கிடப்படுகிறதா?\n\n1. வரிசைமுறை மற்றும் நிர்ணயிக்கப்பட்டது: தர்தீப், தக்தீர்\nமீகாத் எல்லையை நிய்யத் வைக்காமலும் இஹ்ராமில் நுழையாமலும் கடப்பது, அல்லது கடமைகளை முடிப்பதைத் தடுப்பது போன்ற கட்டாய ஆசாரம் தவறும்போது இது பொருந்தும்.\nஇது தர்தீப் என்பதால், நீங்கள் கடுமையான வரிசையில் தீர்வுகளை நிறைவேற்ற வேண்டும்:\nமுதலில்: ஹரம் எல்லைக்குள் ஒரு ஆடு அல்லது வெள்ளாட்டை அறுக்கவும்.\nஉங்களால் முடியாவிட்டால்: மொத்தம் பத்து நாட்கள் நோன்பு நோற்கவும்—மக்காவில் மூன்று நாட்கள், மற்றும் நீங்கள் வீட்டிற்குத் திரும்பியதும் ஏழு நாட்கள்.\nஇன்னும் முடியாவிட்டால்: பத்து ஏழைகளுக்கு தலா ஒரு முத் முக்கிய தானியத்தை உணவளிக்கவும்.\n(குறிப்பு: எந்தவொரு ஆசாரங்களையும் செய்வதற்கு முன் நீங்கள் மீகாத் நிலையத்திற்குத் திரும்பி இஹ்ராம் அணிந்தால், இந்த தம் முற்றிலும் தள்ளுபடி செய்யப்படுகிறது.)\n\n2. விருப்பத்தேர்வுடன் நிர்ணயிக்கப்பட்ட கட்டணம்: தக்யீர், தக்தீர்\nதனிப்பட்ட ஆடை மற்றும் உடல் அலங்கார மீறல்களைக் குறிக்கும்:\nஇத்லாஃப் (நிரந்தர நீக்கம்): முடி வெட்டுதல் அல்லது நகம் வெட்டுதல்.\nதரஃப்புஹ் (தற்காலிக சௌகரியம்): ஆண்கள் தைத்த ஆடை அணிவது, பெண்கள் நிகாப் அணிவது, வாசனை திரவியம் பூசுவது.\nஇவற்றிற்கு சமமான மூன்று தேர்வுகளில் ஒன்றைத் தேர்ந்தெடுக்கலாம்:\nதேர்வு A: ஹரமில் ஒரு ஆட்டைப் பலியிடுதல்.\nதேர்வு B: ஆறு ஏழைகளுக்கு தலா இரண்டு முத் வீதம் உணவளித்தல்.\nதேர்வு C: நீங்கள் விரும்பும் இடத்தில் மூன்று நாட்கள் நோன்பு நோற்பது.\n(முக்கிய சலுகை: மறதியாகவோ அறியாமலோ வாசனை திரவியம் பட்டால் தம் தேவையில்லை—உடனே அதை நீக்கினால் போதுமானது.)\n\n3. வரிசைமுறை மற்றும் மதிப்பீடு செய்யப்பட்டது: தர்தீப், தஃதீல்\nமிகக் கடுமையான மீறல்: தஹல்லுல் செய்வதற்கு முன் தாம்பத்திய உறவில் ஈடுபடுவது. இது உம்ராவை முறித்துவிடும். நீங்கள் மீதமுள்ள சடங்குகளை முடித்து, பின்னர் மீண்டும் உம்ராவை களா செய்ய வேண்டும், மேலும் கடுமையான வரிசைப் பரிகாரம் செய்ய வேண்டும்:\nபடி 1: ஹரமில் ஓர் ஒட்டகத்தை பலியிடுதல்.\nபடி 2: முடியாவிட்டால், ஒரு பசுவை பலியிடுதல்.\nபடி 3: முடியாவிட்டால், ஏழு ஆடுகளைப் பலியிடுதல்.\nபடி 4: முடியாவிட்டால், ஒட்டகத்தின் சந்தை மதிப்புக்கு சமமான உணவு தானியங்களை ஹரமின் ஏழைகளுக்கு வழங்குதல்.\nபடி 5: முடியாவிட்டால், கணக்கிடப்பட்ட தானியத்தின் ஒவ்வொரு முத் மதிப்பிற்கும் ஒரு நாள் நோன்பு நோற்பது.\n\n4. விருப்பத்தேர்வுடன் மதிப்பீடு செய்யப்பட்டது: தக்யீர், தஃதீல்\nபுனித ஹரம் எல்லைக்குள் வேட்டையாடுதல் அல்லது பசுமையான மரங்களை வெட்டுதல் போன்ற சுற்றுச்சூழல் மீறல்கள்.\nபாதிக்கப்பட்ட விலங்கிற்கு இணையான அளவுள்ள வீட்டு விலங்கைப் பலியிடுதல், அல்லது\nசமமான சந்தை மதிப்புள்ள முக்கிய தானியங்களை உள்ளூர் ஏழைகளுக்கு விநியோகித்தல், அல்லது\nகணக்கிடப்பட்ட மதிப்பின் ஒவ்வொரு முத் அளவிற்கும் ஒரு நாள் நோன்பு நோற்பது.[/ta]",
+        "mediaItems": [
+          {
+            "type": "image",
+            "url": "image/dam.webp"
+          }
+        ],
+        "audio": {
+          "url": "audio/dam.mp3",
           "subtitles": null
         },
         "autoPlay": false
@@ -200,7 +232,9 @@
           "url": "audio/niyyah_umrah.mp3",
           "subtitles": null
         },
-        "autoPlay": true
+        "autoPlay": true,
+        "arabic": "لَبَّيْكَ اللَّهُمَّ عُمْرَةً\n\nنَوَيْتُ الْعُمْرَةَ وَأَحْرَمْتُ بِهَا لِلَّهِ تَعَالَىٰ",
+        "transliteration": "Labbayk Allāhumma ʿUmratan.\nNawaytul-ʿUmrata wa aḥramtu bihā lillāhi Taʿālā."
       },
       {
         "card": 2,
@@ -220,7 +254,7 @@
         "mediaItems": [
           {
             "type": "image",
-            "url": "image/ihramblank.png",
+            "url": "image/ihramblank.webp",
             "caption": {
               "en": "",
               "ms": "",
@@ -251,7 +285,9 @@
           "url": "audio/talbiyah.mp3",
           "subtitles": null
         },
-        "autoPlay": true
+        "autoPlay": true,
+        "arabic": "لَبَّيْكَ اللَّهُمَّ لَبَّيْكَ، لَبَّيْكَ لَا شَرِيكَ لَكَ لَبَّيْكَ، إِنَّ الْحَمْدَ وَالنِّعْمَةَ لَكَ وَالْمُلْكَ، لَا شَرِيكَ لَكَ",
+        "transliteration": "Labbayk Allāhumma labbayk, labbayka lā sharīka laka labbayk, innal-ḥamda wan-niʿmata laka wal-mulk, lā sharīka lak."
       },
       {
         "card": 4,
@@ -282,9 +318,11 @@
         ],
         "audio": {
           "url": "audio/doa_haram.mp3",
-          "subtitles": null
+          "subtitles": "rituals/doa_haram.json"
         },
-        "autoPlay": true
+        "autoPlay": true,
+        "arabic": "اللَّهُمَّ هَذَا حَرَمُكَ وَأَمْنُكَ فَحَرِّمْ لَحْمِي وَدَمِي وَشَعْرِي وَبَشَرِي عَلَى النَّارِ",
+        "transliteration": "Allāhumma hādhā ḥaramuka wa amnuka faḥarrim laḥmī wa damī wa shaʿrī wa basharī ʿalan-nār."
       }
     ],
     "media": [
@@ -333,7 +371,7 @@
         "mediaItems": [
           {
             "type": "image",
-            "url": "image/seekaabah.png",
+            "url": "image/seekaabah.webp",
             "caption": {
               "en": "",
               "ms": "",
@@ -344,9 +382,11 @@
         ],
         "audio": {
           "url": "audio/seeing_kaaba.mp3",
-          "subtitles": null
+          "subtitles": "rituals/seeing_kaaba.json"
         },
-        "autoPlay": true
+        "autoPlay": true,
+        "arabic": "اللَّهُمَّ زِدْ هَذَا الْبَيْتَ تَشْرِيفاً وَتَعْظِيماً وَتَكْرِيماً وَمَهَابَةً، وَزِدْ مَنْ شَرَّفَهُ وَعَظَّمَهُ مِمَّنْ حَجَّهُ أَوِ اعْتَمَرَهُ تَشْرِيفاً وَتَكْرِيماً وَتَعْظِيماً وَبِرّاً",
+        "transliteration": "Allāhumma zid hādhal-bayta tashrīfan wa taʿẓīman wa takrīman wa mahābah, wa zid man sharrafahū wa ʿaẓẓamahū mimman ḥajjahū awiʿtamarahū tashrīfan wa takrīman wa taʿẓīman wa birrā."
       }
     ],
     "media": [
@@ -386,11 +426,11 @@
           "ta": "முதல் சுற்று"
         },
         "description": {
-          "ar": "سُبْحَانَ اللهِ وَالْحَمْدُ لِلهِ وَلَا إِلٰهَ إِلَّا اللهُ وَاللهُ أَكْبَرُ وَلَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللهِ",
-          "en": "(Glory be to Allah, and praise be to Allah, and there is no god but Allah, and Allah is the Greatest, and there is no power nor strength except with Allah).",
-          "ms": "(Maha Suci Allah, segala puji bagi Allah, tiada tuhan melainkan Allah, Allah Maha Besar, dan tiada daya serta upaya melainkan dengan kekuatan Allah).",
-          "ml": "(അല്ലാഹു എത്ര പരിശുദ്ധൻ, സർവ്വ സ്തുതിയും അല്ലാഹുവിനാണ്, അല്ലാഹു അല്ലാതെ മറ്റൊരു ദൈവവുമില്ല, അല്ലാഹു ഏറ്റവും വലിയവനാണ്, അല്ലാഹുവിനെക്കൊണ്ടല്ലാതെ യാതൊരു കഴിവും കരുത്തുമില്ല).",
-          "ta": "(அல்லாஹ் மிகவும் தூய்மையானவன், புகழனைத்தும் அல்லாஹ்வுக்கே, அல்லாஹ்வைத் தவிர வேறு இறைவனில்லை, அல்லாஹ்வே மிகப்பெரியவன், அல்லாஹ்வின் உதவியின்றி எந்த ஆற்றலும் சக்தியும் இல்லை)."
+          "ar": "طُفْ حَوْلَ الْكَعْبَةِ وَالْكَعْبَةُ عَنْ يَسَارِكَ",
+          "en": "Walk around the kaabah with the kaabah in your left side",
+          "ms": "Berjalan mengelilingi Kaabah dengan Kaabah berada di sebelah kiri anda",
+          "ml": "കഅബ നിങ്ങളുടെ ഇടത് വശത്തായി കഅബയ്ക്ക് ചുറ്റും പ്രദക്ഷിണം ചെയ്യുക",
+          "ta": "கஃபாவை உங்கள் இடது பக்கத்தில் வைத்து கஃபாவை சுற்றி வாருங்கள்"
         },
         "dataSource": "tawaf/tawaf_rounds.json#1",
         "autoPlay": false
@@ -566,7 +606,13 @@
           "ta": "ஹிஜ்ர் இஸ்மாயில் என்பது கஃபாவை ஒட்டியுள்ள அரை வட்ட சுவராகும். இதன் முதல் 3 மீட்டர் கஃபாவின் ஒரு பகுதியாகும், இதனால் இங்கு தொழுவதும் துஆ செய்வதும் மிகவும் சிறந்தது. இங்கு துஆ செய்வது, குறிப்பாக மீஸாப் அர்-ரஹ்மான் (நீர்வீழ்ச்சி) கீழே நின்று கேட்பது, துஆ ஏற்கப்படும் 15 இடங்களில் ஒன்றாகும். (துஆ: யா அல்லாஹ்! நீயே என் இறைவன், உன்னைத் தவிர வணக்கத்திற்குரியவன் யாருமில்லை, நீயே என்னைப் படைத்தாய்...). பல யாத்ரீகர்கள் இந்த பகுதிக்குள் தொழுகை நடத்த வரிசையில் நிற்கிறார்கள், ஏனெனில் இது கஃபாவின் ஒரு பகுதியாகும்."
         },
         "mediaItems": [],
-        "autoPlay": false
+        "audio": {
+          "url": "audio/hijr_ismail.mp3",
+          "subtitles": "rituals/hijr_ismail.json"
+        },
+        "autoPlay": false,
+        "arabic": "اللَّهُمَّ أَنْتَ رَبِّي لاَ إِلَهَ إِلاَّ أَنْتَ خَلَقْتَنِي وَأَنَا عَبْدُكَ، وَأَنَا عَلَى عهدِكَ وَوَعْدِكَ مَا اسْتَطَعْتُ، أَعُوذُ بِكَ مِنْ شَرِّ مَا صَنَعْتُ، أَبُوءُ لَكَ بِنِعْمَتِكَ عَلَيَّ، وَأَبُوءُ بِذَنْبِي فَاغْفِرْ لِي فَإِنَّهُ لاَ يَغْفِرُ الذُّنُوبَ إِلاَّ أَنْتَ",
+        "transliteration": "Allāhumma Anta Rabbī lā ilāha illā Ant, khalaqtanī wa anā ‘abduk, wa anā ‘alā ‘ahdika wa wa‘dika mastata‘t, a‘ūdhu bika min sharri mā ṣana‘t, abū’u laka bini‘matika ‘alayy, wa abū’u bidhanbī faghfir lī fa-innahū lā yaghfirudh-dhunūba illā Ant."
       },
       {
         "card": 3,
@@ -601,7 +647,9 @@
           "ta": "அதை நோக்கி நடக்கும் போது: \"இப்ராஹீம் நின்ற இடத்தை தொழும் இடமாக ஆக்கிக் கொள்ளுங்கள்\" என்று ஓதவும். தொழுகையின் போது, 1வது ரக்அத்தில் சூரா அல்-பாத்திஹா மற்றும் சூரா அல்-காபிரூன், 2வது ரக்அத்தில் சூரா அல்-பாத்திஹா மற்றும் சூரா அல்-இக்லாஸ் ஓதுவது சுன்னத் ஆகும். கூட்டம் அதிகமாக இருந்தால், மஸ்ஜிதுல் ஹராமில் எங்கு வேண்டுமானாலும் இந்த தொழுகையைத் தொழலாம்."
         },
         "mediaItems": [],
-        "autoPlay": false
+        "autoPlay": false,
+        "arabic": "وَاتَّخِذُوا مِنْ مَقَامِ إِبْرَاهِيمَ مُصَلًّى",
+        "transliteration": "Wattakhidhū mim maqāmi Ibrāhīma muṣallā."
       },
       {
         "card": 5,
@@ -621,7 +669,7 @@
         "mediaItems": [
           {
             "type": "image",
-            "url": "image/zamzamcup.png",
+            "url": "image/zamzamcup.webp",
             "caption": {
               "en": "",
               "ms": "",
@@ -630,7 +678,9 @@
             }
           }
         ],
-        "autoPlay": false
+        "autoPlay": false,
+        "arabic": "اللَّهُمَّ إِنِّي أَسْأَلُكَ عِلْمًا نَافِعًا وَرِزْقًا وَاسِعًا وَشِفَاءً مِنْ كُلِّ دَاءٍ",
+        "transliteration": "Allāhumma innī as’aluka ʿilman nāfiʿan wa rizqan wāsiʿan wa shifā’an min kulli dā’."
       },
       {
         "card": 6,
@@ -648,7 +698,9 @@
           "ta": "தொழுது ஜம்ஜம் நீர் குடித்து புத்துணர்ச்சி அடைந்தவுடன், ஸயீ செய்யும் இடத்தை (மஸ்ஆ) நோக்கிச் செல்லவும். ஸயீ செய்யும் தூரம் நீண்டது என்பதால், அங்கு செல்வதற்கு முன் நீங்கள் வசதியான நடக்கும் காலணிகளை மீண்டும் அணிந்து கொள்ளலாம். ஸஃபாவை நெருங்கும் போது: \"நிச்சயமாக ஸஃபா மற்றும் மர்வா அல்லாஹ்வின் அடையாளங்களில் உள்ளவைகளாகும்\" என்று ஓதவும்."
         },
         "mediaItems": [],
-        "autoPlay": false
+        "autoPlay": false,
+        "arabic": "إِنَّ الصَّفَا وَالْمَرْوَةَ مِنْ شَعَائِرِ اللَّهِ ۖ فَمَنْ حَجَّ الْبَيْتَ أَوِ اعْتَمَرَ فَلَا جُنَاحَ عَلَيْهِ أَنْ يَطَّوَّفَ بِهِمَا. نَبْدَأُ بِمَا بَدَأَ اللَّهُ بِهِ",
+        "transliteration": "Innaṣ-ṣafā wal-marwata min shaʿā’irillāh... Nabda’u bimā bada’allāhu bih."
       }
     ],
     "media": [
@@ -832,7 +884,31 @@
     "lat": 21.4252,
     "lng": 39.8272,
     "showDescription": true,
-    "details": [],
+    "details": [
+      {
+        "card": 1,
+        "title": {
+          "en": "Du'a for Tahallul (Halq & Taqsir)",
+          "ms": "Doa Bercukur & Bergunting (Tahallul)",
+          "ml": "മുടി മുണ്ഡനം ചെയ്യുമ്പോഴുള്ള ദുആ",
+          "ta": "முடி கத்தரிக்கும் போது ஓதும் துஆ"
+        },
+        "arabic": "اللَّهُمَّ اجْعَلْ لِكُلِّ شَعْرَةٍ نُوراً يَوْمَ الْقِيَامَةِ، وَاغْفِرْ لِي ذَنْبِي، وَتَقَبَّلْ مِنِّي عُمْرَتِي",
+        "transliteration": "Allāhummajʿal likulli shaʿratin nūran yawmal-qiyāmah, waghfir lī dhanbī, wa taqabbal minnī ʿumratī.",
+        "description": {
+          "en": "O Allah, make for every single hair a light for me on the Day of Resurrection, forgive my sins, and accept my Umrah from me.",
+          "ms": "Ya Allah, jadikanlah bagi setiap helai rambut ini cahaya pada hari kiamat, ampunkanlah dosaku, dan terimalah ibadah umrahku.",
+          "ml": "അല്ലാഹുവേ, ഓരോ മുടിക്കും അന്ത്യനാളിൽ എനിക്ക് പ്രകാശം നൽകേണമേ, എന്റെ പാപം പൊറുക്കേണമേ, എന്റെ ഉംറ സ്വീകരിക്കേണമേ.",
+          "ta": "யா அல்லாஹ்! ஒவ்வொரு முடிக்கும் மறுமை நாளில் எனக்கு ஒளியை வழங்குவாயாக, என் பாவங்களை மன்னித்து என் உம்றாவை ஏற்றுக்கொள்வாயாக."
+        },
+        "mediaItems": [
+          {
+            "type": "image",
+            "url": "image/tahallul.png"
+          }
+        ]
+      }
+    ],
     "media": [
       {
         "type": "map",

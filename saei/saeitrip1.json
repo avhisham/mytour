@@ -1,16 +1,53 @@
-[
-  {
-    "card": 1,
-    "title": "Green (Trip 1)",
-    "description": "When passing through the area marked by the green lights (the Masa’a) during the Sa’i between Safa and Marwah, the specific instruction is for men only to perform a brisk pace or light jog. This practice commemorates the actions of Hajar (peace be upon her) when she ran through the valley while searching for water for her son, Ismail. There is no single 'mandatory' dua specifically for the green lines, but it is highly recommended to recite the supplication used by the sahabah:",
-    "mediaItems": [
-      {
-        "type": "image",
-        "url": "image/seaigreen.png"
+{
+  "_note": "Walking dua for Sa'i Trip 1 (Safa to Marwa). Broken into phrases with follower repetition gaps.",
+  "subtitles": [
+    {
+      "start": "00:00:00,000",
+      "end": "00:00:04,000",
+      "text": {
+        "ar": "إِنَّ الصَّفَا وَالْمَرْوَةَ مِنْ شَعَائِرِ اللَّهِ",
+        "tl": "Innaṣ-ṣafā wal-marwata min sha‘ā'irillāh",
+        "en": "Indeed, Safa and Marwah are among the symbols of Allah.",
+        "ms": "Sesungguhnya Safa dan Marwah adalah sebahagian daripada syiar Allah.",
+        "ml": "തീർച്ചയായും സഫയും മർവയും അല്ലാഹുവിന്റെ ചിഹ്നങ്ങളിൽ പെട്ടതാകുന്നു.",
+        "ta": "நிச்சயமாக ஸஃபாவும் மர்வாவும் அல்லாஹ்வின் சின்னங்களாகும்."
       }
-    ],
-    "audio": {
-      "subtitles": "saei/saeigreen.json"
+    },
+    {
+      "start": "00:00:07,000",
+      "end": "00:00:12,500",
+      "text": {
+        "ar": "فَمَنْ حَجَّ الْبَيْتَ أَوِ اعْتَمَرَ فَلَا جُنَاحَ عَلَيْهِ أَنْ يَطَّوَّفَ بِهِمَا",
+        "tl": "faman ḥajjal-bayta awi'tamara falā junāḥa 'alayhi ay-yaṭṭawwafa bihimā",
+        "en": "So whoever makes Hajj to the House or performs Umrah - there is no blame upon him for walking between them.",
+        "ms": "Sesiapa yang menunaikan haji ke Baitullah atau mengerjakan umrah, maka tiada salahnya dia berulang-alik antara keduanya.",
+        "ml": "അതിനാൽ ആരെങ്കിലും ഹജ്ജോ ഉംറയോ നിർവ്വഹിച്ചാൽ അവ രണ്ടിനുമിടയിൽ നടക്കുന്നത് കുറ്റകരമല്ല.",
+        "ta": "எனவே எவர் கஃபாவை ஹஜ் அல்லது உம்ரா செய்கிறாரோ, அவர் அவ்விரு குன்றுகளுக்குமிடையே சுற்றுவதில் குற்றமில்லை."
+      }
+    },
+    {
+      "start": "00:00:16,000",
+      "end": "00:00:21,000",
+      "text": {
+        "ar": "وَمَنْ تَطَوَّعَ خَيْرًا فَإِنَّ اللَّهَ شَاكِرٌ عَلِيمٌ",
+        "tl": "wa man taṭawwa'a khayran fa-innallāha Shākirun 'Alīm",
+        "en": "And whoever volunteers good - then indeed, Allah is Appreciative and Knowing.",
+        "ms": "Dan sesiapa yang sukarela melakukan kebaikan, sesungguhnya Allah Maha Menghargai lagi Maha Mengetahui.",
+        "ml": "ആരെങ്കിലും സ്വമേധയാ സൽകർമ്മങ്ങൾ ചെയ്താൽ, അല്ലാഹു നന്ദിയുള്ളവനും സർവ്വജ്ഞനുമാണ്.",
+        "ta": "மேலும், எவர் நன்மையை விரும்பிச் செய்கிறாரோ நிச்சயமாக அல்லாஹ் நன்றியறிபவனாகவும் நன்கறிந்தவனாகவும் இருக்கிறான்."
+      }
+    },
+    {
+      "start": "00:00:24,000",
+      "end": "00:00:28,000",
+      "text": {
+        "ar": "نَبْدَأُ بِمَا بَدَأَ اللَّهُ بِهِ",
+        "tl": "Nabda'u bimā bada'allāhu bih",
+        "en": "We begin with that which Allah began with.",
+        "ms": "Kami memulakan dengan apa yang dimulakan oleh Allah.",
+        "ml": "അല്ലാഹു ആരംഭിച്ചതിലൂടെ ഞങ്ങൾ ആരംഭിക്കുന്നു.",
+        "ta": "அல்லாஹ் எதைக் கொண்டு துவங்கினானோ அதைக் கொண்டு நாமும் துவங்குவோம்."
+      }
     }
-  }
-]
+  ]
+}

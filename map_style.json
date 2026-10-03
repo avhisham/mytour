@@ -5,7 +5,9 @@
   "sources": {
     "openmaptiles": {
       "type": "vector",
-      "tiles": ["mbtiles://{{MBTILES_PATH}}"],
+      "tiles": [
+        "mbtiles://{{MBTILES_PATH}}"
+      ],
       "minzoom": 0,
       "maxzoom": 14
     },
@@ -22,6 +24,22 @@
         "type": "FeatureCollection",
         "features": []
       }
+    },
+    "historical_mosques_3d": {
+      "type": "geojson",
+      "data": "{{BUILDING_GEOJSON}}"
+    },
+    "uhud_terraces_3d": {
+      "type": "geojson",
+      "data": "{{UHUD_TERRACES_GEOJSON}}"
+    },
+    "sulh_terraces_3d": {
+      "type": "geojson",
+      "data": "{{SULH_TERRACES_GEOJSON}}"
+    },
+    "noor_terraces_3d": {
+      "type": "geojson",
+      "data": "{{NOOR_TERRACES_GEOJSON}}"
     }
   },
   "layers": [
@@ -37,7 +55,11 @@
       "type": "fill",
       "source": "openmaptiles",
       "source-layer": "landuse",
-      "filter": ["==", "class", "sand"],
+      "filter": [
+        "==",
+        "class",
+        "sand"
+      ],
       "paint": {
         "fill-color": "#B8A978",
         "fill-opacity": 0.3
@@ -249,29 +271,87 @@
       "paint": {
         "fill-extrusion-color": [
           "case",
-          ["==", ["get", "class"], "hospital"], "#2E7D32",
-          ["in", ["get", "class"], ["literal", ["medical", "pharmacy", "clinic"]]], "#66BB6A",
+          [
+            "==",
+            [
+              "get",
+              "colour"
+            ],
+            "black"
+          ],
+          "#111111",
+          [
+            "==",
+            [
+              "get",
+              "class"
+            ],
+            "hospital"
+          ],
+          "#2E7D32",
+          [
+            "in",
+            [
+              "get",
+              "class"
+            ],
+            [
+              "literal",
+              [
+                "medical",
+                "pharmacy",
+                "clinic"
+              ]
+            ]
+          ],
+          "#66BB6A",
           "#E0E0E0"
         ],
         "fill-extrusion-height": [
           "interpolate",
-          ["linear"],
-          ["zoom"],
+          [
+            "linear"
+          ],
+          [
+            "zoom"
+          ],
           15,
           0,
           15.1,
-          ["coalesce", ["get", "render_height"], 10]
+          [
+            "coalesce",
+            [
+              "get",
+              "render_height"
+            ],
+            [
+              "get",
+              "height"
+            ],
+            15
+          ]
         ],
         "fill-extrusion-base": [
           "interpolate",
-          ["linear"],
-          ["zoom"],
+          [
+            "linear"
+          ],
+          [
+            "zoom"
+          ],
           15,
           0,
           15.1,
-          ["coalesce", ["get", "render_min_height"], 0]
+          [
+            "coalesce",
+            [
+              "get",
+              "render_min_height"
+            ],
+            0
+          ]
         ],
-        "fill-extrusion-opacity": 0.8
+        "fill-extrusion-opacity": 0.75
       }
     },
     {
@@ -286,8 +366,233 @@
         "line-opacity": 0.3
       }
     },
-
-
+    {
+      "id": "uhud_terraces_extrusion",
+      "type": "fill-extrusion",
+      "source": "uhud_terraces_3d",
+      "minzoom": 10,
+      "paint": {
+        "fill-extrusion-color": [
+          "interpolate",
+          [
+            "linear"
+          ],
+          [
+            "get",
+            "elev_absolute"
+          ],
+          620,
+          "#8D6E63",
+          750,
+          "#795548",
+          900,
+          "#5D4037",
+          1050,
+          "#3E2723"
+        ],
+        "fill-extrusion-height": [
+          "coalesce",
+          [
+            "get",
+            "height"
+          ],
+          20
+        ],
+        "fill-extrusion-base": [
+          "coalesce",
+          [
+            "get",
+            "min_height"
+          ],
+          0
+        ],
+        "fill-extrusion-opacity": 0.92
+      }
+    },
+    {
+      "id": "uhud_terraces_outline",
+      "type": "line",
+      "source": "uhud_terraces_3d",
+      "minzoom": 12,
+      "paint": {
+        "line-color": "#3E2723",
+        "line-width": 0.8,
+        "line-opacity": 0.4
+      }
+    },
+    {
+      "id": "sulh_terraces_extrusion",
+      "type": "fill-extrusion",
+      "source": "sulh_terraces_3d",
+      "minzoom": 10,
+      "paint": {
+        "fill-extrusion-color": [
+          "interpolate",
+          [
+            "linear"
+          ],
+          [
+            "get",
+            "elev_absolute"
+          ],
+          618,
+          "#8D6E63",
+          635,
+          "#795548",
+          650,
+          "#5D4037",
+          670,
+          "#3E2723"
+        ],
+        "fill-extrusion-height": [
+          "coalesce",
+          [
+            "get",
+            "height"
+          ],
+          10
+        ],
+        "fill-extrusion-base": [
+          "coalesce",
+          [
+            "get",
+            "min_height"
+          ],
+          0
+        ],
+        "fill-extrusion-opacity": 0.92
+      }
+    },
+    {
+      "id": "sulh_terraces_outline",
+      "type": "line",
+      "source": "sulh_terraces_3d",
+      "minzoom": 12,
+      "paint": {
+        "line-color": "#3E2723",
+        "line-width": 0.8,
+        "line-opacity": 0.4
+      }
+    },
+    {
+      "id": "noor_terraces_extrusion",
+      "type": "fill-extrusion",
+      "source": "noor_terraces_3d",
+      "minzoom": 10,
+      "paint": {
+        "fill-extrusion-color": [
+          "interpolate",
+          [
+            "linear"
+          ],
+          [
+            "get",
+            "elev_absolute"
+          ],
+          375,
+          "#A1887F",
+          425,
+          "#8D6E63",
+          500,
+          "#5D4037",
+          575,
+          "#2E1C14"
+        ],
+        "fill-extrusion-height": [
+          "coalesce",
+          [
+            "get",
+            "height"
+          ],
+          20
+        ],
+        "fill-extrusion-base": [
+          "coalesce",
+          [
+            "get",
+            "min_height"
+          ],
+          0
+        ],
+        "fill-extrusion-opacity": 0.92
+      }
+    },
+    {
+      "id": "noor_terraces_outline",
+      "type": "line",
+      "source": "noor_terraces_3d",
+      "minzoom": 12,
+      "paint": {
+        "line-color": "#2E1C14",
+        "line-width": 0.8,
+        "line-opacity": 0.4
+      }
+    },
+    {
+      "id": "historical_mosques_extrusion",
+      "type": "fill-extrusion",
+      "source": "historical_mosques_3d",
+      "minzoom": 12,
+      "paint": {
+        "fill-extrusion-color": [
+          "coalesce",
+          [
+            "get",
+            "color"
+          ],
+          "#2E7D32"
+        ],
+        "fill-extrusion-height": [
+          "coalesce",
+          [
+            "get",
+            "height"
+          ],
+          12
+        ],
+        "fill-extrusion-base": [
+          "coalesce",
+          [
+            "get",
+            "base_height"
+          ],
+          0
+        ],
+        "fill-extrusion-opacity": 1.0
+      }
+    },
+    {
+      "id": "historical_mosques_outline",
+      "type": "line",
+      "source": "historical_mosques_3d",
+      "minzoom": 12,
+      "paint": {
+        "line-color": [
+          "case",
+          [
+            "==",
+            [
+              "get",
+              "id"
+            ],
+            "kaaba"
+          ],
+          "#D4AF37",
+          [
+            "==",
+            [
+              "get",
+              "color"
+            ],
+            "#2E7D32"
+          ],
+          "#1B5E20",
+          "#CFD8DC"
+        ],
+        "line-width": 1.5,
+        "line-opacity": 0.9
+      }
+    },
     {
       "id": "ritual_path",
       "type": "line",
@@ -306,6 +611,10 @@
       "id": "ritual_badges",
       "type": "circle",
       "source": "landmarks",
+      "filter": [
+        "has",
+        "number"
+      ],
       "paint": {
         "circle-radius": [
           "case",
@@ -326,12 +635,21 @@
       "id": "ritual_numbers",
       "type": "symbol",
       "source": "landmarks",
+      "filter": [
+        "has",
+        "number"
+      ],
       "layout": {
         "text-field": [
           "get",
           "number"
         ],
-        "text-font": ["literal", ["Noto Sans Regular"]],
+        "text-font": [
+          "literal",
+          [
+            "Noto Sans Regular"
+          ]
+        ],
         "text-size": [
           "case",
           [
@@ -341,8 +659,8 @@
           14,
           11
         ],
-        "text-allow-overlap": false,
-        "text-ignore-placement": false
+        "text-allow-overlap": true,
+        "text-ignore-placement": true
       },
       "paint": {
         "text-color": "#FFFFFF"
@@ -352,28 +670,46 @@
       "id": "landmark_dots",
       "type": "circle",
       "source": "landmarks",
+      "filter": [
+        "!",
+        [
+          "has",
+          "number"
+        ]
+      ],
+      "minzoom": 10,
       "paint": {
         "circle-radius": [
           "case",
-          ["get", "is_current"], 6,
-          4
+          [
+            "get",
+            "is_current"
+          ],
+          7,
+          5
         ],
         "circle-color": "#2E7D32",
         "circle-stroke-width": 2,
         "circle-stroke-color": "#FFFFFF",
-        "circle-opacity": 0.9
+        "circle-opacity": 0.95
       }
     },
     {
       "id": "landmark_symbols",
       "type": "symbol",
       "source": "landmarks",
+      "minzoom": 13,
       "layout": {
         "text-field": [
           "get",
           "name"
         ],
-        "text-font": ["literal", ["Noto Sans Regular"]],
+        "text-font": [
+          "literal",
+          [
+            "Noto Sans Regular"
+          ]
+        ],
         "text-size": [
           "case",
           [
@@ -388,8 +724,10 @@
           1.2
         ],
         "text-anchor": "top",
-        "text-allow-overlap": true,
-        "text-ignore-placement": true
+        "text-allow-overlap": false,
+        "text-ignore-placement": false,
+        "text-optional": true,
+        "text-padding": 4
       },
       "paint": {
         "text-color": "#212121",
