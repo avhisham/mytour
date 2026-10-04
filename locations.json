@@ -17,55 +17,16 @@
     },
     "latitude": 21.422545,
     "longitude": 39.827757,
-    "region": "makkah",
     "type": "Holy Site",
-    "clusterId": "main_doors_haram",
-    "cluster_id": "main_doors_haram",
     "subCategory": "Major Gates of Masjid al-Haram",
-    "sub_category": "Major Gates of Masjid al-Haram",
-    "thumbnail": "assets/image/locations/bab_al_salam.webp",
+    "clusterId": "main_doors_haram",
+    "city": "Makkah",
     "imageUrls": [
-      {
-        "url": "assets/image/locations/bab_al_salam.webp",
-        "thumbnail": "assets/image/locations/bab_al_salam.webp",
-        "caption": {
-          "en": "Bab al-Salam (Gate of Peace)",
-          "ms": "Bab al-Salam (Pintu Kedamaian)",
-          "ml": "ബാബുസ്സലാം (സമാധാന കവാടം)",
-          "ta": "பாப் அஸ்-ஸலாம் (சாந்தி வாசல்)"
-        }
-      },
-      {
-        "url": "assets/Ibadah/img/masjiddoors.webp",
-        "thumbnail": "assets/Ibadah/img/masjiddoors.webp",
-        "caption": {
-          "en": "Masjid al-Haram Main Gates Map",
-          "ms": "Peta Pintu Utama Masjidil Haram",
-          "ml": "മസ്ജിദുൽ ഹറാം പ്രധാന കവാടങ്ങൾ",
-          "ta": "மஸ்ஜிதுல் ஹராமின் பிரதான வாசல்கள் வரைபடம்"
-        }
-      }
+      "{url: assets/image/locations/bab_al_salam.webp, thumbnail: assets/image/locations/bab_al_salam.webp, caption: {en: Bab al-Salam (Gate of Peace), ms: Bab al-Salam (Pintu Kedamaian), ml: ബാബുസ്സലാം (സമാധാന കവാടം), ta: பாப் அஸ்-ஸலாம் (சாந்தி வாசல்)}}",
+      "{url: assets/Ibadah/img/masjiddoors.webp, thumbnail: assets/Ibadah/img/masjiddoors.webp, caption: {en: Masjid al-Haram Main Gates Map, ms: Peta Pintu Utama Masjidil Haram, ml: മസ്ജിദുൽ ഹറാം പ്രധാന കവാടങ്ങൾ, ta: மஸ்ஜிதுல் ஹராமின் பிரதான வாசல்கள் வரைபடம்}}"
     ],
     "videoUrls": [],
-    "socialLinks": [],
-    "sentences": [
-      {
-        "text": {
-          "en": "Bab al-Salam is the historical Sunnah entrance through which Prophet Muhammad ﷺ entered Masjid al-Haram.",
-          "ms": "Bab al-Salam adalah pintu masuk Sunnah di mana Rasulullah ﷺ melangkah masuk ke dalam Masjidil Haram.",
-          "ml": "നബി ﷺ മസ്ജിദുൽ ഹറാമിലേക്ക് പ്രവേശിച്ചിരുന്ന സുന്നത്തായ കവാടമാണ് ബാബുസ്സലാം.",
-          "ta": "நபிகள் நாயகம் ﷺ மஸ்ஜிதுல் ஹராமிற்குள் நுழைந்த சுன்னத்தான வாசல் பாப் அஸ்-ஸலாம் ஆகும்."
-        }
-      },
-      {
-        "text": {
-          "en": "Main monumental gates of Masjid al-Haram can be instantly identified by their crowning twin minarets visible across Makkah.",
-          "ms": "Pintu-pintu gerbang utama Masjidil Haram mudah dikenal pasti dengan menara berkembar yang menjulang megah di puncaknya.",
-          "ml": "മസ്ജിദുൽ ഹറാമിന്റെ പ്രധാന കവാടങ്ങൾക്ക് മുകളിലായി ഇരട്ട മിനാരങ്ങൾ തലയുയർത്തി നിൽക്കുന്നത് കാണാം.",
-          "ta": "மஸ்ஜிதுல் ஹராமின் பிரதான வாசல்களை அவற்றின் மீது அமைந்துள்ள கம்பீரமான இரட்டை மினாராக்கள் மூலம் எளிதில் அடையாளம் காணலாம்."
-        }
-      }
-    ]
+    "socialLinks": []
   },
   {
     "id": "gate_king_abdullah",
@@ -85,55 +46,16 @@
     },
     "latitude": 21.423713,
     "longitude": 39.825311,
-    "region": "makkah",
     "type": "Holy Site",
-    "clusterId": "main_doors_haram",
-    "cluster_id": "main_doors_haram",
     "subCategory": "Major Gates of Masjid al-Haram",
-    "sub_category": "Major Gates of Masjid al-Haram",
-    "thumbnail": "assets/image/locations/masjid_haram.webp",
+    "clusterId": "main_doors_haram",
+    "city": "Makkah",
     "imageUrls": [
-      {
-        "url": "assets/image/locations/masjid_haram.webp",
-        "thumbnail": "assets/image/locations/masjid_haram.webp",
-        "caption": {
-          "en": "King Abdullah Gate (Gate 100)",
-          "ms": "Pintu Raja Abdullah (Pintu 100)",
-          "ml": "കിംഗ് അബ്ദുള്ള ഗേറ്റ് (ഗേറ്റ് 100)",
-          "ta": "மன்னர் அப்துல்லாஹ் வாசல் (கேட் 100)"
-        }
-      },
-      {
-        "url": "assets/Ibadah/img/masjiddoors.webp",
-        "thumbnail": "assets/Ibadah/img/masjiddoors.webp",
-        "caption": {
-          "en": "Masjid al-Haram Major Doors Layout",
-          "ms": "Susun Atur Pintu Utama Masjidil Haram",
-          "ml": "പ്രധാന വാതിലുകളുടെ ഭൂപടം",
-          "ta": "பிரதான வாசல்கள் வரைபடம்"
-        }
-      }
+      "{url: assets/image/locations/masjid_haram.webp, thumbnail: assets/image/locations/masjid_haram.webp, caption: {en: King Abdullah Gate (Gate 100), ms: Pintu Raja Abdullah (Pintu 100), ml: കിംഗ് അബ്ദുള്ള ഗേറ്റ് (ഗേറ്റ് 100), ta: மன்னர் அப்துல்லாஹ் வாசல் (கேட் 100)}}",
+      "{url: assets/Ibadah/img/masjiddoors.webp, thumbnail: assets/Ibadah/img/masjiddoors.webp, caption: {en: Masjid al-Haram Major Doors Layout, ms: Susun Atur Pintu Utama Masjidil Haram, ml: പ്രധാന വാതിലുകളുടെ ഭൂപടം, ta: பிரதான வாசல்கள் வரைபடம்}}"
     ],
     "videoUrls": [],
-    "socialLinks": [],
-    "sentences": [
-      {
-        "text": {
-          "en": "King Abdullah Gate (Gate 100) is easily identified by its twin 133-meter minarets towering over the northern expansion.",
-          "ms": "Pintu Raja Abdullah (Pintu 100) mudah dikenal pasti melalui menara kembarnya setinggi 133 meter yang menjulang di utara masjid.",
-          "ml": "വടക്കുഭാഗത്ത് തലയുയർത്തി നിൽക്കുന്ന 133 മീറ്റർ ഉയരമുള്ള ഇരട്ട മിനാരങ്ങൾ കിംഗ് അബ്ദുള്ള ഗേറ്റിന്റെ പ്രത്യേകതയാണ്.",
-          "ta": "வடக்கு விரிவாக்கத்தில் உயர்ந்து நிற்கும் 133 மீட்டர் இரட்டை மினாராக்கள் மூலம் மன்னர் அப்துல்லாஹ் வாசலை உடனடியாக அடையாளம் காணலாம்."
-        }
-      },
-      {
-        "text": {
-          "en": "It provides modern high-capacity access with escalators connecting the northern courtyards to multi-level prayer halls.",
-          "ms": "Ia menyediakan laluan berkapasiti tinggi dengan eskalator moden menghubungkan dataran utara ke dewan solat bertingkat.",
-          "ml": "എയർകണ്ടീഷൻ ചെയ്ത വഴികളും എസ്കലേറ്ററുകളും തീർത്ഥാടകരുടെ യാത്ര സുഗമമാക്കുന്നു.",
-          "ta": "நவீன எஸ்கலேட்டர்கள் மற்றும் குளிரூட்டப்பட்ட பாதைகள் தொழுகையாளிகளுக்கு எளிதான வழியை வழங்குகின்றன."
-        }
-      }
-    ]
+    "socialLinks": []
   },
   {
     "id": "gate_umrah",
@@ -153,55 +75,16 @@
     },
     "latitude": 21.422705,
     "longitude": 39.824694,
-    "region": "makkah",
     "type": "Holy Site",
-    "clusterId": "main_doors_haram",
-    "cluster_id": "main_doors_haram",
     "subCategory": "Major Gates of Masjid al-Haram",
-    "sub_category": "Major Gates of Masjid al-Haram",
-    "thumbnail": "assets/image/locations/gate_fahad.webp",
+    "clusterId": "main_doors_haram",
+    "city": "Makkah",
     "imageUrls": [
-      {
-        "url": "assets/image/locations/gate_fahad.webp",
-        "thumbnail": "assets/image/locations/gate_fahad.webp",
-        "caption": {
-          "en": "Umrah Gate Area (Gate 62)",
-          "ms": "Kawasan Pintu Umrah (Pintu 62)",
-          "ml": "ഉംറ ഗേറ്റ് പ്രദേശം (ഗേറ്റ് 62)",
-          "ta": "உம்ரா வாசல் பகுதி (கேட் 62)"
-        }
-      },
-      {
-        "url": "assets/Ibadah/img/masjiddoors.webp",
-        "thumbnail": "assets/Ibadah/img/masjiddoors.webp",
-        "caption": {
-          "en": "Major Gates Layout",
-          "ms": "Pelan Pintu Utama",
-          "ml": "പ്രധാന കവാടങ്ങളുടെ രൂപരേഖ",
-          "ta": "பிரதான வாசல்கள் வரைபடம்"
-        }
-      }
+      "{url: assets/image/locations/gate_fahad.webp, thumbnail: assets/image/locations/gate_fahad.webp, caption: {en: Umrah Gate Area (Gate 62), ms: Kawasan Pintu Umrah (Pintu 62), ml: ഉംറ ഗേറ്റ് പ്രദേശം (ഗേറ്റ് 62), ta: உம்ரா வாசல் பகுதி (கேட் 62)}}",
+      "{url: assets/Ibadah/img/masjiddoors.webp, thumbnail: assets/Ibadah/img/masjiddoors.webp, caption: {en: Major Gates Layout, ms: Pelan Pintu Utama, ml: പ്രധാന കവാടങ്ങളുടെ രൂപരേഖ, ta: பிரதான வாசல்கள் வரைபடம்}}"
     ],
     "videoUrls": [],
-    "socialLinks": [],
-    "sentences": [
-      {
-        "text": {
-          "en": "Umrah Gate (Gate 62) is the designated entrance historically chosen by pilgrims coming from Miqat Masjid Aisha at Tan'im.",
-          "ms": "Pintu Umrah (Pintu 62) adalah pintu masuk pilihan tradisi bagi jemaah yang datang dari Miqat Masjid Aisyah di Tan'im.",
-          "ml": "തൻഈമിൽ നിന്ന് വരുന്ന തീർത്ഥാടകരുടെ പ്രധാന പ്രവേശന കവാടമാണിത്.",
-          "ta": "தன்ஈம் மஸ்ஜித் ஆயிஷா மீக்காத்திலிருந்து வரும் யாத்ரீகர்களின் பாரம்பரிய நுழைவு வாயில் இதுவாகும்."
-        }
-      },
-      {
-        "text": {
-          "en": "Like all major gates, its crowning twin minarets make it readily recognizable from the surrounding courtyards.",
-          "ms": "Seperti semua pintu utama, menara kembarnya memudahkan jemaah mengenal pastinya dari dataran luar.",
-          "ml": "മറ്റു പ്രധാന കവാടങ്ങളെപ്പോലെ ഇതിന്റെ ഇരട്ട മിനാരങ്ങളും ദൂരെ നിന്ന് തന്നെ തിരിച്ചറിയാൻ സഹായിക്കുന്നു.",
-          "ta": "அனைத்து முக்கிய வாசல்களைப் போலவே, இதன் இரட்டை மினாராக்களும் வெளிப்புறத்திலிருந்து உடனடியாக அடையாளம் காண உதவுகின்றன."
-        }
-      }
-    ]
+    "socialLinks": []
   },
   {
     "id": "kaabah",
@@ -220,51 +103,12 @@
     "latitude": 21.42255,
     "longitude": 39.826789,
     "type": "Holy Site",
-    "chronologyDate": null,
+    "city": "Makkah",
     "imageUrls": [
-      {
-        "url": "assets/image/locations/kaabah.webp",
-        "thumbnail": "assets/image/locations/kaabah.webp",
-        "caption": {
-          "en": "The Holy Kaabah",
-          "ms": "Kaabah Suci",
-          "ml": "വിശുദ്ധ കഅബ",
-          "ta": "புனித கஅபா"
-        }
-      }
+      "{url: assets/image/locations/kaabah.webp, thumbnail: assets/image/locations/kaabah.webp, caption: {en: The Holy Kaabah, ms: Kaabah Suci, ml: വിശുദ്ധ കഅബ, ta: புனித கஅபா}}"
     ],
     "videoUrls": [],
-    "socialLinks": [],
-    "sentences": [
-      {
-        "text": {
-          "en": "The Holy Kaabah is the most sacred site in Islam, established by Prophet Ibrahim (AS) and his son Ismail (AS).",
-          "ms": "Kaabah Suci adalah tapak yang paling suci dalam Islam, yang dibina oleh Nabi Ibrahim (AS) dan puteranya Ismail (AS).",
-          "ml": "ഇബ്രാഹിം നബിയും (AS) മകൻ ഇസ്മായിൽ നബിയും (AS) ചേർന്ന് നിർമ്മിച്ച കഅബയാണ് ഇസ്‌ലാമിലെ ഏറ്റവും വിശുദ്ധമായ സ്ഥലം.",
-          "ta": "புனித கஅபா இஸ்லாத்தின் மிக புனிதமான இடமாகும், இது இப்ராஹீம் (அலை) மற்றும் அவரது மகன் இஸ்மாயில் (அலை) ஆகியோரால் கட்டப்பட்டது."
-        }
-      },
-      {
-        "text": {
-          "en": "Every Muslim around the world turns towards this 'House of Allah' five times a day during their prayers.",
-          "ms": "Setiap Muslim di seluruh dunia menghadap ke 'Rumah Allah' ini lima kali sehari semasa solat mereka.",
-          "ml": "ലോകമെമ്പാടുമുള്ള ഓരോ മുസ്‌ലിമും അവരുടെ നിസ്കാരവേളയിൽ ദിവസവും അഞ്ച് തവണ ഈ 'അല്ലാഹുവിൻ്റെ ഭവന'ത്തിന് നേരെ തിരിയുന്നു.",
-          "ta": "உலகெங்கிலும் உள்ள ஒவ்வொரு முஸ்லிமும் தங்கள் தொழுகையின் போது ஒரு நாளைக்கு ஐந்து முறை இந்த 'அல்லாஹ்வின் இல்லத்தை' நோக்கித் திரும்புகிறார்கள்."
-        }
-      },
-      {
-        "text": {
-          "en": "During Hajj and Umrah, millions perform Tawaf, circling the Kaabah seven times in a display of unity and devotion.",
-          "ms": "Semasa Haji dan Umrah, jutaan umat mengerjakan Tawaf, mengelilingi Kaabah sebanyak tujuh kali sebagai tanda perpaduan dan ketaatan.",
-          "ml": "ഹജ്ജ്, ഉംറ വേളകളിൽ ദശലക്ഷക്കണക്കിന് ആളുകൾ കഅബയെ ഏഴ് തവണ പ്രദക്ഷിണം ചെയ്ത് തവാഫ് ചെയ്യുന്നു.",
-          "ta": "ஹஜ் மற்றும் உம்றாவின் போது, ஒற்றுமை மற்றும் பக்தியின் வெளிப்பாடாக மில்லியன் கணக்கான மக்கள் கஅபாவை ஏழு முறை சுற்றித் தவாப் செய்கிறார்கள்."
-        }
-      }
-    ],
-    "thumbnail": "assets/image/locations/kaabah.webp",
-    "clusterId": null,
-    "subCategory": null,
-    "region": "makkah"
+    "socialLinks": []
   },
   {
     "id": "masjid_haram",
@@ -283,25 +127,12 @@
     "latitude": 21.42219,
     "longitude": 39.825182,
     "type": "Mosque",
-    "chronologyDate": "570-01-01",
+    "city": "Makkah",
     "imageUrls": [
-      {
-        "url": "assets/image/locations/masjid_haram.webp",
-        "thumbnail": "assets/image/locations/masjid_haram.webp",
-        "caption": {
-          "en": "Masjid al-Haram",
-          "ms": "Masjid al-Haram",
-          "ml": "മസ്ജിദുൽ ഹറാം",
-          "ta": "மஸ்ஜிதுல் ஹராம்"
-        }
-      }
+      "{url: assets/image/locations/masjid_haram.webp, thumbnail: assets/image/locations/masjid_haram.webp, caption: {en: Masjid al-Haram, ms: Masjid al-Haram, ml: മസ്ജിദുൽ ഹറാം, ta: மஸ்ஜிதுல் ஹராம்}}"
     ],
     "videoUrls": [],
-    "socialLinks": [],
-    "thumbnail": "assets/image/locations/masjid_haram.webp",
-    "clusterId": null,
-    "subCategory": null,
-    "region": "makkah"
+    "socialLinks": []
   },
   {
     "id": "jabal_rahmah",
@@ -320,28 +151,14 @@
     "latitude": 21.3547,
     "longitude": 39.984,
     "type": "Historical",
-    "chronologyDate": "632-03-09",
-    "osmId": "node/1236463804",
+    "subCategory": "The Sacred Hajj Pilgrimage Sites (Al-Masha'ir)",
+    "clusterId": "hajj_mashair",
+    "city": "Makkah",
     "imageUrls": [
-      {
-        "url": "assets/image/locations/jabal_rahmah.webp",
-        "thumbnail": "assets/image/locations/jabal_rahmah.webp",
-        "caption": {
-          "en": "Jabal ar-Rahmah",
-          "ms": "Jabal ar-Rahmah",
-          "ml": "ജബൽ അർ-റഹ്മ",
-          "ta": "ஜபல் அர்-ரஹ்மா"
-        }
-      }
+      "{url: assets/image/locations/jabal_rahmah.webp, thumbnail: assets/image/locations/jabal_rahmah.webp, caption: {en: Jabal ar-Rahmah, ms: Jabal ar-Rahmah, ml: ജബൽ അർ-റഹ്മ, ta: ஜபல் அர்-ரஹ்மா}}"
     ],
     "videoUrls": [],
-    "socialLinks": [],
-    "thumbnail": "assets/image/locations/jabal_rahmah.webp",
-    "cluster_id": "hajj_mashair",
-    "sub_category": "The Sacred Hajj Pilgrimage Sites (Al-Masha'ir)",
-    "region": "makkah",
-    "clusterId": "hajj_mashair",
-    "subCategory": "The Sacred Hajj Pilgrimage Sites (Al-Masha'ir)"
+    "socialLinks": []
   },
   {
     "id": "miqat_dhul_hulaifah",
@@ -360,25 +177,12 @@
     "latitude": 24.413264,
     "longitude": 39.54325,
     "type": "Miqat",
-    "chronologyDate": null,
+    "city": "Madinah",
     "imageUrls": [
-      {
-        "url": "assets/image/locations/miqat_dhul_hulaifah.webp",
-        "thumbnail": "assets/image/locations/miqat_dhul_hulaifah.webp",
-        "caption": {
-          "en": "Dhul Hulaifah (Abyar Ali)",
-          "ms": "Dhul Hulaifah (Abyar Ali)",
-          "ml": "ദുൽ ഹുലൈഫ (അബ്യാർ അലി)",
-          "ta": "துல் ஹுலைபா (அப்யார் அலி)"
-        }
-      }
+      "{url: assets/image/locations/miqat_dhul_hulaifah.webp, thumbnail: assets/image/locations/miqat_dhul_hulaifah.webp, caption: {en: Dhul Hulaifah (Abyar Ali), ms: Dhul Hulaifah (Abyar Ali), ml: ദുൽ ഹുലൈഫ (അബ്യാർ അലി), ta: துல் ஹுலைபா (அப்யார் அலி)}}"
     ],
     "videoUrls": [],
-    "socialLinks": [],
-    "thumbnail": "assets/image/locations/miqat_dhul_hulaifah.webp",
-    "clusterId": null,
-    "subCategory": null,
-    "region": "madinah"
+    "socialLinks": []
   },
   {
     "id": "masjid_qiblatayn",
@@ -397,27 +201,14 @@
     "latitude": 24.484083,
     "longitude": 39.578917,
     "type": "Historical",
-    "chronologyDate": "624-01-01",
+    "subCategory": "Battle of the Trench (The Seven Mosques)",
+    "clusterId": "seven_mosques_khandaq",
+    "city": "Madinah",
     "imageUrls": [
-      {
-        "url": "assets/image/locations/masjid_qiblatayn.webp",
-        "thumbnail": "assets/image/locations/masjid_qiblatayn.webp",
-        "caption": {
-          "en": "Masjid al-Qiblatayn",
-          "ms": "Masjid al-Qiblatayn",
-          "ml": "മസ്ജിദുൽ ഖിബ്‌ലതൈൻ",
-          "ta": "மஸ்ஜிதுல் கிப்லதைன்"
-        }
-      }
+      "{url: assets/image/locations/masjid_qiblatayn.webp, thumbnail: assets/image/locations/masjid_qiblatayn.webp, caption: {en: Masjid al-Qiblatayn, ms: Masjid al-Qiblatayn, ml: മസ്ജിദുൽ ഖിബ്‌ലതൈൻ, ta: மஸ்ஜிதுல் கிப்லதைன்}}"
     ],
     "videoUrls": [],
-    "socialLinks": [],
-    "thumbnail": "assets/image/locations/masjid_qiblatayn.webp",
-    "cluster_id": "seven_mosques_khandaq",
-    "sub_category": "Battle of the Trench (The Seven Mosques)",
-    "region": "madinah",
-    "clusterId": "seven_mosques_khandaq",
-    "subCategory": "Battle of the Trench (The Seven Mosques)"
+    "socialLinks": []
   },
   {
     "id": "masjid_nabawi",
@@ -436,25 +227,12 @@
     "latitude": 24.46762,
     "longitude": 39.6114,
     "type": "Mosque",
-    "chronologyDate": "622-01-01",
+    "city": "Madinah",
     "imageUrls": [
-      {
-        "url": "assets/image/locations/masjid_nabawi.webp",
-        "thumbnail": "assets/image/locations/masjid_nabawi.webp",
-        "caption": {
-          "en": "Masjid al-Nabawi",
-          "ms": "Masjid al-Nabawi",
-          "ml": "മസ്ജിദുന്നബവി",
-          "ta": "மஸ்ஜிதுன் நபவி"
-        }
-      }
+      "{url: assets/image/locations/masjid_nabawi.webp, thumbnail: assets/image/locations/masjid_nabawi.webp, caption: {en: Masjid al-Nabawi, ms: Masjid al-Nabawi, ml: മസ്ജിദുന്നബവി, ta: மஸ்ஜிதுன் நபவி}}"
     ],
     "videoUrls": [],
-    "socialLinks": [],
-    "thumbnail": "assets/image/locations/masjid_nabawi.webp",
-    "clusterId": null,
-    "subCategory": null,
-    "region": "madinah"
+    "socialLinks": []
   },
   {
     "id": "rasul_birth_place",
@@ -473,19 +251,11 @@
     "latitude": 21.424979,
     "longitude": 39.829946,
     "type": "Historical",
-    "chronologyDate": "0570-04-12",
-    "osmId": "node/6844620719",
+    "subCategory": "Historic Houses & Early Sirah in Makkah",
+    "clusterId": "sirah_makkah_houses",
+    "city": "Makkah",
     "imageUrls": [
-      {
-        "url": "assets/image/locations/rasul_birth_place.webp",
-        "thumbnail": "assets/image/locations/rasul_birth_place.webp",
-        "caption": {
-          "en": "Birthplace of Rasulullah ﷺ (Makkah Library)",
-          "ms": "Tempat Lahir Rasulullah ﷺ (Perpustakaan Makkah)",
-          "ml": "മുഹമ്മദ് നബി ﷺ ജനിച്ച സ്ഥലം (മക്ക ലൈബ്രറി)",
-          "ta": "நபிகள் நாயகம் ﷺ பிறந்த இடம் (மக்கா நூலகம்)"
-        }
-      }
+      "{url: assets/image/locations/rasul_birth_place.webp, thumbnail: assets/image/locations/rasul_birth_place.webp, caption: {en: Birthplace of Rasulullah ﷺ (Makkah Library), ms: Tempat Lahir Rasulullah ﷺ (Perpustakaan Makkah), ml: മുഹമ്മദ് നബി ﷺ ജനിച്ച സ്ഥലം (മക്ക ലൈബ്രറി), ta: நபிகள் நாயகம் ﷺ பிறந்த இடம் (மக்கா நூலகம்)}}"
     ],
     "videoUrls": [],
     "socialLinks": [],
@@ -495,8 +265,8 @@
         "role": "prompt",
         "scale": "large",
         "activationRange": {
-          "minDistanceMetres": 5,
-          "maxDistanceMetres": 250
+          "minDistanceMetres": 5.0,
+          "maxDistanceMetres": 250.0
         },
         "embeddedData": {
           "format": "DINOV2_ORB_V1",
@@ -506,13 +276,7 @@
           "_note": "Feature vector appended to JPEG tail. Read using FeaturePayload.parseFromMetadataString()."
         }
       }
-    ],
-    "thumbnail": "assets/image/locations/rasul_birth_place.webp",
-    "cluster_id": "sirah_makkah_houses",
-    "sub_category": "Historic Houses & Early Sirah in Makkah",
-    "region": "makkah",
-    "clusterId": "sirah_makkah_houses",
-    "subCategory": "Historic Houses & Early Sirah in Makkah"
+    ]
   },
   {
     "id": "rukun_yamani",
@@ -531,26 +295,12 @@
     "latitude": 21.42244,
     "longitude": 39.82618,
     "type": "Holy Site",
-    "chronologyDate": null,
-    "osmId": "node/1199442700",
+    "city": "Makkah",
     "imageUrls": [
-      {
-        "url": "assets/image/locations/rukun_yamani.webp",
-        "thumbnail": "assets/image/locations/rukun_yamani.webp",
-        "caption": {
-          "en": "Rukun Yamani",
-          "ms": "Rukun Yamani",
-          "ml": "റുക്നുൽ യമാനി",
-          "ta": "ருக்னுல் யமானி"
-        }
-      }
+      "{url: assets/image/locations/rukun_yamani.webp, thumbnail: assets/image/locations/rukun_yamani.webp, caption: {en: Rukun Yamani, ms: Rukun Yamani, ml: റുക്നുൽ യമാനി, ta: ருக்னுல் யமானி}}"
     ],
     "videoUrls": [],
-    "socialLinks": [],
-    "thumbnail": "assets/image/locations/rukun_yamani.webp",
-    "clusterId": null,
-    "subCategory": null,
-    "region": "makkah"
+    "socialLinks": []
   },
   {
     "id": "rukun_shami",
@@ -569,26 +319,12 @@
     "latitude": 21.422522,
     "longitude": 39.826118,
     "type": "Holy Site",
-    "chronologyDate": null,
-    "osmId": "node/1199442699",
+    "city": "Makkah",
     "imageUrls": [
-      {
-        "url": "assets/image/locations/rukun_shami.webp",
-        "thumbnail": "assets/image/locations/rukun_shami.webp",
-        "caption": {
-          "en": "Rukun Shami",
-          "ms": "Rukun Shami",
-          "ml": "റുക്നുൽ ശാമി",
-          "ta": "ருக்னுல் ஷாமி"
-        }
-      }
+      "{url: assets/image/locations/rukun_shami.webp, thumbnail: assets/image/locations/rukun_shami.webp, caption: {en: Rukun Shami, ms: Rukun Shami, ml: റുക്നുൽ ശാമി, ta: ருக்னுல் ஷாமி}}"
     ],
     "videoUrls": [],
-    "socialLinks": [],
-    "thumbnail": "assets/image/locations/rukun_shami.webp",
-    "clusterId": null,
-    "subCategory": null,
-    "region": "makkah"
+    "socialLinks": []
   },
   {
     "id": "jamarah_ula",
@@ -608,28 +344,13 @@
     "latitude": 21.4199079,
     "longitude": 39.8741791,
     "type": "Holy Site",
-    "chronologyDate": null,
-    "osmId": "node/4144223248",
+    "clusterId": "hajj_mashair",
+    "city": "Makkah",
     "imageUrls": [
-      {
-        "url": "assets/image/locations/jamarah_ula.webp",
-        "thumbnail": "assets/image/locations/jamarah_ula.webp",
-        "caption": {
-          "en": "Small Jamarah (al-Ula)",
-          "ms": "Jamrah Pertama (al-Ula / al-Sughra)",
-          "ml": "ജംറത്തുൽ ഊല (ചെറിയ ജംറ)",
-          "ta": "சிறிய ஜமரா (அல்-ஊலா)",
-          "ar": "الجَمْرَة الصُّغْرَى (الأُولَى)"
-        }
-      }
+      "{url: assets/image/locations/jamarah_ula.webp, thumbnail: assets/image/locations/jamarah_ula.webp, caption: {en: Small Jamarah (al-Ula), ms: Jamrah Pertama (al-Ula / al-Sughra), ml: ജംറത്തുൽ ഊല (ചെറിയ ജംറ), ta: சிறிய ஜமரா (அல்-ஊலா), ar: الجَمْرَة الصُّغْرَى (الأُولَى)}}"
     ],
     "videoUrls": [],
-    "socialLinks": [],
-    "thumbnail": "assets/image/locations/jamarah_ula.webp",
-    "cluster_id": "hajj_mashair",
-    "region": "makkah",
-    "clusterId": "hajj_mashair",
-    "subCategory": null
+    "socialLinks": []
   },
   {
     "id": "jamarah_wusta",
@@ -649,28 +370,13 @@
     "latitude": 21.4207404,
     "longitude": 39.8729996,
     "type": "Holy Site",
-    "chronologyDate": null,
-    "osmId": "node/4144223249",
+    "clusterId": "hajj_mashair",
+    "city": "Makkah",
     "imageUrls": [
-      {
-        "url": "assets/image/locations/jamarah_wusta.webp",
-        "thumbnail": "assets/image/locations/jamarah_wusta.webp",
-        "caption": {
-          "en": "Middle Jamarah (al-Wusta)",
-          "ms": "Jamrah Pertengahan (al-Wusta)",
-          "ml": "ജംറത്തുൽ വുസ്ത്വ (നടുവിലെ ജംറ)",
-          "ta": "நடுத்தர ஜமரா (அல்-வுஸ்தா)",
-          "ar": "الجَمْرَة الوُسْطَى"
-        }
-      }
+      "{url: assets/image/locations/jamarah_wusta.webp, thumbnail: assets/image/locations/jamarah_wusta.webp, caption: {en: Middle Jamarah (al-Wusta), ms: Jamrah Pertengahan (al-Wusta), ml: ജംറത്തുൽ വുസ്ത്വ (നടുവിലെ ജംറ), ta: நடுத்தர ஜமரா (அல்-வுஸ்தா), ar: الجَمْرَة الوُسْطَى}}"
     ],
     "videoUrls": [],
-    "socialLinks": [],
-    "thumbnail": "assets/image/locations/jamarah_wusta.webp",
-    "cluster_id": "hajj_mashair",
-    "region": "makkah",
-    "clusterId": "hajj_mashair",
-    "subCategory": null
+    "socialLinks": []
   },
   {
     "id": "jamarah_aqabah",
@@ -690,28 +396,13 @@
     "latitude": 21.4216493,
     "longitude": 39.8709424,
     "type": "Holy Site",
-    "chronologyDate": null,
-    "osmId": "node/4144223250",
+    "clusterId": "hajj_mashair",
+    "city": "Makkah",
     "imageUrls": [
-      {
-        "url": "assets/image/locations/jamarah_aqabah.webp",
-        "thumbnail": "assets/image/locations/jamarah_aqabah.webp",
-        "caption": {
-          "en": "Big Jamarah (al-Aqabah)",
-          "ms": "Jamrah Terbesar (al-Aqabah / al-Kubra)",
-          "ml": "ജംറത്തുൽ അഖബ (വലിയ ജംറ)",
-          "ta": "பெரிய ஜமரா (அல்-அகபா)",
-          "ar": "جَمْرَة العَقَبَة (الكُبْرَى)"
-        }
-      }
+      "{url: assets/image/locations/jamarah_aqabah.webp, thumbnail: assets/image/locations/jamarah_aqabah.webp, caption: {en: Big Jamarah (al-Aqabah), ms: Jamrah Terbesar (al-Aqabah / al-Kubra), ml: ജംറത്തുൽ അഖബ (വലിയ ജംറ), ta: பெரிய ஜமரா (அல்-அகபா), ar: جَمْرَة العَقَبَة (الكُبْرَى)}}"
     ],
     "videoUrls": [],
-    "socialLinks": [],
-    "thumbnail": "assets/image/locations/jamarah_aqabah.webp",
-    "cluster_id": "hajj_mashair",
-    "region": "makkah",
-    "clusterId": "hajj_mashair",
-    "subCategory": null
+    "socialLinks": []
   },
   {
     "id": "masjid_jinn",
@@ -730,28 +421,14 @@
     "latitude": 21.433452,
     "longitude": 39.829,
     "type": "Mosque",
-    "chronologyDate": null,
-    "osmId": "node/9964861536",
+    "subCategory": "Historic Houses & Early Sirah in Makkah",
+    "clusterId": "sirah_makkah_houses",
+    "city": "Makkah",
     "imageUrls": [
-      {
-        "url": "assets/image/locations/masjid_jinn.webp",
-        "thumbnail": "assets/image/locations/masjid_jinn.webp",
-        "caption": {
-          "en": "Masjid al-Jinn",
-          "ms": "Masjid al-Jinn",
-          "ml": "മസ്ജിദുൽ ജിന്ന്",
-          "ta": "மஸ்ஜிதுல் ஜின்"
-        }
-      }
+      "{url: assets/image/locations/masjid_jinn.webp, thumbnail: assets/image/locations/masjid_jinn.webp, caption: {en: Masjid al-Jinn, ms: Masjid al-Jinn, ml: മസ്ജിദുൽ ജിന്ന്, ta: மஸ்ஜிதுல் ஜின்}}"
     ],
     "videoUrls": [],
-    "socialLinks": [],
-    "thumbnail": "assets/image/locations/masjid_jinn.webp",
-    "cluster_id": "sirah_makkah_houses",
-    "sub_category": "Historic Houses & Early Sirah in Makkah",
-    "region": "makkah",
-    "clusterId": "sirah_makkah_houses",
-    "subCategory": "Historic Houses & Early Sirah in Makkah"
+    "socialLinks": []
   },
   {
     "id": "gate_abdulaziz",
@@ -772,56 +449,15 @@
     "latitude": 21.420812,
     "longitude": 39.826035,
     "type": "Holy Site",
-    "chronologyDate": null,
-    "osmId": "node/7568571871",
+    "subCategory": "Major Gates of Masjid al-Haram",
+    "clusterId": "main_doors_haram",
+    "city": "Makkah",
     "imageUrls": [
-      {
-        "url": "assets/image/locations/gate_abdulaziz.webp",
-        "thumbnail": "assets/image/locations/gate_abdulaziz.webp",
-        "caption": {
-          "en": "King Abdulaziz Gate",
-          "ms": "Pintu King Abdulaziz",
-          "ml": "കിംഗ് അബ്ദുൽ അസീസ് കവാടം",
-          "ta": "மன்னர் அப்துல் அஜீஸ் நுழைவாயில்"
-        }
-      },
-      {
-        "url": "assets/Ibadah/img/masjiddoors.webp",
-        "thumbnail": "assets/Ibadah/img/masjiddoors.webp",
-        "caption": {
-          "en": "Masjid al-Haram Major Doors Layout",
-          "ms": "Susun Atur Pintu Utama Masjidil Haram",
-          "ml": "പ്രധാന വാതിലുകളുടെ ഭൂപടം",
-          "ta": "பிரதான வாசல்கள் வரைபடம்"
-        }
-      }
+      "{url: assets/image/locations/gate_abdulaziz.webp, thumbnail: assets/image/locations/gate_abdulaziz.webp, caption: {en: King Abdulaziz Gate, ms: Pintu King Abdulaziz, ml: കിംഗ് അബ്ദുൽ അസീസ് കവാടം, ta: மன்னர் அப்துல் அஜீஸ் நுழைவாயில்}}",
+      "{url: assets/Ibadah/img/masjiddoors.webp, thumbnail: assets/Ibadah/img/masjiddoors.webp, caption: {en: Masjid al-Haram Major Doors Layout, ms: Susun Atur Pintu Utama Masjidil Haram, ml: പ്രധാന വാതിലുകളുടെ ഭൂപടം, ta: பிரதான வாசல்கள் வரைபடம்}}"
     ],
     "videoUrls": [],
-    "socialLinks": [],
-    "thumbnail": "assets/image/locations/gate_abdulaziz.webp",
-    "clusterId": "main_doors_haram",
-    "subCategory": "Major Gates of Masjid al-Haram",
-    "region": "makkah",
-    "cluster_id": "main_doors_haram",
-    "sub_category": "Major Gates of Masjid al-Haram",
-    "sentences": [
-      {
-        "text": {
-          "en": "King Abdulaziz Gate (Gate 1) is crowned by iconic 89-meter twin minarets that guide pilgrims approaching from the south.",
-          "ms": "Pintu Raja Abdulaziz (Pintu 1) dipuncaki oleh menara kembar 89 meter yang memandu jemaah yang tiba dari arah selatan.",
-          "ml": "തെക്ക് ഭാഗത്ത് നിന്ന് വരുന്ന തീർത്ഥാടകരെ നയിക്കുന്ന 89 മീറ്റർ ഉയരമുള്ള ഇരട്ട മിനാരങ്ങൾ ഇതിന്റെ പ്രത്യേകതയാണ്.",
-          "ta": "தெற்கிலிருந்து வரும் யாத்ரீகர்களை வழிநடத்தும் 89 மீட்டர் உயரமுள்ள இரட்டை மினாராக்கள் இதன் அடையாளமாகும்."
-        }
-      },
-      {
-        "text": {
-          "en": "It offers direct ingress from the Ibrahim Al-Khalil corridor straight to the ground-floor Mataf circumambulation area.",
-          "ms": "Ia menyediakan laluan terus dari koridor Ibrahim Al-Khalil ke kawasan tawaf aras bawah Mataf.",
-          "ml": "ഇബ്രാഹിം അൽ ഖലീൽ റോഡിൽ നിന്ന് നേരിട്ട് താഴത്തെ നിലയിലെ മത്വാഫിലേക്ക് പ്രവേശിക്കാൻ സാധിക്കുന്നു.",
-          "ta": "இப்ராஹீம் அல்-கலீல் சாலையிலிருந்து தரைத்தள மதாஃப் பகுதிக்கு நேரடி வழியைத் தருகிறது."
-        }
-      }
-    ]
+    "socialLinks": []
   },
   {
     "id": "gate_fahad",
@@ -842,56 +478,15 @@
     "latitude": 21.42116,
     "longitude": 39.82426,
     "type": "Holy Site",
-    "chronologyDate": null,
-    "osmId": "node/1117565416",
+    "subCategory": "Major Gates of Masjid al-Haram",
+    "clusterId": "main_doors_haram",
+    "city": "Makkah",
     "imageUrls": [
-      {
-        "url": "assets/image/locations/gate_fahad.webp",
-        "thumbnail": "assets/image/locations/gate_fahad.webp",
-        "caption": {
-          "en": "King Fahad Gate",
-          "ms": "Pintu King Fahad",
-          "ml": "കിംഗ് ഫഹദ് കവാടം",
-          "ta": "மன்னர் ஃபஹத் நுழைவாயில்"
-        }
-      },
-      {
-        "url": "assets/Ibadah/img/masjiddoors.webp",
-        "thumbnail": "assets/Ibadah/img/masjiddoors.webp",
-        "caption": {
-          "en": "Masjid al-Haram Major Doors Layout",
-          "ms": "Susun Atur Pintu Utama Masjidil Haram",
-          "ml": "പ്രധാന വാതിലുകളുടെ ഭൂപടം",
-          "ta": "பிரதான வாசல்கள் வரைபடம்"
-        }
-      }
+      "{url: assets/image/locations/gate_fahad.webp, thumbnail: assets/image/locations/gate_fahad.webp, caption: {en: King Fahad Gate, ms: Pintu King Fahad, ml: കിംഗ് ഫഹദ് കവാടം, ta: மன்னர் ஃபஹத் நுழைவாயில்}}",
+      "{url: assets/Ibadah/img/masjiddoors.webp, thumbnail: assets/Ibadah/img/masjiddoors.webp, caption: {en: Masjid al-Haram Major Doors Layout, ms: Susun Atur Pintu Utama Masjidil Haram, ml: പ്രധാന വാതിലുകളുടെ ഭൂപടം, ta: பிரதான வாசல்கள் வரைபடம்}}"
     ],
     "videoUrls": [],
-    "socialLinks": [],
-    "thumbnail": "assets/image/locations/gate_fahad.webp",
-    "clusterId": "main_doors_haram",
-    "subCategory": "Major Gates of Masjid al-Haram",
-    "region": "makkah",
-    "cluster_id": "main_doors_haram",
-    "sub_category": "Major Gates of Masjid al-Haram",
-    "sentences": [
-      {
-        "text": {
-          "en": "King Fahad Gate is characterized by its grand western twin minarets and expansive multi-tier entrance vestibule.",
-          "ms": "Pintu Raja Fahad dicirikan oleh menara kembar barat yang megah dan ruang legar masuk bertingkat yang luas.",
-          "ml": "പടിഞ്ഞാറൻ ഭാഗത്തെ പ്രൗഢമായ ഇരട്ട മിനാരങ്ങളും വിശാലമായ പ്രവേശന ഇടനാഴികളും ഇതിന്റെ പ്രത്യേകതയാണ്.",
-          "ta": "மேற்கு பகுதியின் கம்பீரமான இரட்டை மினாராக்கள் மற்றும் விசாலமான நுழைவு மண்டபம் இதன் சிறப்பம்சமாகும்."
-        }
-      },
-      {
-        "text": {
-          "en": "It serves as the prime entrance for pilgrims arriving from the Jabal Omar and western plaza directions.",
-          "ms": "Ia merupakan pintu masuk utama bagi jemaah yang datang dari Jabal Omar dan dataran barat.",
-          "ml": "ജബൽ ഉമർ, പടിഞ്ഞാറൻ പ്ലാസ എന്നിവിടങ്ങളിൽ നിന്ന് വരുന്ന തീർത്ഥാടകർക്ക് എളുപ്പത്തിൽ പ്രവേശിക്കാം.",
-          "ta": "ஜபல் உமர் மற்றும் மேற்கு வளாக பகுதியிலிருந்து வரும் யாத்ரீகர்களுக்கு இது முக்கிய நுழைவாயிலாகும்."
-        }
-      }
-    ]
+    "socialLinks": []
   },
   {
     "id": "jabal_uhud",
@@ -909,27 +504,13 @@
     },
     "latitude": 24.521528,
     "longitude": 39.62625,
-    "altitude": 1077,
     "type": "Historical",
-    "chronologyDate": "625-03-23",
+    "city": "Madinah",
     "imageUrls": [
-      {
-        "url": "assets/image/locations/jabal_uhud.webp",
-        "thumbnail": "assets/image/locations/jabal_uhud.webp",
-        "caption": {
-          "en": "Mount Uhud",
-          "ms": "Bukit Uhud",
-          "ml": "ഉഹുദ് പർവ്വതം",
-          "ta": "உஹுத் மலை"
-        }
-      }
+      "{url: assets/image/locations/jabal_uhud.webp, thumbnail: assets/image/locations/jabal_uhud.webp, caption: {en: Mount Uhud, ms: Bukit Uhud, ml: ഉഹുദ് പർവ്വതം, ta: உஹுத் மலை}}"
     ],
     "videoUrls": [],
-    "socialLinks": [],
-    "thumbnail": "assets/image/locations/jabal_uhud.webp",
-    "clusterId": null,
-    "subCategory": null,
-    "region": "madinah"
+    "socialLinks": []
   },
   {
     "id": "masjid_quba",
@@ -948,27 +529,14 @@
     "latitude": 24.439167,
     "longitude": 39.617222,
     "type": "Historical",
-    "chronologyDate": "622-09-20",
+    "subCategory": "The Quba Precinct & Sahabah Residences",
+    "clusterId": "quba_precinct",
+    "city": "Madinah",
     "imageUrls": [
-      {
-        "url": "assets/image/locations/masjid_quba.webp",
-        "thumbnail": "assets/image/locations/masjid_quba.webp",
-        "caption": {
-          "en": "Masjid Quba",
-          "ms": "Masjid Quba",
-          "ml": "മസ്ജിദ് ഖുബ",
-          "ta": "மஸ்ஜித் குபா"
-        }
-      }
+      "{url: assets/image/locations/masjid_quba.webp, thumbnail: assets/image/locations/masjid_quba.webp, caption: {en: Masjid Quba, ms: Masjid Quba, ml: മസ്ജിദ് ഖുബ, ta: மஸ்ஜித் குபா}}"
     ],
     "videoUrls": [],
-    "socialLinks": [],
-    "thumbnail": "assets/image/locations/masjid_quba.webp",
-    "cluster_id": "quba_precinct",
-    "sub_category": "The Quba Precinct & Sahabah Residences",
-    "region": "madinah",
-    "clusterId": "quba_precinct",
-    "subCategory": "The Quba Precinct & Sahabah Residences"
+    "socialLinks": []
   },
   {
     "id": "masjid_jumuah",
@@ -987,27 +555,14 @@
     "latitude": 24.445225,
     "longitude": 39.613733,
     "type": "Historical",
-    "chronologyDate": "622-09-27",
+    "subCategory": "The Quba Precinct & Sahabah Residences",
+    "clusterId": "quba_precinct",
+    "city": "Madinah",
     "imageUrls": [
-      {
-        "url": "assets/image/locations/masjid_jumuah.webp",
-        "thumbnail": "assets/image/locations/masjid_jumuah.webp",
-        "caption": {
-          "en": "Masjid Jumu'ah",
-          "ms": "Masjid Jumu'ah",
-          "ml": "മസ്ജിദ് ജുമുഅ",
-          "ta": "மஸ்ஜித் ஜுமுஆ"
-        }
-      }
+      "{url: assets/image/locations/masjid_jumuah.webp, thumbnail: assets/image/locations/masjid_jumuah.webp, caption: {en: Masjid Jumu'ah, ms: Masjid Jumu'ah, ml: മസ്ജിദ് ജുമുഅ, ta: மஸ்ஜித் ஜுமுஆ}}"
     ],
     "videoUrls": [],
-    "socialLinks": [],
-    "thumbnail": "assets/image/locations/masjid_jumuah.webp",
-    "cluster_id": "quba_precinct",
-    "sub_category": "The Quba Precinct & Sahabah Residences",
-    "region": "madinah",
-    "clusterId": "quba_precinct",
-    "subCategory": "The Quba Precinct & Sahabah Residences"
+    "socialLinks": []
   },
   {
     "id": "masjid_shaikhain",
@@ -1026,25 +581,12 @@
     "latitude": 24.489387,
     "longitude": 39.608862,
     "type": "Historical",
-    "chronologyDate": "625-03-22",
+    "city": "Madinah",
     "imageUrls": [
-      {
-        "url": "assets/image/locations/masjid_shaikhain.webp",
-        "thumbnail": "assets/image/locations/masjid_shaikhain.webp",
-        "caption": {
-          "en": "Masjid Shaikhain",
-          "ms": "Masjid Shaikhain",
-          "ml": "മസ്ജിദ് ശൈഖൈൻ",
-          "ta": "மஸ்ஜித் ஷைக்கைன்"
-        }
-      }
+      "{url: assets/image/locations/masjid_shaikhain.webp, thumbnail: assets/image/locations/masjid_shaikhain.webp, caption: {en: Masjid Shaikhain, ms: Masjid Shaikhain, ml: മസ്ജിദ് ശൈഖൈൻ, ta: மஸ்ஜித் ஷைக்கைன்}}"
     ],
     "videoUrls": [],
-    "socialLinks": [],
-    "thumbnail": "assets/image/locations/masjid_shaikhain.webp",
-    "clusterId": null,
-    "subCategory": null,
-    "region": "madinah"
+    "socialLinks": []
   },
   {
     "id": "masjid_mustarahah",
@@ -1063,25 +605,12 @@
     "latitude": 24.491867229445543,
     "longitude": 39.60968454539441,
     "type": "Historical",
-    "chronologyDate": "625-03-23",
+    "city": "Madinah",
     "imageUrls": [
-      {
-        "url": "assets/image/locations/masjid_mustarahah.webp",
-        "thumbnail": "assets/image/locations/masjid_mustarahah.webp",
-        "caption": {
-          "en": "Masjid Mustarahah",
-          "ms": "Masjid Mustarahah",
-          "ml": "മസ്ജിദ് മുസ്തറാഹ",
-          "ta": "மஸ்ஜித் முஸ்தராஹா"
-        }
-      }
+      "{url: assets/image/locations/masjid_mustarahah.webp, thumbnail: assets/image/locations/masjid_mustarahah.webp, caption: {en: Masjid Mustarahah, ms: Masjid Mustarahah, ml: മസ്ജിദ് മുസ്തറാഹ, ta: மஸ்ஜித் முஸ்தராஹா}}"
     ],
     "videoUrls": [],
-    "socialLinks": [],
-    "thumbnail": "assets/image/locations/masjid_mustarahah.webp",
-    "clusterId": null,
-    "subCategory": null,
-    "region": "madinah"
+    "socialLinks": []
   },
   {
     "id": "masjid_fatah",
@@ -1100,28 +629,14 @@
     "latitude": 24.47786,
     "longitude": 39.59568,
     "type": "Mosque",
-    "chronologyDate": "627-02-01",
+    "subCategory": "Khandaq Mosques",
+    "clusterId": "khandaq_cluster",
+    "city": "Madinah",
     "imageUrls": [
-      {
-        "url": "assets/image/locations/masjid_fatah.webp",
-        "thumbnail": "assets/image/locations/masjid_fatah.webp",
-        "caption": {
-          "en": "Masjid al-Fatah (Victory Mosque)",
-          "ms": "Masjid al-Fatah (Masjid Kemenangan)",
-          "ml": "മസ്ജിദുൽ ഫതഹ് (വിജയ പള്ളി)",
-          "ta": "மஸ்ஜித் அல்-பதஹ் (வெற்றி பள்ளி)"
-        }
-      }
+      "{url: assets/image/locations/masjid_fatah.webp, thumbnail: assets/image/locations/masjid_fatah.webp, caption: {en: Masjid al-Fatah (Victory Mosque), ms: Masjid al-Fatah (Masjid Kemenangan), ml: മസ്ജിദുൽ ഫതഹ് (വിജയ പള്ളി), ta: மஸ்ஜித் அல்-பதஹ் (வெற்றி பள்ளி)}}"
     ],
     "videoUrls": [],
-    "socialLinks": [],
-    "parentId": "masjid_nabawi",
-    "clusterId": "khandaq_cluster",
-    "subCategory": "Khandaq Mosques",
-    "thumbnail": "assets/image/locations/masjid_fatah.webp",
-    "cluster_id": "seven_mosques_khandaq",
-    "sub_category": "Battle of the Trench (The Seven Mosques)",
-    "region": "madinah"
+    "socialLinks": []
   },
   {
     "id": "masjid_fasah",
@@ -1140,27 +655,14 @@
     "latitude": 24.509967,
     "longitude": 39.612877,
     "type": "Historical",
-    "chronologyDate": "625-03-23",
+    "subCategory": "Uhud Battlefield & Landmarks",
+    "clusterId": "uhud_precinct",
+    "city": "Madinah",
     "imageUrls": [
-      {
-        "url": "assets/image/locations/masjid_fasah.webp",
-        "thumbnail": "assets/image/locations/masjid_fasah.webp",
-        "caption": {
-          "en": "Masjid Fasah",
-          "ms": "Masjid Fasah",
-          "ml": "മസ്ജിദ് ഫസഹ്",
-          "ta": "மஸ்ஜித் ஃபஸஹ்"
-        }
-      }
+      "{url: assets/image/locations/masjid_fasah.webp, thumbnail: assets/image/locations/masjid_fasah.webp, caption: {en: Masjid Fasah, ms: Masjid Fasah, ml: മസ്ജിദ് ഫസഹ്, ta: மஸ்ஜித் ஃபஸஹ்}}"
     ],
     "videoUrls": [],
-    "socialLinks": [],
-    "thumbnail": "assets/image/locations/masjid_fasah.webp",
-    "cluster_id": "uhud_precinct",
-    "sub_category": "Uhud Battlefield & Landmarks",
-    "region": "madinah",
-    "clusterId": "uhud_precinct",
-    "subCategory": "Uhud Battlefield & Landmarks"
+    "socialLinks": []
   },
   {
     "id": "jabal_rumat",
@@ -1179,28 +681,14 @@
     "latitude": 24.5018,
     "longitude": 39.61242,
     "type": "Historical",
-    "chronologyDate": "625-03-23",
+    "subCategory": "Uhud Battlefield",
+    "clusterId": "uhud_battlefield",
+    "city": "Madinah",
     "imageUrls": [
-      {
-        "url": "assets/image/locations/jabal_rumat.webp",
-        "thumbnail": "assets/image/locations/jabal_rumat.webp",
-        "caption": {
-          "en": "Hill of Archers (Jabal al-Rumat)",
-          "ms": "Bukit Pemanah (Jabal al-Rumat)",
-          "ml": "അമ്പെയ്ത്തുകാരുടെ കുന്ന് (ജബലുർ-റുമത്)",
-          "ta": "வில்லாளிகள் குன்று (ஜபல் அல்-ருமாத்)"
-        }
-      }
+      "{url: assets/image/locations/jabal_rumat.webp, thumbnail: assets/image/locations/jabal_rumat.webp, caption: {en: Hill of Archers (Jabal al-Rumat), ms: Bukit Pemanah (Jabal al-Rumat), ml: അമ്പെയ്ത്തുകാരുടെ കുന്ന് (ജബലുർ-റുമത്), ta: வில்லாளிகள் குன்று (ஜபல் அல்-ருமாத்)}}"
     ],
     "videoUrls": [],
-    "socialLinks": [],
-    "parentId": "jabal_uhud",
-    "clusterId": "uhud_battlefield",
-    "subCategory": "Uhud Battlefield",
-    "thumbnail": "assets/image/locations/jabal_rumat.webp",
-    "cluster_id": "uhud_precinct",
-    "sub_category": "Uhud Battlefield & Landmarks",
-    "region": "madinah"
+    "socialLinks": []
   },
   {
     "id": "battlefield_uhud",
@@ -1219,36 +707,14 @@
     "latitude": 24.50285,
     "longitude": 39.61175,
     "type": "Historical",
-    "chronologyDate": "625-03-23",
+    "clusterId": "uhud_precinct",
+    "city": "Madinah",
     "imageUrls": [
-      {
-        "url": "assets/image/locations/battlefield_uhud.webp",
-        "thumbnail": "assets/image/locations/battlefield_uhud.webp",
-        "caption": {
-          "en": "Battlefield of Uhud",
-          "ms": "Medan Perang Uhud",
-          "ml": "ഉഹുദ് യുദ്ധക്കളം",
-          "ta": "உஹுத் போர்க்களம்"
-        }
-      },
-      {
-        "url": "assets/image/locations/uhud_battle_field.webp",
-        "thumbnail": "assets/image/locations/uhud_battle_field.webp",
-        "caption": {
-          "en": "Uhud Battle Ground",
-          "ms": "Medan Perang Uhud",
-          "ml": "ഉഹ്ദ് യുദ്ധക്കളം",
-          "ta": "உஹுத் போர் களம்"
-        }
-      }
+      "{url: assets/image/locations/battlefield_uhud.webp, thumbnail: assets/image/locations/battlefield_uhud.webp, caption: {en: Battlefield of Uhud, ms: Medan Perang Uhud, ml: ഉഹുദ് യുദ്ധക്കളം, ta: உஹுத் போர்க்களம்}}",
+      "{url: assets/image/locations/uhud_battle_field.webp, thumbnail: assets/image/locations/uhud_battle_field.webp, caption: {en: Uhud Battle Ground, ms: Medan Perang Uhud, ml: ഉഹ്ദ് യുദ്ധക്കളം, ta: உஹுத் போர் களம்}}"
     ],
     "videoUrls": [],
-    "socialLinks": [],
-    "thumbnail": "assets/image/locations/battlefield_uhud.webp",
-    "clusterId": "uhud_precinct",
-    "subCategory": null,
-    "region": "madinah",
-    "cluster_id": "uhud_precinct"
+    "socialLinks": []
   },
   {
     "id": "masjid_ghamamah",
@@ -1267,27 +733,14 @@
     "latitude": 24.465798,
     "longitude": 39.606995,
     "type": "Historical",
-    "chronologyDate": null,
+    "subCategory": "Immediate Perimeter of Masjid Nabawi",
+    "clusterId": "perimeter_nabawi",
+    "city": "Madinah",
     "imageUrls": [
-      {
-        "url": "assets/image/locations/masjid_ghamamah.webp",
-        "thumbnail": "assets/image/locations/masjid_ghamamah.webp",
-        "caption": {
-          "en": "Masjid Ghamamah",
-          "ms": "Masjid Ghamamah",
-          "ml": "മസ്ജിദ് ഗമാമ",
-          "ta": "மஸ்ஜித் கமாமா"
-        }
-      }
+      "{url: assets/image/locations/masjid_ghamamah.webp, thumbnail: assets/image/locations/masjid_ghamamah.webp, caption: {en: Masjid Ghamamah, ms: Masjid Ghamamah, ml: മസ്ജിദ് ഗമാമ, ta: மஸ்ஜித் கமாமா}}"
     ],
     "videoUrls": [],
-    "socialLinks": [],
-    "thumbnail": "assets/image/locations/masjid_ghamamah.webp",
-    "cluster_id": "perimeter_nabawi",
-    "sub_category": "Immediate Perimeter of Masjid Nabawi",
-    "region": "madinah",
-    "clusterId": "perimeter_nabawi",
-    "subCategory": "Immediate Perimeter of Masjid Nabawi"
+    "socialLinks": []
   },
   {
     "id": "masjid_abu_bakr_madinah",
@@ -1306,25 +759,12 @@
     "latitude": 24.466111,
     "longitude": 39.606397,
     "type": "Historical",
-    "chronologyDate": null,
+    "city": "Madinah",
     "imageUrls": [
-      {
-        "url": "assets/image/locations/masjid_abu_bakr_madinah.webp",
-        "thumbnail": "assets/image/locations/masjid_abu_bakr_madinah.webp",
-        "caption": {
-          "en": "Masjid Abu Bakar as-Siddiq",
-          "ms": "Masjid Abu Bakar as-Siddiq",
-          "ml": "മസ്ജിദ് അബൂബക്കർ സിദ്ദീഖ്",
-          "ta": "மஸ்ஜித் அபூபக்கர் சித்திக்"
-        }
-      }
+      "{url: assets/image/locations/masjid_abu_bakr_madinah.webp, thumbnail: assets/image/locations/masjid_abu_bakr_madinah.webp, caption: {en: Masjid Abu Bakar as-Siddiq, ms: Masjid Abu Bakar as-Siddiq, ml: മസ്ജിദ് അബൂബക്കർ സിദ്ദീഖ്, ta: மஸ்ஜித் அபூபக்கர் சித்திக்}}"
     ],
     "videoUrls": [],
-    "socialLinks": [],
-    "thumbnail": "assets/image/locations/masjid_abu_bakr_madinah.webp",
-    "clusterId": null,
-    "subCategory": null,
-    "region": "madinah"
+    "socialLinks": []
   },
   {
     "id": "masjid_ali_madinah",
@@ -1343,25 +783,12 @@
     "latitude": 24.466978,
     "longitude": 39.606409,
     "type": "Historical",
-    "chronologyDate": null,
+    "city": "Madinah",
     "imageUrls": [
-      {
-        "url": "assets/image/locations/masjid_ali_madinah.webp",
-        "thumbnail": "assets/image/locations/masjid_ali_madinah.webp",
-        "caption": {
-          "en": "Masjid Ali bin Abi Talib",
-          "ms": "Masjid Ali bin Abi Talib",
-          "ml": "മസ്ജിദ് അലി ബിൻ അബീത്വാലിബ്",
-          "ta": "மஸ்ஜித் அலி பின் அபீ தாலிப்"
-        }
-      }
+      "{url: assets/image/locations/masjid_ali_madinah.webp, thumbnail: assets/image/locations/masjid_ali_madinah.webp, caption: {en: Masjid Ali bin Abi Talib, ms: Masjid Ali bin Abi Talib, ml: മസ്ജിദ് അലി ബിൻ അബീത്വാലിബ്, ta: மஸ்ஜித் அலி பின் அபீ தாலிப்}}"
     ],
     "videoUrls": [],
-    "socialLinks": [],
-    "thumbnail": "assets/image/locations/masjid_ali_madinah.webp",
-    "clusterId": null,
-    "subCategory": null,
-    "region": "madinah"
+    "socialLinks": []
   },
   {
     "id": "makkah",
@@ -1380,31 +807,15 @@
     "latitude": 21.422982,
     "longitude": 39.827953,
     "type": "Historical",
-    "chronologyDate": null,
+    "city": "Makkah",
     "imageUrls": [
-      {
-        "url": "assets/image/locations/makkah.webp",
-        "thumbnail": "assets/image/locations/makkah.webp",
-        "caption": {
-          "en": "Makkah",
-          "ms": "Makkah",
-          "ml": "മക്ക",
-          "ta": "மக்கா"
-        }
-      }
+      "{url: assets/image/locations/makkah.webp, thumbnail: assets/image/locations/makkah.webp, caption: {en: Makkah, ms: Makkah, ml: മക്ക, ta: மக்கா}}"
     ],
     "videoUrls": [],
-    "socialLinks": [],
-    "thumbnail": "assets/image/locations/makkah.webp",
-    "clusterId": null,
-    "subCategory": null,
-    "region": "makkah"
+    "socialLinks": []
   },
   {
     "id": "ustuwanah_tahajjud",
-    "parentId": "masjid_nabawi",
-    "clusterId": "rawdah_pillars",
-    "subCategory": "Rawdah Pillars",
     "name": {
       "en": "Pillar of Tahajjud (Ustuwanah at-Tahajjud)",
       "ms": "Tiang Tahajjud (Ustuwanah at-Tahajjud)",
@@ -1420,26 +831,17 @@
     "latitude": 24.46757,
     "longitude": 39.611245,
     "type": "Rawdah Site",
+    "subCategory": "Rawdah Pillars",
+    "clusterId": "rawdah_pillars",
+    "city": "Madinah",
     "imageUrls": [
-      {
-        "url": "assets/image/locations/ustuwanah_tahajjud.webp",
-        "thumbnail": "assets/image/locations/ustuwanah_tahajjud.webp",
-        "caption": {
-          "en": "Pillar of Tahajjud (Ustuwanah at-Tahajjud)",
-          "ms": "Tiang Tahajjud (Ustuwanah at-Tahajjud)",
-          "ml": "തഹജ്ജുദ് തൂൺ (ഉസ്തുവാനതു അത്-തഹജ്ജുദ്)",
-          "ta": "தஹஜ்ஜுத் தூண் (உஸ்துவானா அத்-தஹஜ்ஜுத்)"
-        }
-      }
+      "{url: assets/image/locations/ustuwanah_tahajjud.webp, thumbnail: assets/image/locations/ustuwanah_tahajjud.webp, caption: {en: Pillar of Tahajjud (Ustuwanah at-Tahajjud), ms: Tiang Tahajjud (Ustuwanah at-Tahajjud), ml: തഹജ്ജുദ് തൂൺ (ഉസ്തുവാനതു അത്-തഹജ്ജുദ്), ta: தஹஜ்ஜுத் தூண் (உஸ்துவானா அத்-தஹஜ்ஜுத்)}}"
     ],
-    "thumbnail": "assets/image/locations/ustuwanah_tahajjud.webp",
-    "region": "madinah"
+    "videoUrls": [],
+    "socialLinks": []
   },
   {
     "id": "ustuwanah_wufud",
-    "parentId": "masjid_nabawi",
-    "clusterId": "rawdah_pillars",
-    "subCategory": "Rawdah Pillars",
     "name": {
       "en": "Pillar of Guests & Delegations (Ustuwanah al-Wufud)",
       "ms": "Tiang Utusan (Ustuwanah al-Wufud)",
@@ -1455,28 +857,17 @@
     "latitude": 24.467555,
     "longitude": 39.61121,
     "type": "Rawdah Site",
+    "subCategory": "Rawdah Pillars",
+    "clusterId": "rawdah_pillars",
+    "city": "Madinah",
     "imageUrls": [
-      {
-        "url": "assets/image/locations/ustuwanah_wufud.webp",
-        "thumbnail": "assets/image/locations/ustuwanah_wufud.webp",
-        "caption": {
-          "en": "Pillar of Guests & Delegations (Ustuwanah al-Wufud)",
-          "ms": "Tiang Utusan (Ustuwanah al-Wufud)",
-          "ml": "പ്രതിനിധി തൂൺ (ഉസ്തുവാനതുൽ വുഫൂദ്)",
-          "ta": "தூதுக்குழு தூண் (உஸ்துவானா அல்-வுபூத்)"
-        }
-      }
+      "{url: assets/image/locations/ustuwanah_wufud.webp, thumbnail: assets/image/locations/ustuwanah_wufud.webp, caption: {en: Pillar of Guests & Delegations (Ustuwanah al-Wufud), ms: Tiang Utusan (Ustuwanah al-Wufud), ml: പ്രതിനിധി തൂൺ (ഉസ്തുവാനതുൽ വുഫൂദ്), ta: தூதுக்குழு தூண் (உஸ்துவானா அல்-வுபூத்)}}"
     ],
-    "thumbnail": "assets/image/locations/ustuwanah_wufud.webp",
-    "cluster_id": "rawdah_nabawi",
-    "sub_category": "Inside Masjid Nabawi: Rawdah Mubarak & Historical Pillars",
-    "region": "madinah"
+    "videoUrls": [],
+    "socialLinks": []
   },
   {
     "id": "ustuwanah_ali",
-    "parentId": "masjid_nabawi",
-    "clusterId": "rawdah_pillars",
-    "subCategory": "Rawdah Pillars",
     "name": {
       "en": "Pillar of Ali (Ustuwanah Ali / Al-Haras)",
       "ms": "Tiang Ali (Ustuwanah Ali / Al-Haras)",
@@ -1492,28 +883,17 @@
     "latitude": 24.467672,
     "longitude": 39.611398,
     "type": "Rawdah Site",
+    "subCategory": "Rawdah Pillars",
+    "clusterId": "rawdah_pillars",
+    "city": "Madinah",
     "imageUrls": [
-      {
-        "url": "assets/image/locations/ustuwanah_ali.webp",
-        "thumbnail": "assets/image/locations/ustuwanah_ali.webp",
-        "caption": {
-          "en": "Pillar of Ali (Ustuwanah Ali / Al-Haras)",
-          "ms": "Tiang Ali (Ustuwanah Ali / Al-Haras)",
-          "ml": "അലി തൂൺ (ഉസ്തുവാനതു അലി / അൽ-ഹറസ്)",
-          "ta": "அலி தூண் (உஸ்துவானா அலி)"
-        }
-      }
+      "{url: assets/image/locations/ustuwanah_ali.webp, thumbnail: assets/image/locations/ustuwanah_ali.webp, caption: {en: Pillar of Ali (Ustuwanah Ali / Al-Haras), ms: Tiang Ali (Ustuwanah Ali / Al-Haras), ml: അലി തൂൺ (ഉസ്തുവാനതു അലി / അൽ-ഹറസ്), ta: அலி தூண் (உஸ்துவானா அலி)}}"
     ],
-    "thumbnail": "assets/image/locations/ustuwanah_ali.webp",
-    "cluster_id": "rawdah_nabawi",
-    "sub_category": "Inside Masjid Nabawi: Rawdah Mubarak & Historical Pillars",
-    "region": "madinah"
+    "videoUrls": [],
+    "socialLinks": []
   },
   {
     "id": "ustuwanah_sarir",
-    "parentId": "masjid_nabawi",
-    "clusterId": "rawdah_pillars",
-    "subCategory": "Rawdah Pillars",
     "name": {
       "en": "Pillar of Bed (Ustuwanah as-Sarir)",
       "ms": "Tiang Katil (Ustuwanah as-Sarir)",
@@ -1529,26 +909,17 @@
     "latitude": 24.46757,
     "longitude": 39.611385,
     "type": "Rawdah Site",
+    "subCategory": "Rawdah Pillars",
+    "clusterId": "rawdah_pillars",
+    "city": "Madinah",
     "imageUrls": [
-      {
-        "url": "assets/image/locations/ustuwanah_sarir.webp",
-        "thumbnail": "assets/image/locations/ustuwanah_sarir.webp",
-        "caption": {
-          "en": "Pillar of Bed (Ustuwanah as-Sarir)",
-          "ms": "Tiang Katil (Ustuwanah as-Sarir)",
-          "ml": "കിടക്ക തൂൺ (ഉസ്തുവാനതുസ്-സരീർ)",
-          "ta": "படுக்கை தூண் (உஸ்துவானா அஸ்-ஸரீர்)"
-        }
-      }
+      "{url: assets/image/locations/ustuwanah_sarir.webp, thumbnail: assets/image/locations/ustuwanah_sarir.webp, caption: {en: Pillar of Bed (Ustuwanah as-Sarir), ms: Tiang Katil (Ustuwanah as-Sarir), ml: കിടക്ക തൂൺ (ഉസ്തുവാനതുസ്-സരീർ), ta: படுக்கை தூண் (உஸ்துவானா அஸ்-ஸரீர்)}}"
     ],
-    "thumbnail": "assets/image/locations/ustuwanah_sarir.webp",
-    "region": "madinah"
+    "videoUrls": [],
+    "socialLinks": []
   },
   {
     "id": "ustuwanah_tawbah",
-    "parentId": "masjid_nabawi",
-    "clusterId": "rawdah_pillars",
-    "subCategory": "Rawdah Pillars",
     "name": {
       "en": "Pillar of Repentance (Ustuwanah at-Tawbah)",
       "ms": "Tiang Taubat (Ustuwanah at-Tawbah)",
@@ -1564,28 +935,17 @@
     "latitude": 24.467578,
     "longitude": 39.611232,
     "type": "Rawdah Site",
+    "subCategory": "Rawdah Pillars",
+    "clusterId": "rawdah_pillars",
+    "city": "Madinah",
     "imageUrls": [
-      {
-        "url": "assets/image/locations/ustuwanah_tawbah.webp",
-        "thumbnail": "assets/image/locations/ustuwanah_tawbah.webp",
-        "caption": {
-          "en": "Pillar of Repentance (Ustuwanah at-Tawbah)",
-          "ms": "Tiang Taubat (Ustuwanah at-Tawbah)",
-          "ml": "തൗബ തൂൺ (ഉസ്തുവാനതുത്-തൗബ)",
-          "ta": "தவ்பா தூண் (உஸ்துவானா அத்-தவ்பா)"
-        }
-      }
+      "{url: assets/image/locations/ustuwanah_tawbah.webp, thumbnail: assets/image/locations/ustuwanah_tawbah.webp, caption: {en: Pillar of Repentance (Ustuwanah at-Tawbah), ms: Tiang Taubat (Ustuwanah at-Tawbah), ml: തൗബ തൂൺ (ഉസ്തുവാനതുത്-തൗബ), ta: தவ்பா தூண் (உஸ்துவானா அத்-தவ்பா)}}"
     ],
-    "thumbnail": "assets/image/locations/ustuwanah_tawbah.webp",
-    "cluster_id": "rawdah_nabawi",
-    "sub_category": "Inside Masjid Nabawi: Rawdah Mubarak & Historical Pillars",
-    "region": "madinah"
+    "videoUrls": [],
+    "socialLinks": []
   },
   {
     "id": "ustuwanah_aisha",
-    "parentId": "masjid_nabawi",
-    "clusterId": "rawdah_pillars",
-    "subCategory": "Rawdah Pillars",
     "name": {
       "en": "Pillar of Aisha (Ustuwanah Aisha)",
       "ms": "Tiang Aishah (Ustuwanah Aisha)",
@@ -1601,28 +961,17 @@
     "latitude": 24.467565,
     "longitude": 39.61132,
     "type": "Rawdah Site",
+    "subCategory": "Rawdah Pillars",
+    "clusterId": "rawdah_pillars",
+    "city": "Madinah",
     "imageUrls": [
-      {
-        "url": "assets/image/locations/ustuwanah_aisha.webp",
-        "thumbnail": "assets/image/locations/ustuwanah_aisha.webp",
-        "caption": {
-          "en": "Pillar of Aisha (Ustuwanah Aisha)",
-          "ms": "Tiang Aishah (Ustuwanah Aisha)",
-          "ml": "ആയിഷ തൂൺ (ഉസ്തുവാനതു ആയിഷ)",
-          "ta": "ஆயிஷா தூண் (உஸ்துவானா ஆயிஷா)"
-        }
-      }
+      "{url: assets/image/locations/ustuwanah_aisha.webp, thumbnail: assets/image/locations/ustuwanah_aisha.webp, caption: {en: Pillar of Aisha (Ustuwanah Aisha), ms: Tiang Aishah (Ustuwanah Aisha), ml: ആയിഷ തൂൺ (ഉസ്തുവാനതു ആയിഷ), ta: ஆயிஷா தூண் (உஸ்துவானா ஆயிஷா)}}"
     ],
-    "thumbnail": "assets/image/locations/ustuwanah_aisha.webp",
-    "cluster_id": "rawdah_nabawi",
-    "sub_category": "Inside Masjid Nabawi: Rawdah Mubarak & Historical Pillars",
-    "region": "madinah"
+    "videoUrls": [],
+    "socialLinks": []
   },
   {
     "id": "ustuwanah_mukhallaqah",
-    "parentId": "masjid_nabawi",
-    "clusterId": "rawdah_pillars",
-    "subCategory": "Rawdah Pillars",
     "name": {
       "en": "Fragrance Pillar (Ustuwanah al-Mukhallaqah)",
       "ms": "Tiang Wangian (Ustuwanah al-Mukhallaqah)",
@@ -1638,26 +987,17 @@
     "latitude": 24.467512,
     "longitude": 39.611218,
     "type": "Rawdah Site",
+    "subCategory": "Rawdah Pillars",
+    "clusterId": "rawdah_pillars",
+    "city": "Madinah",
     "imageUrls": [
-      {
-        "url": "assets/image/locations/ustuwanah_mukhallaqah.webp",
-        "thumbnail": "assets/image/locations/ustuwanah_mukhallaqah.webp",
-        "caption": {
-          "en": "Fragrance Pillar (Ustuwanah al-Mukhallaqah)",
-          "ms": "Tiang Wangian (Ustuwanah al-Mukhallaqah)",
-          "ml": "സുഗന്ധ തൂൺ (ഉസ്തുവാനതുൽ മുഖല്ലഖ)",
-          "ta": "நறுமணத் தூண் (உஸ்துவானா அல்-முகல்லகா)"
-        }
-      }
+      "{url: assets/image/locations/ustuwanah_mukhallaqah.webp, thumbnail: assets/image/locations/ustuwanah_mukhallaqah.webp, caption: {en: Fragrance Pillar (Ustuwanah al-Mukhallaqah), ms: Tiang Wangian (Ustuwanah al-Mukhallaqah), ml: സുഗന്ധ തൂൺ (ഉസ്തുവാനതുൽ മുഖല്ലഖ), ta: நறுமணத் தூண் (உஸ்துவானா அல்-முகல்லகா)}}"
     ],
-    "thumbnail": "assets/image/locations/ustuwanah_mukhallaqah.webp",
-    "region": "madinah"
+    "videoUrls": [],
+    "socialLinks": []
   },
   {
     "id": "prophet_minbar",
-    "parentId": "masjid_nabawi",
-    "clusterId": "rawdah_pillars",
-    "subCategory": "Rawdah Pillars",
     "name": {
       "en": "Minbar of the Prophet ﷺ",
       "ms": "Mimbar Rasulullah ﷺ",
@@ -1673,28 +1013,17 @@
     "latitude": 24.46759,
     "longitude": 39.611125,
     "type": "Rawdah Site",
+    "subCategory": "Rawdah Pillars",
+    "clusterId": "rawdah_pillars",
+    "city": "Madinah",
     "imageUrls": [
-      {
-        "url": "assets/image/locations/prophet_minbar.webp",
-        "thumbnail": "assets/image/locations/prophet_minbar.webp",
-        "caption": {
-          "en": "Minbar of the Prophet ﷺ",
-          "ms": "Mimbar Rasulullah ﷺ",
-          "ml": "പ്രവാചകൻ്റെ മിൻബർ ﷺ",
-          "ta": "நபிகள் நாயகத்தின் மின்பர் ﷺ"
-        }
-      }
+      "{url: assets/image/locations/prophet_minbar.webp, thumbnail: assets/image/locations/prophet_minbar.webp, caption: {en: Minbar of the Prophet ﷺ, ms: Mimbar Rasulullah ﷺ, ml: പ്രവാചകൻ്റെ മിൻബർ ﷺ, ta: நபிகள் நாயகத்தின் மின்பர் ﷺ}}"
     ],
-    "thumbnail": "assets/image/locations/prophet_minbar.webp",
-    "cluster_id": "rawdah_nabawi",
-    "sub_category": "Inside Masjid Nabawi: Rawdah Mubarak & Historical Pillars",
-    "region": "madinah"
+    "videoUrls": [],
+    "socialLinks": []
   },
   {
     "id": "prophet_mihrab",
-    "parentId": "masjid_nabawi",
-    "clusterId": "rawdah_pillars",
-    "subCategory": "Rawdah Pillars",
     "name": {
       "en": "Mihrab of the Prophet ﷺ",
       "ms": "Mihrab Rasulullah ﷺ",
@@ -1710,26 +1039,17 @@
     "latitude": 24.467548,
     "longitude": 39.611192,
     "type": "Rawdah Site",
+    "subCategory": "Rawdah Pillars",
+    "clusterId": "rawdah_pillars",
+    "city": "Madinah",
     "imageUrls": [
-      {
-        "url": "assets/image/locations/prophet_mihrab.webp",
-        "thumbnail": "assets/image/locations/prophet_mihrab.webp",
-        "caption": {
-          "en": "Mihrab of the Prophet ﷺ",
-          "ms": "Mihrab Rasulullah ﷺ",
-          "ml": "പ്രവാചകൻ്റെ മിഹ്റാബ് ﷺ",
-          "ta": "நபிகள் நாயகத்தின் மிஹ்ராப் ﷺ"
-        }
-      }
+      "{url: assets/image/locations/prophet_mihrab.webp, thumbnail: assets/image/locations/prophet_mihrab.webp, caption: {en: Mihrab of the Prophet ﷺ, ms: Mihrab Rasulullah ﷺ, ml: പ്രവാചകൻ്റെ മിഹ്റാബ് ﷺ, ta: நபிகள் நாயகத்தின் மிஹ்ராப் ﷺ}}"
     ],
-    "thumbnail": "assets/image/locations/prophet_mihrab.webp",
-    "region": "madinah"
+    "videoUrls": [],
+    "socialLinks": []
   },
   {
     "id": "hujrah_aisha_direction",
-    "parentId": "masjid_nabawi",
-    "clusterId": "rawdah_pillars",
-    "subCategory": "Rawdah Pillars",
     "name": {
       "en": "Sacred Chamber (House of Aisha RA)",
       "ms": "Hujrah Sharifah (Rumah Aishah RA)",
@@ -1745,28 +1065,17 @@
     "latitude": 24.467555,
     "longitude": 39.61153,
     "type": "Rawdah Site",
+    "subCategory": "Rawdah Pillars",
+    "clusterId": "rawdah_pillars",
+    "city": "Madinah",
     "imageUrls": [
-      {
-        "url": "assets/image/locations/hujrah_aisha_direction.webp",
-        "thumbnail": "assets/image/locations/hujrah_aisha_direction.webp",
-        "caption": {
-          "en": "Sacred Chamber (House of Aisha RA)",
-          "ms": "Hujrah Sharifah (Rumah Aishah RA)",
-          "ml": "വിശുദ്ധ മുറി (ആയിഷ (റ) യുടെ വീട്)",
-          "ta": "புனித அறை (ஆயிஷா ரலி இல்லம்)"
-        }
-      }
+      "{url: assets/image/locations/hujrah_aisha_direction.webp, thumbnail: assets/image/locations/hujrah_aisha_direction.webp, caption: {en: Sacred Chamber (House of Aisha RA), ms: Hujrah Sharifah (Rumah Aishah RA), ml: വിശുദ്ധ മുറി (ആയിഷ (റ) യുടെ വീട്), ta: புனித அறை (ஆயிஷா ரலி இல்லம்)}}"
     ],
-    "thumbnail": "assets/image/locations/hujrah_aisha_direction.webp",
-    "cluster_id": "rawdah_nabawi",
-    "sub_category": "Inside Masjid Nabawi: Rawdah Mubarak & Historical Pillars",
-    "region": "madinah"
+    "videoUrls": [],
+    "socialLinks": []
   },
   {
     "id": "house_hafsah",
-    "parentId": "masjid_nabawi",
-    "clusterId": "rawdah_pillars",
-    "subCategory": "Rawdah Pillars",
     "name": {
       "en": "House of Hafsah (RA)",
       "ms": "Rumah Hafsah (RA)",
@@ -1782,26 +1091,17 @@
     "latitude": 24.46747,
     "longitude": 39.611525,
     "type": "Rawdah Site",
+    "subCategory": "Rawdah Pillars",
+    "clusterId": "rawdah_pillars",
+    "city": "Madinah",
     "imageUrls": [
-      {
-        "url": "assets/image/locations/house_hafsah.webp",
-        "thumbnail": "assets/image/locations/house_hafsah.webp",
-        "caption": {
-          "en": "House of Hafsah (RA)",
-          "ms": "Rumah Hafsah (RA)",
-          "ml": "ഹഫ്സ (റ) യുടെ വീട്",
-          "ta": "ஹப்ஸா (ரலி) இல்லம்"
-        }
-      }
+      "{url: assets/image/locations/house_hafsah.webp, thumbnail: assets/image/locations/house_hafsah.webp, caption: {en: House of Hafsah (RA), ms: Rumah Hafsah (RA), ml: ഹഫ്സ (റ) യുടെ വീട്, ta: ஹப்ஸா (ரலி) இல்லம்}}"
     ],
-    "thumbnail": "assets/image/locations/house_hafsah.webp",
-    "region": "madinah"
+    "videoUrls": [],
+    "socialLinks": []
   },
   {
     "id": "house_ali",
-    "parentId": "masjid_nabawi",
-    "clusterId": "rawdah_pillars",
-    "subCategory": "Rawdah Pillars",
     "name": {
       "en": "House of Ali & Fatima (RA)",
       "ms": "Rumah Ali & Fatima (RA)",
@@ -1817,26 +1117,17 @@
     "latitude": 24.467615,
     "longitude": 39.61153,
     "type": "Rawdah Site",
+    "subCategory": "Rawdah Pillars",
+    "clusterId": "rawdah_pillars",
+    "city": "Madinah",
     "imageUrls": [
-      {
-        "url": "assets/image/locations/house_ali.webp",
-        "thumbnail": "assets/image/locations/house_ali.webp",
-        "caption": {
-          "en": "House of Ali & Fatima (RA)",
-          "ms": "Rumah Ali & Fatima (RA)",
-          "ml": "അലി & ഫാത്തിമ (റ) യുടെ വീട്",
-          "ta": "அலி & பாத்திமா (ரலி) இல்லம்"
-        }
-      }
+      "{url: assets/image/locations/house_ali.webp, thumbnail: assets/image/locations/house_ali.webp, caption: {en: House of Ali & Fatima (RA), ms: Rumah Ali & Fatima (RA), ml: അലി & ഫാത്തിമ (റ) യുടെ വീട്, ta: அலி & பாத்திமா (ரலி) இல்லம்}}"
     ],
-    "thumbnail": "assets/image/locations/house_ali.webp",
-    "region": "madinah"
+    "videoUrls": [],
+    "socialLinks": []
   },
   {
     "id": "maqam_shuhada_uhud",
-    "parentId": "jabal_uhud",
-    "clusterId": "uhud_precinct",
-    "subCategory": "Uhud Battlefield",
     "name": {
       "en": "Martyrs of Uhud (Maqam Shuhada Uhud)",
       "ms": "Makam Para Syuhada Uhud",
@@ -1852,38 +1143,18 @@
     "latitude": 24.503451,
     "longitude": 39.611893,
     "type": "Historical",
+    "subCategory": "Uhud Battlefield",
+    "clusterId": "uhud_precinct",
+    "city": "Madinah",
     "imageUrls": [
-      {
-        "url": "assets/image/locations/maqam_shuhada_uhud.webp",
-        "thumbnail": "assets/image/locations/maqam_shuhada_uhud.webp",
-        "caption": {
-          "en": "Martyrs of Uhud (Maqam Shuhada Uhud)",
-          "ms": "Makam Syuhada Uhud",
-          "ml": "ഉഹ്ദ് ശുഹദാക്കളുടെ മഖാം",
-          "ta": "உஹுத் ஷுஹதாக்கள் அடக்கத்தலம்"
-        }
-      },
-      {
-        "url": "assets/image/locations/shuhada_uhud.webp",
-        "thumbnail": "assets/image/locations/shuhada_uhud.webp",
-        "caption": {
-          "en": "Maqam Shuhada Uhud",
-          "ms": "Makam Syuhada Uhud",
-          "ml": "ഉഹുദ് ശുഹദാക്കൾ അന്ത്യവിശ്രമം കൊള്ളുന്ന സ്ഥലം",
-          "ta": "உஹுத் ஷுஹதாக்கள் அடக்கத்தலம்"
-        }
-      }
+      "{url: assets/image/locations/maqam_shuhada_uhud.webp, thumbnail: assets/image/locations/maqam_shuhada_uhud.webp, caption: {en: Martyrs of Uhud (Maqam Shuhada Uhud), ms: Makam Syuhada Uhud, ml: ഉഹ്ദ് ശുഹദാക്കളുടെ മഖാം, ta: உஹுத் ஷுஹதாக்கள் அடக்கத்தலம்}}",
+      "{url: assets/image/locations/shuhada_uhud.webp, thumbnail: assets/image/locations/shuhada_uhud.webp, caption: {en: Maqam Shuhada Uhud, ms: Makam Syuhada Uhud, ml: ഉഹുദ് ശുഹദാക്കൾ അന്ത്യവിശ്രമം കൊള്ളുന്ന സ്ഥലം, ta: உஹுத் ஷுஹதாக்கள் அடக்கத்தலம்}}"
     ],
-    "thumbnail": "assets/image/locations/maqam_shuhada_uhud.webp",
-    "cluster_id": "uhud_precinct",
-    "sub_category": "Uhud Battlefield & Landmarks",
-    "region": "madinah"
+    "videoUrls": [],
+    "socialLinks": []
   },
   {
     "id": "bab_al_salam",
-    "parentId": "masjid_nabawi",
-    "clusterId": "salam_rasulullah_path",
-    "subCategory": "Salam Trail",
     "name": {
       "en": "Bab al-Salam (Gate of Peace)",
       "ms": "Pintu Bab al-Salam",
@@ -1899,26 +1170,17 @@
     "latitude": 24.46747,
     "longitude": 39.6107,
     "type": "Salam Site",
+    "subCategory": "Salam Trail",
+    "clusterId": "salam_rasulullah_path",
+    "city": "Madinah",
     "imageUrls": [
-      {
-        "url": "assets/image/locations/bab_al_salam.webp",
-        "thumbnail": "assets/image/locations/bab_al_salam.webp",
-        "caption": {
-          "en": "Bab al-Salam (Gate of Peace)",
-          "ms": "Pintu Bab al-Salam",
-          "ml": "ബാബുസ്സലാം വാതിൽ",
-          "ta": "பாப் அல்-ஸலாம் வாசல்"
-        }
-      }
+      "{url: assets/image/locations/bab_al_salam.webp, thumbnail: assets/image/locations/bab_al_salam.webp, caption: {en: Bab al-Salam (Gate of Peace), ms: Pintu Bab al-Salam, ml: ബാബുസ്സലാം വാതിൽ, ta: பாப் அல்-ஸலாம் வாசல்}}"
     ],
-    "thumbnail": "assets/image/locations/bab_al_salam.webp",
-    "region": "madinah"
+    "videoUrls": [],
+    "socialLinks": []
   },
   {
     "id": "window_house_hafsah",
-    "parentId": "masjid_nabawi",
-    "clusterId": "salam_rasulullah_path",
-    "subCategory": "Salam Trail",
     "name": {
       "en": "Window of Hafsah (RA) - Salam Facing",
       "ms": "Jendela Rumah Hafsah (RA) - Arah Salam",
@@ -1934,26 +1196,17 @@
     "latitude": 24.467472,
     "longitude": 39.611518,
     "type": "Salam Site",
+    "subCategory": "Salam Trail",
+    "clusterId": "salam_rasulullah_path",
+    "city": "Madinah",
     "imageUrls": [
-      {
-        "url": "assets/image/locations/window_house_hafsah.webp",
-        "thumbnail": "assets/image/locations/window_house_hafsah.webp",
-        "caption": {
-          "en": "Window of Hafsah (RA) - Salam Facing",
-          "ms": "Jendela Rumah Hafsah (RA) - Arah Salam",
-          "ml": "ഹഫ്സ (റ) വീടിന്റെ ജനൽ - സലാം വാതിൽ",
-          "ta": "ஹப்ஸா (ரலி) இல்ல சன்னல் - ஸலாம் திசை"
-        }
-      }
+      "{url: assets/image/locations/window_house_hafsah.webp, thumbnail: assets/image/locations/window_house_hafsah.webp, caption: {en: Window of Hafsah (RA) - Salam Facing, ms: Jendela Rumah Hafsah (RA) - Arah Salam, ml: ഹഫ്സ (റ) വീടിന്റെ ജനൽ - സലാം വാതിൽ, ta: ஹப்ஸா (ரலி) இல்ல சன்னல் - ஸலாம் திசை}}"
     ],
-    "thumbnail": "assets/image/locations/window_house_hafsah.webp",
-    "region": "madinah"
+    "videoUrls": [],
+    "socialLinks": []
   },
   {
     "id": "bab_al_baqi",
-    "parentId": "masjid_nabawi",
-    "clusterId": "salam_rasulullah_path",
-    "subCategory": "Salam Trail",
     "name": {
       "en": "Bab al-Baqi (Exit Gate to Baqi)",
       "ms": "Pintu Bab al-Baqi",
@@ -1969,26 +1222,17 @@
     "latitude": 24.46745,
     "longitude": 39.61164,
     "type": "Salam Site",
+    "subCategory": "Salam Trail",
+    "clusterId": "salam_rasulullah_path",
+    "city": "Madinah",
     "imageUrls": [
-      {
-        "url": "assets/image/locations/bab_al_baqi.webp",
-        "thumbnail": "assets/image/locations/bab_al_baqi.webp",
-        "caption": {
-          "en": "Bab al-Baqi (Exit Gate to Baqi)",
-          "ms": "Pintu Bab al-Baqi",
-          "ml": "ബാബുൽ ബഖീ വാതിൽ",
-          "ta": "பாப் அல்-பகீ வாசல்"
-        }
-      }
+      "{url: assets/image/locations/bab_al_baqi.webp, thumbnail: assets/image/locations/bab_al_baqi.webp, caption: {en: Bab al-Baqi (Exit Gate to Baqi), ms: Pintu Bab al-Baqi, ml: ബാബുൽ ബഖീ വാതിൽ, ta: பாப் அல்-பகீ வாசல்}}"
     ],
-    "thumbnail": "assets/image/locations/bab_al_baqi.webp",
-    "region": "madinah"
+    "videoUrls": [],
+    "socialLinks": []
   },
   {
     "id": "jenazah_building",
-    "parentId": "masjid_nabawi",
-    "clusterId": "salam_rasulullah_path",
-    "subCategory": "Salam Trail",
     "name": {
       "en": "Al-Jana'iz (Jenazah Building)",
       "ms": "Bangunan Al-Jana'iz (Jenazah)",
@@ -2004,26 +1248,17 @@
     "latitude": 24.46757,
     "longitude": 39.61165,
     "type": "Salam Site",
+    "subCategory": "Salam Trail",
+    "clusterId": "salam_rasulullah_path",
+    "city": "Madinah",
     "imageUrls": [
-      {
-        "url": "assets/image/locations/jenazah_building.webp",
-        "thumbnail": "assets/image/locations/jenazah_building.webp",
-        "caption": {
-          "en": "Al-Jana'iz (Jenazah Building)",
-          "ms": "Bangunan Al-Jana'iz (Jenazah)",
-          "ml": "അൽ-ജനാഇസ് മന്ദിരം",
-          "ta": "ஜனாஸா கட்டிடம்"
-        }
-      }
+      "{url: assets/image/locations/jenazah_building.webp, thumbnail: assets/image/locations/jenazah_building.webp, caption: {en: Al-Jana'iz (Jenazah Building), ms: Bangunan Al-Jana'iz (Jenazah), ml: അൽ-ജനാഇസ് മന്ദിരം, ta: ஜனாஸா கட்டிடம்}}"
     ],
-    "thumbnail": "assets/image/locations/jenazah_building.webp",
-    "region": "madinah"
+    "videoUrls": [],
+    "socialLinks": []
   },
   {
     "id": "bir_al_khatam",
-    "parentId": "masjid_quba",
-    "clusterId": "quba_area",
-    "subCategory": "Quba Area",
     "name": {
       "en": "Well of Khatim (Bir al-Khatam)",
       "ms": "Telaga Khatim (Bir al-Khatam)",
@@ -2039,38 +1274,18 @@
     "latitude": 24.438926,
     "longitude": 39.61671,
     "type": "Historical",
+    "subCategory": "Quba Area",
+    "clusterId": "quba_area",
+    "city": "Madinah",
     "imageUrls": [
-      {
-        "url": "assets/image/locations/bir_al_khatam.webp",
-        "thumbnail": "assets/image/locations/bir_al_khatam.webp",
-        "caption": {
-          "en": "Well of Khatim (Bir al-Khatam)",
-          "ms": "Telaga Khatim (Bir al-Khatam)",
-          "ml": "ഖാതമ് കിണർ (ബീർ അൽ-ഖാതമ്)",
-          "ta": "காதம் கிணறு (பீர் அல்-காதம்)"
-        }
-      },
-      {
-        "url": "assets/image/locations/bir_khatim.webp",
-        "thumbnail": "assets/image/locations/bir_khatim.webp",
-        "caption": {
-          "en": "Well of Khatim (Bir al-Khatam)",
-          "ms": "Telaga Khatim (Bir al-Khatam)",
-          "ml": "ഖാതമ് കിണർ (ബീർ അൽ-ഖാതമ്)",
-          "ta": "காதம் கிணறு (பீர் அல்-காதம்)"
-        }
-      }
+      "{url: assets/image/locations/bir_al_khatam.webp, thumbnail: assets/image/locations/bir_al_khatam.webp, caption: {en: Well of Khatim (Bir al-Khatam), ms: Telaga Khatim (Bir al-Khatam), ml: ഖാതമ് കിണർ (ബീർ അൽ-ഖാതമ്), ta: காதம் கிணறு (பீர் அல்-காதம்)}}",
+      "{url: assets/image/locations/bir_khatim.webp, thumbnail: assets/image/locations/bir_khatim.webp, caption: {en: Well of Khatim (Bir al-Khatam), ms: Telaga Khatim (Bir al-Khatam), ml: ഖാതമ് കിണർ (ബീർ അൽ-ഖാതമ്), ta: காதம் கிணறு (பீர் அல்-காதம்)}}"
     ],
-    "thumbnail": "assets/image/locations/bir_al_khatam.webp",
-    "cluster_id": "quba_precinct",
-    "sub_category": "The Quba Precinct & Sahabah Residences",
-    "region": "madinah"
+    "videoUrls": [],
+    "socialLinks": []
   },
   {
     "id": "ansar_historic_houses",
-    "parentId": "masjid_quba",
-    "clusterId": "quba_area",
-    "subCategory": "Quba Area",
     "name": {
       "en": "Historic Houses of Ansar at Quba",
       "ms": "Rumah Bersejarah Ansar di Quba",
@@ -2086,26 +1301,17 @@
     "latitude": 24.438559,
     "longitude": 39.616941,
     "type": "Historical",
+    "subCategory": "Quba Area",
+    "clusterId": "quba_area",
+    "city": "Madinah",
     "imageUrls": [
-      {
-        "url": "assets/image/locations/ansar_historic_houses.webp",
-        "thumbnail": "assets/image/locations/ansar_historic_houses.webp",
-        "caption": {
-          "en": "Historic Houses of Ansar at Quba",
-          "ms": "Rumah Bersejarah Ansar di Quba",
-          "ml": "ഖുബായിലെ അൻസാറുകളുടെ ചരിത്ര വീടുകൾ",
-          "ta": "குபாவில் உள்ள அன்சாரிகளின் வரலாற்று இல்லங்கள்"
-        }
-      }
+      "{url: assets/image/locations/ansar_historic_houses.webp, thumbnail: assets/image/locations/ansar_historic_houses.webp, caption: {en: Historic Houses of Ansar at Quba, ms: Rumah Bersejarah Ansar di Quba, ml: ഖുബായിലെ അൻസാറുകളുടെ ചരിത്ര വീടുകൾ, ta: குபாவில் உள்ள அன்சாரிகளின் வரலாற்று இல்லங்கள்}}"
     ],
-    "thumbnail": "assets/image/locations/ansar_historic_houses.webp",
-    "region": "madinah"
+    "videoUrls": [],
+    "socialLinks": []
   },
   {
     "id": "maqam_rasulullah",
-    "parentId": "masjid_nabawi",
-    "clusterId": "rawdah_pillars",
-    "subCategory": "Rawdah Pillars",
     "name": {
       "en": "Maqam Rasulullah ﷺ (Greeting Station)",
       "ms": "Maqam Rasulullah ﷺ (Arah Salam)",
@@ -2121,26 +1327,17 @@
     "latitude": 24.467488,
     "longitude": 39.611562,
     "type": "Rawdah Site",
+    "subCategory": "Rawdah Pillars",
+    "clusterId": "rawdah_pillars",
+    "city": "Madinah",
     "imageUrls": [
-      {
-        "url": "assets/image/locations/maqam_rasulullah.webp",
-        "thumbnail": "assets/image/locations/maqam_rasulullah.webp",
-        "caption": {
-          "en": "Maqam Rasulullah ﷺ (Greeting Station)",
-          "ms": "Maqam Rasulullah ﷺ (Arah Salam)",
-          "ml": "മഖാം റസൂലുള്ളാഹ് ﷺ (സലാം സ്ഥലം)",
-          "ta": "மக்காம் ரசூலுல்லாஹ் ﷺ (ஸலாம் இடம்)"
-        }
-      }
+      "{url: assets/image/locations/maqam_rasulullah.webp, thumbnail: assets/image/locations/maqam_rasulullah.webp, caption: {en: Maqam Rasulullah ﷺ (Greeting Station), ms: Maqam Rasulullah ﷺ (Arah Salam), ml: മഖാം റസൂലുള്ളാഹ് ﷺ (സലാം സ്ഥലം), ta: மக்காம் ரசூலுல்லாஹ் ﷺ (ஸலாம் இடம்)}}"
     ],
-    "thumbnail": "assets/image/locations/maqam_rasulullah.webp",
-    "region": "madinah"
+    "videoUrls": [],
+    "socialLinks": []
   },
   {
     "id": "ustuwanah_hannana",
-    "parentId": "masjid_nabawi",
-    "clusterId": "rawdah_pillars",
-    "subCategory": "Rawdah Pillars",
     "name": {
       "en": "Pillar of the Weeping Palm Trunk (Ustuwanah al-Hannanah)",
       "ms": "Tiang Batang Kurma Menangis (Ustuwanah al-Hannanah)",
@@ -2156,28 +1353,17 @@
     "latitude": 24.467411,
     "longitude": 39.611166,
     "type": "Rawdah Site",
+    "subCategory": "Rawdah Pillars",
+    "clusterId": "rawdah_pillars",
+    "city": "Madinah",
     "imageUrls": [
-      {
-        "url": "assets/image/locations/ustuwanah_hannana.webp",
-        "thumbnail": "assets/image/locations/ustuwanah_hannana.webp",
-        "caption": {
-          "en": "Pillar of the Weeping Palm Trunk (Ustuwanah al-Hannanah)",
-          "ms": "Tiang Batang Kurma Menangis (Ustuwanah al-Hannanah)",
-          "ml": "കഴുത ഈന്തപ്പന മരത്തടി തൂൺ (ഉസ്തുവാനതുൽ ഹന്നാന)",
-          "ta": "அழுத பேரீச்ச மரத்தடி தூண் (உஸ்துவானா அல்-ஹன்னானா)"
-        }
-      }
+      "{url: assets/image/locations/ustuwanah_hannana.webp, thumbnail: assets/image/locations/ustuwanah_hannana.webp, caption: {en: Pillar of the Weeping Palm Trunk (Ustuwanah al-Hannanah), ms: Tiang Batang Kurma Menangis (Ustuwanah al-Hannanah), ml: കഴുത ഈന്തപ്പന മരത്തടി തൂൺ (ഉസ്തുവാനതുൽ ഹന്നാന), ta: அழுத பேரீச்ச மரத்தடி தூண் (உஸ்துவானா அல்-ஹன்னானா)}}"
     ],
-    "thumbnail": "assets/image/locations/ustuwanah_hannana.webp",
-    "cluster_id": "rawdah_nabawi",
-    "sub_category": "Inside Masjid Nabawi: Rawdah Mubarak & Historical Pillars",
-    "region": "madinah"
+    "videoUrls": [],
+    "socialLinks": []
   },
   {
     "id": "bir_ghars",
-    "parentId": "masjid_nabawi",
-    "clusterId": "madinah_wells",
-    "subCategory": "Prophet's Wells",
     "name": {
       "en": "Well of Ghars (Bir Ghars)",
       "ms": "Telaga Ghars (Bir Ghars)",
@@ -2193,28 +1379,17 @@
     "latitude": 24.444991,
     "longitude": 39.62716,
     "type": "Historical",
+    "subCategory": "Prophet's Wells",
+    "clusterId": "madinah_wells",
+    "city": "Madinah",
     "imageUrls": [
-      {
-        "url": "assets/image/locations/bir_ghars.webp",
-        "thumbnail": "assets/image/locations/bir_ghars.webp",
-        "caption": {
-          "en": "Well of Ghars (Bir Ghars)",
-          "ms": "Telaga Ghars (Bir Ghars)",
-          "ml": "ഗർസ് കിണർ (ബീർ ഗർസ്)",
-          "ta": "கர்ஸ் கிணறு (பீர் கர்ஸ்)"
-        }
-      }
+      "{url: assets/image/locations/bir_ghars.webp, thumbnail: assets/image/locations/bir_ghars.webp, caption: {en: Well of Ghars (Bir Ghars), ms: Telaga Ghars (Bir Ghars), ml: ഗർസ് കിണർ (ബീർ ഗർസ്), ta: கர்ஸ் கிணறு (பீர் கர்ஸ்)}}"
     ],
-    "thumbnail": "assets/image/locations/bir_ghars.webp",
-    "cluster_id": "historic_wells_madinah",
-    "sub_category": "Historic Wells of the Prophet (Abar an-Nabi)",
-    "region": "madinah"
+    "videoUrls": [],
+    "socialLinks": []
   },
   {
     "id": "bir_ha",
-    "parentId": "masjid_nabawi",
-    "clusterId": "madinah_wells",
-    "subCategory": "Prophet's Wells",
     "name": {
       "en": "Well of Ha (Bir Ha)",
       "ms": "Telaga Ha (Bir Ha)",
@@ -2230,28 +1405,17 @@
     "latitude": 24.4695,
     "longitude": 39.6115,
     "type": "Historical",
+    "subCategory": "Prophet's Wells",
+    "clusterId": "madinah_wells",
+    "city": "Madinah",
     "imageUrls": [
-      {
-        "url": "assets/image/locations/bir_ha.webp",
-        "thumbnail": "assets/image/locations/bir_ha.webp",
-        "caption": {
-          "en": "Well of Ha (Bir Ha)",
-          "ms": "Telaga Ha (Bir Ha)",
-          "ml": "ഹാ കിണർ (ബീർ ഹാ)",
-          "ta": "ஹா கிணறு (பீர் ஹா)"
-        }
-      }
+      "{url: assets/image/locations/bir_ha.webp, thumbnail: assets/image/locations/bir_ha.webp, caption: {en: Well of Ha (Bir Ha), ms: Telaga Ha (Bir Ha), ml: ഹാ കിണർ (ബീർ ഹാ), ta: ஹா கிணறு (பீர் ஹா)}}"
     ],
-    "thumbnail": "assets/image/locations/bir_ha.webp",
-    "cluster_id": "historic_wells_madinah",
-    "sub_category": "Historic Wells of the Prophet (Abar an-Nabi)",
-    "region": "madinah"
+    "videoUrls": [],
+    "socialLinks": []
   },
   {
     "id": "bir_osman",
-    "parentId": "masjid_nabawi",
-    "clusterId": "madinah_wells",
-    "subCategory": "Prophet's Wells",
     "name": {
       "en": "Well of Uthman (Bir Ruma / Bir Osman)",
       "ms": "Telaga Uthman (Bir Ruma / Bir Osman)",
@@ -2267,28 +1431,17 @@
     "latitude": 24.4925,
     "longitude": 39.5935,
     "type": "Historical",
+    "subCategory": "Prophet's Wells",
+    "clusterId": "madinah_wells",
+    "city": "Madinah",
     "imageUrls": [
-      {
-        "url": "assets/image/locations/bir_osman.webp",
-        "thumbnail": "assets/image/locations/bir_osman.webp",
-        "caption": {
-          "en": "Well of Uthman (Bir Ruma / Bir Osman)",
-          "ms": "Telaga Uthman (Bir Ruma / Bir Osman)",
-          "ml": "ഉസ്മാൻ കിണർ (ബീർ റുമ / ബീർ ഉസ്മാൻ)",
-          "ta": "உஸ்மான் கிணறு (பீர் ரூமா / பீர் உஸ்மான்)"
-        }
-      }
+      "{url: assets/image/locations/bir_osman.webp, thumbnail: assets/image/locations/bir_osman.webp, caption: {en: Well of Uthman (Bir Ruma / Bir Osman), ms: Telaga Uthman (Bir Ruma / Bir Osman), ml: ഉസ്മാൻ കിണർ (ബീർ റുമ / ബീർ ഉസ്മാൻ), ta: உஸ்மான் கிணறு (பீர் ரூமா / பீர் உஸ்மான்)}}"
     ],
-    "thumbnail": "assets/image/locations/bir_osman.webp",
-    "cluster_id": "historic_wells_madinah",
-    "sub_category": "Historic Wells of the Prophet (Abar an-Nabi)",
-    "region": "madinah"
+    "videoUrls": [],
+    "socialLinks": []
   },
   {
     "id": "masjid_salman_farsi",
-    "parentId": "masjid_fatah",
-    "clusterId": "khandaq_cluster",
-    "subCategory": "Khandaq Mosques",
     "name": {
       "en": "Masjid Salman al-Farsi",
       "ms": "Masjid Salman al-Farsi",
@@ -2304,28 +1457,17 @@
     "latitude": 24.47747,
     "longitude": 39.59562,
     "type": "Mosque",
+    "subCategory": "Khandaq Mosques",
+    "clusterId": "khandaq_cluster",
+    "city": "Madinah",
     "imageUrls": [
-      {
-        "url": "assets/image/locations/masjid_salman_farsi.webp",
-        "thumbnail": "assets/image/locations/masjid_salman_farsi.webp",
-        "caption": {
-          "en": "Masjid Salman al-Farsi",
-          "ms": "Masjid Salman al-Farsi",
-          "ml": "മസ്ജിദ് സൽമാനുൽ ഫാർസി",
-          "ta": "மஸ்ஜித் சல்மான் அல்-பார்சி"
-        }
-      }
+      "{url: assets/image/locations/masjid_salman_farsi.webp, thumbnail: assets/image/locations/masjid_salman_farsi.webp, caption: {en: Masjid Salman al-Farsi, ms: Masjid Salman al-Farsi, ml: മസ്ജിദ് സൽമാനുൽ ഫാർസി, ta: மஸ்ஜித் சல்மான் அல்-பார்சி}}"
     ],
-    "thumbnail": "assets/image/locations/masjid_salman_farsi.webp",
-    "cluster_id": "seven_mosques_khandaq",
-    "sub_category": "Battle of the Trench (The Seven Mosques)",
-    "region": "madinah"
+    "videoUrls": [],
+    "socialLinks": []
   },
   {
     "id": "masjid_umar_khandaq",
-    "parentId": "masjid_fatah",
-    "clusterId": "khandaq_cluster",
-    "subCategory": "Khandaq Mosques",
     "name": {
       "en": "Masjid Umar ibn al-Khattab",
       "ms": "Masjid Umar ibn al-Khattab",
@@ -2341,26 +1483,17 @@
     "latitude": 24.47694,
     "longitude": 39.59497,
     "type": "Mosque",
+    "subCategory": "Khandaq Mosques",
+    "clusterId": "khandaq_cluster",
+    "city": "Madinah",
     "imageUrls": [
-      {
-        "url": "assets/image/locations/masjid_umar_khandaq.webp",
-        "thumbnail": "assets/image/locations/masjid_umar_khandaq.webp",
-        "caption": {
-          "en": "Masjid Umar ibn al-Khattab",
-          "ms": "Masjid Umar ibn al-Khattab",
-          "ml": "മസ്ജിദ് ഉമർ ഇബ്നുൽ ഖത്താബ്",
-          "ta": "மஸ்ஜித் உமர் பின் அல்-கத்தாப்"
-        }
-      }
+      "{url: assets/image/locations/masjid_umar_khandaq.webp, thumbnail: assets/image/locations/masjid_umar_khandaq.webp, caption: {en: Masjid Umar ibn al-Khattab, ms: Masjid Umar ibn al-Khattab, ml: മസ്ജിദ് ഉമർ ഇബ്നുൽ ഖത്താബ്, ta: மஸ்ஜித் உமர் பின் அல்-கத்தாப்}}"
     ],
-    "thumbnail": "assets/image/locations/masjid_umar_khandaq.webp",
-    "region": "madinah"
+    "videoUrls": [],
+    "socialLinks": []
   },
   {
     "id": "masjid_ali_khandaq",
-    "parentId": "masjid_fatah",
-    "clusterId": "khandaq_cluster",
-    "subCategory": "Khandaq Mosques",
     "name": {
       "en": "Masjid Ali ibn Abi Talib",
       "ms": "Masjid Ali ibn Abi Talib",
@@ -2376,26 +1509,17 @@
     "latitude": 24.47581,
     "longitude": 39.59501,
     "type": "Mosque",
+    "subCategory": "Khandaq Mosques",
+    "clusterId": "khandaq_cluster",
+    "city": "Madinah",
     "imageUrls": [
-      {
-        "url": "assets/image/locations/masjid_ali_khandaq.webp",
-        "thumbnail": "assets/image/locations/masjid_ali_khandaq.webp",
-        "caption": {
-          "en": "Masjid Ali ibn Abi Talib",
-          "ms": "Masjid Ali ibn Abi Talib",
-          "ml": "മസ്ജിദ് അലി ഇബ്നു അബീത്വാലിബ്",
-          "ta": "மஸ்ஜித் அலி பின் அபீ தாலிப்"
-        }
-      }
+      "{url: assets/image/locations/masjid_ali_khandaq.webp, thumbnail: assets/image/locations/masjid_ali_khandaq.webp, caption: {en: Masjid Ali ibn Abi Talib, ms: Masjid Ali ibn Abi Talib, ml: മസ്ജിദ് അലി ഇബ്നു അബീത്വാലിബ്, ta: மஸ்ஜித் அலி பின் அபீ தாலிப்}}"
     ],
-    "thumbnail": "assets/image/locations/masjid_ali_khandaq.webp",
-    "region": "madinah"
+    "videoUrls": [],
+    "socialLinks": []
   },
   {
     "id": "masjid_saad_muadh",
-    "parentId": "masjid_fatah",
-    "clusterId": "khandaq_cluster",
-    "subCategory": "Khandaq Mosques",
     "name": {
       "en": "Masjid Saad ibn Muadh",
       "ms": "Masjid Saad ibn Muadh",
@@ -2411,26 +1535,17 @@
     "latitude": 24.47621,
     "longitude": 39.59562,
     "type": "Mosque",
+    "subCategory": "Khandaq Mosques",
+    "clusterId": "khandaq_cluster",
+    "city": "Madinah",
     "imageUrls": [
-      {
-        "url": "assets/image/locations/masjid_saad_muadh.webp",
-        "thumbnail": "assets/image/locations/masjid_saad_muadh.webp",
-        "caption": {
-          "en": "Masjid Saad ibn Muadh",
-          "ms": "Masjid Saad ibn Muadh",
-          "ml": "മസ്ജിദ് സഅ്ദ് ഇബ്നു മുആദ്",
-          "ta": "மஸ்ஜித் ஸஃத் பின் முஆத்"
-        }
-      }
+      "{url: assets/image/locations/masjid_saad_muadh.webp, thumbnail: assets/image/locations/masjid_saad_muadh.webp, caption: {en: Masjid Saad ibn Muadh, ms: Masjid Saad ibn Muadh, ml: മസ്ജിദ് സഅ്ദ് ഇബ്നു മുആദ്, ta: மஸ்ஜித் ஸஃத் பின் முஆத்}}"
     ],
-    "thumbnail": "assets/image/locations/masjid_saad_muadh.webp",
-    "region": "madinah"
+    "videoUrls": [],
+    "socialLinks": []
   },
   {
     "id": "masjid_abu_bakr_khandaq",
-    "parentId": "masjid_fatah",
-    "clusterId": "khandaq_cluster",
-    "subCategory": "Khandaq Mosques",
     "name": {
       "en": "Masjid Abu Bakr as-Siddiq",
       "ms": "Masjid Abu Bakr as-Siddiq",
@@ -2446,26 +1561,17 @@
     "latitude": 24.47651,
     "longitude": 39.59522,
     "type": "Mosque",
+    "subCategory": "Khandaq Mosques",
+    "clusterId": "khandaq_cluster",
+    "city": "Madinah",
     "imageUrls": [
-      {
-        "url": "assets/image/locations/masjid_abu_bakr_khandaq.webp",
-        "thumbnail": "assets/image/locations/masjid_abu_bakr_khandaq.webp",
-        "caption": {
-          "en": "Masjid Abu Bakr as-Siddiq",
-          "ms": "Masjid Abu Bakr as-Siddiq",
-          "ml": "മസ്ജിദ് അബൂബക്കർ സിദ്ദീഖ്",
-          "ta": "மஸ்ஜித் அபூபக்கர் சித்தீக்"
-        }
-      }
+      "{url: assets/image/locations/masjid_abu_bakr_khandaq.webp, thumbnail: assets/image/locations/masjid_abu_bakr_khandaq.webp, caption: {en: Masjid Abu Bakr as-Siddiq, ms: Masjid Abu Bakr as-Siddiq, ml: മസ്ജിദ് അബൂബക്കർ സിദ്ദീഖ്, ta: மஸ்ஜித் அபூபக்கர் சித்தீக்}}"
     ],
-    "thumbnail": "assets/image/locations/masjid_abu_bakr_khandaq.webp",
-    "region": "madinah"
+    "videoUrls": [],
+    "socialLinks": []
   },
   {
     "id": "masjid_fatimah_khandaq",
-    "parentId": "masjid_fatah",
-    "clusterId": "khandaq_cluster",
-    "subCategory": "Khandaq Mosques",
     "name": {
       "en": "Masjid Fatimah az-Zahra",
       "ms": "Masjid Fatimah az-Zahra",
@@ -2481,20 +1587,14 @@
     "latitude": 24.4762,
     "longitude": 39.5956,
     "type": "Mosque",
+    "subCategory": "Khandaq Mosques",
+    "clusterId": "khandaq_cluster",
+    "city": "Madinah",
     "imageUrls": [
-      {
-        "url": "assets/image/locations/masjid_fatimah_khandaq.webp",
-        "thumbnail": "assets/image/locations/masjid_fatimah_khandaq.webp",
-        "caption": {
-          "en": "Masjid Fatimah az-Zahra",
-          "ms": "Masjid Fatimah az-Zahra",
-          "ml": "മസ്ജിദ് ഫാത്തിമത്തുസ്സഹ്റ",
-          "ta": "மஸ்ஜித் பாத்திமா அஸ்-ஸஹ்ரா"
-        }
-      }
+      "{url: assets/image/locations/masjid_fatimah_khandaq.webp, thumbnail: assets/image/locations/masjid_fatimah_khandaq.webp, caption: {en: Masjid Fatimah az-Zahra, ms: Masjid Fatimah az-Zahra, ml: മസ്ജിദ് ഫാത്തിമത്തുസ്സഹ്റ, ta: மஸ்ஜித் பாத்திமா அஸ்-ஸஹ்ரா}}"
     ],
-    "thumbnail": "assets/image/locations/masjid_fatimah_khandaq.webp",
-    "region": "madinah"
+    "videoUrls": [],
+    "socialLinks": []
   },
   {
     "id": "bab_al_kaaba",
@@ -2510,30 +1610,17 @@
       "ml": "കഅ്ബയുടെ സ്വർണ്ണ വാതിലും പ്രാർത്ഥനക്ക് ഉത്തരം ലഭിക്കുന്ന മുൽതസം മതിലും. ഹജറുൽ അസ്‌വദിനും കഅ്ബയുടെ വാതിലിനും ഇടയിലുള്ള ഭാഗമാണ് മുൽതസം. ഇവിടെ വെച്ചുള്ള പ്രാർത്ഥനകൾക്ക് ഏറെ ഉത്തരമുണ്ട്.",
       "ta": "கஅபாவின் தங்க வாசல் மற்றும் துஆ ஏற்றுக்கொள்ளப்படும் முல்தஸம் சுவர். ஹஜருல் அஸ்வத்திற்கும் கஅபாவின் வாசலுக்கும் இடைப்பட்ட இரண்டு மீட்டர் சுவர் பகுதி முல்தஸம் எனப்படும்."
     },
-    "thumbnail": "assets/image/locations/bab_al_kaaba.webp",
     "latitude": 21.422852,
     "longitude": 39.826292,
     "type": "Holy Site",
-    "cluster_id": "mataf_kaabah",
-    "sub_category": "Inside the Mataf & The Holy Kaaba",
-    "region": "makkah",
-    "chronologyDate": null,
+    "subCategory": "Inside the Mataf & The Holy Kaaba",
+    "clusterId": "mataf_kaabah",
+    "city": "Makkah",
     "imageUrls": [
-      {
-        "url": "assets/image/locations/bab_al_kaaba.webp",
-        "thumbnail": "assets/image/locations/bab_al_kaaba.webp",
-        "caption": {
-          "en": "Bab al-Kaaba & Al-Multazam",
-          "ms": "Pintu Kaabah & Al-Multazam",
-          "ml": "ബാബുൽ കഅ്ബയും മുൽതസമും",
-          "ta": "கஅபா வாசல் மற்றும் முல்தஸம்"
-        }
-      }
+      "{url: assets/image/locations/bab_al_kaaba.webp, thumbnail: assets/image/locations/bab_al_kaaba.webp, caption: {en: Bab al-Kaaba & Al-Multazam, ms: Pintu Kaabah & Al-Multazam, ml: ബാബുൽ കഅ്ബയും മുൽതസമും, ta: கஅபா வாசல் மற்றும் முல்தஸம்}}"
     ],
     "videoUrls": [],
-    "socialLinks": [],
-    "clusterId": "mataf_kaabah",
-    "subCategory": "Inside the Mataf & The Holy Kaaba"
+    "socialLinks": []
   },
   {
     "id": "hijr_ismail",
@@ -2549,30 +1636,17 @@
       "ml": "കഅ്ബയുടെ മേൽക്കൂരയിലെ സ്വർണ്ണ പാത്തിക്ക് കീഴെയുള്ള അർദ്ധവൃത്താകൃതിയിലുള്ള ഭാഗം. ഹതീമിനുള്ളിൽ നമസ്കരിക്കുന്നത് കഅ്ബയ്ക്കുള്ളിൽ നമസ്കരിക്കുന്നതിന് തുല്യമാണ്. ഇതിന് മുകളിലാണ് മീസാബുർറഹ്മ സ്ഥിതി ചെയ്യുന്നത്.",
       "ta": "கஅபாவின் தங்க மழைநீர்ப் பீலிக்கு கீழே உள்ள அரைவட்ட மதில் பகுதி. ஹதீமுக்குள் தொழுவது கஅபாவிற்குள் தொழுவதற்குச் சமமாகும். இதன் மேல் தங்க மழைநீர் தாரை உள்ளது."
     },
-    "thumbnail": "assets/image/locations/hijr_ismail.webp",
     "latitude": 21.422602,
     "longitude": 39.826115,
     "type": "Holy Site",
-    "cluster_id": "mataf_kaabah",
-    "sub_category": "Inside the Mataf & The Holy Kaaba",
-    "region": "makkah",
-    "chronologyDate": null,
+    "subCategory": "Inside the Mataf & The Holy Kaaba",
+    "clusterId": "mataf_kaabah",
+    "city": "Makkah",
     "imageUrls": [
-      {
-        "url": "assets/image/locations/hijr_ismail.webp",
-        "thumbnail": "assets/image/locations/hijr_ismail.webp",
-        "caption": {
-          "en": "Hijr Ismail (Hateem) & Meezab ar-Rahmah",
-          "ms": "Hijr Ismail (Hateem) & Meezab ar-Rahmah",
-          "ml": "ഹിജ്ർ ഇസ്മാഈൽ (ഹതീം) & മീസാബുർറഹ്മ",
-          "ta": "ஹிஜ்ர் இஸ்மாயீல் (ஹதீம்) & மீஸாபுர் ரஹ்மா"
-        }
-      }
+      "{url: assets/image/locations/hijr_ismail.webp, thumbnail: assets/image/locations/hijr_ismail.webp, caption: {en: Hijr Ismail (Hateem) & Meezab ar-Rahmah, ms: Hijr Ismail (Hateem) & Meezab ar-Rahmah, ml: ഹിജ്ർ ഇസ്മാഈൽ (ഹതീം) & മീസാബുർറഹ്മ, ta: ஹிஜ்ர் இஸ்மாயீல் (ஹதீம்) & மீஸாபுர் ரஹ்மா}}"
     ],
     "videoUrls": [],
-    "socialLinks": [],
-    "clusterId": "mataf_kaabah",
-    "subCategory": "Inside the Mataf & The Holy Kaaba"
+    "socialLinks": []
   },
   {
     "id": "maqam_ibrahim",
@@ -2588,30 +1662,17 @@
       "ml": "ഇബ്രാഹീം നബിയുടെ കാൽപ്പാടുകൾ പതിഞ്ഞ ശില സൂക്ഷിച്ചിരിക്കുന്ന കേന്ദ്രം. കഅ്ബ നിർമ്മാണ വേളയിൽ ഇബ്രാഹീം നബി കയറിനിന്ന കല്ല്. ത്വവാഫിന് ശേഷം ഇതിന്റെ പിന്നിൽ രണ്ട് റക്അത്ത് നമസ്കരിക്കൽ സുന്നത്താണ്.",
       "ta": "இப்ராஹீம் நபியின் பாதச்சுவடுகள் பதிந்த கல் வைக்கப்பட்டுள்ள இடம். கஅபாவை உயர்த்தியபோது இப்ராஹீம் நபி நின்ற கல். தவாஃபிற்குப் பின் இதன் பின்னால் இரண்டு ரக்அத்கள் தொழுவது சுன்னத்."
     },
-    "thumbnail": "assets/image/locations/maqam_ibrahim.webp",
     "latitude": 21.422655,
     "longitude": 39.826314,
     "type": "Holy Site",
-    "cluster_id": "mataf_kaabah",
-    "sub_category": "Inside the Mataf & The Holy Kaaba",
-    "region": "makkah",
-    "chronologyDate": null,
+    "subCategory": "Inside the Mataf & The Holy Kaaba",
+    "clusterId": "mataf_kaabah",
+    "city": "Makkah",
     "imageUrls": [
-      {
-        "url": "assets/image/locations/maqam_ibrahim.webp",
-        "thumbnail": "assets/image/locations/maqam_ibrahim.webp",
-        "caption": {
-          "en": "Maqam Ibrahim",
-          "ms": "Maqam Ibrahim",
-          "ml": "മഖാമു ഇബ്രാഹീം",
-          "ta": "மகாமு இப்ராஹீம்"
-        }
-      }
+      "{url: assets/image/locations/maqam_ibrahim.webp, thumbnail: assets/image/locations/maqam_ibrahim.webp, caption: {en: Maqam Ibrahim, ms: Maqam Ibrahim, ml: മഖാമു ഇബ്രാഹീം, ta: மகாமு இப்ராஹீம்}}"
     ],
     "videoUrls": [],
-    "socialLinks": [],
-    "clusterId": "mataf_kaabah",
-    "subCategory": "Inside the Mataf & The Holy Kaaba"
+    "socialLinks": []
   },
   {
     "id": "zamzam_site",
@@ -2627,30 +1688,17 @@
       "ml": "ഹാജർ ബീവിക്കും ഇസ്മാഈൽ നബിക്കും വേണ്ടി അല്ലാഹു നൽകിയ സംസം കിണറിന്റെ സ്ഥാനം. മുമ്പ് പടവുകളിറങ്ങി കിണറിനടുത്തേക്ക് പോകാമായിരുന്നു, ഇപ്പോൾ മത്വാഫ് വികസനത്തിന്റെ ഭാഗമായി തറയ്ക്ക് അടിയിലാണ്.",
       "ta": "ஹாஜர் மற்றும் இஸ்மாயீல் நபிக்காக அல்லாஹ் வெளிப்படுத்திய ஸம்ஸம் நீரூற்றின் தரைக்கீழ் தளம். முன்பு படிக்கட்டுகள் வழியாக செல்ல முடிந்தது, இப்போது கூட்ட நெரிசலைத் தவிர்க்க தரைக்கீழ் அமைப்பாக மாற்றப்பட்டுள்ளது."
     },
-    "thumbnail": "assets/image/locations/zamzam_site.webp",
     "latitude": 21.422467,
     "longitude": 39.82648,
     "type": "Holy Site",
-    "cluster_id": "mataf_kaabah",
-    "sub_category": "Inside the Mataf & The Holy Kaaba",
-    "region": "makkah",
-    "chronologyDate": null,
+    "subCategory": "Inside the Mataf & The Holy Kaaba",
+    "clusterId": "mataf_kaabah",
+    "city": "Makkah",
     "imageUrls": [
-      {
-        "url": "assets/image/locations/zamzam_site.webp",
-        "thumbnail": "assets/image/locations/zamzam_site.webp",
-        "caption": {
-          "en": "Historical Zamzam Well Location",
-          "ms": "Lokasi Asal Telaga Zamzam",
-          "ml": "സംസം കിണറിന്റെ ചരിത്ര സ്ഥാനം",
-          "ta": "ஸம்ஸம் கிணற்றின் வரலாற்று இடம்"
-        }
-      }
+      "{url: assets/image/locations/zamzam_site.webp, thumbnail: assets/image/locations/zamzam_site.webp, caption: {en: Historical Zamzam Well Location, ms: Lokasi Asal Telaga Zamzam, ml: സംസം കിണറിന്റെ ചരിത്ര സ്ഥാനം, ta: ஸம்ஸம் கிணற்றின் வரலாற்று இடம்}}"
     ],
     "videoUrls": [],
-    "socialLinks": [],
-    "clusterId": "mataf_kaabah",
-    "subCategory": "Inside the Mataf & The Holy Kaaba"
+    "socialLinks": []
   },
   {
     "id": "umm_hani_house_site",
@@ -2666,30 +1714,17 @@
       "ml": "ഇസ്‌റാഅ്-മിഅ്‌റാജ് യാത്ര നബി ﷺ ആരംഭിച്ച ഉമ്മുഹാനി(റ)യുടെ വീട് നിലനിന്നിരുന്ന സ്ഥലം. ബാബു അലിക്ക് സമീപം. ജിബ്‌രീൽ (അ) ബുറാഖുമായി വന്ന് നബിയെ ബൈത്തുൽ മുഖദ്ദസിലേക്ക് കൊണ്ടുപോയ ചരിത്ര പ്രധാന ഇടം.",
       "ta": "நபிகள் நாயகம் ﷺ அவர்களின் இஸ்ரா பயணம் தொடங்கிய உம்மு ஹானியின் இல்லம் இருந்த இடம். பாப் அலி வாயிலுக்கு அருகில் அமைந்திருந்தது. ஜிப்ரீல் (அலை) அவர்கள் புராக் வாகனத்தைக் கொண்டுவந்து நபிகளை அழைத்துச் சென்ற இடம்."
     },
-    "thumbnail": "assets/image/locations/umm_hani_house_site.webp",
     "latitude": 21.422734,
     "longitude": 39.825439,
     "type": "Holy Site",
-    "cluster_id": "mataf_kaabah",
-    "sub_category": "Inside the Mataf & The Holy Kaaba",
-    "region": "makkah",
-    "chronologyDate": null,
+    "subCategory": "Inside the Mataf & The Holy Kaaba",
+    "clusterId": "mataf_kaabah",
+    "city": "Makkah",
     "imageUrls": [
-      {
-        "url": "assets/image/locations/umm_hani_house_site.webp",
-        "thumbnail": "assets/image/locations/umm_hani_house_site.webp",
-        "caption": {
-          "en": "Site of Umm Hani's House (Isra' Start)",
-          "ms": "Tapak Rumah Ummu Hani (Permulaan Isra')",
-          "ml": "ഉമ്മുഹാനിയുടെ വീട് (ഇസ്റാഇന്റെ തുടക്കം)",
-          "ta": "உம்மு ஹானியின் இல்லம் (இஸ்ரா துவங்கிய இடம்)"
-        }
-      }
+      "{url: assets/image/locations/umm_hani_house_site.webp, thumbnail: assets/image/locations/umm_hani_house_site.webp, caption: {en: Site of Umm Hani's House (Isra' Start), ms: Tapak Rumah Ummu Hani (Permulaan Isra'), ml: ഉമ്മുഹാനിയുടെ വീട് (ഇസ്റാഇന്റെ തുടക്കം), ta: உம்மு ஹானியின் இல்லம் (இஸ்ரா துவங்கிய இடம்)}}"
     ],
     "videoUrls": [],
-    "socialLinks": [],
-    "clusterId": "mataf_kaabah",
-    "subCategory": "Inside the Mataf & The Holy Kaaba"
+    "socialLinks": []
   },
   {
     "id": "jabal_safa",
@@ -2707,58 +1742,18 @@
       "ta": "மஸ்ஜிதுல் ஹராமிற்குள் அமைந்துள்ள புனித ஸஃபா மலை. இங்கிருந்தே மர்வாவை நோக்கிய 7 சயீ சுற்றுகள் தொடங்குகின்றன. நபிகள் நாயகம் ﷺ பகிரங்கமாக ஓரிறைக் கொள்கையை பிரகடனம் செய்த வரலாற்றுச் சிறப்புமிக்க இடமாகும். கஅபாவை நோக்கி கையேந்தி சுன்னத்தான துஆக்களை ஓதி சயீயைத் துவங்குகின்றனர்.",
       "ar": "جبل الصفا، المرتفع الصخري داخل المسجد الحرام الذي يبدأ منه الحجاج والمعتمرون أشواط السعي السبعة باتجاه المروة، وهو الموقع الذي صدع فيه النبي ﷺ بالدعوة لقريش."
     },
-    "thumbnail": "assets/image/locations/jabal_safa.webp",
     "latitude": 21.421681,
     "longitude": 39.827435,
     "type": "Umrah Site",
-    "cluster_id": "masa_and_gates",
-    "sub_category": "The Mas'a Gallery & Major Gates",
-    "region": "makkah",
-    "chronologyDate": null,
+    "subCategory": "The Mas'a Gallery & Major Gates",
+    "clusterId": "masa_and_gates",
+    "city": "Makkah",
     "imageUrls": [
-      {
-        "url": "assets/image/locations/jabal_safa.webp",
-        "thumbnail": "assets/image/locations/jabal_safa.webp",
-        "caption": {
-          "en": "Mount Safa (Starting Point)",
-          "ms": "Bukit Safa (Permulaan Sa'ie)",
-          "ml": "സ്വഫാ മല (സഈയുടെ തുടക്കം)",
-          "ta": "ஸஃபா மலை (சயீ தொடங்குமிடம்)"
-        }
-      },
-      {
-        "url": "assets/image/locations/safa_marwah.webp",
-        "thumbnail": "assets/image/locations/safa_marwah.webp",
-        "caption": {
-          "en": "Safa & Marwah Hills Gallery",
-          "ms": "Galeri Bukit Safa & Marwah",
-          "ml": "സഫാ-മർവ്വ കുന്നുകൾ",
-          "ta": "ஸபா & மர்வா குன்றுகள்"
-        }
-      }
+      "{url: assets/image/locations/jabal_safa.webp, thumbnail: assets/image/locations/jabal_safa.webp, caption: {en: Mount Safa (Starting Point), ms: Bukit Safa (Permulaan Sa'ie), ml: സ്വഫാ മല (സഈയുടെ തുടക്കം), ta: ஸஃபா மலை (சயீ தொடங்குமிடம்)}}",
+      "{url: assets/image/locations/safa_marwah.webp, thumbnail: assets/image/locations/safa_marwah.webp, caption: {en: Safa & Marwah Hills Gallery, ms: Galeri Bukit Safa & Marwah, ml: സഫാ-മർവ്വ കുന്നുകൾ, ta: ஸபா & மர்வா குன்றுகள்}}"
     ],
     "videoUrls": [],
-    "socialLinks": [],
-    "sentences": [
-      {
-        "text": {
-          "en": "All odd-numbered circuits of Sa'i (laps 1, 3, 5, and 7) commence from Mount Safa.",
-          "ms": "Semua pusingan ganjil Sa'ie (pusingan 1, 3, 5, dan 7) bermula dari Bukit Safa.",
-          "ml": "സഅ്‌യിന്റെ ഒറ്റ സംഖ്യാ ചുറ്റുകൾ (1, 3, 5, 7) ആരംഭിക്കുന്നത് സ്വഫാ മലയിൽ നിന്നാണ്.",
-          "ta": "சயீயின் ஒற்றைப்படை சுற்றுகள் (1, 3, 5 மற்றும் 7) ஸஃபா மலையிலிருந்தே துவங்குகின்றன."
-        }
-      },
-      {
-        "text": {
-          "en": "At Safa, it is Sunnah to face the Kaaba, raise your hands in supplication, and recite Takbir three times.",
-          "ms": "Di Safa, disunatkan menghadap Kaabah, mengangkat tangan berdoa, dan bertakbir tiga kali.",
-          "ml": "സ്വഫായിൽ വെച്ച് കഅ്ബയിലേക്ക് തിരിഞ്ഞു കൈകളുയർത്തി മൂന്ന് തവണ തക്ബീർ ചൊല്ലി പ്രാർത്ഥിക്കൽ സുന്നത്താണ്.",
-          "ta": "ஸஃபாவில் கஅபாவை நோக்கி கையேந்தி மூன்று முறை தக்பீர் கூறி துஆ செய்வது சுன்னத்தாகும்."
-        }
-      }
-    ],
-    "clusterId": "masa_and_gates",
-    "subCategory": "The Mas'a Gallery & Major Gates"
+    "socialLinks": []
   },
   {
     "id": "milayn_al_akhdarayn",
@@ -2774,30 +1769,17 @@
       "ml": "സഈ ചെയ്യുമ്പോൾ പുരുഷന്മാർ വേഗത്തിൽ നടക്കേണ്ട പച്ച വെളിച്ചമുള്ള പ്രദേശം. ഇസ്മാഈൽ നബിയെ കാണാൻ ഹാജർ ബീവി വേഗത്തിൽ ഓടിയ ചരിത്ര ഭാഗം.",
       "ta": "சயீயின் போது ஆண்கள் மெதுவாக ஓட வேண்டிய பச்சை விளக்கு பகுதி. இஸ்மாயீல் நபியை கவனித்தவாறு அன்னை ஹாஜர் வேகமாக ஓடிய பள்ளத்தாக்கு பகுதி."
     },
-    "thumbnail": "assets/image/locations/milayn_al_akhdarayn.webp",
     "latitude": 21.422734,
     "longitude": 39.82743,
     "type": "Historical",
-    "cluster_id": "masa_and_gates",
-    "sub_category": "The Mas'a Gallery & Major Gates",
-    "region": "makkah",
-    "chronologyDate": null,
+    "subCategory": "The Mas'a Gallery & Major Gates",
+    "clusterId": "masa_and_gates",
+    "city": "Makkah",
     "imageUrls": [
-      {
-        "url": "assets/image/locations/milayn_al_akhdarayn.webp",
-        "thumbnail": "assets/image/locations/milayn_al_akhdarayn.webp",
-        "caption": {
-          "en": "The Green Marker Run Section",
-          "ms": "Kawasan Lampu Hijau (Lari Anak)",
-          "ml": "പച്ച ലൈറ്റുകൾ ഉള്ള സഈ പാത",
-          "ta": "பச்சை விளக்கு பகுதி (மெதுவோட்டம்)"
-        }
-      }
+      "{url: assets/image/locations/milayn_al_akhdarayn.webp, thumbnail: assets/image/locations/milayn_al_akhdarayn.webp, caption: {en: The Green Marker Run Section, ms: Kawasan Lampu Hijau (Lari Anak), ml: പച്ച ലൈറ്റുകൾ ഉള്ള സഈ പാത, ta: பச்சை விளக்கு பகுதி (மெதுவோட்டம்)}}"
     ],
     "videoUrls": [],
-    "socialLinks": [],
-    "clusterId": "masa_and_gates",
-    "subCategory": "The Mas'a Gallery & Major Gates"
+    "socialLinks": []
   },
   {
     "id": "bab_al_fatah",
@@ -2813,30 +1795,17 @@
       "ml": "മക്കാ ഫത്ഹിൽ നബി ﷺ മസ്ജിദുൽ ഹറാമിലേക്ക് പ്രവേശിച്ച വാതിൽ. മക്ക വിജയ വേളയിൽ നബി ﷺ സൈന്യത്തോടൊപ്പം പ്രവേശിച്ച കവാടം.",
       "ta": "மக்கா வெற்றியின் போது நபிகளார் மஸ்ஜிதுல் ஹராமுக்குள் நுழைந்த வரலாற்று வாசல். ஹிஜ்ரி 8-ல் மக்கா வெற்றியின் போது நபிகளார் அமைதியாக நுழைந்த வாசல்."
     },
-    "thumbnail": "assets/image/locations/bab_al_fatah.webp",
     "latitude": 21.4238,
     "longitude": 39.8265,
     "type": "Historical",
-    "cluster_id": "masa_and_gates",
-    "sub_category": "The Mas'a Gallery & Major Gates",
-    "region": "makkah",
-    "chronologyDate": null,
+    "subCategory": "The Mas'a Gallery & Major Gates",
+    "clusterId": "masa_and_gates",
+    "city": "Makkah",
     "imageUrls": [
-      {
-        "url": "assets/image/locations/bab_al_fatah.webp",
-        "thumbnail": "assets/image/locations/bab_al_fatah.webp",
-        "caption": {
-          "en": "Bab al-Fatah (Gate of Victory)",
-          "ms": "Bab al-Fatah (Pintu Kemenangan)",
-          "ml": "ബാബുൽ ഫത്ഹ് (വിജയ കവാടം)",
-          "ta": "பாப் அல்-ஃபத்தஹ் (வெற்றி வாசல்)"
-        }
-      }
+      "{url: assets/image/locations/bab_al_fatah.webp, thumbnail: assets/image/locations/bab_al_fatah.webp, caption: {en: Bab al-Fatah (Gate of Victory), ms: Bab al-Fatah (Pintu Kemenangan), ml: ബാബുൽ ഫത്ഹ് (വിജയ കവാടം), ta: பாப் அல்-ஃபத்தஹ் (வெற்றி வாசல்)}}"
     ],
     "videoUrls": [],
-    "socialLinks": [],
-    "clusterId": "masa_and_gates",
-    "subCategory": "The Mas'a Gallery & Major Gates"
+    "socialLinks": []
   },
   {
     "id": "khadijah_house_site",
@@ -2852,30 +1821,17 @@
       "ml": "നബി ﷺ തന്റെ മക്കൾ ജനിക്കുകയും 28 വർഷം താമസിക്കുകയും ചെയ്ത ഖദീജ(റ)യുടെ വീട്. മർവ്വയുടെ വടക്കുകിഴക്ക് ഭാഗത്തായിരുന്നു. ജിബ്‌രീൽ (അ) നിരവധി തവണ വഹ്‌യുമായി എത്തിയ വീട്.",
       "ta": "நபிகளார் 28 ஆண்டுகள் வாழ்ந்ததும், குழந்தைகள் பிறந்ததும் ஆன கதீஜா (ரலி) இல்லம். மர்வா பிளாசா பகுதியில் அமைந்திருந்தது. பல ஆரம்பகால வஹீகள் இறங்கிய இடம்."
     },
-    "thumbnail": "assets/image/locations/khadijah_house_site.webp",
     "latitude": 21.424642,
     "longitude": 39.828004,
     "type": "Historical",
-    "cluster_id": "sirah_makkah_houses",
-    "sub_category": "Historic Houses & Early Sirah in Makkah",
-    "region": "makkah",
-    "chronologyDate": null,
+    "subCategory": "Historic Houses & Early Sirah in Makkah",
+    "clusterId": "sirah_makkah_houses",
+    "city": "Makkah",
     "imageUrls": [
-      {
-        "url": "assets/image/locations/khadijah_house_site.webp",
-        "thumbnail": "assets/image/locations/khadijah_house_site.webp",
-        "caption": {
-          "en": "Site of Khadijah's House",
-          "ms": "Tapak Rumah Sayyidatina Khadijah",
-          "ml": "ഖദീജ (റ) യുടെ വീട് സ്ഥിതി ചെയ്ത സ്ഥലം",
-          "ta": "கதீஜா (ரலி) இல்லம் அமைந்திருந்த இடம்"
-        }
-      }
+      "{url: assets/image/locations/khadijah_house_site.webp, thumbnail: assets/image/locations/khadijah_house_site.webp, caption: {en: Site of Khadijah's House, ms: Tapak Rumah Sayyidatina Khadijah, ml: ഖദീജ (റ) യുടെ വീട് സ്ഥിതി ചെയ്ത സ്ഥലം, ta: கதீஜா (ரலி) இல்லம் அமைந்திருந்த இடம்}}"
     ],
     "videoUrls": [],
-    "socialLinks": [],
-    "clusterId": "sirah_makkah_houses",
-    "subCategory": "Historic Houses & Early Sirah in Makkah"
+    "socialLinks": []
   },
   {
     "id": "abu_bakr_house_site",
@@ -2894,27 +1850,13 @@
     "latitude": 21.4189,
     "longitude": 39.8239,
     "type": "Historical",
-    "chronologyDate": null,
-    "osmId": "node/5126508173",
+    "clusterId": "sirah_makkah_houses",
+    "city": "Makkah",
     "imageUrls": [
-      {
-        "url": "assets/image/locations/abu_bakr_house.webp",
-        "thumbnail": "assets/image/locations/abu_bakr_house.webp",
-        "caption": {
-          "en": "House of Abu Bakr r.a.",
-          "ms": "Rumah Abu Bakar r.a.",
-          "ml": "അബൂബക്കർ സിദ്ദീഖ് (റ) വിൻ്റെ വീട്",
-          "ta": "அபூபக்கர் (ரலி) அவர்களின் இல்லம்"
-        }
-      }
+      "{url: assets/image/locations/abu_bakr_house.webp, thumbnail: assets/image/locations/abu_bakr_house.webp, caption: {en: House of Abu Bakr r.a., ms: Rumah Abu Bakar r.a., ml: അബൂബക്കർ സിദ്ദീഖ് (റ) വിൻ്റെ വീട്, ta: அபூபக்கர் (ரலி) அவர்களின் இல்லம்}}"
     ],
     "videoUrls": [],
-    "socialLinks": [],
-    "thumbnail": "assets/image/locations/abu_bakr_house.webp",
-    "clusterId": "sirah_makkah_houses",
-    "subCategory": null,
-    "region": "makkah",
-    "cluster_id": "sirah_makkah_houses"
+    "socialLinks": []
   },
   {
     "id": "al_shubaikah_district",
@@ -2930,30 +1872,17 @@
       "ml": "യാസിർ കുടുംബം പീഡിപ്പിക്കപ്പെടുകയും സുമയ്യ ബീവി ആദ്യത്തെ രക്തസാക്ഷിയാകുകയും ചെയ്ത സ്ഥലം. ജബൽ ഉമറിന്റെ പടിഞ്ഞാറ് ഭാഗം. അബൂജഹൽ സുമയ്യ ബീവിയെ കുത്തിക്കൊലപ്പെടുത്തിയ പ്രദേശം.",
       "ta": "யாசிர் குடும்பத்தினர் சித்திரவதை செய்யப்பட்டு ஸுமய்யா (ரலி) முதல் தியாகியான பகுதி. ஜபல் உமரின் மேற்கு அடிவாரம். ஈமானை கைவிட மறுத்ததற்காக அபூஜஹ்லால் ஸுமய்யா கொல்லப்பட்ட இடம்."
     },
-    "thumbnail": "assets/image/locations/al_shubaikah_district.webp",
     "latitude": 21.421,
     "longitude": 39.82,
     "type": "Historical",
-    "cluster_id": "sirah_makkah_houses",
-    "sub_category": "Historic Houses & Early Sirah in Makkah",
-    "region": "makkah",
-    "chronologyDate": null,
+    "subCategory": "Historic Houses & Early Sirah in Makkah",
+    "clusterId": "sirah_makkah_houses",
+    "city": "Makkah",
     "imageUrls": [
-      {
-        "url": "assets/image/locations/al_shubaikah_district.webp",
-        "thumbnail": "assets/image/locations/al_shubaikah_district.webp",
-        "caption": {
-          "en": "Al-Shubaikah (Martyrdom of Sumayyah)",
-          "ms": "Al-Syubaikah (Tapak Syahid Sayyidatina Sumayyah)",
-          "ml": "അശ്ശുബൈക (സുമയ്യ ബീവിയുടെ രക്തസാക്ഷിത്വം)",
-          "ta": "அஷ்-ஷுபைகா (ஸுமய்யா ரலி ஷஹீதான இடம்)"
-        }
-      }
+      "{url: assets/image/locations/al_shubaikah_district.webp, thumbnail: assets/image/locations/al_shubaikah_district.webp, caption: {en: Al-Shubaikah (Martyrdom of Sumayyah), ms: Al-Syubaikah (Tapak Syahid Sayyidatina Sumayyah), ml: അശ്ശുബൈക (സുമയ്യ ബീവിയുടെ രക്തസാക്ഷിത്വം), ta: அஷ்-ஷுபைகா (ஸுமய்யா ரலி ஷஹீதான இடம்)}}"
     ],
     "videoUrls": [],
-    "socialLinks": [],
-    "clusterId": "sirah_makkah_houses",
-    "subCategory": "Historic Houses & Early Sirah in Makkah"
+    "socialLinks": []
   },
   {
     "id": "jannat_al_mualla",
@@ -2969,30 +1898,17 @@
       "ml": "ഖദീജ (റ), അബൂത്വാലിബ്, അബ്ദുൽ മുത്വലിബ് എന്നിവരുടെ ഖബറുകൾ സ്ഥിതി ചെയ്യുന്ന ഖബർസ്ഥാൻ. അൽ-ഹജൂൻ താഴ്‌വരയിൽ സ്ഥിതി ചെയ്യുന്നു. അസ്മാ ബിൻത് അബീബക്കറും ഇവിടെ അന്ത്യവിശ്രമം കൊള്ളുന്നു.",
       "ta": "அன்னை கதீஜா (ரலி), அபூதாலிப், மற்றும் அப்துல் முத்தலிப் அடக்கம் செய்யப்பட்ட மையவாடி. அல்-ஹஜூன் பகுதியில் அமைந்துள்ளது. அஸ்மா பின்த் அபீபக்கர் ஆகியோரும் இங்கு நல்லடக்கம் செய்யப்பட்டுள்ளனர்."
     },
-    "thumbnail": "assets/image/locations/jannat_al_mualla.webp",
     "latitude": 21.436072,
     "longitude": 39.828701,
     "type": "Historical",
-    "cluster_id": "sirah_makkah_houses",
-    "sub_category": "Historic Houses & Early Sirah in Makkah",
-    "region": "makkah",
-    "chronologyDate": null,
+    "subCategory": "Historic Houses & Early Sirah in Makkah",
+    "clusterId": "sirah_makkah_houses",
+    "city": "Makkah",
     "imageUrls": [
-      {
-        "url": "assets/image/locations/jannat_al_mualla.webp",
-        "thumbnail": "assets/image/locations/jannat_al_mualla.webp",
-        "caption": {
-          "en": "Jannat al-Mu'alla (Al-Hajun Cemetery)",
-          "ms": "Jannat al-Mu'alla (Perkuburan Ma'la / Al-Hajun)",
-          "ml": "ജന്നത്തുൽ മുഅല്ല (ഹജൂൻ ഖബർസ്ഥാൻ)",
-          "ta": "ஜன்னத்துல் முஅல்லா (அல்-ஹஜூன் மையவாடி)"
-        }
-      }
+      "{url: assets/image/locations/jannat_al_mualla.webp, thumbnail: assets/image/locations/jannat_al_mualla.webp, caption: {en: Jannat al-Mu'alla (Al-Hajun Cemetery), ms: Jannat al-Mu'alla (Perkuburan Ma'la / Al-Hajun), ml: ജന്നത്തുൽ മുഅല്ല (ഹജൂൻ ഖബർസ്ഥാൻ), ta: ஜன்னத்துல் முஅல்லா (அல்-ஹஜூன் மையவாடி)}}"
     ],
     "videoUrls": [],
-    "socialLinks": [],
-    "clusterId": "sirah_makkah_houses",
-    "subCategory": "Historic Houses & Early Sirah in Makkah"
+    "socialLinks": []
   },
   {
     "id": "masjid_ash_shajarah",
@@ -3008,30 +1924,17 @@
       "ml": "നബിയുടെ കൽപ്പന കേട്ട് ഒരു മരം വേരോടെ നടന്നു വന്ന മുഅ്ജിസത്ത് നടന്ന സ്ഥലം. മുശ്‌രിക്കുകൾ ദൃഷ്ടാന്തം ആവശ്യപ്പെട്ടപ്പോൾ നബി കാണിച്ചുകൊടുത്ത മുഅ്ജിസത്തിന്റെ സ്മരണ.",
       "ta": "நபிகளாரின் அழைப்பையேற்று மரம் ஒன்று வேரோடு நகர்ந்து வந்த அற்புதம் நிகழ்ந்த இடம். மஸ்ஜிதுல் ஜின்க்கு எதிரில் உள்ளது. குறைஷிகள் அத்தாட்சி கேட்டபோது நிகழ்ந்த அற்புதம்."
     },
-    "thumbnail": "assets/image/locations/masjid_ash_shajarah.webp",
     "latitude": 21.431968,
     "longitude": 39.828122,
     "type": "Mosque",
-    "cluster_id": "sirah_makkah_houses",
-    "sub_category": "Historic Houses & Early Sirah in Makkah",
-    "region": "makkah",
-    "chronologyDate": null,
+    "subCategory": "Historic Houses & Early Sirah in Makkah",
+    "clusterId": "sirah_makkah_houses",
+    "city": "Makkah",
     "imageUrls": [
-      {
-        "url": "assets/image/locations/masjid_ash_shajarah.webp",
-        "thumbnail": "assets/image/locations/masjid_ash_shajarah.webp",
-        "caption": {
-          "en": "Masjid ash-Shajarah (Mosque of the Tree)",
-          "ms": "Masjid ash-Shajarah (Masjid Pokok)",
-          "ml": "മസ്ജിദുശ്ശജറ (വൃക്ഷത്തിന്റെ പള്ളി)",
-          "ta": "மஸ்ஜிதுஷ் ஷஜரா (மரத்தின் பள்ளிவாசல்)"
-        }
-      }
+      "{url: assets/image/locations/masjid_ash_shajarah.webp, thumbnail: assets/image/locations/masjid_ash_shajarah.webp, caption: {en: Masjid ash-Shajarah (Mosque of the Tree), ms: Masjid ash-Shajarah (Masjid Pokok), ml: മസ്ജിദുശ്ശജറ (വൃക്ഷത്തിന്റെ പള്ളി), ta: மஸ்ஜிதுஷ் ஷஜரா (மரத்தின் பள்ளிவாசல்)}}"
     ],
     "videoUrls": [],
-    "socialLinks": [],
-    "clusterId": "sirah_makkah_houses",
-    "subCategory": "Historic Houses & Early Sirah in Makkah"
+    "socialLinks": []
   },
   {
     "id": "masjid_ar_rayah",
@@ -3047,30 +1950,17 @@
       "ml": "മക്ക വിജയ വേളയിൽ ഇസ്ലാമിക പതാക നാട്ടിയ സ്ഥലം. ഹജൂൻ ഭാഗത്ത്. നബി ﷺ തന്റെ സൈന്യത്തിന് നിർദ്ദേശം നൽകിയ കേന്ദ്രം.",
       "ta": "மக்கா வெற்றியின் போது இஸ்லாமிய வெற்றிக் கொடி நாட்டப்பட்ட இடம். ஹஜூன் அருகில் உள்ள இடம். நபிகளார் படைகளை வழிநடத்திய கட்டளை தளம்."
     },
-    "thumbnail": "assets/image/locations/masjid_ar_rayah.webp",
     "latitude": 21.4319,
     "longitude": 39.8294,
     "type": "Mosque",
-    "cluster_id": "sirah_makkah_houses",
-    "sub_category": "Historic Houses & Early Sirah in Makkah",
-    "region": "makkah",
-    "chronologyDate": null,
+    "subCategory": "Historic Houses & Early Sirah in Makkah",
+    "clusterId": "sirah_makkah_houses",
+    "city": "Makkah",
     "imageUrls": [
-      {
-        "url": "assets/image/locations/masjid_ar_rayah.webp",
-        "thumbnail": "assets/image/locations/masjid_ar_rayah.webp",
-        "caption": {
-          "en": "Masjid ar-Rayah (Mosque of the Banner)",
-          "ms": "Masjid ar-Rayah (Masjid Bendera)",
-          "ml": "മസ്ജിദുർറായ (പതാകയുടെ പള്ളി)",
-          "ta": "மஸ்ஜிதுர் ராயா (கொடி பள்ளிவாசல்)"
-        }
-      }
+      "{url: assets/image/locations/masjid_ar_rayah.webp, thumbnail: assets/image/locations/masjid_ar_rayah.webp, caption: {en: Masjid ar-Rayah (Mosque of the Banner), ms: Masjid ar-Rayah (Masjid Bendera), ml: മസ്ജിദുർറായ (പതാകയുടെ പള്ളി), ta: மஸ்ஜிதுர் ராயா (கொடி பள்ளிவாசல்)}}"
     ],
     "videoUrls": [],
-    "socialLinks": [],
-    "clusterId": "sirah_makkah_houses",
-    "subCategory": "Historic Houses & Early Sirah in Makkah"
+    "socialLinks": []
   },
   {
     "id": "dhi_tuwa_valley",
@@ -3086,30 +1976,17 @@
       "ml": "മക്കയിലേക്ക് പ്രവേശിക്കുന്നതിന് മുമ്പ് നബി കുളിക്കുകയും തങ്ങുകയും ചെയ്ത കിണറും താഴ്‌വരയും. ജർവൽ ഭാഗത്താണ്. മക്കാ ഫത്ഹിലും ഹജ്ജത്തുൽ വിദാഇലും നബി ഇവിടെ തങ്ങിയിരുന്നു.",
       "ta": "மக்காவிற்குள் நுழைவதற்கு முன் நபிகளார் குளித்து தங்கிய பள்ளத்தாக்கு மற்றும் கிணறு. தற்கால ஜர்வால் பகுதியில் உள்ளது. மக்கா வெற்றியின் போதும் விடைபெறும் ஹஜ்ஜின் போதும் நபிகளார் இங்கு தங்கினார்."
     },
-    "thumbnail": "assets/image/locations/dhi_tuwa_valley.webp",
     "latitude": 21.4332,
     "longitude": 39.8143,
     "type": "Historical",
-    "cluster_id": "sirah_makkah_houses",
-    "sub_category": "Historic Houses & Early Sirah in Makkah",
-    "region": "makkah",
-    "chronologyDate": null,
+    "subCategory": "Historic Houses & Early Sirah in Makkah",
+    "clusterId": "sirah_makkah_houses",
+    "city": "Makkah",
     "imageUrls": [
-      {
-        "url": "assets/image/locations/dhi_tuwa_valley.webp",
-        "thumbnail": "assets/image/locations/dhi_tuwa_valley.webp",
-        "caption": {
-          "en": "Dhi Tuwa Well & Encampment (Jarwal)",
-          "ms": "Lembah & Telaga Dhi Tuwa (Jarwal)",
-          "ml": "ദീ തുവ (ജർവൽ)",
-          "ta": "தீ துவா பள்ளத்தாக்கு (ஜர்வால்)"
-        }
-      }
+      "{url: assets/image/locations/dhi_tuwa_valley.webp, thumbnail: assets/image/locations/dhi_tuwa_valley.webp, caption: {en: Dhi Tuwa Well & Encampment (Jarwal), ms: Lembah & Telaga Dhi Tuwa (Jarwal), ml: ദീ തുവ (ജർവൽ), ta: தீ துவா பள்ளத்தாக்கு (ஜர்வால்)}}"
     ],
     "videoUrls": [],
-    "socialLinks": [],
-    "clusterId": "sirah_makkah_houses",
-    "subCategory": "Historic Houses & Early Sirah in Makkah"
+    "socialLinks": []
   },
   {
     "id": "jabal_an_nur",
@@ -3125,40 +2002,18 @@
       "ml": "ആദ്യ ഖുർആൻ വചനങ്ങൾ (ഇഖ്‌റഅ്) അവതരിച്ച ഹിറാ ഗുഹ സ്ഥിതി ചെയ്യുന്ന മല. മക്കയുടെ വടക്കുകിഴക്ക്. നബി ധ്യാനത്തിലിരിക്കെ ജിബ്‌രീൽ (അ) വഴി ആദ്യ വഹ്‌യ് അവതരിച്ചു.",
       "ta": "முதல் குர்ஆன் வசனங்கள் அருளப்பட்ட ஹிரா குகை அமைந்த மலை. மக்காவின் வடகிழக்கில் உள்ளது. நபிகள் நாயகம் தியானம் செய்தபோது முதல் வஹீ அருளப்பட்டது."
     },
-    "thumbnail": "assets/image/locations/jabal_an_nur.webp",
     "latitude": 21.4582,
     "longitude": 39.8579,
     "type": "Historical",
-    "cluster_id": "mountains_makkah",
-    "sub_category": "Sacred Mountains around Makkah",
-    "region": "makkah",
-    "chronologyDate": null,
+    "subCategory": "Sacred Mountains around Makkah",
+    "clusterId": "mountains_makkah",
+    "city": "Makkah",
     "imageUrls": [
-      {
-        "url": "assets/image/locations/jabal_an_nur.webp",
-        "thumbnail": "assets/image/locations/jabal_an_nur.webp",
-        "caption": {
-          "en": "Jabal an-Nur & Ghar Hira'",
-          "ms": "Jabal an-Nur & Gua Hira'",
-          "ml": "ജബലുന്നുറും ഹിറാ ഗുഹയും",
-          "ta": "ஜபலுன் நூர் மற்றும் ஹிரா குகை"
-        }
-      },
-      {
-        "url": "assets/image/locations/jabal_nour_hira.webp",
-        "thumbnail": "assets/image/locations/jabal_nour_hira.webp",
-        "caption": {
-          "en": "Cave of Hira (Jabal al-Nour)",
-          "ms": "Gua Hira (Jabal al-Nour)",
-          "ml": "ഹിറാ ഗുഹ (ജബലുന്നൂർ)",
-          "ta": "ஹிரா குகை (ஜபல் அல்-நூர்)"
-        }
-      }
+      "{url: assets/image/locations/jabal_an_nur.webp, thumbnail: assets/image/locations/jabal_an_nur.webp, caption: {en: Jabal an-Nur & Ghar Hira', ms: Jabal an-Nur & Gua Hira', ml: ജബലുന്നുറും ഹിറാ ഗുഹയും, ta: ஜபலுன் நூர் மற்றும் ஹிரா குகை}}",
+      "{url: assets/image/locations/jabal_nour_hira.webp, thumbnail: assets/image/locations/jabal_nour_hira.webp, caption: {en: Cave of Hira (Jabal al-Nour), ms: Gua Hira (Jabal al-Nour), ml: ഹിറാ ഗുഹ (ജബലുന്നൂർ), ta: ஹிரா குகை (ஜபல் அல்-நூர்)}}"
     ],
     "videoUrls": [],
-    "socialLinks": [],
-    "clusterId": "mountains_makkah",
-    "subCategory": "Sacred Mountains around Makkah"
+    "socialLinks": []
   },
   {
     "id": "jabal_thawr",
@@ -3174,30 +2029,17 @@
       "ml": "ഹിജ്റ വേളയിൽ നബിയും അബൂബക്കറും മൂന്ന് ദിവസം ഒളിച്ചുതാമസിച്ച ഗുഹ. സൂറത്തു തൗബയിൽ പരാമർശിച്ച ഗുഹ. ചിലന്തിവലയും പ്രാവുകളും കൊണ്ട് അല്ലാഹു അവരെ സംരക്ഷിച്ചു.",
       "ta": "ஹிஜ்ரத்தின் போது நபிகளாரும் அபூபக்கரும் மூன்று நாட்கள் தங்கியிருந்த குகை. சூரா தவ்பாவில் கூறப்பட்டுள்ள குகை. சிலந்தி வலையாலும் புறாக்களாலும் அல்லாஹ் அவர்களைப் பாதுகாத்தான்."
     },
-    "thumbnail": "assets/image/locations/jabal_thawr.webp",
     "latitude": 21.3768,
     "longitude": 39.8499,
     "type": "Historical",
-    "cluster_id": "mountains_makkah",
-    "sub_category": "Sacred Mountains around Makkah",
-    "region": "makkah",
-    "chronologyDate": null,
+    "subCategory": "Sacred Mountains around Makkah",
+    "clusterId": "mountains_makkah",
+    "city": "Makkah",
     "imageUrls": [
-      {
-        "url": "assets/image/locations/jabal_thawr.webp",
-        "thumbnail": "assets/image/locations/jabal_thawr.webp",
-        "caption": {
-          "en": "Jabal Thawr & Ghar Thawr",
-          "ms": "Jabal Thaur & Gua Thaur",
-          "ml": "ജബലു സൗറും സൗർ ഗുഹയും",
-          "ta": "ஜபல் சவ்ர் மற்றும் சவ்ர் குகை"
-        }
-      }
+      "{url: assets/image/locations/jabal_thawr.webp, thumbnail: assets/image/locations/jabal_thawr.webp, caption: {en: Jabal Thawr & Ghar Thawr, ms: Jabal Thaur & Gua Thaur, ml: ജബലു സൗറും സൗർ ഗുഹയും, ta: ஜபல் சவ்ர் மற்றும் சவ்ர் குகை}}"
     ],
     "videoUrls": [],
-    "socialLinks": [],
-    "clusterId": "mountains_makkah",
-    "subCategory": "Sacred Mountains around Makkah"
+    "socialLinks": []
   },
   {
     "id": "jabal_abu_qubays",
@@ -3213,30 +2055,17 @@
       "ml": "ചന്ദ്രൻ പിളർന്ന മുഅ്ജിസത്തിന് സാക്ഷ്യം വഹിച്ച സ്വഫായ്ക്ക് അടുത്തുള്ള മല. ഭൂമിയിൽ ആദ്യമായി പടക്കപ്പെട്ട മലയായി കണക്കാക്കപ്പെടുന്നു. നൂഹ് നബിയുടെ കാലത്തെ പ്രളയത്തിൽ ഹജറുൽ അസ്‌വദ് ഇവിടെ സൂക്ഷിച്ചിരുന്നു.",
       "ta": "ஸஃபாவுக்கு அருகில் சந்திரனைப் பிளந்த அற்புதம் நிகழ்ந்த மலை. பூமியில் படைக்கப்பட்ட முதல் மலையாகக் கருதப்படுகிறது. நூஹ் நபியின் காலத்தில் கருப்புக்கல் இங்கு பாதுகாக்கப்பட்டது."
     },
-    "thumbnail": "assets/image/locations/jabal_abu_qubays.webp",
     "latitude": 21.421601,
     "longitude": 39.828229,
     "type": "Historical",
-    "cluster_id": "mountains_makkah",
-    "sub_category": "Sacred Mountains around Makkah",
-    "region": "makkah",
-    "chronologyDate": null,
+    "subCategory": "Sacred Mountains around Makkah",
+    "clusterId": "mountains_makkah",
+    "city": "Makkah",
     "imageUrls": [
-      {
-        "url": "assets/image/locations/jabal_abu_qubays.webp",
-        "thumbnail": "assets/image/locations/jabal_abu_qubays.webp",
-        "caption": {
-          "en": "Jabal Abu Qubays",
-          "ms": "Jabal Abu Qubays",
-          "ml": "ജബൽ അബൂ ഖുബൈസ്",
-          "ta": "ஜபல் அபூ குபைஸ்"
-        }
-      }
+      "{url: assets/image/locations/jabal_abu_qubays.webp, thumbnail: assets/image/locations/jabal_abu_qubays.webp, caption: {en: Jabal Abu Qubays, ms: Jabal Abu Qubays, ml: ജബൽ അബൂ ഖുബൈസ്, ta: ஜபல் அபூ குபைஸ்}}"
     ],
     "videoUrls": [],
-    "socialLinks": [],
-    "clusterId": "mountains_makkah",
-    "subCategory": "Sacred Mountains around Makkah"
+    "socialLinks": []
   },
   {
     "id": "jabal_quayqian",
@@ -3252,30 +2081,17 @@
       "ml": "അബൂ ഖുബൈസിന് എതിർവശത്ത് മസ്ജിദുൽ ഹറാമിന്റെ പടിഞ്ഞാറുള്ള മല. പുരാതന മക്കയുടെ പടിഞ്ഞാറേ കോട്ട. ആയുധങ്ങളുടെ ശബ്ദം കാരണമാണ് ഈ പേര് ലഭിച്ചത്.",
       "ta": "அபூ குபைஸுக்கு எதிரில் மஸ்ஜிதுல் ஹராமின் மேற்கு பகுதியில் உள்ள மலை. பண்டைய மக்காவின் மேற்கு எல்லையாக விளங்கியது; போர் ஆயுதங்களின் சத்தத்தால் இப்பெயர் பெற்றது."
     },
-    "thumbnail": "assets/image/locations/jabal_quayqian.webp",
     "latitude": 21.428742,
     "longitude": 39.823433,
     "type": "Historical",
-    "cluster_id": "mountains_makkah",
-    "sub_category": "Sacred Mountains around Makkah",
-    "region": "makkah",
-    "chronologyDate": null,
+    "subCategory": "Sacred Mountains around Makkah",
+    "clusterId": "mountains_makkah",
+    "city": "Makkah",
     "imageUrls": [
-      {
-        "url": "assets/image/locations/jabal_quayqian.webp",
-        "thumbnail": "assets/image/locations/jabal_quayqian.webp",
-        "caption": {
-          "en": "Jabal Qu'ayqi'an (Jabal Hindi)",
-          "ms": "Jabal Qu'ayqi'an (Jabal Hindi)",
-          "ml": "ജബൽ ഖുഐഖിആൻ",
-          "ta": "ஜபல் குஐகிஆன் (ஜபல் ஹிந்தி)"
-        }
-      }
+      "{url: assets/image/locations/jabal_quayqian.webp, thumbnail: assets/image/locations/jabal_quayqian.webp, caption: {en: Jabal Qu'ayqi'an (Jabal Hindi), ms: Jabal Qu'ayqi'an (Jabal Hindi), ml: ജബൽ ഖുഐഖിആൻ, ta: ஜபல் குஐகிஆன் (ஜபல் ஹிந்தி)}}"
     ],
     "videoUrls": [],
-    "socialLinks": [],
-    "clusterId": "mountains_makkah",
-    "subCategory": "Sacred Mountains around Makkah"
+    "socialLinks": []
   },
   {
     "id": "masjid_al_khayf",
@@ -3291,30 +2107,17 @@
       "ml": "എഴുപതോളം പ്രവാചകന്മാർ നമസ്കരിച്ച മിനായിലെ പുണ്യ മസ്ജിദ്. മിനയുടെ താഴ്‌വരയിൽ സ്ഥിതി ചെയ്യുന്നു. ഹജ്ജത്തുൽ വിദാഇൽ നബി ഇവിടെയാണ് തങ്ങിയത്.",
       "ta": "எழுபது நபிமார்கள் தொழுத மினாவிலுள்ள வரலாற்று சிறப்புமிக்க பள்ளிவாசல். மினா மலையடிவாரத்தில் அமைந்துள்ளது. விடைபெறும் ஹஜ்ஜின் போது நபிகளார் இங்கு தங்கி உரையாற்றினார்."
     },
-    "thumbnail": "assets/image/locations/masjid_al_khayf.webp",
     "latitude": 21.415159,
     "longitude": 39.878215,
     "type": "Mosque",
-    "cluster_id": "hajj_mashair",
-    "sub_category": "The Sacred Hajj Pilgrimage Sites (Al-Masha'ir)",
-    "region": "makkah",
-    "chronologyDate": null,
+    "subCategory": "The Sacred Hajj Pilgrimage Sites (Al-Masha'ir)",
+    "clusterId": "hajj_mashair",
+    "city": "Makkah",
     "imageUrls": [
-      {
-        "url": "assets/image/locations/masjid_al_khayf.webp",
-        "thumbnail": "assets/image/locations/masjid_al_khayf.webp",
-        "caption": {
-          "en": "Masjid al-Khayf (Mina)",
-          "ms": "Masjid al-Khayf (Mina)",
-          "ml": "മസ്ജിദുൽ ഖൈഫ് (മിന)",
-          "ta": "மஸ்ஜிதுல் கைஃப் (மினா)"
-        }
-      }
+      "{url: assets/image/locations/masjid_al_khayf.webp, thumbnail: assets/image/locations/masjid_al_khayf.webp, caption: {en: Masjid al-Khayf (Mina), ms: Masjid al-Khayf (Mina), ml: മസ്ജിദുൽ ഖൈഫ് (മിന), ta: மஸ்ஜிதுல் கைஃப் (மினா)}}"
     ],
     "videoUrls": [],
-    "socialLinks": [],
-    "clusterId": "hajj_mashair",
-    "subCategory": "The Sacred Hajj Pilgrimage Sites (Al-Masha'ir)"
+    "socialLinks": []
   },
   {
     "id": "masjid_al_bayah",
@@ -3330,30 +2133,17 @@
       "ml": "മദീനയിലെ അൻസാറുകൾ നബിയുമായി അഖബ ഉടമ്പടി നടത്തിയ സ്ഥലം. അബൂ ജഅ്ഫർ അൽ മൻസൂർ നിർമ്മിച്ച പള്ളി. ഇസ്ലാമിക ചരിത്രത്തിലെ വഴിത്തിരിവായ ബൈഅത്ത് നടന്നയിടം.",
       "ta": "மதீனா அன்சாரிகள் நபிகளாருடன் அகபா உடன்படிக்கை செய்த வரலாற்று இடம். அப்பாசிய கலீபா அல்-மன்சூரால் கட்டப்பட்டது. இஸ்லாமிய வரலாற்றில் திருப்புமுனையான உடன்படிக்கை தளம்."
     },
-    "thumbnail": "assets/image/locations/masjid_al_bayah.webp",
     "latitude": 21.424722,
     "longitude": 39.867507,
     "type": "Mosque",
-    "cluster_id": "hajj_mashair",
-    "sub_category": "The Sacred Hajj Pilgrimage Sites (Al-Masha'ir)",
-    "region": "makkah",
-    "chronologyDate": null,
+    "subCategory": "The Sacred Hajj Pilgrimage Sites (Al-Masha'ir)",
+    "clusterId": "hajj_mashair",
+    "city": "Makkah",
     "imageUrls": [
-      {
-        "url": "assets/image/locations/masjid_al_bayah.webp",
-        "thumbnail": "assets/image/locations/masjid_al_bayah.webp",
-        "caption": {
-          "en": "Masjid al-Bay'ah (Aqabah Pledge Site)",
-          "ms": "Masjid al-Bay'ah (Tapak Perjanjian Aqabah)",
-          "ml": "മസ്ജിദുൽ ബൈഅ (അഖബ ഉടമ്പടി സ്ഥലം)",
-          "ta": "மஸ்ஜிதுல் பைஆ (அகபா உடன்படிக்கை இடம்)"
-        }
-      }
+      "{url: assets/image/locations/masjid_al_bayah.webp, thumbnail: assets/image/locations/masjid_al_bayah.webp, caption: {en: Masjid al-Bay'ah (Aqabah Pledge Site), ms: Masjid al-Bay'ah (Tapak Perjanjian Aqabah), ml: മസ്ജിദുൽ ബൈഅ (അഖബ ഉടമ്പടി സ്ഥലം), ta: மஸ்ஜிதுல் பைஆ (அகபா உடன்படிக்கை இடம்)}}"
     ],
     "videoUrls": [],
-    "socialLinks": [],
-    "clusterId": "hajj_mashair",
-    "subCategory": "The Sacred Hajj Pilgrimage Sites (Al-Masha'ir)"
+    "socialLinks": []
   },
   {
     "id": "masjid_mashar_al_haram",
@@ -3369,30 +2159,17 @@
       "ml": "മുസ്ദലിഫയിൽ പ്രാർത്ഥിക്കാൻ വിശുദ്ധ ഖുർആൻ ആഹ്വാനം ചെയ്ത പുണ്യ സങ്കേതം. അറഫാ സംഗമത്തിന് ശേഷം ഹാജിമാർ രാത്രി തങ്ങുന്ന മുസ്ദലിഫയിലെ പ്രധാന പള്ളി.",
       "ta": "முஸ்தலிஃபாவில் தங்கி இறைவனை தியானிக்க திருக்குர்ஆனில் குறிப்பிடப்பட்ட புனித இடம். அரஃபா நின்ற பின் ஹாஜிகள் இரவு தங்கி கல் சேகரித்து தொழும் முஸ்தலிஃபாவின் பிரதான பள்ளி."
     },
-    "thumbnail": "assets/image/locations/masjid_mashar_al_haram.webp",
     "latitude": 21.38602,
     "longitude": 39.912547,
     "type": "Mosque",
-    "cluster_id": "hajj_mashair",
-    "sub_category": "The Sacred Hajj Pilgrimage Sites (Al-Masha'ir)",
-    "region": "makkah",
-    "chronologyDate": null,
+    "subCategory": "The Sacred Hajj Pilgrimage Sites (Al-Masha'ir)",
+    "clusterId": "hajj_mashair",
+    "city": "Makkah",
     "imageUrls": [
-      {
-        "url": "assets/image/locations/masjid_mashar_al_haram.webp",
-        "thumbnail": "assets/image/locations/masjid_mashar_al_haram.webp",
-        "caption": {
-          "en": "Masjid Mash'ar al-Haram (Muzdalifah)",
-          "ms": "Masjid Mash'ar al-Haram (Muzdalifah)",
-          "ml": "മസ്ജിദുൽ മശ്അറുൽ ഹറാം (മുസ്ദലിഫ)",
-          "ta": "மஸ்ஜிதுல் மஷ்அருல் ஹராம் (முஸ்தலிஃபா)"
-        }
-      }
+      "{url: assets/image/locations/masjid_mashar_al_haram.webp, thumbnail: assets/image/locations/masjid_mashar_al_haram.webp, caption: {en: Masjid Mash'ar al-Haram (Muzdalifah), ms: Masjid Mash'ar al-Haram (Muzdalifah), ml: മസ്ജിദുൽ മശ്അറുൽ ഹറാം (മുസ്ദലിഫ), ta: மஸ்ஜிதுல் மஷ்அருல் ஹராம் (முஸ்தலிஃபா)}}"
     ],
     "videoUrls": [],
-    "socialLinks": [],
-    "clusterId": "hajj_mashair",
-    "subCategory": "The Sacred Hajj Pilgrimage Sites (Al-Masha'ir)"
+    "socialLinks": []
   },
   {
     "id": "wadi_muhassir",
@@ -3408,30 +2185,17 @@
       "ml": "അബ്റഹത്തിന്റെ ആനപ്പടയെ അല്ലാഹു പക്ഷികളെ അയച്ച് നശിപ്പിച്ച താഴ്‌വര. ഇതിലൂടെ കടന്നുപോകുമ്പോൾ വേഗത്തിൽ നടക്കൽ സുന്നത്താണ്; മുൻപ് ശിക്ഷ ഇറങ്ങിയ സ്ഥലമായതിനാലാണിത്.",
       "ta": "அப்ரஹாவின் யானைப்படை அழிக்கப்பட்ட மினா-முஸ்தலிஃபா எல்லைப் பள்ளத்தாக்கு. அல்லாஹ்வின் தண்டனை இறங்கிய இடம் என்பதால், இங்கு செல்லும் போது வேகத்தை அதிகரிப்பது சுன்னத்."
     },
-    "thumbnail": "assets/image/locations/wadi_muhassir.webp",
     "latitude": 21.39614,
     "longitude": 39.90788,
     "type": "Holy Site",
-    "cluster_id": "hajj_mashair",
-    "sub_category": "The Sacred Hajj Pilgrimage Sites (Al-Masha'ir)",
-    "region": "makkah",
-    "chronologyDate": null,
+    "subCategory": "The Sacred Hajj Pilgrimage Sites (Al-Masha'ir)",
+    "clusterId": "hajj_mashair",
+    "city": "Makkah",
     "imageUrls": [
-      {
-        "url": "assets/image/locations/wadi_muhassir.webp",
-        "thumbnail": "assets/image/locations/wadi_muhassir.webp",
-        "caption": {
-          "en": "Wadi Muhassir",
-          "ms": "Lembah Wadi Muhassir",
-          "ml": "വാദി മുഹസ്സിർ",
-          "ta": "வாதி முஹஸ்ஸிர்"
-        }
-      }
+      "{url: assets/image/locations/wadi_muhassir.webp, thumbnail: assets/image/locations/wadi_muhassir.webp, caption: {en: Wadi Muhassir, ms: Lembah Wadi Muhassir, ml: വാദി മുഹസ്സിർ, ta: வாதி முஹஸ்ஸிர்}}"
     ],
     "videoUrls": [],
-    "socialLinks": [],
-    "clusterId": "hajj_mashair",
-    "subCategory": "The Sacred Hajj Pilgrimage Sites (Al-Masha'ir)"
+    "socialLinks": []
   },
   {
     "id": "masjid_namirah",
@@ -3447,30 +2211,17 @@
       "ml": "അറഫാ ദിനത്തിൽ ഖുതുബയും നമസ്കാരവും നടക്കുന്ന വിശാലമായ മസ്ജിദ്. പള്ളിയുടെ മുൻഭാഗം വാദി ഉറനയിലാണ്, പിൻഭാഗം അറഫാത്തിന്റെ അതിർത്തിക്കുള്ളിലും.",
       "ta": "அரஃபா தின உரை மற்றும் ளுஹர்-அஸர் ஜம்ஆ தொழுகைகள் நடைபெறும் பிரமாண்ட பள்ளிவாசல். பள்ளியின் முன்பகுதி வாதி உரனாவிலும், பின்பகுதி அரஃபா எல்லைக்குள்ளும் அமைந்துள்ளது."
     },
-    "thumbnail": "assets/image/locations/masjid_namirah.webp",
     "latitude": 21.357216,
     "longitude": 39.97118,
     "type": "Mosque",
-    "cluster_id": "hajj_mashair",
-    "sub_category": "The Sacred Hajj Pilgrimage Sites (Al-Masha'ir)",
-    "region": "makkah",
-    "chronologyDate": null,
+    "subCategory": "The Sacred Hajj Pilgrimage Sites (Al-Masha'ir)",
+    "clusterId": "hajj_mashair",
+    "city": "Makkah",
     "imageUrls": [
-      {
-        "url": "assets/image/locations/masjid_namirah.webp",
-        "thumbnail": "assets/image/locations/masjid_namirah.webp",
-        "caption": {
-          "en": "Masjid Namirah (Arafat)",
-          "ms": "Masjid Namirah (Arafah)",
-          "ml": "മസ്ജിദു നമിറ (അറഫാത്ത്)",
-          "ta": "மஸ்ஜிது நமிரா (அரஃபா)"
-        }
-      }
+      "{url: assets/image/locations/masjid_namirah.webp, thumbnail: assets/image/locations/masjid_namirah.webp, caption: {en: Masjid Namirah (Arafat), ms: Masjid Namirah (Arafah), ml: മസ്ജിദു നമിറ (അറഫാത്ത്), ta: மஸ்ஜிது நமிரா (அரஃபா)}}"
     ],
     "videoUrls": [],
-    "socialLinks": [],
-    "clusterId": "hajj_mashair",
-    "subCategory": "The Sacred Hajj Pilgrimage Sites (Al-Masha'ir)"
+    "socialLinks": []
   },
   {
     "id": "ain_zubaydah_ruins",
@@ -3486,30 +2237,17 @@
       "ml": "സുബൈദ രാജ്ഞി തീർത്ഥാടകർക്കായി നിർമ്മിച്ച പുരാതന ശുദ്ധജല വിതരണ കനാൽ. ത്വാഇഫിൽ നിന്നും മക്ക വരെ കിലോമീറ്ററുകളോളം നീളുന്ന എൻജിനീയറിംഗ് അത്ഭുതമായ ജലപാത.",
       "ta": "ஜுபைதா அரசியால் ஹாஜிகளுக்காக கட்டப்பட்ட பழமையான குடிநீர் கால்வாய். தாயிஃப் மலைகளிலிருந்து மக்கா வரை நீர் கொண்டு வந்த வரலாற்று சிறப்புமிக்க கால்வாய் எச்சங்கள்."
     },
-    "thumbnail": "assets/image/locations/ain_zubaydah_ruins.webp",
     "latitude": 21.365,
     "longitude": 39.988,
     "type": "Holy Site",
-    "cluster_id": "hajj_mashair",
-    "sub_category": "The Sacred Hajj Pilgrimage Sites (Al-Masha'ir)",
-    "region": "makkah",
-    "chronologyDate": null,
+    "subCategory": "The Sacred Hajj Pilgrimage Sites (Al-Masha'ir)",
+    "clusterId": "hajj_mashair",
+    "city": "Makkah",
     "imageUrls": [
-      {
-        "url": "assets/image/locations/ain_zubaydah_ruins.webp",
-        "thumbnail": "assets/image/locations/ain_zubaydah_ruins.webp",
-        "caption": {
-          "en": "Ain Zubaydah Aqueduct Remnants",
-          "ms": "Runtuhan Terusan Air Ain Zubaydah",
-          "ml": "ഐൻ സുബൈദ ജലവിതരണ ചാലുകൾ",
-          "ta": "ஐன் ஜுபைதா நீர் வாய்க்கால் எச்சங்கள்"
-        }
-      }
+      "{url: assets/image/locations/ain_zubaydah_ruins.webp, thumbnail: assets/image/locations/ain_zubaydah_ruins.webp, caption: {en: Ain Zubaydah Aqueduct Remnants, ms: Runtuhan Terusan Air Ain Zubaydah, ml: ഐൻ സുബൈദ ജലവിതരണ ചാലുകൾ, ta: ஐன் ஜுபைதா நீர் வாய்க்கால் எச்சங்கள்}}"
     ],
     "videoUrls": [],
-    "socialLinks": [],
-    "clusterId": "hajj_mashair",
-    "subCategory": "The Sacred Hajj Pilgrimage Sites (Al-Masha'ir)"
+    "socialLinks": []
   },
   {
     "id": "masjid_ibn_abbas",
@@ -3525,30 +2263,17 @@
       "ml": "പ്രമുഖ ഖുർആൻ വ്യാഖ്യാതാവ് ഇബ്നു അബ്ബാസിന്റെ മഖാമും പള്ളിയും. ഇബ്നു അബ്ബാസിന്റെ മഖ്ബറയോടൊപ്പം ത്വാഇഫ് ഉപരോധത്തിൽ ശഹീദായ സ്വഹാബികളുടെ ഖബറുകളും ഇവിടെയുണ്ട്.",
       "ta": "குர்ஆனின் விரிவுரையாளர் இப்னு அப்பாஸ் (ரலி) அவர்களின் அடக்கஸ்தலம் மற்றும் பள்ளி. இப்னு அப்பாஸ் மகாமுடன் தாயிஃப் போரில் ஷஹீதான சஹாபாக்களின் அடக்கஸ்தலமும் இங்குள்ளது."
     },
-    "thumbnail": "assets/image/locations/masjid_ibn_abbas.webp",
     "latitude": 21.2652,
     "longitude": 40.4163,
     "type": "Mosque",
-    "cluster_id": "taif_locations",
-    "sub_category": "Historical Sites of Taif",
-    "region": "taif",
-    "chronologyDate": null,
+    "subCategory": "Historical Sites of Taif",
+    "clusterId": "taif_locations",
+    "city": "Makkah",
     "imageUrls": [
-      {
-        "url": "assets/image/locations/masjid_ibn_abbas.webp",
-        "thumbnail": "assets/image/locations/masjid_ibn_abbas.webp",
-        "caption": {
-          "en": "Masjid & Tomb of Abdullah ibn Abbas",
-          "ms": "Masjid & Makam Abdullah bin Abbas",
-          "ml": "അബ്ദുല്ലാഹിബ്നു അബ്ബാസ് പള്ളിയും മഖാമും",
-          "ta": "அப்துல்லாஹ் இப்னு அப்பாஸ் பள்ளி மற்றும் மகாப்"
-        }
-      }
+      "{url: assets/image/locations/masjid_ibn_abbas.webp, thumbnail: assets/image/locations/masjid_ibn_abbas.webp, caption: {en: Masjid & Tomb of Abdullah ibn Abbas, ms: Masjid & Makam Abdullah bin Abbas, ml: അബ്ദുല്ലാഹിബ്നു അബ്ബാസ് പള്ളിയും മഖാമും, ta: அப்துல்லாஹ் இப்னு அப்பாஸ் பள்ளி மற்றும் மகாப்}}"
     ],
     "videoUrls": [],
-    "socialLinks": [],
-    "clusterId": "taif_locations",
-    "subCategory": "Historical Sites of Taif"
+    "socialLinks": []
   },
   {
     "id": "masjid_addas",
@@ -3564,30 +2289,17 @@
       "ml": "അദ്ദാസ് എന്ന ക്രിസ്ത്യൻ അടിമ നബിക്ക് മുന്തിരി നൽകുകയും ഇസ്ലാം സ്വീകരിക്കുകയും ചെയ്ത സ്ഥലം. അൽ-മഥ്ന താഴ്‌വരയിലാണ്. ത്വാഇഫുകാരുടെ കല്ലേറുകൊണ്ട് പരിക്കേറ്റ നബി ആശ്വസിച്ച ഇടം.",
       "ta": "அத்தாஸ் என்ற கிறிஸ்தவ அடிமை நபிகளாருக்கு திராட்சை வழங்கி இஸ்லாத்தை ஏற்ற இடம். அல்-மத்னா பள்ளத்தாக்கில் உள்ளது. தாயிஃப் மக்களின் தாக்குதலுக்குப் பின் நபிகள் இளைப்பாறிய தோட்டம்."
     },
-    "thumbnail": "assets/image/locations/masjid_addas.webp",
     "latitude": 21.2842,
     "longitude": 40.4079,
     "type": "Mosque",
-    "cluster_id": "taif_locations",
-    "sub_category": "Historical Sites of Taif",
-    "region": "taif",
-    "chronologyDate": null,
+    "subCategory": "Historical Sites of Taif",
+    "clusterId": "taif_locations",
+    "city": "Makkah",
     "imageUrls": [
-      {
-        "url": "assets/image/locations/masjid_addas.webp",
-        "thumbnail": "assets/image/locations/masjid_addas.webp",
-        "caption": {
-          "en": "Masjid Addas (Vineyard of Utbah)",
-          "ms": "Masjid Addas (Kebun Anggur Addas)",
-          "ml": "മസ്ജിദ് അദ്ദാസ് (മുന്തിരിത്തോട്ടം)",
-          "ta": "மஸ்ஜிது அத்தாஸ் (திராட்சைத் தோட்டம்)"
-        }
-      }
+      "{url: assets/image/locations/masjid_addas.webp, thumbnail: assets/image/locations/masjid_addas.webp, caption: {en: Masjid Addas (Vineyard of Utbah), ms: Masjid Addas (Kebun Anggur Addas), ml: മസ്ജിദ് അദ്ദാസ് (മുന്തിരിത്തോട്ടം), ta: மஸ்ஜிது அத்தாஸ் (திராட்சைத் தோட்டம்)}}"
     ],
     "videoUrls": [],
-    "socialLinks": [],
-    "clusterId": "taif_locations",
-    "subCategory": "Historical Sites of Taif"
+    "socialLinks": []
   },
   {
     "id": "masjid_al_kouk",
@@ -3603,30 +2315,17 @@
       "ml": "നബി ﷺ ത്വാഇഫിൽ വെച്ച് കൈമുട്ട് ചാരി വിശ്രമിച്ച സ്ഥലത്ത് നിർമ്മിച്ച പള്ളി. അൽ-മഥ്നയിലെ മലയടിവാരം. പ്രവാചകന്റെ കഠിന ത്യാഗങ്ങളെ ഓർമ്മിപ്പിക്കുന്ന പുരാതന പള്ളി.",
       "ta": "தாயிஃபில் நபிகளார் முழங்கையை ஊன்றி ஓய்வெடுத்த இடத்தில் கட்டப்பட்ட பள்ளி. அல்-மத்னாவில் அமைந்துள்ளது. நபிகளாரின் தாயிஃப் பிரச்சார சோதனைகளை நினைவூட்டும் இடம்."
     },
-    "thumbnail": "assets/image/locations/masjid_al_kouk.webp",
     "latitude": 21.2825,
     "longitude": 40.4063,
     "type": "Mosque",
-    "cluster_id": "taif_locations",
-    "sub_category": "Historical Sites of Taif",
-    "region": "taif",
-    "chronologyDate": null,
+    "subCategory": "Historical Sites of Taif",
+    "clusterId": "taif_locations",
+    "city": "Makkah",
     "imageUrls": [
-      {
-        "url": "assets/image/locations/masjid_al_kouk.webp",
-        "thumbnail": "assets/image/locations/masjid_al_kouk.webp",
-        "caption": {
-          "en": "Masjid Al-Kouk (The Elbow Mosque)",
-          "ms": "Masjid Al-Kouk (Masjid Siku)",
-          "ml": "മസ്ജിദുൽ കൂഅ് (മുട്ടിന്റെ പള്ളി)",
-          "ta": "மஸ்ஜிதுல் கூக் (முழங்கை பள்ளி)"
-        }
-      }
+      "{url: assets/image/locations/masjid_al_kouk.webp, thumbnail: assets/image/locations/masjid_al_kouk.webp, caption: {en: Masjid Al-Kouk (The Elbow Mosque), ms: Masjid Al-Kouk (Masjid Siku), ml: മസ്ജിദുൽ കൂഅ് (മുട്ടിന്റെ പള്ളി), ta: மஸ்ஜிதுல் கூக் (முழங்கை பள்ளி)}}"
     ],
     "videoUrls": [],
-    "socialLinks": [],
-    "clusterId": "taif_locations",
-    "subCategory": "Historical Sites of Taif"
+    "socialLinks": []
   },
   {
     "id": "masjid_al_areesh",
@@ -3642,30 +2341,17 @@
       "ml": "നബി ﷺ ബദറിൽ സൈന്യത്തെ നയിക്കുകയും കണ്ണീരോടെ പ്രാർത്ഥിക്കുകയും ചെയ്ത കൂടാരത്തിന്റെ സ്ഥാനം. താഴ്‌വരയിലേക്ക് ദർശനമുള്ള ഉയർന്ന പ്രദേശം. അബൂബക്കർ (റ) കാവൽ നിന്ന നബിയുടെ കമാൻഡ് സെന്റർ.",
       "ta": "பத்ரு போரில் நபிகளார் கூடாரம் அமைத்து கண்ணீருடன் இறைவனிடம் மன்றாடிய இடம். பள்ளத்தாக்கை நோக்கிய மேடான பகுதி. நபிகளார் துஆ செய்த போது அபூபக்கர் (ரலி) காவல் நின்ற இடம்."
     },
-    "thumbnail": "assets/image/locations/masjid_al_areesh.webp",
     "latitude": 23.7781,
     "longitude": 38.7915,
     "type": "Mosque",
-    "cluster_id": "badr_battlefield",
-    "sub_category": "Badr Battlefield & Memorials",
-    "region": "badr",
-    "chronologyDate": null,
+    "subCategory": "Badr Battlefield & Memorials",
+    "clusterId": "badr_battlefield",
+    "city": "Madinah",
     "imageUrls": [
-      {
-        "url": "assets/image/locations/masjid_al_areesh.webp",
-        "thumbnail": "assets/image/locations/masjid_al_areesh.webp",
-        "caption": {
-          "en": "Masjid Al-Areesh",
-          "ms": "Masjid Al-'Areesh",
-          "ml": "മസ്ജിദുൽ അരീഷ്",
-          "ta": "மஸ்ஜிதுல் அரீஷ்"
-        }
-      }
+      "{url: assets/image/locations/masjid_al_areesh.webp, thumbnail: assets/image/locations/masjid_al_areesh.webp, caption: {en: Masjid Al-Areesh, ms: Masjid Al-'Areesh, ml: മസ്ജിദുൽ അരീഷ്, ta: மஸ்ஜிதுல் அரீஷ்}}"
     ],
     "videoUrls": [],
-    "socialLinks": [],
-    "clusterId": "badr_battlefield",
-    "subCategory": "Badr Battlefield & Memorials"
+    "socialLinks": []
   },
   {
     "id": "shuhada_badr_graveyard",
@@ -3681,30 +2367,17 @@
       "ml": "ബദർ യുദ്ധത്തിൽ രക്തസാക്ഷികളായ 14 സ്വഹാബികളുടെ ഖബറുകൾ അടങ്ങിയ ഇടം. ഉബൈദത്ത് ബിൻ അൽ-ഹാരിഥ് ഉൾപ്പെടെയുള്ള 14 ശുഹദാക്കളുടെ പേരുകൾ കവാടത്തിൽ ആലേഖനം ചെയ്തിട്ടുണ്ട്.",
       "ta": "பத்ரு போரில் வீரமரணமடைந்த 14 சஹாபாக்களின் அடக்கஸ்தலம். உபைதா இப்னுல் ஹாரிஸ் உள்ளிட்ட 14 தியாகிகளின் பெயர்கள் முகப்பில் பொறிக்கப்பட்டுள்ளன."
     },
-    "thumbnail": "assets/image/locations/shuhada_badr_graveyard.webp",
     "latitude": 23.7725,
     "longitude": 38.7885,
     "type": "Battlefield",
-    "cluster_id": "badr_battlefield",
-    "sub_category": "Badr Battlefield & Memorials",
-    "region": "badr",
-    "chronologyDate": null,
+    "subCategory": "Badr Battlefield & Memorials",
+    "clusterId": "badr_battlefield",
+    "city": "Madinah",
     "imageUrls": [
-      {
-        "url": "assets/image/locations/shuhada_badr_graveyard.webp",
-        "thumbnail": "assets/image/locations/shuhada_badr_graveyard.webp",
-        "caption": {
-          "en": "Badr Shuhada Graveyard",
-          "ms": "Makam 14 Syuhada Badar",
-          "ml": "ബദർ ശുഹദാക്കളുടെ മഖ്ബറ",
-          "ta": "பத்ரு ஷுஹதாக்கள் மையவாடி"
-        }
-      }
+      "{url: assets/image/locations/shuhada_badr_graveyard.webp, thumbnail: assets/image/locations/shuhada_badr_graveyard.webp, caption: {en: Badr Shuhada Graveyard, ms: Makam 14 Syuhada Badar, ml: ബദർ ശുഹദാക്കളുടെ മഖ്ബറ, ta: பத்ரு ஷுஹதாக்கள் மையவாடி}}"
     ],
     "videoUrls": [],
-    "socialLinks": [],
-    "clusterId": "badr_battlefield",
-    "subCategory": "Badr Battlefield & Memorials"
+    "socialLinks": []
   },
   {
     "id": "jabal_al_malaikah",
@@ -3720,30 +2393,17 @@
       "ml": "മുസ്‌ലിംകളെ സഹായിക്കാൻ മലക്കുകൾ ഇറങ്ങിവന്ന വെളുത്ത മണൽക്കുന്ന്. സൂറത്തുൽ അൻഫാലിൽ പരാമർശിച്ച മണൽക്കുന്ന്. അല്ലാഹു മലക്കുകളെ അയച്ച ചരിത്ര ഭൂമി.",
       "ta": "முஸ்லிம்களுக்கு உதவ வானவர்கள் இறங்கிய வெள்ளை மணல் குன்று. சூரா அன்பாலில் குறிப்பிடப்பட்ட தளம். இறைவனின் உதவி வானவர்கள் வடிவில் இறங்கிய இடம்."
     },
-    "thumbnail": "assets/image/locations/jabal_al_malaikah.webp",
     "latitude": 23.768,
     "longitude": 38.781,
     "type": "Battlefield",
-    "cluster_id": "badr_battlefield",
-    "sub_category": "Badr Battlefield & Memorials",
-    "region": "badr",
-    "chronologyDate": null,
+    "subCategory": "Badr Battlefield & Memorials",
+    "clusterId": "badr_battlefield",
+    "city": "Madinah",
     "imageUrls": [
-      {
-        "url": "assets/image/locations/jabal_al_malaikah.webp",
-        "thumbnail": "assets/image/locations/jabal_al_malaikah.webp",
-        "caption": {
-          "en": "Jabal Al-Mala'ikah (Mountain of the Angels)",
-          "ms": "Jabal Al-Mala'ikah (Bukit Malaikat)",
-          "ml": "ജബലുൽ മലായിക (മലക്കുകളുടെ മല)",
-          "ta": "ஜபலுல் மலாயிகா (வானவர்களின் மலை)"
-        }
-      }
+      "{url: assets/image/locations/jabal_al_malaikah.webp, thumbnail: assets/image/locations/jabal_al_malaikah.webp, caption: {en: Jabal Al-Mala'ikah (Mountain of the Angels), ms: Jabal Al-Mala'ikah (Bukit Malaikat), ml: ജബലുൽ മലായിക (മലക്കുകളുടെ മല), ta: ஜபலுல் மலாயிகா (வானவர்களின் மலை)}}"
     ],
     "videoUrls": [],
-    "socialLinks": [],
-    "clusterId": "badr_battlefield",
-    "subCategory": "Badr Battlefield & Memorials"
+    "socialLinks": []
   },
   {
     "id": "bir_badr_valley",
@@ -3759,30 +2419,17 @@
       "ml": "ഹുബാബ് ബിൻ മുൻദിറിന്റെ ഉപദേശപ്രകാരം മുസ്ലിംകൾ വെള്ളം ശേഖരിച്ച കിണറുകളുടെ താഴ്‌വര. ഇന്ന് തുറന്ന മൈതാനമാണ്. അന്ന് നിലനിന്നിരുന്ന പഴയ കിണറുകൾ പിന്നീട് മൂടപ്പെട്ടു.",
       "ta": "ஹுபாப் இப்னு முன்திரின் ஆலோசனையின்படி முஸ்லிம்கள் வசப்படுத்திய நீரூற்று பகுதி. தற்போது சமவெளி நிலமாக உள்ளது. வரலாற்று சிறப்புமிக்க பழைய கிணறுகள் மூடப்பட்டுவிட்டன."
     },
-    "thumbnail": "assets/image/locations/bir_badr_valley.webp",
     "latitude": 23.7765,
     "longitude": 38.7905,
     "type": "Prophetic Well",
-    "cluster_id": "badr_battlefield",
-    "sub_category": "Badr Battlefield & Memorials",
-    "region": "badr",
-    "chronologyDate": null,
+    "subCategory": "Badr Battlefield & Memorials",
+    "clusterId": "badr_battlefield",
+    "city": "Madinah",
     "imageUrls": [
-      {
-        "url": "assets/image/locations/bir_badr_valley.webp",
-        "thumbnail": "assets/image/locations/bir_badr_valley.webp",
-        "caption": {
-          "en": "Valley Bed of the Badr Wells",
-          "ms": "Lembah Telaga Badr Purba",
-          "ml": "ബദറിലെ കിണറുകൾ നിലനിന്ന താഴ്‌വര",
-          "ta": "பத்ரு கிணறுகள் இருந்த பள்ளத்தாக்கு"
-        }
-      }
+      "{url: assets/image/locations/bir_badr_valley.webp, thumbnail: assets/image/locations/bir_badr_valley.webp, caption: {en: Valley Bed of the Badr Wells, ms: Lembah Telaga Badr Purba, ml: ബദറിലെ കിണറുകൾ നിലനിന്ന താഴ്‌വര, ta: பத்ரு கிணறுகள் இருந்த பள்ளத்தாக்கு}}"
     ],
     "videoUrls": [],
-    "socialLinks": [],
-    "clusterId": "badr_battlefield",
-    "subCategory": "Badr Battlefield & Memorials"
+    "socialLinks": []
   },
   {
     "id": "al_qalib_pit",
@@ -3798,30 +2445,17 @@
       "ml": "അബൂജഹൽ അടക്കമുള്ള 24 ഖുറൈശി പ്രമുഖരുടെ മൃതദേഹങ്ങൾ ഇട്ടുമൂടിയ ഉണങ്ങിയ കിണർ. യുദ്ധത്തിന് മൂന്ന് ദിവസത്തിന് ശേഷം നബി ഈ കിണറിനരികിൽ നിന്ന് അവരോട് സംസാരിച്ചു.",
       "ta": "அபூஜஹ்ல் உள்ளிட்ட 24 குறைஷி தலைவர்களின் உடல்கள் போடப்பட்டு மூடப்பட்ட கிணறு. போர் முடிந்த மூன்று நாட்களுக்குப் பின் நபிகளார் இக்கிணற்றின் அருகே நின்று உரையாற்றினார்."
     },
-    "thumbnail": "assets/image/locations/al_qalib_pit.webp",
     "latitude": 23.7705,
     "longitude": 38.785,
     "type": "Battlefield",
-    "cluster_id": "badr_battlefield",
-    "sub_category": "Badr Battlefield & Memorials",
-    "region": "badr",
-    "chronologyDate": null,
+    "subCategory": "Badr Battlefield & Memorials",
+    "clusterId": "badr_battlefield",
+    "city": "Madinah",
     "imageUrls": [
-      {
-        "url": "assets/image/locations/al_qalib_pit.webp",
-        "thumbnail": "assets/image/locations/al_qalib_pit.webp",
-        "caption": {
-          "en": "Site of Al-Qalib (Disposal Pit of Quraysh)",
-          "ms": "Tapak Al-Qalib (Telaga Mayat Pembesar Quraisy)",
-          "ml": "അൽ-ഖലീബ് (ഖുറൈശി നേതാക്കളെ മറവുചെയ്ത കിണർ)",
-          "ta": "அல்-கலீப் (குறைஷி தலைவர்கள் புதைக்கப்பட்ட கிணறு)"
-        }
-      }
+      "{url: assets/image/locations/al_qalib_pit.webp, thumbnail: assets/image/locations/al_qalib_pit.webp, caption: {en: Site of Al-Qalib (Disposal Pit of Quraysh), ms: Tapak Al-Qalib (Telaga Mayat Pembesar Quraisy), ml: അൽ-ഖലീബ് (ഖുറൈശി നേതാക്കളെ മറവുചെയ്ത കിണർ), ta: அல்-கலீப் (குறைஷி தலைவர்கள் புதைக்கப்பட்ட கிணறு)}}"
     ],
     "videoUrls": [],
-    "socialLinks": [],
-    "clusterId": "badr_battlefield",
-    "subCategory": "Badr Battlefield & Memorials"
+    "socialLinks": []
   },
   {
     "id": "bir_rawha_well",
@@ -3837,30 +2471,17 @@
       "ml": "നബിയുടെ ഉമിനീര് വീണ് ഉപ്പുരസം മാറി മധുരജലമായി മാറിയ കിണർ. മദീനയിൽ നിന്ന് 80 കി.മീ ദൂരെ. ബദറിലേക്ക് പോകുന്ന വഴിയിൽ സൈന്യം ഇവിടെ നിന്ന് വെള്ളം കുടിച്ചു.",
       "ta": "நபிகளாரின் எச்சில் பட்டதால் உவர்நீர் நன்னீராக மாறிய வரலாற்று சிறப்புமிக்க கிணறு. மதீனாவிலிருந்து 80 கிமீ தொலைவில் உள்ளது. பத்ரு செல்லும் வழியில் முஸ்லிம் படைகள் நீர் அருந்திய இடம்."
     },
-    "thumbnail": "assets/image/locations/bir_rawha_well.webp",
     "latitude": 23.957,
     "longitude": 39.0963,
     "type": "Prophetic Well",
-    "cluster_id": "bir_ar_rawha",
-    "sub_category": "Wadi & Well of Ar-Rawha",
-    "region": "madinah_outskirts",
-    "chronologyDate": null,
+    "subCategory": "Wadi & Well of Ar-Rawha",
+    "clusterId": "bir_ar_rawha",
+    "city": "Madinah",
     "imageUrls": [
-      {
-        "url": "assets/image/locations/bir_rawha_well.webp",
-        "thumbnail": "assets/image/locations/bir_rawha_well.webp",
-        "caption": {
-          "en": "Bir Ar-Rawha",
-          "ms": "Telaga Bir Ar-Rawha",
-          "ml": "ബിഅ്‌റു റൗഹാ",
-          "ta": "பிஃரு ரவ்ஹா"
-        }
-      }
+      "{url: assets/image/locations/bir_rawha_well.webp, thumbnail: assets/image/locations/bir_rawha_well.webp, caption: {en: Bir Ar-Rawha, ms: Telaga Bir Ar-Rawha, ml: ബിഅ്‌റു റൗഹാ, ta: பிஃரு ரவ்ஹா}}"
     ],
     "videoUrls": [],
-    "socialLinks": [],
-    "clusterId": "bir_ar_rawha",
-    "subCategory": "Wadi & Well of Ar-Rawha"
+    "socialLinks": []
   },
   {
     "id": "masjid_ar_rawha",
@@ -3876,30 +2497,17 @@
       "ml": "മുൻകാല പ്രവാചകന്മാർ കഅ്ബ സന്ദർശന വേളയിൽ നമസ്കരിച്ച പള്ളി. എഴുപതോളം നബിമാർ ഈ വഴിയിലൂടെ ഹജ്ജിനായി പോയിട്ടുണ്ടെന്ന് ഹദീസുകളിൽ കാണാം.",
       "ta": "முந்தைய நபிமார்கள் கஅபா செல்லும் வழியில் தொழுத வரலாற்று பள்ளிவாசல். எழுபது நபிமார்கள் ஹஜ்ஜிற்காக இவ்வழியாக நடந்து சென்றதாக ஹதீஸ்களில் கூறப்பட்டுள்ளது."
     },
-    "thumbnail": "assets/image/locations/masjid_ar_rawha.webp",
     "latitude": 23.9565,
     "longitude": 39.0958,
     "type": "Mosque",
-    "cluster_id": "bir_ar_rawha",
-    "sub_category": "Wadi & Well of Ar-Rawha",
-    "region": "madinah_outskirts",
-    "chronologyDate": null,
+    "subCategory": "Wadi & Well of Ar-Rawha",
+    "clusterId": "bir_ar_rawha",
+    "city": "Madinah",
     "imageUrls": [
-      {
-        "url": "assets/image/locations/masjid_ar_rawha.webp",
-        "thumbnail": "assets/image/locations/masjid_ar_rawha.webp",
-        "caption": {
-          "en": "Masjid Ar-Rawha",
-          "ms": "Masjid Ar-Rawha",
-          "ml": "മസ്ജിദ് അർ-റൗഹാ",
-          "ta": "மஸ்ஜிது அர்-ரவ்ஹா"
-        }
-      }
+      "{url: assets/image/locations/masjid_ar_rawha.webp, thumbnail: assets/image/locations/masjid_ar_rawha.webp, caption: {en: Masjid Ar-Rawha, ms: Masjid Ar-Rawha, ml: മസ്ജിദ് അർ-റൗഹാ, ta: மஸ்ஜிது அர்-ரவ்ஹா}}"
     ],
     "videoUrls": [],
-    "socialLinks": [],
-    "clusterId": "bir_ar_rawha",
-    "subCategory": "Wadi & Well of Ar-Rawha"
+    "socialLinks": []
   },
   {
     "id": "al_suffah_platform",
@@ -3915,30 +2523,17 @@
       "ml": "അബൂഹുറൈറ അടക്കമുള്ള ദരിദ്രരായ സ്വഹാബികൾ താമസിച്ചു പഠിച്ച തിണ്ണ. നബിയുടെ വീടിന് തൊട്ടുപിന്നിൽ. വിജ്ഞാന സമ്പാദനത്തിനായി ജീവിതം സമർപ്പിച്ച സ്വഹാബികളുടെ സങ്കേതം.",
       "ta": "அபூஹுரைரா உள்ளிட்ட ஏழை சஹாபாக்கள் தங்கி கல்வி கற்ற வரலாற்று மேடை. நபிகளாரின் இல்லத்திற்குப் பின்னால் அமைந்துள்ளது. மார்க்கக் கல்விக்காக அர்ப்பணித்தவர்களின் இல்லம்."
     },
-    "thumbnail": "assets/image/locations/al_suffah_platform.webp",
     "latitude": 24.46745,
     "longitude": 39.6111,
     "type": "Rawdah Site",
-    "cluster_id": "rawdah_nabawi",
-    "sub_category": "Inside Masjid Nabawi: Rawdah Mubarak & Historical Pillars",
-    "region": "madinah",
-    "chronologyDate": null,
+    "subCategory": "Inside Masjid Nabawi: Rawdah Mubarak & Historical Pillars",
+    "clusterId": "rawdah_nabawi",
+    "city": "Madinah",
     "imageUrls": [
-      {
-        "url": "assets/image/locations/al_suffah_platform.webp",
-        "thumbnail": "assets/image/locations/al_suffah_platform.webp",
-        "caption": {
-          "en": "Platform of Ashab al-Suffah",
-          "ms": "Pentas Ahli Suffah",
-          "ml": "അസ്ഹാബുസ്സുഫ്ഫയുടെ തിണ്ണ",
-          "ta": "அஸ்ஹாபுஸ் ஸுஃப்பாவின் மேடை"
-        }
-      }
+      "{url: assets/image/locations/al_suffah_platform.webp, thumbnail: assets/image/locations/al_suffah_platform.webp, caption: {en: Platform of Ashab al-Suffah, ms: Pentas Ahli Suffah, ml: അസ്ഹാബുസ്സുഫ്ഫയുടെ തിണ്ണ, ta: அஸ்ஹாபுஸ் ஸுஃப்பாவின் மேடை}}"
     ],
     "videoUrls": [],
-    "socialLinks": [],
-    "clusterId": "rawdah_nabawi",
-    "subCategory": "Inside Masjid Nabawi: Rawdah Mubarak & Historical Pillars"
+    "socialLinks": []
   },
   {
     "id": "jannat_al_baqi",
@@ -3954,30 +2549,17 @@
       "ml": "പതിനായിരത്തോളം സ്വഹാബികളും പ്രവാചക പത്നിമാരും അന്ത്യവിശ്രമം കൊള്ളുന്ന പുണ്യ ഖബർസ്ഥാൻ. ഉസ്മാൻ (റ), ഹസൻ (റ), ഫാത്വിമ (റ) തുടങ്ങി നിരവധി പ്രമുഖരുടെ ഖബറുകൾ ഇവിടെയാണ്.",
       "ta": "பத்தாயிரத்திற்கும் மேற்பட்ட சஹாபாக்களும் நபிமனைவியரும் நல்லடக்கம் செய்யப்பட்ட மையவாடி. உஸ்மான் (ரலி), அன்னை பாத்திமா, மற்றும் நபிகளாரின் மகள்கள் அடக்கம் செய்யப்பட்டுள்ளனர்."
     },
-    "thumbnail": "assets/image/locations/jannat_al_baqi.webp",
     "latitude": 24.467199,
     "longitude": 39.61406,
     "type": "Salam Site",
-    "cluster_id": "perimeter_nabawi",
-    "sub_category": "Immediate Perimeter of Masjid Nabawi",
-    "region": "madinah",
-    "chronologyDate": null,
+    "subCategory": "Immediate Perimeter of Masjid Nabawi",
+    "clusterId": "perimeter_nabawi",
+    "city": "Madinah",
     "imageUrls": [
-      {
-        "url": "assets/image/locations/jannat_al_baqi.webp",
-        "thumbnail": "assets/image/locations/jannat_al_baqi.webp",
-        "caption": {
-          "en": "Jannat al-Baqi (Baqi al-Gharqad)",
-          "ms": "Jannat al-Baqi' (Perkuburan Baqi')",
-          "ml": "ജന്നത്തുൽ ബഖീഅ്",
-          "ta": "ஜன்னத்துல் பகீ"
-        }
-      }
+      "{url: assets/image/locations/jannat_al_baqi.webp, thumbnail: assets/image/locations/jannat_al_baqi.webp, caption: {en: Jannat al-Baqi (Baqi al-Gharqad), ms: Jannat al-Baqi' (Perkuburan Baqi'), ml: ജന്നത്തുൽ ബഖീഅ്, ta: ஜன்னத்துல் பகீ}}"
     ],
     "videoUrls": [],
-    "socialLinks": [],
-    "clusterId": "perimeter_nabawi",
-    "subCategory": "Immediate Perimeter of Masjid Nabawi"
+    "socialLinks": []
   },
   {
     "id": "saqifah_bani_saidah",
@@ -3993,30 +2575,17 @@
       "ml": "നബിയുടെ വഫാത്തോടെ അബൂബക്കർ സിദ്ദീഖിനെ ആദ്യ ഖലീഫയായി തിരഞ്ഞെടുത്ത സ്ഥലം. മസ്ജിദുന്നബവിയുടെ വടക്കുപടിഞ്ഞാറ് സ്ഥിതി ചെയ്യുന്ന മനോഹരമായ ഒരു ഈന്തപ്പനത്തോട്ടം.",
       "ta": "நபிகளாரின் மறைவுக்குப் பின் அபூபக்கர் முதல் கலீபாவாக தேர்ந்தெடுக்கப்பட்ட இடம். மஸ்ஜிது நபவியின் வடமேற்கில் தோட்டம் போன்ற சூழலில் பாதுகாக்கப்படுகிறது."
     },
-    "thumbnail": "assets/image/locations/saqifah_bani_saidah.webp",
     "latitude": 24.470222,
     "longitude": 39.606802,
     "type": "Salam Site",
-    "cluster_id": "perimeter_nabawi",
-    "sub_category": "Immediate Perimeter of Masjid Nabawi",
-    "region": "madinah",
-    "chronologyDate": null,
+    "subCategory": "Immediate Perimeter of Masjid Nabawi",
+    "clusterId": "perimeter_nabawi",
+    "city": "Madinah",
     "imageUrls": [
-      {
-        "url": "assets/image/locations/saqifah_bani_saidah.webp",
-        "thumbnail": "assets/image/locations/saqifah_bani_saidah.webp",
-        "caption": {
-          "en": "Saqifah Bani Sa'idah",
-          "ms": "Saqifah Bani Sa'idah",
-          "ml": "സഖീഫ ബനീ സാഇദ",
-          "ta": "ஸகீஃபா பனீ ஸாஇதா"
-        }
-      }
+      "{url: assets/image/locations/saqifah_bani_saidah.webp, thumbnail: assets/image/locations/saqifah_bani_saidah.webp, caption: {en: Saqifah Bani Sa'idah, ms: Saqifah Bani Sa'idah, ml: സഖീഫ ബനീ സാഇദ, ta: ஸகீஃபா பனீ ஸாஇதா}}"
     ],
     "videoUrls": [],
-    "socialLinks": [],
-    "clusterId": "perimeter_nabawi",
-    "subCategory": "Immediate Perimeter of Masjid Nabawi"
+    "socialLinks": []
   },
   {
     "id": "ghar_uhud",
@@ -4032,30 +2601,17 @@
       "ml": "യുദ്ധത്തിൽ പരിക്കേറ്റ നബിയെ സ്വഹാബികൾ വിശ്രമിക്കാനായി കൊണ്ടുപോയ മലയിലെ ഗുഹ. ഫാത്തിമ (റ) പായ കത്തിച്ച ചാരം ഉപയോഗിച്ച് നബിയുടെ രക്തസ്രാവം നിർത്തിയത് ഇവിടെ വെച്ചാണ്.",
       "ta": "போரில் காயமுற்ற நபிகளாரை சஹாபாக்கள் ஓய்வெடுக்க அழைத்துச் சென்ற மலைக் குகை. அன்னை பாத்திமா பாயைச் சுட்டு சாம்பலைக் கொண்டு நபிகளாரின் காயத்திற்கு மருந்திட்ட இடம்."
     },
-    "thumbnail": "assets/image/locations/ghar_uhud.webp",
     "latitude": 24.5097,
     "longitude": 39.615,
     "type": "Historical",
-    "cluster_id": "uhud_precinct",
-    "sub_category": "Uhud Battlefield & Landmarks",
-    "region": "madinah",
-    "chronologyDate": null,
+    "subCategory": "Uhud Battlefield & Landmarks",
+    "clusterId": "uhud_precinct",
+    "city": "Madinah",
     "imageUrls": [
-      {
-        "url": "assets/image/locations/ghar_uhud.webp",
-        "thumbnail": "assets/image/locations/ghar_uhud.webp",
-        "caption": {
-          "en": "Ghar Uhud (Rasulullah's Resting Cave)",
-          "ms": "Ghar Uhud (Gua Tempat Rehat Rasulullah ﷺ)",
-          "ml": "ഉഹുദ് ഗുഹ (നബി വിശ്രമിച്ച ഗുഹ)",
-          "ta": "உஹுத் குகை (நபிகளார் ஓய்வெடுத்த குகை)"
-        }
-      }
+      "{url: assets/image/locations/ghar_uhud.webp, thumbnail: assets/image/locations/ghar_uhud.webp, caption: {en: Ghar Uhud (Rasulullah's Resting Cave), ms: Ghar Uhud (Gua Tempat Rehat Rasulullah ﷺ), ml: ഉഹുദ് ഗുഹ (നബി വിശ്രമിച്ച ഗുഹ), ta: உஹுத் குகை (நபிகளார் ஓய்வெடுத்த குகை)}}"
     ],
     "videoUrls": [],
-    "socialLinks": [],
-    "clusterId": "uhud_precinct",
-    "subCategory": "Uhud Battlefield & Landmarks"
+    "socialLinks": []
   },
   {
     "id": "house_kulthum_hadm",
@@ -4071,30 +2627,17 @@
       "ml": "ഹിജ്റ വേളയിൽ നബി ഖുബായിൽ എത്തിയപ്പോൾ താമസിച്ച അൻസാരി പ്രമുഖന്റെ വീട്. ഖുബാ പള്ളിക്ക് സമീപം. അലി (റ) എത്തുന്നതുവരെ നബി ഇവിടെയാണ് വിശ്രമിച്ചത്.",
       "ta": "ஹிஜ்ரத்தின் போது குபாவிற்கு வந்திறங்கிய நபிகளார் தங்கியிருந்த இல்லம். குபா பள்ளிக்கு அருகில் அமைந்தது. அலி (ரலி) வரும் வரை நபிகளார் இங்கு தங்கியிருந்தார்."
     },
-    "thumbnail": "assets/image/locations/house_kulthum_hadm.webp",
     "latitude": 24.438755,
     "longitude": 39.616903,
     "type": "Historical",
-    "cluster_id": "quba_precinct",
-    "sub_category": "The Quba Precinct & Sahabah Residences",
-    "region": "madinah",
-    "chronologyDate": null,
+    "subCategory": "The Quba Precinct & Sahabah Residences",
+    "clusterId": "quba_precinct",
+    "city": "Madinah",
     "imageUrls": [
-      {
-        "url": "assets/image/locations/house_kulthum_hadm.webp",
-        "thumbnail": "assets/image/locations/house_kulthum_hadm.webp",
-        "caption": {
-          "en": "House of Kulthum ibn al-Hadm",
-          "ms": "Rumah Kulthum bin al-Hadm",
-          "ml": "കുൽസൂം ബിൻ അൽ-ഹദ്മിന്റെ വീട്",
-          "ta": "குல்சூம் இப்னுல் ஹத்ம் இல்லம்"
-        }
-      }
+      "{url: assets/image/locations/house_kulthum_hadm.webp, thumbnail: assets/image/locations/house_kulthum_hadm.webp, caption: {en: House of Kulthum ibn al-Hadm, ms: Rumah Kulthum bin al-Hadm, ml: കുൽസൂം ബിൻ അൽ-ഹദ്മിന്റെ വീട്, ta: குல்சூம் இப்னுல் ஹத்ம் இல்லம்}}"
     ],
     "videoUrls": [],
-    "socialLinks": [],
-    "clusterId": "quba_precinct",
-    "subCategory": "The Quba Precinct & Sahabah Residences"
+    "socialLinks": []
   },
   {
     "id": "house_sad_khaythamah",
@@ -4110,30 +2653,17 @@
       "ml": "അവിവാഹിതരായ മുഹാജിറുകൾ താമസിക്കുകയും നബി സ്വഹാബികളുമായി സംസാരിച്ചിരിക്കുകയും ചെയ്ത വീട്. പകൽ സമയങ്ങളിൽ നബി സദസ്സുകൾ നടത്തിയിരുന്നത് സഅ്ദിന്റെ ഈ വീട്ടിലായിരുന്നു.",
       "ta": "முஹாஜிர்கள் தங்கியிருந்த இல்லம் மற்றும் நபிகளார் தோழர்களை சந்தித்த இடம். பகல் நேரங்களில் நபிகளார் போதனைகள் வழங்கி தோழர்களை சந்தித்த இல்லம்."
     },
-    "thumbnail": "assets/image/locations/house_sad_khaythamah.webp",
     "latitude": 24.438725,
     "longitude": 39.617321,
     "type": "Historical",
-    "cluster_id": "quba_precinct",
-    "sub_category": "The Quba Precinct & Sahabah Residences",
-    "region": "madinah",
-    "chronologyDate": null,
+    "subCategory": "The Quba Precinct & Sahabah Residences",
+    "clusterId": "quba_precinct",
+    "city": "Madinah",
     "imageUrls": [
-      {
-        "url": "assets/image/locations/house_sad_khaythamah.webp",
-        "thumbnail": "assets/image/locations/house_sad_khaythamah.webp",
-        "caption": {
-          "en": "House of Sa'd ibn Khaythamah",
-          "ms": "Rumah Sa'd bin Khaythamah (Bait al-Uzzab)",
-          "ml": "സഅ്ദ് ബിൻ ഖൈസമയുടെ വീട്",
-          "ta": "ஸஅத் இப்னு கைஸமா இல்லம்"
-        }
-      }
+      "{url: assets/image/locations/house_sad_khaythamah.webp, thumbnail: assets/image/locations/house_sad_khaythamah.webp, caption: {en: House of Sa'd ibn Khaythamah, ms: Rumah Sa'd bin Khaythamah (Bait al-Uzzab), ml: സഅ്ദ് ബിൻ ഖൈസമയുടെ വീട്, ta: ஸஅத் இப்னு கைஸமா இல்லம்}}"
     ],
     "videoUrls": [],
-    "socialLinks": [],
-    "clusterId": "quba_precinct",
-    "subCategory": "The Quba Precinct & Sahabah Residences"
+    "socialLinks": []
   },
   {
     "id": "hajar_al_aswad",
@@ -4152,28 +2682,14 @@
     "latitude": 21.422477,
     "longitude": 39.826274,
     "type": "Holy Site",
-    "chronologyDate": null,
-    "osmId": "node/1199442721",
+    "subCategory": "Inside the Mataf & The Holy Kaaba",
+    "clusterId": "mataf_kaabah",
+    "city": "Makkah",
     "imageUrls": [
-      {
-        "url": "assets/image/locations/rukun_hajar.webp",
-        "thumbnail": "assets/image/locations/rukun_hajar.webp",
-        "caption": {
-          "en": "Rukun Hajar Al Aswad",
-          "ms": "Rukun Hajar Al Aswad",
-          "ml": "ഹജറുൽ അസ്വദ് മൂക്ക്",
-          "ta": "ஹஜருல் அஸ்வத் மூலை"
-        }
-      }
+      "{url: assets/image/locations/rukun_hajar.webp, thumbnail: assets/image/locations/rukun_hajar.webp, caption: {en: Rukun Hajar Al Aswad, ms: Rukun Hajar Al Aswad, ml: ഹജറുൽ അസ്വദ് മൂക്ക്, ta: ஹஜருல் அஸ்வத் மூலை}}"
     ],
     "videoUrls": [],
-    "socialLinks": [],
-    "thumbnail": "assets/image/locations/rukun_hajar.webp",
-    "cluster_id": "mataf_kaabah",
-    "sub_category": "Inside the Mataf & The Holy Kaaba",
-    "region": "makkah",
-    "clusterId": "mataf_kaabah",
-    "subCategory": "Inside the Mataf & The Holy Kaaba"
+    "socialLinks": []
   },
   {
     "id": "dar_an_nadwah_site",
@@ -4192,27 +2708,14 @@
     "latitude": 21.42288,
     "longitude": 39.82585,
     "type": "Historical",
-    "chronologyDate": null,
+    "subCategory": "Inside the Mataf & The Holy Kaaba",
+    "clusterId": "mataf_kaabah",
+    "city": "Makkah",
     "imageUrls": [
-      {
-        "url": "assets/image/locations/darul_nadwah.webp",
-        "thumbnail": "assets/image/locations/darul_nadwah.webp",
-        "caption": {
-          "en": "Darul Nadwah",
-          "ms": "Darul Nadwah",
-          "ml": "ദാറുൽ നദ്‌വ",
-          "ta": "தாருல் நத்வா"
-        }
-      }
+      "{url: assets/image/locations/darul_nadwah.webp, thumbnail: assets/image/locations/darul_nadwah.webp, caption: {en: Darul Nadwah, ms: Darul Nadwah, ml: ദാറുൽ നദ്‌വ, ta: தாருல் நத்வா}}"
     ],
     "videoUrls": [],
-    "socialLinks": [],
-    "thumbnail": "assets/image/locations/darul_nadwah.webp",
-    "cluster_id": "mataf_kaabah",
-    "sub_category": "Inside the Mataf & The Holy Kaaba",
-    "region": "makkah",
-    "clusterId": "mataf_kaabah",
-    "subCategory": "Inside the Mataf & The Holy Kaaba"
+    "socialLinks": []
   },
   {
     "id": "jabal_marwah",
@@ -4231,44 +2734,14 @@
     "latitude": 21.425052,
     "longitude": 39.827178,
     "type": "Historical",
-    "region": "makkah",
-    "cluster_id": "masa_and_gates",
-    "clusterId": "masa_and_gates",
-    "sub_category": "The Mas'a Gallery & Major Gates",
     "subCategory": "The Mas'a Gallery & Major Gates",
-    "thumbnail": "assets/image/locations/jabal_marwah.webp",
+    "clusterId": "masa_and_gates",
+    "city": "Makkah",
     "imageUrls": [
-      {
-        "url": "assets/image/locations/jabal_marwah.webp",
-        "thumbnail": "assets/image/locations/jabal_marwah.webp",
-        "caption": {
-          "en": "Mount Marwah (End of Sa'i)",
-          "ms": "Bukit Marwah (Penamat Sa'ie)",
-          "ml": "മർവ്വാ മല",
-          "ta": "மர்வா மலை"
-        }
-      }
+      "{url: assets/image/locations/jabal_marwah.webp, thumbnail: assets/image/locations/jabal_marwah.webp, caption: {en: Mount Marwah (End of Sa'i), ms: Bukit Marwah (Penamat Sa'ie), ml: മർവ്വാ മല, ta: மர்வா மலை}}"
     ],
     "videoUrls": [],
-    "socialLinks": [],
-    "sentences": [
-      {
-        "text": {
-          "en": "The rocky mound of Marwah marks the conclusion of the 7 laps of Sa'i.",
-          "ms": "Batuan bukit Marwah menandakan selesainya 7 pusingan Sa'ie.",
-          "ml": "ഏഴ് സഈ പൂർത്തിയാകുന്നത് മർവ മലയിലാണ്.",
-          "ta": "சயீயின் 7 சுற்றுகள் மர்வா மலையில் முடிகின்றன."
-        }
-      },
-      {
-        "text": {
-          "en": "Upon reaching Marwah on the 7th circuit, pilgrims make final supplications and proceed to Tahallul (hair cutting/shaving).",
-          "ms": "Setibanya di Marwah pada pusingan ketujuh, jemaah berdoa dan seterusnya bertahallul (bercukur/bergunting).",
-          "ml": "ഏഴാം ഘട്ടം മർവയിൽ പൂർത്തിയാക്കി ദുആ ചെയ്ത ശേഷം തഹല്ലുൽ (മുടി മുറിക്കൽ) ചെയ്യുന്നു.",
-          "ta": "ஏழாவது சுற்றை முடித்ததும் துஆ செய்துவிட்டு தஹல்லுல் (முடி கத்தரித்தல்) செய்ய செல்கின்றனர்."
-        }
-      }
-    ]
+    "socialLinks": []
   },
   {
     "id": "boundary_taneem",
@@ -4288,33 +2761,15 @@
     },
     "latitude": 21.4602,
     "longitude": 39.8138,
-    "region": "makkah",
     "type": "Holy Site",
-    "clusterId": "haram_boundaries",
-    "cluster_id": "haram_boundaries",
     "subCategory": "Makkah Sacred Sanctuary Boundary",
-    "sub_category": "Makkah Sacred Sanctuary Boundary",
-    "thumbnail": "assets/image/locations/makkah.webp",
+    "clusterId": "haram_boundaries",
+    "city": "Makkah",
     "imageUrls": [
-      {
-        "url": "assets/image/locations/makkah.webp",
-        "thumbnail": "assets/image/locations/makkah.webp",
-        "caption": {
-          "en": "Tan'im Haram Boundary Marker",
-          "ms": "Batu Tanda Sempadan Tan'im"
-        }
-      }
+      "{url: assets/image/locations/makkah.webp, thumbnail: assets/image/locations/makkah.webp, caption: {en: Tan'im Haram Boundary Marker, ms: Batu Tanda Sempadan Tan'im}}"
     ],
     "videoUrls": [],
-    "socialLinks": [],
-    "sentences": [
-      {
-        "text": {
-          "en": "Tan'im Haram Boundary marks the northern entry into the sacred sanctuary along the historic Madinah route.",
-          "ms": "Sempadan Tan'im menandakan pintu masuk utara ke Tanah Haram melalui laluan bersejarah Madinah."
-        }
-      }
-    ]
+    "socialLinks": []
   },
   {
     "id": "boundary_jiranah",
@@ -4334,33 +2789,15 @@
     },
     "latitude": 21.5097,
     "longitude": 39.94,
-    "region": "makkah",
     "type": "Holy Site",
-    "clusterId": "haram_boundaries",
-    "cluster_id": "haram_boundaries",
     "subCategory": "Makkah Sacred Sanctuary Boundary",
-    "sub_category": "Makkah Sacred Sanctuary Boundary",
-    "thumbnail": "assets/image/locations/makkah.webp",
+    "clusterId": "haram_boundaries",
+    "city": "Makkah",
     "imageUrls": [
-      {
-        "url": "assets/image/locations/makkah.webp",
-        "thumbnail": "assets/image/locations/makkah.webp",
-        "caption": {
-          "en": "Ji'ranah Haram Boundary Marker",
-          "ms": "Batu Tanda Sempadan Ji'ranah"
-        }
-      }
+      "{url: assets/image/locations/makkah.webp, thumbnail: assets/image/locations/makkah.webp, caption: {en: Ji'ranah Haram Boundary Marker, ms: Batu Tanda Sempadan Ji'ranah}}"
     ],
     "videoUrls": [],
-    "socialLinks": [],
-    "sentences": [
-      {
-        "text": {
-          "en": "Ji'ranah Boundary marks the sanctuary border along the historic Taif and Hunayn route.",
-          "ms": "Sempadan Ji'ranah menandakan sempadan Tanah Suci di laluan bersejarah Taif dan Hunayn."
-        }
-      }
-    ]
+    "socialLinks": []
   },
   {
     "id": "boundary_sharayi",
@@ -4380,33 +2817,15 @@
     },
     "latitude": 21.493,
     "longitude": 39.957,
-    "region": "makkah",
     "type": "Holy Site",
-    "clusterId": "haram_boundaries",
-    "cluster_id": "haram_boundaries",
     "subCategory": "Makkah Sacred Sanctuary Boundary",
-    "sub_category": "Makkah Sacred Sanctuary Boundary",
-    "thumbnail": "assets/image/locations/makkah.webp",
+    "clusterId": "haram_boundaries",
+    "city": "Makkah",
     "imageUrls": [
-      {
-        "url": "assets/image/locations/makkah.webp",
-        "thumbnail": "assets/image/locations/makkah.webp",
-        "caption": {
-          "en": "Al-Sharayi' (Al-Alamain) Boundary Marker",
-          "ms": "Batu Tanda Sempadan Al-Sharayi' (Al-Alamain)"
-        }
-      }
+      "{url: assets/image/locations/makkah.webp, thumbnail: assets/image/locations/makkah.webp, caption: {en: Al-Sharayi' (Al-Alamain) Boundary Marker, ms: Batu Tanda Sempadan Al-Sharayi' (Al-Alamain)}}"
     ],
     "videoUrls": [],
-    "socialLinks": [],
-    "sentences": [
-      {
-        "text": {
-          "en": "Al-Sharayi' twin boundary pillars demarcate the eastern entrance from Najd and Qarn al-Manazil.",
-          "ms": "Tiang berkembar Al-Sharayi' menandakan pintu masuk timur dari Najd dan Qarn al-Manazil."
-        }
-      }
-    ]
+    "socialLinks": []
   },
   {
     "id": "boundary_namirah",
@@ -4426,33 +2845,15 @@
     },
     "latitude": 21.3562,
     "longitude": 39.9723,
-    "region": "makkah",
     "type": "Holy Site",
-    "clusterId": "haram_boundaries",
-    "cluster_id": "haram_boundaries",
     "subCategory": "Makkah Sacred Sanctuary Boundary",
-    "sub_category": "Makkah Sacred Sanctuary Boundary",
-    "thumbnail": "assets/image/locations/masjid_namirah.webp",
+    "clusterId": "haram_boundaries",
+    "city": "Makkah",
     "imageUrls": [
-      {
-        "url": "assets/image/locations/masjid_namirah.webp",
-        "thumbnail": "assets/image/locations/masjid_namirah.webp",
-        "caption": {
-          "en": "Masjid Namirah & Uranah Valley Boundary",
-          "ms": "Sempadan Masjid Namirah & Lembah Uranah"
-        }
-      }
+      "{url: assets/image/locations/masjid_namirah.webp, thumbnail: assets/image/locations/masjid_namirah.webp, caption: {en: Masjid Namirah & Uranah Valley Boundary, ms: Sempadan Masjid Namirah & Lembah Uranah}}"
     ],
     "videoUrls": [],
-    "socialLinks": [],
-    "sentences": [
-      {
-        "text": {
-          "en": "Namirah boundary marks the precise theological threshold separating Arafat (Hil) from Muzdalifah and Makkah (Haram).",
-          "ms": "Sempadan Namirah memisahkan secara tepat antara Arafah (Tanah Halal) dengan Muzdalifah dan Makkah (Tanah Haram)."
-        }
-      }
-    ]
+    "socialLinks": []
   },
   {
     "id": "boundary_adat_laban",
@@ -4472,33 +2873,15 @@
     },
     "latitude": 21.289,
     "longitude": 39.832,
-    "region": "makkah",
     "type": "Holy Site",
-    "clusterId": "haram_boundaries",
-    "cluster_id": "haram_boundaries",
     "subCategory": "Makkah Sacred Sanctuary Boundary",
-    "sub_category": "Makkah Sacred Sanctuary Boundary",
-    "thumbnail": "assets/image/locations/makkah.webp",
+    "clusterId": "haram_boundaries",
+    "city": "Makkah",
     "imageUrls": [
-      {
-        "url": "assets/image/locations/makkah.webp",
-        "thumbnail": "assets/image/locations/makkah.webp",
-        "caption": {
-          "en": "Adat Laban Southern Boundary Marker",
-          "ms": "Batu Tanda Sempadan Adat Laban"
-        }
-      }
+      "{url: assets/image/locations/makkah.webp, thumbnail: assets/image/locations/makkah.webp, caption: {en: Adat Laban Southern Boundary Marker, ms: Batu Tanda Sempadan Adat Laban}}"
     ],
     "videoUrls": [],
-    "socialLinks": [],
-    "sentences": [
-      {
-        "text": {
-          "en": "Adat Laban marks the southern sanctuary perimeter on the historical pilgrimage road from Yemen and Yalamlam.",
-          "ms": "Adat Laban menandakan sempadan selatan Tanah Haram di laluan jemaah bersejarah dari Yaman dan Yalamlam."
-        }
-      }
-    ]
+    "socialLinks": []
   },
   {
     "id": "boundary_shumaisi",
@@ -4518,32 +2901,14 @@
     },
     "latitude": 21.4398,
     "longitude": 39.6738,
-    "region": "makkah",
     "type": "Holy Site",
-    "clusterId": "haram_boundaries",
-    "cluster_id": "haram_boundaries",
     "subCategory": "Makkah Sacred Sanctuary Boundary",
-    "sub_category": "Makkah Sacred Sanctuary Boundary",
-    "thumbnail": "assets/image/locations/makkah.webp",
+    "clusterId": "haram_boundaries",
+    "city": "Makkah",
     "imageUrls": [
-      {
-        "url": "assets/image/locations/makkah.webp",
-        "thumbnail": "assets/image/locations/makkah.webp",
-        "caption": {
-          "en": "Al-Shumaisi / Hudaybiyyah Boundary Marker",
-          "ms": "Batu Tanda Sempadan Al-Shumaisi / Hudaybiyyah"
-        }
-      }
+      "{url: assets/image/locations/makkah.webp, thumbnail: assets/image/locations/makkah.webp, caption: {en: Al-Shumaisi / Hudaybiyyah Boundary Marker, ms: Batu Tanda Sempadan Al-Shumaisi / Hudaybiyyah}}"
     ],
     "videoUrls": [],
-    "socialLinks": [],
-    "sentences": [
-      {
-        "text": {
-          "en": "Al-Shumaisi boundary marks the western entry point where pilgrims entering from Jeddah airport enter Tanah Haram.",
-          "ms": "Sempadan Al-Shumaisi menandakan pintu masuk barat di mana jemaah dari lapangan terbang Jeddah melangkah masuk ke Tanah Haram."
-        }
-      }
-    ]
+    "socialLinks": []
   }
 ]

@@ -29607,11 +29607,7 @@
     "longitude": 39.6114943,
     "region": "madinah",
     "type": "Amenity: Food & Dining",
-    "subCategory": "Food & Dining",
-    "thumbnail": "assets/image/amenity.webp",
-    "socialLinks": [
-      "tel:+966148290001"
-    ]
+    "thumbnail": "assets/image/amenity.webp"
   },
   {
     "id": "amenity_food_madinah_03",
@@ -29631,7 +29627,6 @@
     "longitude": 39.605,
     "region": "madinah",
     "type": "Amenity: Food & Dining",
-    "subCategory": "Food & Dining",
     "thumbnail": "assets/image/amenity.webp"
   },
   {
@@ -29652,7 +29647,6 @@
     "longitude": 39.6119646,
     "region": "madinah",
     "type": "Amenity: Food & Dining",
-    "subCategory": "Food & Dining",
     "thumbnail": "assets/image/amenity.webp"
   },
   {
@@ -29673,7 +29667,6 @@
     "longitude": 39.61,
     "region": "madinah",
     "type": "Amenity: Shopping",
-    "subCategory": "Shopping & Dates",
     "thumbnail": "assets/image/amenity.webp"
   },
   {
@@ -29694,7 +29687,6 @@
     "longitude": 39.6096465,
     "region": "madinah",
     "type": "Amenity: Shopping",
-    "subCategory": "Shopping & Dates",
     "thumbnail": "assets/image/amenity.webp"
   },
   {
@@ -29715,7 +29707,6 @@
     "longitude": 39.591,
     "region": "madinah",
     "type": "Amenity: Shopping",
-    "subCategory": "Shopping & Dates",
     "thumbnail": "assets/image/amenity.webp"
   },
   {
@@ -29736,7 +29727,6 @@
     "longitude": 39.6160875,
     "region": "madinah",
     "type": "Amenity: Food & Dining",
-    "subCategory": "Fast Food & Dining",
     "thumbnail": "assets/image/amenity.webp"
   },
   {
@@ -29757,7 +29747,6 @@
     "longitude": 39.6091697,
     "region": "madinah",
     "type": "Amenity: Food & Dining",
-    "subCategory": "Food & Dining",
     "thumbnail": "assets/image/amenity.webp"
   },
   {
@@ -29778,7 +29767,6 @@
     "longitude": 39.6132254,
     "region": "madinah",
     "type": "Amenity: Food & Dining",
-    "subCategory": "Food & Dining",
     "thumbnail": "assets/image/amenity.webp"
   },
   {
@@ -29799,7 +29787,6 @@
     "longitude": 39.6016406,
     "region": "madinah",
     "type": "Amenity: Food & Dining",
-    "subCategory": "Food & Dining",
     "thumbnail": "assets/image/amenity.webp"
   },
   {
@@ -29820,7 +29807,6 @@
     "longitude": 39.6076784,
     "region": "madinah",
     "type": "Amenity: Food & Dining",
-    "subCategory": "Food & Dining",
     "thumbnail": "assets/image/amenity.webp"
   },
   {
@@ -29841,7 +29827,6 @@
     "longitude": 39.6122178,
     "region": "madinah",
     "type": "Amenity: Food & Dining",
-    "subCategory": "Food & Dining",
     "thumbnail": "assets/image/amenity.webp"
   },
   {
@@ -29862,7 +29847,6 @@
     "longitude": 39.6132297,
     "region": "madinah",
     "type": "Amenity: Food & Dining",
-    "subCategory": "Cafe & Beverages",
     "thumbnail": "assets/image/amenity.webp"
   },
   {
@@ -29883,7 +29867,6 @@
     "longitude": 39.6101257,
     "region": "madinah",
     "type": "Amenity: Medical",
-    "subCategory": "Medical & Clinic",
     "thumbnail": "assets/image/amenity.webp"
   },
   {
@@ -29904,7 +29887,6 @@
     "longitude": 39.6109068,
     "region": "madinah",
     "type": "Amenity: Medical",
-    "subCategory": "Pharmacy",
     "thumbnail": "assets/image/amenity.webp"
   },
   {
@@ -29925,7 +29907,6 @@
     "longitude": 39.6103005,
     "region": "madinah",
     "type": "Amenity: Medical",
-    "subCategory": "Pharmacy",
     "thumbnail": "assets/image/amenity.webp"
   },
   {
@@ -29946,7 +29927,6 @@
     "longitude": 39.6077725,
     "region": "madinah",
     "type": "Amenity: Medical",
-    "subCategory": "Pharmacy",
     "thumbnail": "assets/image/amenity.webp"
   },
   {
@@ -29967,7 +29947,6 @@
     "longitude": 39.6132455,
     "region": "madinah",
     "type": "Amenity: Medical",
-    "subCategory": "Pharmacy",
     "thumbnail": "assets/image/amenity.webp"
   },
   {
@@ -29988,7 +29967,6 @@
     "longitude": 39.6076305,
     "region": "madinah",
     "type": "Amenity: Shopping",
-    "subCategory": "Shopping & Dates",
     "thumbnail": "assets/image/amenity.webp"
   },
   {
@@ -30009,7 +29987,6 @@
     "longitude": 39.6127669,
     "region": "madinah",
     "type": "Amenity: Shopping",
-    "subCategory": "Shopping & Dates",
     "thumbnail": "assets/image/amenity.webp"
   },
   {
@@ -30030,7 +30007,6 @@
     "longitude": 39.6132478,
     "region": "madinah",
     "type": "Amenity: Shopping",
-    "subCategory": "Shopping & Dates",
     "thumbnail": "assets/image/amenity.webp"
   },
   {
@@ -30051,7 +30027,6 @@
     "longitude": 39.6054452,
     "region": "madinah",
     "type": "Amenity: Essentials",
-    "subCategory": "Currency Exchange",
     "thumbnail": "assets/image/amenity.webp"
   },
   {
@@ -30072,7 +30047,6 @@
     "longitude": 39.6029015,
     "region": "madinah",
     "type": "Amenity: Essentials",
-    "subCategory": "ATM & Banking",
     "thumbnail": "assets/image/amenity.webp"
   },
   {
@@ -30093,7 +30067,6 @@
     "longitude": 39.6129499,
     "region": "madinah",
     "type": "Amenity: Essentials",
-    "subCategory": "Telecommunication & SIM",
     "thumbnail": "assets/image/amenity.webp"
   },
   {
@@ -30114,7 +30087,6 @@
     "longitude": 39.6116344,
     "region": "madinah",
     "type": "Amenity: Toilets",
-    "subCategory": "Courtyard Restrooms",
     "thumbnail": "assets/image/amenity.webp"
   }
 ]
