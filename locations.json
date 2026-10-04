@@ -2496,14 +2496,22 @@
       "ml": "പ്രമുഖ ഖുർആൻ വ്യാഖ്യാതാവ് ഇബ്നു അബ്ബാസിന്റെ മഖാമും പള്ളിയും. ഇബ്നു അബ്ബാസിന്റെ മഖ്ബറയോടൊപ്പം ത്വാഇഫ് ഉപരോധത്തിൽ ശഹീദായ സ്വഹാബികളുടെ ഖബറുകളും ഇവിടെയുണ്ട്.",
       "ar": ""
     },
-    "latitude": 21.26909730341631,
-    "longitude": 40.40982842182536,
+    "latitude": 21.270200172194166,
+    "longitude": 40.40836856238659,
     "type": "Mosque",
     "subCategory": "Historical Sites of Taif",
     "clusterId": "taif_locations",
     "city": "Taif",
     "imageUrls": [
-      "{url: assets/image/locations/masjid_ibn_abbas.webp, thumbnail: assets/image/locations/masjid_ibn_abbas.webp, caption: {en: Masjid & Tomb of Abdullah ibn Abbas, ms: Masjid & Makam Abdullah bin Abbas, ml: അബ്ദുല്ലാഹിബ്നു അബ്ബാസ് പള്ളിയും മഖാമും, ta: அப்துல்லாஹ் இப்னு அப்பாஸ் பள்ளி மற்றும் மகாப்}}"
+      {
+        "url": "image/masjid_ibn_abbas_1791105256974.jpg",
+        "thumbnail": "image/masjid_ibn_abbas_1791105256974.jpg",
+        "caption": {
+          "en": "Masjid & Tomb of Abdullah ibn Abbas",
+          "ms": "Masjid & Makam Abdullah bin Abbas",
+          "ar": ""
+        }
+      }
     ],
     "videoUrls": [],
     "socialLinks": [],
