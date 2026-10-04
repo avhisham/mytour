@@ -2254,21 +2254,23 @@
     "name": {
       "en": "Masjid & Tomb of Abdullah ibn Abbas",
       "ms": "Masjid & Makam Abdullah bin Abbas",
+      "ta": "அப்துல்லாஹ் இப்னு அப்பாஸ் பள்ளி மற்றும் மகாப்",
       "ml": "അബ്ദുല്ലാഹിബ്നു അബ്ബാസ് പള്ളിയും മഖാമും",
-      "ta": "அப்துல்லாஹ் இப்னு அப்பாஸ் பள்ளி மற்றும் மகாப்"
+      "ar": ""
     },
     "description": {
       "en": "Major center of scholarship in Taif housing the tomb of the 'Scholar of the Ummah'. Features the historic mosque, Ibn Abbas's resting place outside the qibla wall, adjacent graveyard of Taif's martyrs, and the research library.",
       "ms": "Pusat ilmu bersejarah yang menempatkan makam sepupu baginda, Abdullah bin Abbas (ahli tafsir umat). Merangkumi masjid utama, makam Ibnu Abbas, perkuburan Syuhada Taif, dan perpustakaan manuskrip berharga.",
+      "ta": "குர்ஆனின் விரிவுரையாளர் இப்னு அப்பாஸ் (ரலி) அவர்களின் அடக்கஸ்தலம் மற்றும் பள்ளி. இப்னு அப்பாஸ் மகாமுடன் தாயிஃப் போரில் ஷஹீதான சஹாபாக்களின் அடக்கஸ்தலமும் இங்குள்ளது.",
       "ml": "പ്രമുഖ ഖുർആൻ വ്യാഖ്യാതാവ് ഇബ്നു അബ്ബാസിന്റെ മഖാമും പള്ളിയും. ഇബ്നു അബ്ബാസിന്റെ മഖ്ബറയോടൊപ്പം ത്വാഇഫ് ഉപരോധത്തിൽ ശഹീദായ സ്വഹാബികളുടെ ഖബറുകളും ഇവിടെയുണ്ട്.",
-      "ta": "குர்ஆனின் விரிவுரையாளர் இப்னு அப்பாஸ் (ரலி) அவர்களின் அடக்கஸ்தலம் மற்றும் பள்ளி. இப்னு அப்பாஸ் மகாமுடன் தாயிஃப் போரில் ஷஹீதான சஹாபாக்களின் அடக்கஸ்தலமும் இங்குள்ளது."
+      "ar": ""
     },
-    "latitude": 21.2652,
-    "longitude": 40.4163,
+    "latitude": 21.270678298657298,
+    "longitude": 40.408297134116005,
     "type": "Mosque",
     "subCategory": "Historical Sites of Taif",
     "clusterId": "taif_locations",
-    "city": "Makkah",
+    "city": "Taif",
     "imageUrls": [
       "{url: assets/image/locations/masjid_ibn_abbas.webp, thumbnail: assets/image/locations/masjid_ibn_abbas.webp, caption: {en: Masjid & Tomb of Abdullah ibn Abbas, ms: Masjid & Makam Abdullah bin Abbas, ml: അബ്ദുല്ലാഹിബ്നു അബ്ബാസ് പള്ളിയും മഖാമും, ta: அப்துல்லாஹ் இப்னு அப்பாஸ் பள்ளி மற்றும் மகாப்}}"
     ],
