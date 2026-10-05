@@ -1,5 +1,39 @@
 [
   {
+    "id": "new_site_1791193516417",
+    "name": {
+      "en": "",
+      "ms": "",
+      "ta": "",
+      "ml": "",
+      "ar": ""
+    },
+    "description": {
+      "en": "",
+      "ms": "",
+      "ta": "",
+      "ml": "",
+      "ar": ""
+    },
+    "latitude": 21.4225,
+    "longitude": 39.8262,
+    "type": "Historical",
+    "region": "makkah",
+    "city": "Makkah",
+    "thumbnail": "image/new_site_1791193516417_1791193523247.webp",
+    "imageUrls": [
+      {
+        "url": "image/new_site_1791193516417_1791193523247.webp",
+        "thumbnail": "image/new_site_1791193516417_1791193523247.webp",
+        "caption": {
+          "en": "",
+          "ms": "",
+          "ar": ""
+        }
+      }
+    ]
+  },
+  {
     "id": "gate_babus_salam",
     "name": {
       "en": "Bab al-Salam (Gate of Peace - Masjid al-Haram)",
@@ -545,14 +579,16 @@
     "name": {
       "en": "Masjid Jumu'ah",
       "ms": "Masjid Jumu'ah",
+      "ta": "மஸ்ஜித் ஜுமுஆ",
       "ml": "മസ്ജിദ് ജുമുഅ",
-      "ta": "மஸ்ஜித் ஜுமுஆ"
+      "ar": ""
     },
     "description": {
       "en": "Marks the site where the Prophet ﷺ led the first Friday (Jumu'ah) prayer after his migration to Madinah.",
       "ms": "Menandakan tapak di mana Rasulullah ﷺ mengimamkan solat Jumaat yang pertama selepas hijrah baginda ke Madinah.",
+      "ta": "நபிகள் நாயகம் ﷺ அவர்கள் மதினாவிற்கு ஹிஜ்ரத் செய்த பிறகு முதல் ஜுமுஆ தொழுகையை நடத்திய இடமாகும்.",
       "ml": "മദീനയിലേക്കുള്ള ഹിജ്‌റയ്ക്ക് ശേഷം മുഹമ്മദ് നബി ﷺ ആദ്യമായി ജുമുഅ നമസ്‌കാരത്തിന് നേതൃത്വം നൽകിയ സ്ഥലം.",
-      "ta": "நபிகள் நாயகம் ﷺ அவர்கள் மதினாவிற்கு ஹிஜ்ரத் செய்த பிறகு முதல் ஜுமுஆ தொழுகையை நடத்திய இடமாகும்."
+      "ar": ""
     },
     "latitude": 24.445225,
     "longitude": 39.613733,
@@ -560,12 +596,22 @@
     "subCategory": "The Quba Precinct & Sahabah Residences",
     "clusterId": "quba_precinct",
     "city": "Madinah",
-    "imageUrls": [],
+    "imageUrls": [
+      {
+        "url": "image/masjid_jumuah_1791193242773.webp",
+        "thumbnail": "image/masjid_jumuah_1791193242773.webp",
+        "caption": {
+          "en": "Masjid Jumu'ah",
+          "ms": "Masjid Jumu'ah",
+          "ar": ""
+        }
+      }
+    ],
     "videoUrls": [],
     "socialLinks": [],
     "cluster_id": "quba_precinct",
     "sub_category": "The Quba Precinct & Sahabah Residences",
-    "thumbnail": "assets/image/locations/masjid_jumuah.webp"
+    "thumbnail": "image/masjid_jumuah_1791193242773.webp"
   },
   {
     "id": "masjid_shaikhain",
@@ -597,37 +643,51 @@
     "name": {
       "en": "Masjid Mustarahah",
       "ms": "Masjid Mustarahah",
+      "ta": "மஸ்ஜித் முஸ்தராஹா",
       "ml": "മസ്ജിദ് മുസ്തറാഹ",
-      "ta": "மஸ்ஜித் முஸ்தராஹா"
+      "ar": ""
     },
     "description": {
       "en": "Marks the location where the Prophet ﷺ rested and offered prayers while returning from the Battle of Uhud.",
       "ms": "Menandakan lokasi di mana Rasulullah ﷺ berehat dan bersolat semasa pulang dari Perang Uhud.",
+      "ta": "உஹுத் போரில் இருந்து திரும்பும் போது நபிகள் நாயகம் ﷺ அவர்கள் ஓய்வெடுத்துத் தொழுத இடமாகும்.",
       "ml": "ഉഹുദ് യുദ്ധത്തിൽ നിന്ന് മടങ്ങുമ്പോൾ മുഹമ്മദ് നബി ﷺ വിശ്രമിക്കുകയും പ്രാർത്ഥിക്കുകയും ചെയ്ത സ്ഥലം.",
-      "ta": "உஹுத் போரில் இருந்து திரும்பும் போது நபிகள் நாயகம் ﷺ அவர்கள் ஓய்வெடுத்துத் தொழுத இடமாகும்."
+      "ar": ""
     },
     "latitude": 24.491867229445543,
     "longitude": 39.60968454539441,
     "type": "Historical",
     "city": "Madinah",
-    "imageUrls": [],
+    "imageUrls": [
+      {
+        "url": "image/masjid_mustarahah_1791193419598.webp",
+        "thumbnail": "image/masjid_mustarahah_1791193419598.webp",
+        "caption": {
+          "en": "Masjid Mustarahah",
+          "ms": "Masjid Mustarahah",
+          "ar": ""
+        }
+      }
+    ],
     "videoUrls": [],
     "socialLinks": [],
-    "thumbnail": "assets/image/locations/masjid_mustarahah.webp"
+    "thumbnail": "image/masjid_mustarahah_1791193419598.webp"
   },
   {
     "id": "masjid_fatah",
     "name": {
       "en": "Masjid al-Fatah (Victory Mosque)",
       "ms": "Masjid al-Fatah (Masjid Kemenangan)",
+      "ta": "மஸ்ஜித் அல்-பதஹ் (வெற்றி பள்ளி)",
       "ml": "മസ്ജിദുൽ ഫതഹ് (വിജയ പള്ളി)",
-      "ta": "மஸ்ஜித் அல்-பதஹ் (வெற்றி பள்ளி)"
+      "ar": ""
     },
     "description": {
       "en": "The largest and highest mosque on Mount Sela at Khandaq where Prophet Muhammad ﷺ supplicated for 3 days until divine victory was granted.",
       "ms": "Masjid terbesar dan tertinggi di Gunung Sela di Khandaq tempat Rasulullah ﷺ berdoa selama 3 hari sehingga pertolongan Allah tiba.",
+      "ta": "கந்தக் சலா மலையில் அமைந்துள்ள பெரிய பள்ளிவாசல். நபிகள் நாயகம் ﷺ 3 நாட்கள் பிரார்த்தித்து அல்லாஹ்வின் வெற்றி பெறப்பட்ட இடம்.",
       "ml": "ഖന്ദഖിൽ സലാ മലമുകളിൽ സ്ഥിതിചെയ്യുന്ന പള്ളി. പ്രവാചകൻ ﷺ 3 ദിവസം പ്രാർത്ഥിച്ച് അല്ലാഹുവിൻ്റെ വിജയം വന്നെത്തിയ സ്ഥലം.",
-      "ta": "கந்தக் சலா மலையில் அமைந்துள்ள பெரிய பள்ளிவாசல். நபிகள் நாயகம் ﷺ 3 நாட்கள் பிரார்த்தித்து அல்லாஹ்வின் வெற்றி பெறப்பட்ட இடம்."
+      "ar": ""
     },
     "latitude": 24.47786,
     "longitude": 39.59568,
@@ -635,12 +695,22 @@
     "subCategory": "Khandaq Mosques",
     "clusterId": "khandaq_cluster",
     "city": "Madinah",
-    "imageUrls": [],
+    "imageUrls": [
+      {
+        "url": "image/masjid_fatah_1791193549137.webp",
+        "thumbnail": "image/masjid_fatah_1791193549137.webp",
+        "caption": {
+          "en": "Masjid al-Fatah (Victory Mosque)",
+          "ms": "Masjid al-Fatah (Masjid Kemenangan)",
+          "ar": ""
+        }
+      }
+    ],
     "videoUrls": [],
     "socialLinks": [],
     "cluster_id": "khandaq_cluster",
     "sub_category": "Khandaq Mosques",
-    "thumbnail": "assets/image/locations/masjid_fatah.webp"
+    "thumbnail": "image/masjid_fatah_1791193549137.webp"
   },
   {
     "id": "masjid_fasah",
@@ -664,39 +734,61 @@
     "subCategory": "Uhud Battlefield & Landmarks",
     "clusterId": "uhud_precinct",
     "city": "Madinah",
-    "imageUrls": [],
+    "imageUrls": [
+      {
+        "url": "image/masjid_fasah_1791193662951.webp",
+        "thumbnail": "image/masjid_fasah_1791193662951.webp",
+        "caption": {
+          "en": "Masjid Fasah",
+          "ms": "Masjid Fasah",
+          "ar": ""
+        }
+      }
+    ],
     "videoUrls": [],
     "socialLinks": [],
     "cluster_id": "uhud_precinct",
     "sub_category": "Uhud Battlefield & Landmarks",
-    "thumbnail": "assets/image/locations/masjid_fasah.webp"
+    "thumbnail": "image/masjid_fasah_1791193662951.webp"
   },
   {
     "id": "jabal_rumat",
     "name": {
       "en": "Hill of Archers (Jabal al-Rumat)",
       "ms": "Bukit Pemanah (Jabal al-Rumat)",
+      "ta": "வில்லாளிகள் குன்று (ஜபல் அல்-ருமாத்)",
       "ml": "അമ്പെയ്ത്തുകാരുടെ കുന്ന് (ജബലുർ-റുമത്)",
-      "ta": "வில்லாளிகள் குன்று (ஜபல் அல்-ருமாத்)"
+      "ar": ""
     },
     "description": {
       "en": "Mount Ainein, where Prophet Muhammad ﷺ stationed 50 archers under Abdullah ibn Jubayr (RA) to protect the army's rear.",
       "ms": "Bukit Ainein, tempat Rasulullah ﷺ menempatkan 50 pemanah di bawah Abdullah ibn Jubayr (RA) untuk mengawal tentera.",
+      "ta": "நபிகள் நாயகம் ﷺ 50 வில்லாளிகளை நிறுத்திய குன்று.",
       "ml": "പ്രവാചകൻ ﷺ 50 അമ്പെയ്ത്തുകാരെ നിർത്തിയിരുന്ന ഐനൈൻ കുന്ന്.",
-      "ta": "நபிகள் நாயகம் ﷺ 50 வில்லாளிகளை நிறுத்திய குன்று."
+      "ar": ""
     },
-    "latitude": 24.5018,
-    "longitude": 39.61242,
+    "latitude": 24.502353971696675,
+    "longitude": 39.61205819115529,
     "type": "Historical",
     "subCategory": "Uhud Battlefield",
     "clusterId": "uhud_battlefield",
     "city": "Madinah",
-    "imageUrls": [],
+    "imageUrls": [
+      {
+        "url": "image/jabal_rumat_1791193796523.webp",
+        "thumbnail": "image/jabal_rumat_1791193796523.webp",
+        "caption": {
+          "en": "Hill of Archers (Jabal al-Rumat)",
+          "ms": "Bukit Pemanah (Jabal al-Rumat)",
+          "ar": ""
+        }
+      }
+    ],
     "videoUrls": [],
     "socialLinks": [],
     "cluster_id": "uhud_battlefield",
     "sub_category": "Uhud Battlefield",
-    "thumbnail": "assets/image/locations/jabal_rumat.webp"
+    "thumbnail": "image/jabal_rumat_1791193796523.webp"
   },
   {
     "id": "battlefield_uhud",
@@ -2096,27 +2188,39 @@
     "name": {
       "en": "Dhi Tuwa Well & Encampment (Jarwal)",
       "ms": "Lembah & Telaga Dhi Tuwa (Jarwal)",
+      "ta": "தீ துவா பள்ளத்தாக்கு (ஜர்வால்)",
       "ml": "ദീ തുവ (ജർവൽ)",
-      "ta": "தீ துவா பள்ளத்தாக்கு (ஜர்வால்)"
+      "ar": ""
     },
     "description": {
       "en": "Valley where the Prophet encamped and bathed before entering Makkah. Located in modern Jarwal. Used as the staging encampment during the Conquest of Makkah and Hajjat al-Wada'.",
       "ms": "Lembah di Jarwal di mana Baginda ﷺ bermalam dan mandi sebelum memasuki Makkah. Terletak di daerah Jarwal. Menjadi markas kemasukan tentera Fath Makkah dan tempat rehat Haji Wada'.",
+      "ta": "மக்காவிற்குள் நுழைவதற்கு முன் நபிகளார் குளித்து தங்கிய பள்ளத்தாக்கு மற்றும் கிணறு. தற்கால ஜர்வால் பகுதியில் உள்ளது. மக்கா வெற்றியின் போதும் விடைபெறும் ஹஜ்ஜின் போதும் நபிகளார் இங்கு தங்கினார்.",
       "ml": "മക്കയിലേക്ക് പ്രവേശിക്കുന്നതിന് മുമ്പ് നബി കുളിക്കുകയും തങ്ങുകയും ചെയ്ത കിണറും താഴ്‌വരയും. ജർവൽ ഭാഗത്താണ്. മക്കാ ഫത്ഹിലും ഹജ്ജത്തുൽ വിദാഇലും നബി ഇവിടെ തങ്ങിയിരുന്നു.",
-      "ta": "மக்காவிற்குள் நுழைவதற்கு முன் நபிகளார் குளித்து தங்கிய பள்ளத்தாக்கு மற்றும் கிணறு. தற்கால ஜர்வால் பகுதியில் உள்ளது. மக்கா வெற்றியின் போதும் விடைபெறும் ஹஜ்ஜின் போதும் நபிகளார் இங்கு தங்கினார்."
+      "ar": ""
     },
-    "latitude": 21.4332,
-    "longitude": 39.8143,
+    "latitude": 21.431606319631843,
+    "longitude": 39.81666915998204,
     "type": "Historical",
     "subCategory": "Historic Houses & Early Sirah in Makkah",
     "clusterId": "sirah_makkah_houses",
     "city": "Makkah",
-    "imageUrls": [],
+    "imageUrls": [
+      {
+        "url": "image/dhi_tuwa_valley_1791193002203.webp",
+        "thumbnail": "image/dhi_tuwa_valley_1791193002203.webp",
+        "caption": {
+          "en": "Dhi Tuwa Well & Encampment (Jarwal)",
+          "ms": "Lembah & Telaga Dhi Tuwa (Jarwal)",
+          "ar": ""
+        }
+      }
+    ],
     "videoUrls": [],
     "socialLinks": [],
     "cluster_id": "sirah_makkah_houses",
     "sub_category": "Historic Houses & Early Sirah in Makkah",
-    "thumbnail": "assets/image/locations/dhi_tuwa_valley.webp"
+    "thumbnail": "image/dhi_tuwa_valley_1791193002203.webp"
   },
   {
     "id": "jabal_an_nur",
