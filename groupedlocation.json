@@ -1,7 +1,7 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "version": "1.0.0",
-  "generated_at": "2026-10-04T17:42:57.123823Z",
+  "generated_at": "2026-10-05T00:49:37.643238Z",
   "groups": [
     {
       "id": "mataf_kaabah",
@@ -729,14 +729,16 @@
       "title": {
         "en": "The Sacred Hajj Pilgrimage Sites (Al-Masha'ir)",
         "ms": "Masyā'ir Muqaddasah (Tapak-tapak Ibadah Haji)",
-        "ml": "ഹജ്ജിന്റെ പുണ്യസ്ഥലങ്ങൾ (മശാഇർ)",
-        "ta": "புனித ஹஜ் வழிபாட்டுத் தலங்கள் (மஷாஇர்)"
+        "ar": "",
+        "ta": "புனித ஹஜ் வழிபாட்டுத் தலங்கள் (மஷாஇர்)",
+        "ml": "ഹജ്ജിന്റെ പുണ്യസ്ഥലങ്ങൾ (മശാഇർ)"
       },
       "summary": {
         "en": "The valleys and plains of Mina, Muzdalifah, and Arafat where the annual pilgrimage is consummated.",
         "ms": "Kawasan lapang dan lembah Mina, Muzdalifah, dan Arafah bagi pelaksanaan rukun dan wajib haji.",
-        "ml": "മിനാ, മുസ്ദലിഫ, അറഫാത്ത് അടങ്ങിയ ഹജ്ജ് കർമ്മങ്ങളുടെ കേന്ദ്രങ്ങൾ.",
-        "ta": "மினா, முஸ்தலிஃபா மற்றும் அரஃபா உள்ளிட்ட ஹஜ் கடமைகள் நிறைவேற்றப்படும் புனித இடங்கள்."
+        "ar": "",
+        "ta": "மினா, முஸ்தலிஃபா மற்றும் அரஃபா உள்ளிட்ட ஹஜ் கடமைகள் நிறைவேற்றப்படும் புனித இடங்கள்.",
+        "ml": "മിനാ, മുസ്ദലിഫ, അറഫാത്ത് അടങ്ങിയ ഹജ്ജ് കർമ്മങ്ങളുടെ കേന്ദ്രങ്ങൾ."
       },
       "places": [
         {
@@ -763,6 +765,141 @@
             "thumbnail": "assets/image/locations/masjid_al_khayf.webp",
             "gallery": [
               "assets/image/locations/masjid_al_khayf.webp"
+            ]
+          }
+        },
+        {
+          "id": "masjid_namirah",
+          "title": {
+            "en": "Masjid Namirah (Arafat)",
+            "ms": "Masjid Namirah (Arafah)",
+            "ml": "മസ്ജിദു നമിറ (അറഫാത്ത്)",
+            "ta": "மஸ்ஜிது நமிரா (அரஃபா)"
+          },
+          "summary": {
+            "en": "The vast mosque at Arafat where the Hajj sermon and combined Dhuhr-Asr prayers take place.",
+            "ms": "Masjid gergasi di sempadan Arafah tempat khutbah Hari Arafah dan jamak solat Zohor-Asar.",
+            "ml": "അറഫാ ദിനത്തിൽ ഖുതുബയും നമസ്കാരവും നടക്കുന്ന വിശാലമായ മസ്ജിദ്.",
+            "ta": "அரஃபா தின உரை மற்றும் ளுஹர்-அஸர் ஜம்ஆ தொழுகைகள் நடைபெறும் பிரமாண்ட பள்ளிவாசல்."
+          },
+          "details": {
+            "en": "The western third lies outside Arafat proper in Wadi Urana where the Prophet delivered the Farewell Sermon.",
+            "ms": "Sebahagian barat masjid terletak di luar Arafah (di Wadi Uranah) di mana khutbah Haji Perpisahan disampaikan.",
+            "ml": "പള്ളിയുടെ മുൻഭാഗം വാദി ഉറനയിലാണ്, പിൻഭാഗം അറഫാത്തിന്റെ അതിർത്തിക്കുള്ളിലും.",
+            "ta": "பள்ளியின் முன்பகுதி வாதி உரனாவிலும், பின்பகுதி அரஃபா எல்லைக்குள்ளும் அமைந்துள்ளது."
+          },
+          "images": {
+            "thumbnail": "assets/image/locations/masjid_namirah.webp",
+            "gallery": [
+              "assets/image/locations/masjid_namirah.webp"
+            ]
+          }
+        },
+        {
+          "id": "jabal_ar_rahmah",
+          "title": {
+            "en": "Jabal ar-Rahmah (Mount of Mercy, Arafat)",
+            "ms": "Jabal ar-Rahmah (Bukit Rahmat, Arafah)",
+            "ml": "ജബലുറഹ്മ (കാരുണ്യത്തിന്റെ മല)",
+            "ta": "ஜபலுர் ரஹ்மா (அருள் மலை, அரஃபா)"
+          },
+          "summary": {
+            "en": "The prominent granite hill on the plain of Arafat marking the Prophet's stand in prayer.",
+            "ms": "Bukit batu di tengah Arafah berhampiran tempat Baginda ﷺ berdiri berdoa di atas untanya.",
+            "ml": "നബി ﷺ ഹജ്ജത്തുൽ വിദാഇൽ ദുആ ചെയ്തു നിന്ന അറഫാത്തിലെ ചരിത്ര പ്രസിദ്ധമായ മല.",
+            "ta": "விடைபெறும் ஹஜ்ஜின் போது நபிகளார் நின்று துஆ செய்த அரஃபாவின் புகழ்பெற்ற மலை."
+          },
+          "details": {
+            "en": "Features a white pillar marker at its summit. Supplication anywhere within the plain of Arafat fulfills the rite of Wuquf.",
+            "ms": "Mempunyai monumen putih di puncaknya. Berdoa di mana-mana bahagian padang Arafah mencukupi syarat wukuf.",
+            "ml": "മുകളിൽ ഒരു വെളുത്ത സ്തംഭമുണ്ട്. അറഫാ മൈതാനത്ത് എവിടെ നിന്നും വുഖൂഫ് നിർവ്വഹിക്കാവുന്നതാണ്.",
+            "ta": "உச்சியில் வெள்ளை தூண் உள்ளது. அரஃபா மைதானத்தின் எந்தப் பகுதியிலும் வுகூஃப் நிறைவேற்றலாம்."
+          },
+          "images": {
+            "thumbnail": "assets/image/locations/jabal_ar_rahmah.webp",
+            "gallery": [
+              "assets/image/locations/jabal_ar_rahmah.webp"
+            ]
+          }
+        },
+        {
+          "id": "ain_zubaydah_ruins",
+          "title": {
+            "en": "Ain Zubaydah Aqueduct Remnants",
+            "ms": "Runtuhan Terusan Air Ain Zubaydah",
+            "ml": "ഐൻ സുബൈദ ജലവിതരണ ചാലുകൾ",
+            "ta": "ஐன் ஜுபைதா நீர் வாய்க்கால் எச்சங்கள்"
+          },
+          "summary": {
+            "en": "Ancient stone aqueduct engineered by Queen Zubaydah to bring fresh water across the desert.",
+            "ms": "Saliran air batu purba binaan Permaisuri Zubaydah membekalkan air tawar kepada para jemaah haji.",
+            "ml": "സുബൈദ രാജ്ഞി തീർത്ഥാടകർക്കായി നിർമ്മിച്ച പുരാതന ശുദ്ധജല വിതരണ കനാൽ.",
+            "ta": "ஜுபைதா அரசியால் ஹாஜிகளுக்காக கட்டப்பட்ட பழமையான குடிநீர் கால்வாய்."
+          },
+          "details": {
+            "en": "Channels water from the mountains around Taif across the plains of Arafat and Mina to Makkah. Remnants are clearly visible along Arafat's borders.",
+            "ms": "Menyalurkan air dari pergunungan Taif merentasi padang Arafah dan Mina hingga ke Makkah. Runtuhan batu kukuhnya masih jelas kelihatan.",
+            "ml": "ത്വാഇഫിൽ നിന്നും മക്ക വരെ കിലോമീറ്ററുകളോളം നീളുന്ന എൻജിനീയറിംഗ് അത്ഭുതമായ ജലപാത.",
+            "ta": "தாயிஃப் மலைகளிலிருந்து மக்கா வரை நீர் கொண்டு வந்த வரலாற்று சிறப்புமிக்க கால்வாய் எச்சங்கள்."
+          },
+          "images": {
+            "thumbnail": "assets/image/locations/ain_zubaydah_ruins.webp",
+            "gallery": [
+              "assets/image/locations/ain_zubaydah_ruins.webp"
+            ]
+          }
+        },
+        {
+          "id": "masjid_mashar_al_haram",
+          "title": {
+            "en": "Masjid Mash'ar al-Haram (Muzdalifah)",
+            "ms": "Masjid Mash'ar al-Haram (Muzdalifah)",
+            "ml": "മസ്ജിദുൽ മശ്അറുൽ ഹറാം (മുസ്ദലിഫ)",
+            "ta": "மஸ்ஜிதுல் மஷ்அருல் ஹராம் (முஸ்தலிஃபா)"
+          },
+          "summary": {
+            "en": "The sacred monument in Muzdalifah cited in the Quran for remembrance of God.",
+            "ms": "Monumen suci di Muzdalifah yang disebut dalam Surah al-Baqarah untuk berzikir selepas wukuf.",
+            "ml": "മുസ്ദലിഫയിൽ പ്രാർത്ഥിക്കാൻ വിശുദ്ധ ഖുർആൻ ആഹ്വാനം ചെയ്ത പുണ്യ സങ്കേതം.",
+            "ta": "முஸ்தலிஃபாவில் தங்கி இறைவனை தியானிக்க திருக்குர்ஆனில் குறிப்பிடப்பட்ட புனித இடம்."
+          },
+          "details": {
+            "en": "Pilgrims gather here after Arafat on the eve of the 10th of Dhul Hijjah to collect pebbles and supplicate through Fajr.",
+            "ms": "Jemaah berhimpun di sini selepas Maghrib pada 9 Zulhijjah untuk bermabit, mengutip anak batu, dan berdoa hingga subuh.",
+            "ml": "അറഫാ സംഗമത്തിന് ശേഷം ഹാജിമാർ രാത്രി തങ്ങുന്ന മുസ്ദലിഫയിലെ പ്രധാന പള്ളി.",
+            "ta": "அரஃபா நின்ற பின் ஹாஜிகள் இரவு தங்கி கல் சேகரித்து தொழும் முஸ்தலிஃபாவின் பிரதான பள்ளி."
+          },
+          "images": {
+            "thumbnail": "assets/image/locations/masjid_mashar_al_haram.webp",
+            "gallery": [
+              "assets/image/locations/masjid_mashar_al_haram.webp"
+            ]
+          }
+        },
+        {
+          "id": "wadi_muhassir",
+          "title": {
+            "en": "Wadi Muhassir",
+            "ms": "Lembah Wadi Muhassir",
+            "ml": "വാദി മുഹസ്സിർ",
+            "ta": "வாதி முஹஸ்ஸிர்"
+          },
+          "summary": {
+            "en": "The valley of divine retribution where Abraha's elephant army was destroyed.",
+            "ms": "Lembah antara Mina dan Muzdalifah tempat tentera bergajah Abrahah dihancurkan.",
+            "ml": "അബ്റഹത്തിന്റെ ആനപ്പടയെ അല്ലാഹു പക്ഷികളെ അയച്ച് നശിപ്പിച്ച താഴ്‌വര.",
+            "ta": "அப்ரஹாவின் யானைப்படை அழிக்கப்பட்ட மினா-முஸ்தலிஃபா எல்லைப் பள்ளத்தாக்கு."
+          },
+          "details": {
+            "en": "A small valley separating Muzdalifah and Mina. Pilgrims hasten their pace here, following the Sunnah when crossing areas of historical divine punishment.",
+            "ms": "Lembah sempadan di mana jemaah haji disunatkan mempercepatkan langkah kerana tempat diturunkan azab ke atas musuh Allah.",
+            "ml": "ഇതിലൂടെ കടന്നുപോകുമ്പോൾ വേഗത്തിൽ നടക്കൽ സുന്നത്താണ്; മുൻപ് ശിക്ഷ ഇറങ്ങിയ സ്ഥലമായതിനാലാണിത്.",
+            "ta": "அல்லாஹ்வின் தண்டனை இறங்கிய இடம் என்பதால், இங்கு செல்லும் போது வேகத்தை அதிகரிப்பது சுன்னத்."
+          },
+          "images": {
+            "thumbnail": "assets/image/locations/wadi_muhassir.webp",
+            "gallery": [
+              "assets/image/locations/wadi_muhassir.webp"
             ]
           }
         },
@@ -874,141 +1011,6 @@
             "thumbnail": "assets/image/locations/masjid_al_bayah.webp",
             "gallery": [
               "assets/image/locations/masjid_al_bayah.webp"
-            ]
-          }
-        },
-        {
-          "id": "masjid_mashar_al_haram",
-          "title": {
-            "en": "Masjid Mash'ar al-Haram (Muzdalifah)",
-            "ms": "Masjid Mash'ar al-Haram (Muzdalifah)",
-            "ml": "മസ്ജിദുൽ മശ്അറുൽ ഹറാം (മുസ്ദലിഫ)",
-            "ta": "மஸ்ஜிதுல் மஷ்அருல் ஹராம் (முஸ்தலிஃபா)"
-          },
-          "summary": {
-            "en": "The sacred monument in Muzdalifah cited in the Quran for remembrance of God.",
-            "ms": "Monumen suci di Muzdalifah yang disebut dalam Surah al-Baqarah untuk berzikir selepas wukuf.",
-            "ml": "മുസ്ദലിഫയിൽ പ്രാർത്ഥിക്കാൻ വിശുദ്ധ ഖുർആൻ ആഹ്വാനം ചെയ്ത പുണ്യ സങ്കേതം.",
-            "ta": "முஸ்தலிஃபாவில் தங்கி இறைவனை தியானிக்க திருக்குர்ஆனில் குறிப்பிடப்பட்ட புனித இடம்."
-          },
-          "details": {
-            "en": "Pilgrims gather here after Arafat on the eve of the 10th of Dhul Hijjah to collect pebbles and supplicate through Fajr.",
-            "ms": "Jemaah berhimpun di sini selepas Maghrib pada 9 Zulhijjah untuk bermabit, mengutip anak batu, dan berdoa hingga subuh.",
-            "ml": "അറഫാ സംഗമത്തിന് ശേഷം ഹാജിമാർ രാത്രി തങ്ങുന്ന മുസ്ദലിഫയിലെ പ്രധാന പള്ളി.",
-            "ta": "அரஃபா நின்ற பின் ஹாஜிகள் இரவு தங்கி கல் சேகரித்து தொழும் முஸ்தலிஃபாவின் பிரதான பள்ளி."
-          },
-          "images": {
-            "thumbnail": "assets/image/locations/masjid_mashar_al_haram.webp",
-            "gallery": [
-              "assets/image/locations/masjid_mashar_al_haram.webp"
-            ]
-          }
-        },
-        {
-          "id": "wadi_muhassir",
-          "title": {
-            "en": "Wadi Muhassir",
-            "ms": "Lembah Wadi Muhassir",
-            "ml": "വാദി മുഹസ്സിർ",
-            "ta": "வாதி முஹஸ்ஸிர்"
-          },
-          "summary": {
-            "en": "The valley of divine retribution where Abraha's elephant army was destroyed.",
-            "ms": "Lembah antara Mina dan Muzdalifah tempat tentera bergajah Abrahah dihancurkan.",
-            "ml": "അബ്റഹത്തിന്റെ ആനപ്പടയെ അല്ലാഹു പക്ഷികളെ അയച്ച് നശിപ്പിച്ച താഴ്‌വര.",
-            "ta": "அப்ரஹாவின் யானைப்படை அழிக்கப்பட்ட மினா-முஸ்தலிஃபா எல்லைப் பள்ளத்தாக்கு."
-          },
-          "details": {
-            "en": "A small valley separating Muzdalifah and Mina. Pilgrims hasten their pace here, following the Sunnah when crossing areas of historical divine punishment.",
-            "ms": "Lembah sempadan di mana jemaah haji disunatkan mempercepatkan langkah kerana tempat diturunkan azab ke atas musuh Allah.",
-            "ml": "ഇതിലൂടെ കടന്നുപോകുമ്പോൾ വേഗത്തിൽ നടക്കൽ സുന്നത്താണ്; മുൻപ് ശിക്ഷ ഇറങ്ങിയ സ്ഥലമായതിനാലാണിത്.",
-            "ta": "அல்லாஹ்வின் தண்டனை இறங்கிய இடம் என்பதால், இங்கு செல்லும் போது வேகத்தை அதிகரிப்பது சுன்னத்."
-          },
-          "images": {
-            "thumbnail": "assets/image/locations/wadi_muhassir.webp",
-            "gallery": [
-              "assets/image/locations/wadi_muhassir.webp"
-            ]
-          }
-        },
-        {
-          "id": "masjid_namirah",
-          "title": {
-            "en": "Masjid Namirah (Arafat)",
-            "ms": "Masjid Namirah (Arafah)",
-            "ml": "മസ്ജിദു നമിറ (അറഫാത്ത്)",
-            "ta": "மஸ்ஜிது நமிரா (அரஃபா)"
-          },
-          "summary": {
-            "en": "The vast mosque at Arafat where the Hajj sermon and combined Dhuhr-Asr prayers take place.",
-            "ms": "Masjid gergasi di sempadan Arafah tempat khutbah Hari Arafah dan jamak solat Zohor-Asar.",
-            "ml": "അറഫാ ദിനത്തിൽ ഖുതുബയും നമസ്കാരവും നടക്കുന്ന വിശാലമായ മസ്ജിദ്.",
-            "ta": "அரஃபா தின உரை மற்றும் ளுஹர்-அஸர் ஜம்ஆ தொழுகைகள் நடைபெறும் பிரமாண்ட பள்ளிவாசல்."
-          },
-          "details": {
-            "en": "The western third lies outside Arafat proper in Wadi Urana where the Prophet delivered the Farewell Sermon.",
-            "ms": "Sebahagian barat masjid terletak di luar Arafah (di Wadi Uranah) di mana khutbah Haji Perpisahan disampaikan.",
-            "ml": "പള്ളിയുടെ മുൻഭാഗം വാദി ഉറനയിലാണ്, പിൻഭാഗം അറഫാത്തിന്റെ അതിർത്തിക്കുള്ളിലും.",
-            "ta": "பள்ளியின் முன்பகுதி வாதி உரனாவிலும், பின்பகுதி அரஃபா எல்லைக்குள்ளும் அமைந்துள்ளது."
-          },
-          "images": {
-            "thumbnail": "assets/image/locations/masjid_namirah.webp",
-            "gallery": [
-              "assets/image/locations/masjid_namirah.webp"
-            ]
-          }
-        },
-        {
-          "id": "jabal_ar_rahmah",
-          "title": {
-            "en": "Jabal ar-Rahmah (Mount of Mercy, Arafat)",
-            "ms": "Jabal ar-Rahmah (Bukit Rahmat, Arafah)",
-            "ml": "ജബലുറഹ്മ (കാരുണ്യത്തിന്റെ മല)",
-            "ta": "ஜபலுர் ரஹ்மா (அருள் மலை, அரஃபா)"
-          },
-          "summary": {
-            "en": "The prominent granite hill on the plain of Arafat marking the Prophet's stand in prayer.",
-            "ms": "Bukit batu di tengah Arafah berhampiran tempat Baginda ﷺ berdiri berdoa di atas untanya.",
-            "ml": "നബി ﷺ ഹജ്ജത്തുൽ വിദാഇൽ ദുആ ചെയ്തു നിന്ന അറഫാത്തിലെ ചരിത്ര പ്രസിദ്ധമായ മല.",
-            "ta": "விடைபெறும் ஹஜ்ஜின் போது நபிகளார் நின்று துஆ செய்த அரஃபாவின் புகழ்பெற்ற மலை."
-          },
-          "details": {
-            "en": "Features a white pillar marker at its summit. Supplication anywhere within the plain of Arafat fulfills the rite of Wuquf.",
-            "ms": "Mempunyai monumen putih di puncaknya. Berdoa di mana-mana bahagian padang Arafah mencukupi syarat wukuf.",
-            "ml": "മുകളിൽ ഒരു വെളുത്ത സ്തംഭമുണ്ട്. അറഫാ മൈതാനത്ത് എവിടെ നിന്നും വുഖൂഫ് നിർവ്വഹിക്കാവുന്നതാണ്.",
-            "ta": "உச்சியில் வெள்ளை தூண் உள்ளது. அரஃபா மைதானத்தின் எந்தப் பகுதியிலும் வுகூஃப் நிறைவேற்றலாம்."
-          },
-          "images": {
-            "thumbnail": "assets/image/locations/jabal_ar_rahmah.webp",
-            "gallery": [
-              "assets/image/locations/jabal_ar_rahmah.webp"
-            ]
-          }
-        },
-        {
-          "id": "ain_zubaydah_ruins",
-          "title": {
-            "en": "Ain Zubaydah Aqueduct Remnants",
-            "ms": "Runtuhan Terusan Air Ain Zubaydah",
-            "ml": "ഐൻ സുബൈദ ജലവിതരണ ചാലുകൾ",
-            "ta": "ஐன் ஜுபைதா நீர் வாய்க்கால் எச்சங்கள்"
-          },
-          "summary": {
-            "en": "Ancient stone aqueduct engineered by Queen Zubaydah to bring fresh water across the desert.",
-            "ms": "Saliran air batu purba binaan Permaisuri Zubaydah membekalkan air tawar kepada para jemaah haji.",
-            "ml": "സുബൈദ രാജ്ഞി തീർത്ഥാടകർക്കായി നിർമ്മിച്ച പുരാതന ശുദ്ധജല വിതരണ കനാൽ.",
-            "ta": "ஜுபைதா அரசியால் ஹாஜிகளுக்காக கட்டப்பட்ட பழமையான குடிநீர் கால்வாய்."
-          },
-          "details": {
-            "en": "Channels water from the mountains around Taif across the plains of Arafat and Mina to Makkah. Remnants are clearly visible along Arafat's borders.",
-            "ms": "Menyalurkan air dari pergunungan Taif merentasi padang Arafah dan Mina hingga ke Makkah. Runtuhan batu kukuhnya masih jelas kelihatan.",
-            "ml": "ത്വാഇഫിൽ നിന്നും മക്ക വരെ കിലോമീറ്ററുകളോളം നീളുന്ന എൻജിനീയറിംഗ് അത്ഭുതമായ ജലപാത.",
-            "ta": "தாயிஃப் மலைகளிலிருந்து மக்கா வரை நீர் கொண்டு வந்த வரலாற்று சிறப்புமிக்க கால்வாய் எச்சங்கள்."
-          },
-          "images": {
-            "thumbnail": "assets/image/locations/ain_zubaydah_ruins.webp",
-            "gallery": [
-              "assets/image/locations/ain_zubaydah_ruins.webp"
             ]
           }
         }
@@ -1319,14 +1321,16 @@
       "title": {
         "en": "Badr Battlefield & Memorials",
         "ms": "Medan Pertempuran & Mercu Tanda Badr",
-        "ml": "ബദർ യുദ്ധക്കളവും സ്മാരകങ്ങളും",
-        "ta": "பத்ரு போர்க்களம் மற்றும் வரலாற்று இடங்கள்"
+        "ar": "",
+        "ta": "பத்ரு போர்க்களம் மற்றும் வரலாற்று இடங்கள்",
+        "ml": "ബദർ യുദ്ധക്കളവും സ്മാരകങ്ങളും"
       },
       "summary": {
         "en": "The decisive victory plain of Ramadan 2 AH where the nascent Muslim community vanquished Quraysh.",
         "ms": "Dataran kemenangan agung Perang Badar (17 Ramadan 2H) yang membezakan kebenaran dan kebatilan (Yawm al-Furqan).",
-        "ml": "സത്യവും അസത്യവും വേർതിരിച്ച ചരിത്രപ്രസിദ്ധമായ ബദർ യുദ്ധം നടന്ന പ്രദേശം.",
-        "ta": "சத்தியத்திற்கும் அசத்தியத்திற்கும் இடையே தீர்ப்பு வழங்கிய வரலாற்று சிறப்புமிக்க பத்ரு போர்க்களம்."
+        "ar": "",
+        "ta": "சத்தியத்திற்கும் அசத்தியத்திற்கும் இடையே தீர்ப்பு வழங்கிய வரலாற்று சிறப்புமிக்க பத்ரு போர்க்களம்.",
+        "ml": "സത്യവും അസത്യവും വേർതിരിച്ച ചരിത്രപ്രസിദ്ധമായ ബദർ യുദ്ധം നടന്ന പ്രദേശം."
       },
       "places": [
         {
@@ -1434,33 +1438,6 @@
             "thumbnail": "assets/image/locations/bir_badr_valley.webp",
             "gallery": [
               "assets/image/locations/bir_badr_valley.webp"
-            ]
-          }
-        },
-        {
-          "id": "al_qalib_pit",
-          "title": {
-            "en": "Site of Al-Qalib (Disposal Pit of Quraysh)",
-            "ms": "Tapak Al-Qalib (Telaga Mayat Pembesar Quraisy)",
-            "ml": "അൽ-ഖലീബ് (ഖുറൈശി നേതാക്കളെ മറവുചെയ്ത കിണർ)",
-            "ta": "அல்-கலீப் (குறைஷி தலைவர்கள் புதைக்கப்பட்ட கிணறு)"
-          },
-          "summary": {
-            "en": "Dry pit where bodies of 24 slain Qurayshi tyrants (including Abu Jahl) were buried.",
-            "ms": "Telaga kering di mana 24 jenazah pemimpin kafir Quraisy termasuk Abu Jahal dihumban dan ditimbus.",
-            "ml": "അബൂജഹൽ അടക്കമുള്ള 24 ഖുറൈശി പ്രമുഖരുടെ മൃതദേഹങ്ങൾ ഇട്ടുമൂടിയ ഉണങ്ങിയ കിണർ.",
-            "ta": "அபூஜஹ்ல் உள்ளிட்ட 24 குறைஷி தலைவர்களின் உடல்கள் போடப்பட்டு மூடப்பட்ட கிணறு."
-          },
-          "details": {
-            "en": "Located southwest of the martyrs' cemetery. The Prophet ﷺ stood at its edge and addressed the dead leaders three days after the battle.",
-            "ms": "Terletak di arah barat daya makam syuhada. Baginda ﷺ berbicara kepada mayat mereka tiga hari selepas kemenangan.",
-            "ml": "യുദ്ധത്തിന് മൂന്ന് ദിവസത്തിന് ശേഷം നബി ഈ കിണറിനരികിൽ നിന്ന് അവരോട് സംസാരിച്ചു.",
-            "ta": "போர் முடிந்த மூன்று நாட்களுக்குப் பின் நபிகளார் இக்கிணற்றின் அருகே நின்று உரையாற்றினார்."
-          },
-          "images": {
-            "thumbnail": "assets/image/locations/al_qalib_pit.webp",
-            "gallery": [
-              "assets/image/locations/al_qalib_pit.webp"
             ]
           }
         }
@@ -2156,14 +2133,16 @@
       "title": {
         "en": "Battle of the Trench (The Seven Mosques)",
         "ms": "Medan Perang Khandaq (Tujuh Masjid)",
-        "ml": "ഖൻദഖ് യുദ്ധക്കളവും ഏഴ് പള്ളികളും",
-        "ta": "அகழ் போர்க்களம் மற்றும் ஏழு பள்ளிவாசல்கள்"
+        "ar": "",
+        "ta": "அகழ் போர்க்களம் மற்றும் ஏழு பள்ளிவாசல்கள்",
+        "ml": "ഖൻദഖ് യുദ്ധക്കളവും ഏഴ് പള്ളികളും"
       },
       "summary": {
         "en": "The northwest defensive line along Mount Sala' where the Confederates (Ahzab) were held at bay (5 AH).",
         "ms": "Kaki Gunung Sila' kubu parit pertahanan Madinah saksi pertempuran Ahzab.",
-        "ml": "സൽഅ് മലയടിവാരത്തിൽ കിടങ്ങ് കുഴിച്ച് ശത്രുക്കളെ പ്രതിരോധിച്ച ഖൻദഖ് പ്രദേശം.",
-        "ta": "ஸலா மலையடிவாரத்தில் அகழ் தோண்டி எதிரிகளை தடுத்து நிறுத்திய வரலாற்று தளம்."
+        "ar": "",
+        "ta": "ஸலா மலையடிவாரத்தில் அகழ் தோண்டி எதிரிகளை தடுத்து நிறுத்திய வரலாற்று தளம்.",
+        "ml": "സൽഅ് മലയടിവാരത്തിൽ കിടങ്ങ് കുഴിച്ച് ശത്രുക്കളെ പ്രതിരോധിച്ച ഖൻദഖ് പ്രദേശം."
       },
       "places": [
         {
@@ -2244,6 +2223,99 @@
             "thumbnail": "assets/image/locations/masjid_al_qiblatayn.webp",
             "gallery": [
               "assets/image/locations/masjid_al_qiblatayn.webp"
+            ]
+          }
+        },
+        {
+          "id": "masjid_umar_khandaq",
+          "title": {
+            "en": "Masjid Umar ibn al-Khattab",
+            "ms": "Masjid Umar ibn al-Khattab",
+            "ml": "മസ്ജിദ് ഉമർ ഇബ്നുൽ ഖത്താബ്",
+            "ta": "மஸ்ஜித் உமர் பின் அல்-கத்தாப்"
+          },
+          "summary": {
+            "en": "Located south of Masjid al-Fatah, marking the station where Umar ibn al-Khattab (RA) commanded defense forces during the siege.",
+            "ms": "Terletak di selatan Masjid al-Fatah, menandakan tempat Umar ibn al-Khattab (RA) memimpin pasukan pertahanan semasa pengepungan.",
+            "ml": "മസ്ജിദുൽ ഫതഹിന് തെക്ക് സ്ഥിതിചെയ്യുന്നു, ഉപരോധ വേളയിൽ ഉമർ (റ) പ്രതിരോധ സേനയെ നയിച്ച സ്ഥലം.",
+            "ta": "மஸ்ஜித் அல்-பதஹ் தெற்கே அமைந்துள்ளது, முற்றுகையின் போது உமர் (ரலி) படைகளை வழிநடத்திய இடம்."
+          },
+          "details": {
+            "en": "Located south of Masjid al-Fatah, marking the station where Umar ibn al-Khattab (RA) commanded defense forces during the siege.",
+            "ms": "Terletak di selatan Masjid al-Fatah, menandakan tempat Umar ibn al-Khattab (RA) memimpin pasukan pertahanan semasa pengepungan.",
+            "ml": "മസ്ജിദുൽ ഫതഹിന് തെക്ക് സ്ഥിതിചെയ്യുന്നു, ഉപരോധ വേളയിൽ ഉമർ (റ) പ്രതിരോധ സേനയെ നയിച്ച സ്ഥലം.",
+            "ta": "மஸ்ஜித் அல்-பதஹ் தெற்கே அமைந்துள்ளது, முற்றுகையின் போது உமர் (ரலி) படைகளை வழிநடத்திய இடம்."
+          },
+          "coordinates": {
+            "latitude": 24.47694,
+            "longitude": 39.59497
+          },
+          "images": {
+            "thumbnail": "assets/image/locations/masjid_umar_khandaq.webp",
+            "gallery": [
+              "assets/image/locations/masjid_umar_khandaq.webp"
+            ]
+          }
+        },
+        {
+          "id": "masjid_abu_bakr_khandaq",
+          "title": {
+            "en": "Masjid Abu Bakr as-Siddiq",
+            "ms": "Masjid Abu Bakr as-Siddiq",
+            "ml": "മസ്ജിദ് അബൂബക്കർ സിദ്ദീഖ്",
+            "ta": "மஸ்ஜித் அபூபக்கர் சித்தீக்"
+          },
+          "summary": {
+            "en": "Historic mosque marking the defense outpost commanded by Abu Bakr as-Siddiq (RA) at the Seven Mosques site.",
+            "ms": "Masjid bersejarah menandakan pos pertahanan di bawah pimpinan Abu Bakr as-Siddiq (RA) di tapak Tujuh Masjid.",
+            "ml": "എഴ് പള്ളികളുടെ പരിസരത്ത് അബൂബക്കർ സിദ്ദീഖ് (റ) കാവൽ നിന്ന സ്ഥലം.",
+            "ta": "ஏழு பள்ளிவாசல் பகுதியில் அபூபக்கர் சித்தீக் (ரலி) காவல்படை அமைத்த இடம்."
+          },
+          "details": {
+            "en": "Historic mosque marking the defense outpost commanded by Abu Bakr as-Siddiq (RA) at the Seven Mosques site.",
+            "ms": "Masjid bersejarah menandakan pos pertahanan di bawah pimpinan Abu Bakr as-Siddiq (RA) di tapak Tujuh Masjid.",
+            "ml": "എഴ് പള്ളികളുടെ പരിസരത്ത് അബൂബക്കർ സിദ്ദീഖ് (റ) കാവൽ നിന്ന സ്ഥലം.",
+            "ta": "ஏழு பள்ளிவாசல் பகுதியில் அபூபக்கர் சித்தீக் (ரலி) காவல்படை அமைத்த இடம்."
+          },
+          "coordinates": {
+            "latitude": 24.47651,
+            "longitude": 39.59522
+          },
+          "images": {
+            "thumbnail": "assets/image/locations/masjid_abu_bakr_khandaq.webp",
+            "gallery": [
+              "assets/image/locations/masjid_abu_bakr_khandaq.webp"
+            ]
+          }
+        },
+        {
+          "id": "masjid_saad_muadh",
+          "title": {
+            "en": "Masjid Saad ibn Muadh",
+            "ms": "Masjid Saad ibn Muadh",
+            "ml": "മസ്ജിദ് സഅ്ദ് ഇബ്നു മുആദ്",
+            "ta": "மஸ்ஜித் ஸஃத் பின் முஆத்"
+          },
+          "summary": {
+            "en": "Historic mosque named after Saad ibn Muadh (RA), leader of the Aws tribe and chief commander of the Ansar at Khandaq.",
+            "ms": "Masjid bersejarah bersempena Saad ibn Muadh (RA), pemimpin suku Aws dan panglima utama Ansar di Khandaq.",
+            "ml": "ഔസ് ഗോത്ര നേതാവും അൻസാറുകളുടെ പ്രധാന പടത്തലവനുമായിരുന്ന സഅ്ദ് ഇബ്നു മുആദ് (റ) വിന്റെ പേരുള്ള പള്ളി.",
+            "ta": "அவ்ஸ் கோத்திர தலைவரும் அன்சாரிகளின் முதன்மை தளபதியுமான ஸஃத் பின் முஆத் (ரலி) நினைவாக அமைந்த பள்ளிவாசல்."
+          },
+          "details": {
+            "en": "Historic mosque named after Saad ibn Muadh (RA), leader of the Aws tribe and chief commander of the Ansar at Khandaq.",
+            "ms": "Masjid bersejarah bersempena Saad ibn Muadh (RA), pemimpin suku Aws dan panglima utama Ansar di Khandaq.",
+            "ml": "ഔസ് ഗോത്ര നേതാവും അൻസാറുകളുടെ പ്രധാന പടത്തലവനുമായിരുന്ന സഅ്ദ് ഇബ്നു മുആദ് (റ) വിന്റെ പേരുള്ള പള്ളി.",
+            "ta": "அவ்ஸ் கோத்திர தலைவரும் அன்சாரிகளின் முதன்மை தளபதியுமான ஸஃத் பின் முஆத் (ரலி) நினைவாக அமைந்த பள்ளிவாசல்."
+          },
+          "coordinates": {
+            "latitude": 24.47621,
+            "longitude": 39.59562
+          },
+          "images": {
+            "thumbnail": "assets/image/locations/masjid_saad_muadh.webp",
+            "gallery": [
+              "assets/image/locations/masjid_saad_muadh.webp"
             ]
           }
         }

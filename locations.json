@@ -585,7 +585,17 @@
     "longitude": 39.608862,
     "type": "Historical",
     "city": "Madinah",
-    "imageUrls": [],
+    "imageUrls": [
+      {
+        "url": "image/masjid_shaikhain_1791160696457.webp",
+        "thumbnail": "image/masjid_shaikhain_1791160696457.webp",
+        "caption": {
+          "en": "Masjid Shaikhain",
+          "ms": "Masjid Shaikhain",
+          "ar": ""
+        }
+      }
+    ],
     "videoUrls": [],
     "socialLinks": [],
     "thumbnail": "assets/image/locations/masjid_shaikhain.webp"
@@ -1299,15 +1309,7 @@
     "clusterId": "quba_area",
     "city": "Madinah",
     "imageUrls": [
-      {
-        "url": "image/bir_al_khatam_1791135656711.webp",
-        "thumbnail": "image/bir_al_khatam_1791135656711.webp",
-        "caption": {
-          "en": "Well of Khatim (Bir al-Khatam)",
-          "ms": "Telaga Khatim (Bir al-Khatam)",
-          "ar": ""
-        }
-      }
+      "image/bir_al_khatam_1791135656711.webp"
     ],
     "videoUrls": [],
     "socialLinks": [],
@@ -1419,15 +1421,7 @@
     "clusterId": "madinah_wells",
     "city": "Madinah",
     "imageUrls": [
-      {
-        "url": "image/bir_ghars_1791135702988.webp",
-        "thumbnail": "image/bir_ghars_1791135702988.webp",
-        "caption": {
-          "en": "Well of Ghars (Bir Ghars)",
-          "ms": "Telaga Ghars (Bir Ghars)",
-          "ar": ""
-        }
-      }
+      "image/bir_ghars_1791135702988.webp"
     ],
     "videoUrls": [],
     "socialLinks": [],
@@ -1458,15 +1452,7 @@
     "clusterId": "madinah_wells",
     "city": "Madinah",
     "imageUrls": [
-      {
-        "url": "image/bir_ha_1791135734423.webp",
-        "thumbnail": "image/bir_ha_1791135734423.webp",
-        "caption": {
-          "en": "Well of Ha (Bir Ha)",
-          "ms": "Telaga Ha (Bir Ha)",
-          "ar": ""
-        }
-      }
+      "image/bir_ha_1791135734423.webp"
     ],
     "videoUrls": [],
     "socialLinks": [],
