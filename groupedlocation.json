@@ -1,8 +1,223 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "version": "1.0.0",
-  "generated_at": "2026-10-05T09:50:40.455271Z",
+  "generated_at": "2026-10-05T10:17:42.339840Z",
   "groups": [
+    {
+      "id": "the_battle_of_uhud",
+      "region": "makkah",
+      "title": {
+        "en": "The Battle of Uhud",
+        "ms": "Perang Uhud",
+        "ar": "معركة أحد",
+        "ta": "உஹதுப் போர்",
+        "ml": "ഉഹുദ് യുദ്ധം"
+      },
+      "summary": {
+        "en": "The path taken by Rasulullah during the battle of Uhud in the 3rd year of Hijrah. A year after the battle of Badar, Rasullullah received news about a Meccan Quraishy army of 3000 men coming to attack Madinah to avenge their defeat. After jumaah prayers, muslims army left Madinah towards Uhud after consensus decision was made to defend Madinah outside the city.",
+        "ms": "Jalan yang ditempuh oleh Rasulullah semasa perang Uhud pada tahun ke-3 Hijrah",
+        "ar": "الطريق الذي سلكه رسول الله في غزوة أحد في السنة الثالثة للهجرة",
+        "ta": "ஹிஜ்ரத் 3ம் ஆண்டு உஹதுப் போரின் போது ரசூலுல்லாஹ் சென்ற பாதை",
+        "ml": "ഹിജ്റ മൂന്നാം വർഷം ഉഹ്ദ് യുദ്ധത്തിൽ റസൂലുല്ലാഹി സഞ്ചരിച്ച പാത"
+      },
+      "places": [
+        {
+          "id": "masjid_shaikhain",
+          "title": {
+            "en": "Masjid Shaikhain",
+            "ms": "Masjid Shaikhain",
+            "ml": "മസ്ജിദ് ശൈഖൈൻ",
+            "ta": "மஸ்ஜித் ஷைக்கைன்"
+          },
+          "summary": {
+            "en": "Marks the location where the Prophet ﷺ prayed and inspected his troops on the eve of the Battle of Uhud.",
+            "ms": "Menandakan lokasi di mana Rasulullah ﷺ bersolat dan memeriksa tenteranya menjelang Perang Uhud.",
+            "ml": "ഉഹുദ് യുദ്ധത്തിന് മുന്നോടിയായി മുഹമ്മദ് നബി ﷺ സൈന്യത്തെ പരിശോധിക്കുകയും പ്രാർത്ഥിക്കുകയും ചെയ്ത സ്ഥലം.",
+            "ta": "உஹுத் போருக்கு முன்னதாக நபிகள் நாயகம் ﷺ அவர்கள் தனது படைகளை ஆய்வு செய்து தொழுத இடமாகும்."
+          },
+          "details": {
+            "en": "Marks the location where the Prophet ﷺ prayed and inspected his troops on the eve of the Battle of Uhud.",
+            "ms": "Menandakan lokasi di mana Rasulullah ﷺ bersolat dan memeriksa tenteranya menjelang Perang Uhud.",
+            "ml": "ഉഹുദ് യുദ്ധത്തിന് മുന്നോടിയായി മുഹമ്മദ് നബി ﷺ സൈന്യത്തെ പരിശോധിക്കുകയും പ്രാർത്ഥിക്കുകയും ചെയ്ത സ്ഥലം.",
+            "ta": "உஹுத் போருக்கு முன்னதாக நபிகள் நாயகம் ﷺ அவர்கள் தனது படைகளை ஆய்வு செய்து தொழுத இடமாகும்."
+          },
+          "coordinates": {
+            "latitude": 24.489387,
+            "longitude": 39.608862
+          },
+          "images": {
+            "thumbnail": "image/masjid_shaikhain_1791160696457.webp",
+            "gallery": [
+              "image/masjid_shaikhain_1791160696457.webp"
+            ]
+          }
+        },
+        {
+          "id": "jabal_rumat",
+          "title": {
+            "en": "Hill of Archers (Jabal al-Rumat)",
+            "ms": "Bukit Pemanah (Jabal al-Rumat)",
+            "ta": "வில்லாளிகள் குன்று (ஜபல் அல்-ருமாத்)",
+            "ml": "അമ്പെയ്ത്തുകാരുടെ കുന്ന് (ജബലുർ-റുമത്)",
+            "ar": ""
+          },
+          "summary": {
+            "en": "Mount Ainein, where Prophet Muhammad ﷺ stationed 50 archers under Abdullah ibn Jubayr (RA) to protect the army's rear.",
+            "ms": "Bukit Ainein, tempat Rasulullah ﷺ menempatkan 50 pemanah di bawah Abdullah ibn Jubayr (RA) untuk mengawal tentera.",
+            "ta": "நபிகள் நாயகம் ﷺ 50 வில்லாளிகளை நிறுத்திய குன்று.",
+            "ml": "പ്രവാചകൻ ﷺ 50 അമ്പെയ്ത്തുകാരെ നിർത്തിയിരുന്ന ഐനൈൻ കുന്ന്.",
+            "ar": ""
+          },
+          "details": {
+            "en": "Mount Ainein, where Prophet Muhammad ﷺ stationed 50 archers under Abdullah ibn Jubayr (RA) to protect the army's rear.",
+            "ms": "Bukit Ainein, tempat Rasulullah ﷺ menempatkan 50 pemanah di bawah Abdullah ibn Jubayr (RA) untuk mengawal tentera.",
+            "ta": "நபிகள் நாயகம் ﷺ 50 வில்லாளிகளை நிறுத்திய குன்று.",
+            "ml": "പ്രവാചകൻ ﷺ 50 അമ്പെയ്ത്തുകാരെ നിർത്തിയിരുന്ന ഐനൈൻ കുന്ന്.",
+            "ar": ""
+          },
+          "coordinates": {
+            "latitude": 24.502353971696675,
+            "longitude": 39.61205819115529
+          },
+          "images": {
+            "thumbnail": "image/jabal_rumat_1791193796523.webp",
+            "gallery": [
+              "image/jabal_rumat_1791193796523.webp"
+            ]
+          }
+        },
+        {
+          "id": "battlefield_uhud",
+          "title": {
+            "en": "Battlefield of Uhud",
+            "ms": "Medan Perang Uhud",
+            "ml": "ഉഹ്ദ് യുദ്ധഭൂമി",
+            "ta": "உஹுத் போர்க்களம்"
+          },
+          "summary": {
+            "en": "The open plain between Mount Uhud and the archers' hill where the main clash of the Battle of Uhud took place.",
+            "ms": "Padang terbuka antara Bukit Uhud dan bukit pemanah di mana pertembungan utama Perang Uhud berlaku.",
+            "ml": "ഉഹുദ് മലയ്ക്കും അമ്പെയ്ത്തുകാരുടെ കുന്നിനും ഇടയിലുള്ള പ്രദേശം. ഇവിടെ വെച്ചാണ് ചരിത്രപ്രധാനമായ ഉഹുദ് യുദ്ധം നടന്നത്.",
+            "ta": "உஹுத் மலைக்கும் வில்வீரர்கள் குன்றுக்கும் இடைப்பட்ட சமவெளி, இங்குதான் புகழ்பெற்ற உஹுத் போர் நடந்தது."
+          },
+          "details": {
+            "en": "The open plain between Mount Uhud and the archers' hill where the main clash of the Battle of Uhud took place.",
+            "ms": "Padang terbuka antara Bukit Uhud dan bukit pemanah di mana pertembungan utama Perang Uhud berlaku.",
+            "ml": "ഉഹുദ് മലയ്ക്കും അമ്പെയ്ത്തുകാരുടെ കുന്നിനും ഇടയിലുള്ള പ്രദേശം. ഇവിടെ വെച്ചാണ് ചരിത്രപ്രധാനമായ ഉഹുദ് യുദ്ധം നടന്നത്.",
+            "ta": "உஹுத் மலைக்கும் வில்வீரர்கள் குன்றுக்கும் இடைப்பட்ட சமவெளி, இங்குதான் புகழ்பெற்ற உஹுத் போர் நடந்தது."
+          },
+          "coordinates": {
+            "latitude": 24.50285,
+            "longitude": 39.61175
+          },
+          "images": {
+            "thumbnail": "assets/image/locations/battlefield_uhud.webp",
+            "gallery": [
+              "assets/image/locations/battlefield_uhud.webp"
+            ]
+          }
+        },
+        {
+          "id": "masjid_fasah",
+          "title": {
+            "en": "Masjid Fasah",
+            "ms": "Masjid Fasah",
+            "ta": "மஸ்ஜித் ஃபஸஹ்",
+            "ml": "മസ്ജിദ് ഫസഹ്",
+            "ar": ""
+          },
+          "summary": {
+            "en": "A small historical mosque at the foot of Mount Uhud where the Prophet ﷺ performed Dhuhr prayer on the day of the battle.",
+            "ms": "Sebuah masjid bersejarah kecil di kaki Bukit Uhud di mana Rasulullah ﷺ menunaikan solat Zohor pada hari peperangan.",
+            "ta": "உஹுத் மலையின் அடிவாரத்தில் உள்ள ஒரு சிறிய வரலாற்றுப் பள்ளிவாசல், இங்குதான் போர் நடந்த அன்று நபிகள் நாயகம் ﷺ அவர்கள் ளுஹர் தொழுகையை நடத்தினார்கள்.",
+            "ml": "ഉഹുദ് മലയുടെ താഴെ സ്ഥിതി ചെയ്യുന്ന ചെറിയ ചരിത്ര പള്ളി. യുദ്ധദിവസം മുഹമ്മദ് നബി ﷺ ഇവിടെ വെച്ച് ളുഹർ നമസ്‌കരിച്ചിരുന്നു.",
+            "ar": ""
+          },
+          "details": {
+            "en": "A small historical mosque at the foot of Mount Uhud where the Prophet ﷺ performed Dhuhr prayer on the day of the battle.",
+            "ms": "Sebuah masjid bersejarah kecil di kaki Bukit Uhud di mana Rasulullah ﷺ menunaikan solat Zohor pada hari peperangan.",
+            "ta": "உஹுத் மலையின் அடிவாரத்தில் உள்ள ஒரு சிறிய வரலாற்றுப் பள்ளிவாசல், இங்குதான் போர் நடந்த அன்று நபிகள் நாயகம் ﷺ அவர்கள் ளுஹர் தொழுகையை நடத்தினார்கள்.",
+            "ml": "ഉഹുദ് മലയുടെ താഴെ സ്ഥിതി ചെയ്യുന്ന ചെറിയ ചരിത്ര പള്ളി. യുദ്ധദിവസം മുഹമ്മദ് നബി ﷺ ഇവിടെ വെച്ച് ളുഹർ നമസ്‌കരിച്ചിരുന്നു.",
+            "ar": ""
+          },
+          "coordinates": {
+            "latitude": 24.509967,
+            "longitude": 39.612877
+          },
+          "images": {
+            "thumbnail": "image/masjid_fasah_1791193662951.webp",
+            "gallery": [
+              "image/masjid_fasah_1791193662951.webp"
+            ]
+          }
+        },
+        {
+          "id": "maqam_shuhada_uhud",
+          "title": {
+            "en": "Martyrs of Uhud (Maqam Shuhada Uhud)",
+            "ms": "Makam Para Syuhada Uhud",
+            "ml": "ഉഹ്ദ് ശുഹദാക്കൾ (മഖാം ശുഹദാ ഉഹ്ദ്)",
+            "ta": "உஹுத் தியாகிகள் அடக்கஸ்தலம் (மகாமு ஷுஹதா உஹுத்)"
+          },
+          "summary": {
+            "en": "The blessed burial ground resting place of Hamza ibn Abd al-Muttalib (RA), Mus'ab ibn Umair (RA), and the 70 martyrs of Uhud.",
+            "ms": "Perkuburan berkat tempat bersemayam Hamza ibn Abd al-Muttalib (RA), Mus'ab ibn Umair (RA), dan 70 syuhada Uhud.",
+            "ml": "ഹംസ (റ), മുസ്അബ് (റ) ഉൾപ്പെടെ 70 ഉഹ്ദ് ശുഹദാക്കൾ അന്ത്യവിശ്രമം കൊള്ളുന്ന സ്ഥലം.",
+            "ta": "ஹம்ஸா (ரலி) மற்றும் 70 உஹுத் தியாகிகள் அடக்கம் செய்யப்பட்டுள்ள புனித இடம்."
+          },
+          "details": {
+            "en": "The blessed burial ground resting place of Hamza ibn Abd al-Muttalib (RA), Mus'ab ibn Umair (RA), and the 70 martyrs of Uhud.",
+            "ms": "Perkuburan berkat tempat bersemayam Hamza ibn Abd al-Muttalib (RA), Mus'ab ibn Umair (RA), dan 70 syuhada Uhud.",
+            "ml": "ഹംസ (റ), മുസ്അബ് (റ) ഉൾപ്പെടെ 70 ഉഹ്ദ് ശുഹദാക്കൾ അന്ത്യവിശ്രമം കൊള്ളുന്ന സ്ഥലം.",
+            "ta": "ஹம்ஸா (ரலி) மற்றும் 70 உஹுத் தியாகிகள் அடக்கம் செய்யப்பட்டுள்ள புனித இடம்."
+          },
+          "coordinates": {
+            "latitude": 24.503451,
+            "longitude": 39.611893
+          },
+          "images": {
+            "thumbnail": "assets/image/locations/maqam_shuhada_uhud.webp",
+            "gallery": [
+              "assets/image/locations/maqam_shuhada_uhud.webp"
+            ]
+          }
+        },
+        {
+          "id": "masjid_mustarahah",
+          "title": {
+            "en": "Masjid Mustarahah",
+            "ms": "Masjid Mustarahah",
+            "ta": "மஸ்ஜித் முஸ்தராஹா",
+            "ml": "മസ്ജിദ് മുസ്തറാഹ",
+            "ar": ""
+          },
+          "summary": {
+            "en": "Marks the location where the Prophet ﷺ rested and offered prayers while returning from the Battle of Uhud.",
+            "ms": "Menandakan lokasi di mana Rasulullah ﷺ berehat dan bersolat semasa pulang dari Perang Uhud.",
+            "ta": "உஹுத் போரில் இருந்து திரும்பும் போது நபிகள் நாயகம் ﷺ அவர்கள் ஓய்வெடுத்துத் தொழுத இடமாகும்.",
+            "ml": "ഉഹുദ് യുദ്ധത്തിൽ നിന്ന് മടങ്ങുമ്പോൾ മുഹമ്മദ് നബി ﷺ വിശ്രമിക്കുകയും പ്രാർത്ഥിക്കുകയും ചെയ്ത സ്ഥലം.",
+            "ar": ""
+          },
+          "details": {
+            "en": "Marks the location where the Prophet ﷺ rested and offered prayers while returning from the Battle of Uhud.",
+            "ms": "Menandakan lokasi di mana Rasulullah ﷺ berehat dan bersolat semasa pulang dari Perang Uhud.",
+            "ta": "உஹுத் போரில் இருந்து திரும்பும் போது நபிகள் நாயகம் ﷺ அவர்கள் ஓய்வெடுத்துத் தொழுத இடமாகும்.",
+            "ml": "ഉഹുദ് യുദ്ധത്തിൽ നിന്ന് മടങ്ങുമ്പോൾ മുഹമ്മദ് നബി ﷺ വിശ്രമിക്കുകയും പ്രാർത്ഥിക്കുകയും ചെയ്ത സ്ഥലം.",
+            "ar": ""
+          },
+          "coordinates": {
+            "latitude": 24.491867229445543,
+            "longitude": 39.60968454539441
+          },
+          "images": {
+            "thumbnail": "image/masjid_mustarahah_1791193419598.webp",
+            "gallery": [
+              "image/masjid_mustarahah_1791193419598.webp"
+            ]
+          }
+        }
+      ]
+    },
     {
       "id": "umrah_path",
       "region": "makkah",
