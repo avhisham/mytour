@@ -586,15 +586,7 @@
     "type": "Historical",
     "city": "Madinah",
     "imageUrls": [
-      {
-        "url": "image/masjid_shaikhain_1791160696457.webp",
-        "thumbnail": "image/masjid_shaikhain_1791160696457.webp",
-        "caption": {
-          "en": "Masjid Shaikhain",
-          "ms": "Masjid Shaikhain",
-          "ar": ""
-        }
-      }
+      "image/masjid_shaikhain_1791160696457.webp"
     ],
     "videoUrls": [],
     "socialLinks": [],

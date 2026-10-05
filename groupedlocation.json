@@ -1,8 +1,220 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "version": "1.0.0",
-  "generated_at": "2026-10-05T00:49:37.643238Z",
+  "generated_at": "2026-10-05T00:56:02.664471Z",
   "groups": [
+    {
+      "id": "umrah_path",
+      "region": "makkah",
+      "title": {
+        "en": "Umrah path",
+        "ms": "Jalan umrah",
+        "ar": "طريق العمرة",
+        "ta": "உம்ரா பாதை",
+        "ml": "ഉംറ പാത"
+      },
+      "summary": {
+        "en": "The general path for umrah when you arrive in Masjid al Haram",
+        "ms": "Laluan umum untuk umrah apabila anda tiba di Masjidil Haram",
+        "ar": "المسار العام للعمرة عند وصولك إلى المسجد الحرام",
+        "ta": "நீங்கள் மஸ்ஜிதுல் ஹராமுக்கு வரும்போது உம்ராவுக்கான பொதுவான பாதை",
+        "ml": "മസ്ജിദുൽ ഹറാമിൽ എത്തുമ്പോൾ ഉംറയ്ക്കുള്ള പൊതുവഴി"
+      },
+      "places": [
+        {
+          "id": "gate_abdulaziz",
+          "title": {
+            "en": "King Abdulaziz Gate (Gate 1)",
+            "ms": "Pintu Raja Abdulaziz (Pintu 1)",
+            "ta": "மன்னர் அப்துல் அஜீஸ் வாசல் (கேட் 1)",
+            "ml": "കിംഗ് അബ്ദുൽ അസീസ് ഗേറ്റ് (ഗേറ്റ് 1)",
+            "ar": "باب الملك عبد العزيز (باب 1)"
+          },
+          "summary": {
+            "en": "King Abdulaziz Gate (Gate 1) is the historic southern grand portal of Masjid al-Haram, standing directly opposite the southern plazas and Ibrahim Al-Khalil Street. Crowned by two iconic 89-meter minarets that act as beacons across the southern skyline, this monumental entrance serves as the primary gateway for pilgrims entering from southern hotels and leads straight toward the open Mataf courtyard.",
+            "ms": "Pintu Raja Abdulaziz (Pintu 1) merupakan pintu gerbang utama di sebelah selatan Masjidil Haram yang menghadap dataran selatan dan Jalan Ibrahim Al-Khalil. Dipuncaki oleh dua menara berkembar ikonik setinggi 89 meter sebagai panduan pandangan jemaah, pintu bersejarah ini merupakan pintu masuk utama dari arah selatan terus menuju ke dataran Mataf.",
+            "ta": "மஸ்ஜிதுல் ஹராமின் தெற்கு பகுதியின் பிரதான பிரமாண்ட வாசல் மன்னர் அப்துல் அஜீஸ் வாசல் (கேட் 1) ஆகும். இப்ராஹீம் அல்-கலீல் சாலையிலிருந்து வரும் யாத்ரீகர்களின் முக்கிய நுழைவாயிலாகும். இதன் மீது அமைந்துள்ள 89 மீட்டர் உயரமுள்ள இரட்டை மினாராக்கள் இதன் கம்பீர அடையாளமாகும்.",
+            "ml": "മസ്ജിദുൽ ഹറാമിന്റെ തെക്ക് ഭാഗത്തെ പ്രധാന കവാടമാണ് കിംഗ് അബ്ദുൽ അസീസ് ഗേറ്റ് (ഗേറ്റ് 1). ഇബ്രാഹിം അൽ-ഖലീൽ സ്ട്രീറ്റിൽ നിന്നും എത്തുന്ന തീർത്ഥാടകരുടെ പ്രധാന പ്രവേശന കവാടമാണിത്. 89 മീറ്റർ ഉയരമുള്ള രണ്ട് ഗംഭീര ഇരട്ട മിനാരങ്ങൾ ഇതിന്റെ പ്രവേശന കവാടത്തിന് മുകളിലായി തലയുയർത്തി നിൽക്കുന്നു. മത്വാഫിലേക്ക് വേഗത്തിൽ എത്താൻ ഇത് സഹായിക്കുന്നു.",
+            "ar": "باب الملك عبد العزيز (باب 1)، المدخل الرئيسي الجنوبي للمسجد الحرام، يتميز بمئذنتيه الشامختين بارتفاع 89 متراً، ويعد البوابة الرئيسية للمعتمرين القادمين من الجهة الجنوبية باتجاه صحن المطاف."
+          },
+          "details": {
+            "en": "King Abdulaziz Gate (Gate 1) is the historic southern grand portal of Masjid al-Haram, standing directly opposite the southern plazas and Ibrahim Al-Khalil Street. Crowned by two iconic 89-meter minarets that act as beacons across the southern skyline, this monumental entrance serves as the primary gateway for pilgrims entering from southern hotels and leads straight toward the open Mataf courtyard.",
+            "ms": "Pintu Raja Abdulaziz (Pintu 1) merupakan pintu gerbang utama di sebelah selatan Masjidil Haram yang menghadap dataran selatan dan Jalan Ibrahim Al-Khalil. Dipuncaki oleh dua menara berkembar ikonik setinggi 89 meter sebagai panduan pandangan jemaah, pintu bersejarah ini merupakan pintu masuk utama dari arah selatan terus menuju ke dataran Mataf.",
+            "ta": "மஸ்ஜிதுல் ஹராமின் தெற்கு பகுதியின் பிரதான பிரமாண்ட வாசல் மன்னர் அப்துல் அஜீஸ் வாசல் (கேட் 1) ஆகும். இப்ராஹீம் அல்-கலீல் சாலையிலிருந்து வரும் யாத்ரீகர்களின் முக்கிய நுழைவாயிலாகும். இதன் மீது அமைந்துள்ள 89 மீட்டர் உயரமுள்ள இரட்டை மினாராக்கள் இதன் கம்பீர அடையாளமாகும்.",
+            "ml": "മസ്ജിദുൽ ഹറാമിന്റെ തെക്ക് ഭാഗത്തെ പ്രധാന കവാടമാണ് കിംഗ് അബ്ദുൽ അസീസ് ഗേറ്റ് (ഗേറ്റ് 1). ഇബ്രാഹിം അൽ-ഖലീൽ സ്ട്രീറ്റിൽ നിന്നും എത്തുന്ന തീർത്ഥാടകരുടെ പ്രധാന പ്രവേശന കവാടമാണിത്. 89 മീറ്റർ ഉയരമുള്ള രണ്ട് ഗംഭീര ഇരട്ട മിനാരങ്ങൾ ഇതിന്റെ പ്രവേശന കവാടത്തിന് മുകളിലായി തലയുയർത്തി നിൽക്കുന്നു. മത്വാഫിലേക്ക് വേഗത്തിൽ എത്താൻ ഇത് സഹായിക്കുന്നു.",
+            "ar": "باب الملك عبد العزيز (باب 1)، المدخل الرئيسي الجنوبي للمسجد الحرام، يتميز بمئذنتيه الشامختين بارتفاع 89 متراً، ويعد البوابة الرئيسية للمعتمرين القادمين من الجهة الجنوبية باتجاه صحن المطاف."
+          },
+          "coordinates": {
+            "latitude": 21.420812,
+            "longitude": 39.826035
+          },
+          "images": {
+            "thumbnail": "assets/image/locations/gate_abdulaziz.webp",
+            "gallery": [
+              "image/gate_abdulaziz_1791105564997.jpg"
+            ]
+          }
+        },
+        {
+          "id": "kaabah",
+          "title": {
+            "en": "The Holy Kaabah",
+            "ms": "Kaabah Suci",
+            "ml": "വിശുദ്ധ കഅബ",
+            "ta": "புனித கஅபா"
+          },
+          "summary": {
+            "en": "The center of the Masjid al-Haram and the most sacred site in Islam. The Qibla (direction of prayer) for Muslims worldwide.",
+            "ms": "Pusat Masjid al-Haram dan tapak paling suci dalam Islam. Qiblat (arah solat) bagi umat Islam di seluruh dunia.",
+            "ml": "മസ്ജിദുൽ ഹറാമിൻ്റെ മധ്യഭാഗവും ഇസ്‌ലാമിലെ ഏറ്റവും വിശുദ്ധമായ സ്ഥലവുമാണ്. ലോകമെമ്പാടുമുള്ള മുസ്‌ലിംകളുടെ ഖിബ്‌ല (നമസ്‌കാരത്തിൻ്റെ ദിശ) ഇതാണ്.",
+            "ta": "மஸ்ஜிதுல் ஹராமின் மையப்பகுதியும் இஸ்லாத்தின் மிக புனிதமான இடமுமாகும். இது உலகெங்கிலும் உள்ள முஸ்லிம்களின் கிப்லா (தொழுகையின் திசை) ஆகும்."
+          },
+          "details": {
+            "en": "The center of the Masjid al-Haram and the most sacred site in Islam. The Qibla (direction of prayer) for Muslims worldwide.",
+            "ms": "Pusat Masjid al-Haram dan tapak paling suci dalam Islam. Qiblat (arah solat) bagi umat Islam di seluruh dunia.",
+            "ml": "മസ്ജിദുൽ ഹറാമിൻ്റെ മധ്യഭാഗവും ഇസ്‌ലാമിലെ ഏറ്റവും വിശുദ്ധമായ സ്ഥലവുമാണ്. ലോകമെമ്പാടുമുള്ള മുസ്‌ലിംകളുടെ ഖിബ്‌ല (നമസ്‌കാരത്തിൻ്റെ ദിശ) ഇതാണ്.",
+            "ta": "மஸ்ஜிதுல் ஹராமின் மையப்பகுதியும் இஸ்லாத்தின் மிக புனிதமான இடமுமாகும். இது உலகெங்கிலும் உள்ள முஸ்லிம்களின் கிப்லா (தொழுகையின் திசை) ஆகும்."
+          },
+          "coordinates": {
+            "latitude": 21.42255,
+            "longitude": 39.826789
+          },
+          "images": {
+            "thumbnail": "assets/image/locations/kaabah.webp",
+            "gallery": [
+              "assets/image/locations/kaabah.webp"
+            ]
+          }
+        },
+        {
+          "id": "maqam_ibrahim",
+          "title": {
+            "en": "Maqam Ibrahim",
+            "ms": "Maqam Ibrahim",
+            "ml": "മഖാമു ഇബ്രാഹീം",
+            "ta": "மகாமு இப்ராஹீம்"
+          },
+          "summary": {
+            "en": "The crystalline enclosure bearing the imprinted footprints of Prophet Ibrahim. The stone Prophet Ibrahim stood on while raising the foundations of the Kaaba. Pilgrims pray two rak'ahs behind it after Tawaf.",
+            "ms": "Kubah kaca bertatah emas yang menyimpan batu kesan tapak kaki Nabi Ibrahim a.s. Batu tempat berdirinya Nabi Ibrahim semasa membina Kaabah. Sunat bersolat dua rakaat tawaf di belakangnya.",
+            "ml": "ഇബ്രാഹീം നബിയുടെ കാൽപ്പാടുകൾ പതിഞ്ഞ ശില സൂക്ഷിച്ചിരിക്കുന്ന കേന്ദ്രം. കഅ്ബ നിർമ്മാണ വേളയിൽ ഇബ്രാഹീം നബി കയറിനിന്ന കല്ല്. ത്വവാഫിന് ശേഷം ഇതിന്റെ പിന്നിൽ രണ്ട് റക്അത്ത് നമസ്കരിക്കൽ സുന്നത്താണ്.",
+            "ta": "இப்ராஹீம் நபியின் பாதச்சுவடுகள் பதிந்த கல் வைக்கப்பட்டுள்ள இடம். கஅபாவை உயர்த்தியபோது இப்ராஹீம் நபி நின்ற கல். தவாஃபிற்குப் பின் இதன் பின்னால் இரண்டு ரக்அத்கள் தொழுவது சுன்னத்."
+          },
+          "details": {
+            "en": "The crystalline enclosure bearing the imprinted footprints of Prophet Ibrahim. The stone Prophet Ibrahim stood on while raising the foundations of the Kaaba. Pilgrims pray two rak'ahs behind it after Tawaf.",
+            "ms": "Kubah kaca bertatah emas yang menyimpan batu kesan tapak kaki Nabi Ibrahim a.s. Batu tempat berdirinya Nabi Ibrahim semasa membina Kaabah. Sunat bersolat dua rakaat tawaf di belakangnya.",
+            "ml": "ഇബ്രാഹീം നബിയുടെ കാൽപ്പാടുകൾ പതിഞ്ഞ ശില സൂക്ഷിച്ചിരിക്കുന്ന കേന്ദ്രം. കഅ്ബ നിർമ്മാണ വേളയിൽ ഇബ്രാഹീം നബി കയറിനിന്ന കല്ല്. ത്വവാഫിന് ശേഷം ഇതിന്റെ പിന്നിൽ രണ്ട് റക്അത്ത് നമസ്കരിക്കൽ സുന്നത്താണ്.",
+            "ta": "இப்ராஹீம் நபியின் பாதச்சுவடுகள் பதிந்த கல் வைக்கப்பட்டுள்ள இடம். கஅபாவை உயர்த்தியபோது இப்ராஹீம் நபி நின்ற கல். தவாஃபிற்குப் பின் இதன் பின்னால் இரண்டு ரக்அத்கள் தொழுவது சுன்னத்."
+          },
+          "coordinates": {
+            "latitude": 21.422655,
+            "longitude": 39.826314
+          },
+          "images": {
+            "thumbnail": "assets/image/locations/maqam_ibrahim.webp",
+            "gallery": [
+              "assets/image/locations/maqam_ibrahim.webp"
+            ]
+          }
+        },
+        {
+          "id": "zamzam_site",
+          "title": {
+            "en": "Historical Zamzam Well Location",
+            "ms": "Lokasi Asal Telaga Zamzam",
+            "ml": "സംസം കിണറിന്റെ ചരിത്ര സ്ഥാനം",
+            "ta": "ஸம்ஸம் கிணற்றின் வரலாற்று இடம்"
+          },
+          "summary": {
+            "en": "Subterranean site of the miraculous freshwater well revealed to Hajar and Ismail. Formerly had a domed structure and stairs down to the wellhead; now integrated safely beneath the Mataf tiles to ease crowd flow.",
+            "ms": "Tapak bawah tanah telaga mukjizat yang memancar untuk Hajar dan Nabi Ismail a.s. Dahulu mempunyai kubah dan tangga turun, kini ditutup dan dipam di bawah lantai marmar Mataf bagi memudahkan aliran tawaf.",
+            "ml": "ഹാജർ ബീവിക്കും ഇസ്മാഈൽ നബിക്കും വേണ്ടി അല്ലാഹു നൽകിയ സംസം കിണറിന്റെ സ്ഥാനം. മുമ്പ് പടവുകളിറങ്ങി കിണറിനടുത്തേക്ക് പോകാമായിരുന്നു, ഇപ്പോൾ മത്വാഫ് വികസനത്തിന്റെ ഭാഗമായി തറയ്ക്ക് അടിയിലാണ്.",
+            "ta": "ஹாஜர் மற்றும் இஸ்மாயீல் நபிக்காக அல்லாஹ் வெளிப்படுத்திய ஸம்ஸம் நீரூற்றின் தரைக்கீழ் தளம். முன்பு படிக்கட்டுகள் வழியாக செல்ல முடிந்தது, இப்போது கூட்ட நெரிசலைத் தவிர்க்க தரைக்கீழ் அமைப்பாக மாற்றப்பட்டுள்ளது."
+          },
+          "details": {
+            "en": "Subterranean site of the miraculous freshwater well revealed to Hajar and Ismail. Formerly had a domed structure and stairs down to the wellhead; now integrated safely beneath the Mataf tiles to ease crowd flow.",
+            "ms": "Tapak bawah tanah telaga mukjizat yang memancar untuk Hajar dan Nabi Ismail a.s. Dahulu mempunyai kubah dan tangga turun, kini ditutup dan dipam di bawah lantai marmar Mataf bagi memudahkan aliran tawaf.",
+            "ml": "ഹാജർ ബീവിക്കും ഇസ്മാഈൽ നബിക്കും വേണ്ടി അല്ലാഹു നൽകിയ സംസം കിണറിന്റെ സ്ഥാനം. മുമ്പ് പടവുകളിറങ്ങി കിണറിനടുത്തേക്ക് പോകാമായിരുന്നു, ഇപ്പോൾ മത്വാഫ് വികസനത്തിന്റെ ഭാഗമായി തറയ്ക്ക് അടിയിലാണ്.",
+            "ta": "ஹாஜர் மற்றும் இஸ்மாயீல் நபிக்காக அல்லாஹ் வெளிப்படுத்திய ஸம்ஸம் நீரூற்றின் தரைக்கீழ் தளம். முன்பு படிக்கட்டுகள் வழியாக செல்ல முடிந்தது, இப்போது கூட்ட நெரிசலைத் தவிர்க்க தரைக்கீழ் அமைப்பாக மாற்றப்பட்டுள்ளது."
+          },
+          "coordinates": {
+            "latitude": 21.42258061764623,
+            "longitude": 39.82642699659492
+          },
+          "images": {
+            "thumbnail": "assets/image/locations/zamzam_site.webp",
+            "gallery": [
+              "assets/image/locations/zamzam_site.webp"
+            ]
+          }
+        },
+        {
+          "id": "jabal_safa",
+          "title": {
+            "en": "Mount Safa (Starting Point of Sa'i)",
+            "ms": "Bukit Safa (Permulaan Sa'ie)",
+            "ml": "സ്വഫാ മല (സഈയുടെ തുടക്കം)",
+            "ta": "ஸஃபா மலை (சயீ தொடங்குமிடம்)",
+            "ar": "جبل الصفا (بداية السعي)"
+          },
+          "summary": {
+            "en": "The sacred rocky hill inside Masjid al-Haram from which pilgrims commence the seven laps of Sa'i towards Marwah. Historically, this is the venerable outcrop where Prophet Muhammad ﷺ stood to openly declare monotheism to Quraysh (the Call of Safa). Pilgrims ascend the hill, face the Holy Kaaba, raise their hands, and recite the Sunnah supplications before beginning lap 1.",
+            "ms": "Bukit batuan suci di dalam Masjidil Haram di mana jemaah memulakan 7 pusingan Sa'ie menuju ke Marwah. Dari segi sejarah, di sinilah Rasulullah ﷺ berdiri menyeru kaum Quraisy kepada tauhid secara terang-terangan (Seruan Safa). Jemaah menaiki bukit ini, menghadap Kaabah, mengangkat tangan, dan membaca doa-doa Sunnah sebelum memulakan pusingan pertama.",
+            "ml": "മസ്ജിദുൽ ഹറാമിനുള്ളിലെ വിശുദ്ധമായ സ്വഫാ മല. ഇവിടെ നിന്നാണ് മർവ്വയിലേക്കുള്ള ഏഴ് സഅ്‌യ് തീർത്ഥാടകർ ആരംഭിക്കുന്നത്. നബി ﷺ പരസ്യ പ്രബോധനം ആരംഭിച്ച ചരിത്രപ്രസിദ്ധമായ മലയാണിത്. കഅ്ബയിലേക്ക് തിരിഞ്ഞുനിന്ന് പ്രാർത്ഥിച്ചുകൊണ്ടാണ് ഇവിടെ നിന്നും സഅ്‌യ് തുടങ്ങുന്നത്.",
+            "ta": "மஸ்ஜிதுல் ஹராமிற்குள் அமைந்துள்ள புனித ஸஃபா மலை. இங்கிருந்தே மர்வாவை நோக்கிய 7 சயீ சுற்றுகள் தொடங்குகின்றன. நபிகள் நாயகம் ﷺ பகிரங்கமாக ஓரிறைக் கொள்கையை பிரகடனம் செய்த வரலாற்றுச் சிறப்புமிக்க இடமாகும். கஅபாவை நோக்கி கையேந்தி சுன்னத்தான துஆக்களை ஓதி சயீயைத் துவங்குகின்றனர்.",
+            "ar": "جبل الصفا، المرتفع الصخري داخل المسجد الحرام الذي يبدأ منه الحجاج والمعتمرون أشواط السعي السبعة باتجاه المروة، وهو الموقع الذي صدع فيه النبي ﷺ بالدعوة لقريش."
+          },
+          "details": {
+            "en": "The sacred rocky hill inside Masjid al-Haram from which pilgrims commence the seven laps of Sa'i towards Marwah. Historically, this is the venerable outcrop where Prophet Muhammad ﷺ stood to openly declare monotheism to Quraysh (the Call of Safa). Pilgrims ascend the hill, face the Holy Kaaba, raise their hands, and recite the Sunnah supplications before beginning lap 1.",
+            "ms": "Bukit batuan suci di dalam Masjidil Haram di mana jemaah memulakan 7 pusingan Sa'ie menuju ke Marwah. Dari segi sejarah, di sinilah Rasulullah ﷺ berdiri menyeru kaum Quraisy kepada tauhid secara terang-terangan (Seruan Safa). Jemaah menaiki bukit ini, menghadap Kaabah, mengangkat tangan, dan membaca doa-doa Sunnah sebelum memulakan pusingan pertama.",
+            "ml": "മസ്ജിദുൽ ഹറാമിനുള്ളിലെ വിശുദ്ധമായ സ്വഫാ മല. ഇവിടെ നിന്നാണ് മർവ്വയിലേക്കുള്ള ഏഴ് സഅ്‌യ് തീർത്ഥാടകർ ആരംഭിക്കുന്നത്. നബി ﷺ പരസ്യ പ്രബോധനം ആരംഭിച്ച ചരിത്രപ്രസിദ്ധമായ മലയാണിത്. കഅ്ബയിലേക്ക് തിരിഞ്ഞുനിന്ന് പ്രാർത്ഥിച്ചുകൊണ്ടാണ് ഇവിടെ നിന്നും സഅ്‌യ് തുടങ്ങുന്നത്.",
+            "ta": "மஸ்ஜிதுல் ஹராமிற்குள் அமைந்துள்ள புனித ஸஃபா மலை. இங்கிருந்தே மர்வாவை நோக்கிய 7 சயீ சுற்றுகள் தொடங்குகின்றன. நபிகள் நாயகம் ﷺ பகிரங்கமாக ஓரிறைக் கொள்கையை பிரகடனம் செய்த வரலாற்றுச் சிறப்புமிக்க இடமாகும். கஅபாவை நோக்கி கையேந்தி சுன்னத்தான துஆக்களை ஓதி சயீயைத் துவங்குகின்றனர்.",
+            "ar": "جبل الصفا، المرتفع الصخري داخل المسجد الحرام الذي يبدأ منه الحجاج والمعتمرون أشواط السعي السبعة باتجاه المروة، وهو الموقع الذي صدع فيه النبي ﷺ بالدعوة لقريش."
+          },
+          "coordinates": {
+            "latitude": 21.421681,
+            "longitude": 39.827435
+          },
+          "images": {
+            "thumbnail": "assets/image/locations/jabal_safa.webp",
+            "gallery": [
+              "assets/image/locations/jabal_safa.webp"
+            ]
+          }
+        },
+        {
+          "id": "jabal_marwah",
+          "title": {
+            "en": "Mount Marwah (End of Sa'i & Tahallul)",
+            "ms": "Bukit Marwah (Penamat Sa'ie & Tahallul)",
+            "ml": "മർവ്വാ മല (സഈയുടെ പൂർത്തീകരണം)",
+            "ta": "மர்வா மலை (சயீ முடிவடையும் இடம்)"
+          },
+          "summary": {
+            "en": "The rocky mound where the seventh lap of Sa'i finishes prior to tahallul. Facing southwest toward the Kaaba for du'a at the end of each arrival from Safa. Lap 7 concludes here.",
+            "ms": "Batuan bukit di mana pusingan ketujuh sa'ie berakhir sebelum bercukur atau bertahalul. Menghadap ke arah barat daya ke Kaabah untuk berdoa di setiap penghujung pusingan. Pusingan ketujuh tamat di sini.",
+            "ml": "സഈയുടെ ഏഴാം ഘട്ടം ഇവിടെ അവസാനിക്കുന്നു. ഇവിടെ വെച്ച് കഅ്ബയിലേക്ക് തിരിഞ്ഞു ദുആ ചെയ്യൽ സുന്നത്താണ്.",
+            "ta": "சயீயின் ஏழாவது சுற்று நிறைவடைந்து தஹல்லுல் செய்யும் மலை. ஒவ்வொரு சுற்றின் முடிவிலும் தென்மேற்கு திசையிலுள்ள கஅபாவை நோக்கி துஆ செய்யும் இடம். ஏழாவது சுற்று இங்கு நிறவடைகிறது."
+          },
+          "details": {
+            "en": "The rocky mound where the seventh lap of Sa'i finishes prior to tahallul. Facing southwest toward the Kaaba for du'a at the end of each arrival from Safa. Lap 7 concludes here.",
+            "ms": "Batuan bukit di mana pusingan ketujuh sa'ie berakhir sebelum bercukur atau bertahalul. Menghadap ke arah barat daya ke Kaabah untuk berdoa di setiap penghujung pusingan. Pusingan ketujuh tamat di sini.",
+            "ml": "സഈയുടെ ഏഴാം ഘട്ടം ഇവിടെ അവസാനിക്കുന്നു. ഇവിടെ വെച്ച് കഅ്ബയിലേക്ക് തിരിഞ്ഞു ദുആ ചെയ്യൽ സുന്നത്താണ്.",
+            "ta": "சயீயின் ஏழாவது சுற்று நிறைவடைந்து தஹல்லுல் செய்யும் மலை. ஒவ்வொரு சுற்றின் முடிவிலும் தென்மேற்கு திசையிலுள்ள கஅபாவை நோக்கி துஆ செய்யும் இடம். ஏழாவது சுற்று இங்கு நிறவடைகிறது."
+          },
+          "coordinates": {
+            "latitude": 21.425052,
+            "longitude": 39.827178
+          },
+          "images": {
+            "thumbnail": "assets/image/locations/jabal_marwah.webp",
+            "gallery": [
+              "assets/image/locations/jabal_marwah.webp"
+            ]
+          }
+        }
+      ]
+    },
     {
       "id": "mataf_kaabah",
       "region": "makkah",
