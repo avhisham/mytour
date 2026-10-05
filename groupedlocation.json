@@ -111,9 +111,9 @@
             "longitude": 39.61175
           },
           "images": {
-            "thumbnail": "assets/image/locations/battlefield_uhud.webp",
+            "thumbnail": "image/battlefield_uhud.webp",
             "gallery": [
-              "assets/image/locations/battlefield_uhud.webp"
+              "image/battlefield_uhud.webp"
             ]
           }
         },
@@ -176,9 +176,9 @@
             "longitude": 39.611893
           },
           "images": {
-            "thumbnail": "assets/image/locations/maqam_shuhada_uhud.webp",
+            "thumbnail": "image/maqam_shuhada_uhud.webp",
             "gallery": [
-              "assets/image/locations/maqam_shuhada_uhud.webp"
+              "image/maqam_shuhada_uhud.webp"
             ]
           }
         },
@@ -264,7 +264,7 @@
             "longitude": 39.826035
           },
           "images": {
-            "thumbnail": "assets/image/locations/gate_abdulaziz.webp",
+            "thumbnail": "image/gate_abdulaziz.webp",
             "gallery": [
               "image/gate_abdulaziz_1791105564997.jpg"
             ]
@@ -295,9 +295,9 @@
             "longitude": 39.826789
           },
           "images": {
-            "thumbnail": "assets/image/locations/kaabah.webp",
+            "thumbnail": "image/kaabah.webp",
             "gallery": [
-              "assets/image/locations/kaabah.webp"
+              "image/kaabah.webp"
             ]
           }
         },
@@ -326,9 +326,9 @@
             "longitude": 39.826314
           },
           "images": {
-            "thumbnail": "assets/image/locations/maqam_ibrahim.webp",
+            "thumbnail": "image/maqam_ibrahim.webp",
             "gallery": [
-              "assets/image/locations/maqam_ibrahim.webp"
+              "image/maqam_ibrahim.webp"
             ]
           }
         },
@@ -357,9 +357,9 @@
             "longitude": 39.82642699659492
           },
           "images": {
-            "thumbnail": "assets/image/locations/zamzam_site.webp",
+            "thumbnail": "image/zamzam_site.webp",
             "gallery": [
-              "assets/image/locations/zamzam_site.webp"
+              "image/zamzam_site.webp"
             ]
           }
         },
@@ -391,9 +391,9 @@
             "longitude": 39.827435
           },
           "images": {
-            "thumbnail": "assets/image/locations/jabal_safa.webp",
+            "thumbnail": "image/jabal_safa.webp",
             "gallery": [
-              "assets/image/locations/jabal_safa.webp"
+              "image/jabal_safa.webp"
             ]
           }
         },
@@ -422,9 +422,9 @@
             "longitude": 39.827178
           },
           "images": {
-            "thumbnail": "assets/image/locations/jabal_marwah.webp",
+            "thumbnail": "image/jabal_marwah.webp",
             "gallery": [
-              "assets/image/locations/jabal_marwah.webp"
+              "image/jabal_marwah.webp"
             ]
           }
         }
@@ -467,9 +467,9 @@
             "ta": "கஅபாவின் கிழக்கு மூலையில் வெள்ளி சட்டத்தில் பதிக்கப்பட்டுள்ளது. ஒவ்வொரு தவாஃபும் இங்கிருந்தே துவங்குகிறது."
           },
           "images": {
-            "thumbnail": "assets/image/locations/hajar_al_aswad.webp",
+            "thumbnail": "image/hajar_al_aswad.webp",
             "gallery": [
-              "assets/image/locations/hajar_al_aswad.webp"
+              "image/hajar_al_aswad.webp"
             ]
           }
         },
@@ -494,9 +494,9 @@
             "ta": "ஹஜருல் அஸ்வத்திற்கும் கஅபாவின் வாசலுக்கும் இடைப்பட்ட இரண்டு மீட்டர் சுவர் பகுதி முல்தஸம் எனப்படும்."
           },
           "images": {
-            "thumbnail": "assets/image/locations/bab_al_kaaba.webp",
+            "thumbnail": "image/bab_al_kaaba.webp",
             "gallery": [
-              "assets/image/locations/bab_al_kaaba.webp"
+              "image/bab_al_kaaba.webp"
             ]
           }
         },
@@ -521,9 +521,9 @@
             "ta": "ஹதீமுக்குள் தொழுவது கஅபாவிற்குள் தொழுவதற்குச் சமமாகும். இதன் மேல் தங்க மழைநீர் தாரை உள்ளது."
           },
           "images": {
-            "thumbnail": "assets/image/locations/hijr_ismail.webp",
+            "thumbnail": "image/hijr_ismail.webp",
             "gallery": [
-              "assets/image/locations/hijr_ismail.webp"
+              "image/hijr_ismail.webp"
             ]
           }
         },
@@ -548,9 +548,9 @@
             "ta": "கஅபாவை உயர்த்தியபோது இப்ராஹீம் நபி நின்ற கல். தவாஃபிற்குப் பின் இதன் பின்னால் இரண்டு ரக்அத்கள் தொழுவது சுன்னத்."
           },
           "images": {
-            "thumbnail": "assets/image/locations/maqam_ibrahim.webp",
+            "thumbnail": "image/maqam_ibrahim.webp",
             "gallery": [
-              "assets/image/locations/maqam_ibrahim.webp"
+              "image/maqam_ibrahim.webp"
             ]
           }
         },
@@ -575,9 +575,9 @@
             "ta": "முன்பு படிக்கட்டுகள் வழியாக செல்ல முடிந்தது, இப்போது கூட்ட நெரிசலைத் தவிர்க்க தரைக்கீழ் அமைப்பாக மாற்றப்பட்டுள்ளது."
           },
           "images": {
-            "thumbnail": "assets/image/locations/zamzam_site.webp",
+            "thumbnail": "image/zamzam_site.webp",
             "gallery": [
-              "assets/image/locations/zamzam_site.webp"
+              "image/zamzam_site.webp"
             ]
           }
         },
@@ -602,9 +602,9 @@
             "ta": "குஸைய் இப்னு கிலாப் என்பவரால் கட்டப்பட்டது. ஹிஜ்ரத்திற்கு முன் நபிகளாருக்கு எதிராக குறைஷிகள் திட்டம் தீட்டிய இடம்."
           },
           "images": {
-            "thumbnail": "assets/image/locations/dar_an_nadwah_site.webp",
+            "thumbnail": "image/dar_an_nadwah_site.webp",
             "gallery": [
-              "assets/image/locations/dar_an_nadwah_site.webp"
+              "image/dar_an_nadwah_site.webp"
             ]
           }
         },
@@ -629,9 +629,9 @@
             "ta": "பாப் அலி வாயிலுக்கு அருகில் அமைந்திருந்தது. ஜிப்ரீல் (அலை) அவர்கள் புராக் வாகனத்தைக் கொண்டுவந்து நபிகளை அழைத்துச் சென்ற இடம்."
           },
           "images": {
-            "thumbnail": "assets/image/locations/umm_hani_house_site.webp",
+            "thumbnail": "image/umm_hani_house_site.webp",
             "gallery": [
-              "assets/image/locations/umm_hani_house_site.webp"
+              "image/umm_hani_house_site.webp"
             ]
           }
         }
@@ -674,9 +674,9 @@
             "ta": "நபிகள் நாயகம் பகிரங்க பிரச்சாரத்தை தொடங்கிய மலை. சயீயின் 7 சுற்றுகள் இங்கிருந்தே துவங்கும்."
           },
           "images": {
-            "thumbnail": "assets/image/locations/jabal_safa.webp",
+            "thumbnail": "image/jabal_safa.webp",
             "gallery": [
-              "assets/image/locations/jabal_safa.webp"
+              "image/jabal_safa.webp"
             ]
           }
         },
@@ -701,9 +701,9 @@
             "ta": "ஒவ்வொரு சுற்றின் முடிவிலும் தென்மேற்கு திசையிலுள்ள கஅபாவை நோக்கி துஆ செய்யும் இடம். ஏழாவது சுற்று இங்கு நிறவடைகிறது."
           },
           "images": {
-            "thumbnail": "assets/image/locations/jabal_marwah.webp",
+            "thumbnail": "image/jabal_marwah.webp",
             "gallery": [
-              "assets/image/locations/jabal_marwah.webp"
+              "image/jabal_marwah.webp"
             ]
           }
         },
@@ -728,9 +728,9 @@
             "ta": "இஸ்மாயீல் நபியை கவனித்தவாறு அன்னை ஹாஜர் வேகமாக ஓடிய பள்ளத்தாக்கு பகுதி."
           },
           "images": {
-            "thumbnail": "assets/image/locations/milayn_al_akhdarayn.webp",
+            "thumbnail": "image/milayn_al_akhdarayn.webp",
             "gallery": [
-              "assets/image/locations/milayn_al_akhdarayn.webp"
+              "image/milayn_al_akhdarayn.webp"
             ]
           }
         },
@@ -755,9 +755,9 @@
             "ta": "ஹிஜ்ரி 8-ல் மக்கா வெற்றியின் போது நபிகளார் அமைதியாக நுழைந்த வாசல்."
           },
           "images": {
-            "thumbnail": "assets/image/locations/bab_al_fatah.webp",
+            "thumbnail": "image/bab_al_fatah.webp",
             "gallery": [
-              "assets/image/locations/bab_al_fatah.webp"
+              "image/bab_al_fatah.webp"
             ]
           }
         }
@@ -800,9 +800,9 @@
             "ta": "ஷியப் அபீதாலிப் பகுதியில் அமைந்தது. தற்போது மக்கா பொது நூலகமாக உள்ளது."
           },
           "images": {
-            "thumbnail": "assets/image/locations/bayt_al_mawlid.webp",
+            "thumbnail": "image/bayt_al_mawlid.webp",
             "gallery": [
-              "assets/image/locations/bayt_al_mawlid.webp"
+              "image/bayt_al_mawlid.webp"
             ]
           }
         },
@@ -827,9 +827,9 @@
             "ta": "மர்வா பிளாசா பகுதியில் அமைந்திருந்தது. பல ஆரம்பகால வஹீகள் இறங்கிய இடம்."
           },
           "images": {
-            "thumbnail": "assets/image/locations/khadijah_house_site.webp",
+            "thumbnail": "image/khadijah_house_site.webp",
             "gallery": [
-              "assets/image/locations/khadijah_house_site.webp"
+              "image/khadijah_house_site.webp"
             ]
           }
         },
@@ -854,9 +854,9 @@
             "ta": "ஜபல் உமர் திட்டத்திற்கு அருகில் அமைந்தது. இதன் பின்வழியாக சவ்ர் குகைக்குப் புறப்பட்டனர்."
           },
           "images": {
-            "thumbnail": "assets/image/locations/abu_bakr_house_site.webp",
+            "thumbnail": "image/abu_bakr_house_site.webp",
             "gallery": [
-              "assets/image/locations/abu_bakr_house_site.webp"
+              "image/abu_bakr_house_site.webp"
             ]
           }
         },
@@ -881,9 +881,9 @@
             "ta": "ஜபல் உமரின் மேற்கு அடிவாரம். ஈமானை கைவிட மறுத்ததற்காக அபூஜஹ்லால் ஸுமய்யா கொல்லப்பட்ட இடம்."
           },
           "images": {
-            "thumbnail": "assets/image/locations/al_shubaikah_district.webp",
+            "thumbnail": "image/al_shubaikah_district.webp",
             "gallery": [
-              "assets/image/locations/al_shubaikah_district.webp"
+              "image/al_shubaikah_district.webp"
             ]
           }
         },
@@ -908,9 +908,9 @@
             "ta": "அல்-ஹஜூன் பகுதியில் அமைந்துள்ளது. அஸ்மா பின்த் அபீபக்கர் ஆகியோரும் இங்கு நல்லடக்கம் செய்யப்பட்டுள்ளனர்."
           },
           "images": {
-            "thumbnail": "assets/image/locations/jannat_al_mualla.webp",
+            "thumbnail": "image/jannat_al_mualla.webp",
             "gallery": [
-              "assets/image/locations/jannat_al_mualla.webp"
+              "image/jannat_al_mualla.webp"
             ]
           }
         },
@@ -935,9 +935,9 @@
             "ta": "ஜன்னத்துல் முஅல்லா அருகில் உள்ளது. இங்கு தான் சூரத்துல் ஜின் வசனங்கள் அருளப்பட்டன."
           },
           "images": {
-            "thumbnail": "assets/image/locations/masjid_al_jinn.webp",
+            "thumbnail": "image/masjid_al_jinn.webp",
             "gallery": [
-              "assets/image/locations/masjid_al_jinn.webp"
+              "image/masjid_al_jinn.webp"
             ]
           }
         },
@@ -962,9 +962,9 @@
             "ta": "மஸ்ஜிதுல் ஜின்க்கு எதிரில் உள்ளது. குறைஷிகள் அத்தாட்சி கேட்டபோது நிகழ்ந்த அற்புதம்."
           },
           "images": {
-            "thumbnail": "assets/image/locations/masjid_ash_shajarah.webp",
+            "thumbnail": "image/masjid_ash_shajarah.webp",
             "gallery": [
-              "assets/image/locations/masjid_ash_shajarah.webp"
+              "image/masjid_ash_shajarah.webp"
             ]
           }
         },
@@ -989,9 +989,9 @@
             "ta": "ஹஜூன் அருகில் உள்ள இடம். நபிகளார் படைகளை வழிநடத்திய கட்டளை தளம்."
           },
           "images": {
-            "thumbnail": "assets/image/locations/masjid_ar_rayah.webp",
+            "thumbnail": "image/masjid_ar_rayah.webp",
             "gallery": [
-              "assets/image/locations/masjid_ar_rayah.webp"
+              "image/masjid_ar_rayah.webp"
             ]
           }
         },
@@ -1016,9 +1016,9 @@
             "ta": "தற்கால ஜர்வால் பகுதியில் உள்ளது. மக்கா வெற்றியின் போதும் விடைபெறும் ஹஜ்ஜின் போதும் நபிகளார் இங்கு தங்கினார்."
           },
           "images": {
-            "thumbnail": "assets/image/locations/dhi_tuwa_valley.webp",
+            "thumbnail": "image/dhi_tuwa_valley.webp",
             "gallery": [
-              "assets/image/locations/dhi_tuwa_valley.webp"
+              "image/dhi_tuwa_valley.webp"
             ]
           }
         }
@@ -1061,9 +1061,9 @@
             "ta": "மக்காவின் வடகிழக்கில் உள்ளது. நபிகள் நாயகம் தியானம் செய்தபோது முதல் வஹீ அருளப்பட்டது."
           },
           "images": {
-            "thumbnail": "assets/image/locations/jabal_an_nur.webp",
+            "thumbnail": "image/jabal_an_nur.webp",
             "gallery": [
-              "assets/image/locations/jabal_an_nur.webp"
+              "image/jabal_an_nur.webp"
             ]
           }
         },
@@ -1088,9 +1088,9 @@
             "ta": "சூரா தவ்பாவில் கூறப்பட்டுள்ள குகை. சிலந்தி வலையாலும் புறாக்களாலும் அல்லாஹ் அவர்களைப் பாதுகாத்தான்."
           },
           "images": {
-            "thumbnail": "assets/image/locations/jabal_thawr.webp",
+            "thumbnail": "image/jabal_thawr.webp",
             "gallery": [
-              "assets/image/locations/jabal_thawr.webp"
+              "image/jabal_thawr.webp"
             ]
           }
         },
@@ -1115,9 +1115,9 @@
             "ta": "பூமியில் படைக்கப்பட்ட முதல் மலையாகக் கருதப்படுகிறது. நூஹ் நபியின் காலத்தில் கருப்புக்கல் இங்கு பாதுகாக்கப்பட்டது."
           },
           "images": {
-            "thumbnail": "assets/image/locations/jabal_abu_qubays.webp",
+            "thumbnail": "image/jabal_abu_qubays.webp",
             "gallery": [
-              "assets/image/locations/jabal_abu_qubays.webp"
+              "image/jabal_abu_qubays.webp"
             ]
           }
         },
@@ -1142,9 +1142,9 @@
             "ta": "பண்டைய மக்காவின் மேற்கு எல்லையாக விளங்கியது; போர் ஆயுதங்களின் சத்தத்தால் இப்பெயர் பெற்றது."
           },
           "images": {
-            "thumbnail": "assets/image/locations/jabal_quayqian.webp",
+            "thumbnail": "image/jabal_quayqian.webp",
             "gallery": [
-              "assets/image/locations/jabal_quayqian.webp"
+              "image/jabal_quayqian.webp"
             ]
           }
         }
@@ -1189,9 +1189,9 @@
             "ta": "மினா மலையடிவாரத்தில் அமைந்துள்ளது. விடைபெறும் ஹஜ்ஜின் போது நபிகளார் இங்கு தங்கி உரையாற்றினார்."
           },
           "images": {
-            "thumbnail": "assets/image/locations/masjid_al_khayf.webp",
+            "thumbnail": "image/masjid_al_khayf.webp",
             "gallery": [
-              "assets/image/locations/masjid_al_khayf.webp"
+              "image/masjid_al_khayf.webp"
             ]
           }
         },
@@ -1216,9 +1216,9 @@
             "ta": "பள்ளியின் முன்பகுதி வாதி உரனாவிலும், பின்பகுதி அரஃபா எல்லைக்குள்ளும் அமைந்துள்ளது."
           },
           "images": {
-            "thumbnail": "assets/image/locations/masjid_namirah.webp",
+            "thumbnail": "image/masjid_namirah.webp",
             "gallery": [
-              "assets/image/locations/masjid_namirah.webp"
+              "image/masjid_namirah.webp"
             ]
           }
         },
@@ -1243,9 +1243,9 @@
             "ta": "உச்சியில் வெள்ளை தூண் உள்ளது. அரஃபா மைதானத்தின் எந்தப் பகுதியிலும் வுகூஃப் நிறைவேற்றலாம்."
           },
           "images": {
-            "thumbnail": "assets/image/locations/jabal_ar_rahmah.webp",
+            "thumbnail": "image/jabal_ar_rahmah.webp",
             "gallery": [
-              "assets/image/locations/jabal_ar_rahmah.webp"
+              "image/jabal_ar_rahmah.webp"
             ]
           }
         },
@@ -1270,9 +1270,9 @@
             "ta": "தாயிஃப் மலைகளிலிருந்து மக்கா வரை நீர் கொண்டு வந்த வரலாற்று சிறப்புமிக்க கால்வாய் எச்சங்கள்."
           },
           "images": {
-            "thumbnail": "assets/image/locations/ain_zubaydah_ruins.webp",
+            "thumbnail": "image/ain_zubaydah_ruins.webp",
             "gallery": [
-              "assets/image/locations/ain_zubaydah_ruins.webp"
+              "image/ain_zubaydah_ruins.webp"
             ]
           }
         },
@@ -1297,9 +1297,9 @@
             "ta": "அரஃபா நின்ற பின் ஹாஜிகள் இரவு தங்கி கல் சேகரித்து தொழும் முஸ்தலிஃபாவின் பிரதான பள்ளி."
           },
           "images": {
-            "thumbnail": "assets/image/locations/masjid_mashar_al_haram.webp",
+            "thumbnail": "image/masjid_mashar_al_haram.webp",
             "gallery": [
-              "assets/image/locations/masjid_mashar_al_haram.webp"
+              "image/masjid_mashar_al_haram.webp"
             ]
           }
         },
@@ -1324,9 +1324,9 @@
             "ta": "அல்லாஹ்வின் தண்டனை இறங்கிய இடம் என்பதால், இங்கு செல்லும் போது வேகத்தை அதிகரிப்பது சுன்னத்."
           },
           "images": {
-            "thumbnail": "assets/image/locations/wadi_muhassir.webp",
+            "thumbnail": "image/wadi_muhassir.webp",
             "gallery": [
-              "assets/image/locations/wadi_muhassir.webp"
+              "image/wadi_muhassir.webp"
             ]
           }
         },
@@ -1352,9 +1352,9 @@
             "ta": "மினாவில் மஸ்ஜித் அல்-கைஃபிற்கு மிக அருகில் உள்ள முதல் சிறிய ஜமரா."
           },
           "images": {
-            "thumbnail": "assets/image/locations/jamarah_ula.webp",
+            "thumbnail": "image/jamarah_ula.webp",
             "gallery": [
-              "assets/image/locations/jamarah_ula.webp"
+              "image/jamarah_ula.webp"
             ]
           }
         },
@@ -1380,9 +1380,9 @@
             "ta": "ஜம்ரத்துல் ஊலா மற்றும் ஜம்ரத்துல் அகபாவிற்கு இடைப்பட்ட இரண்டாவது நடுத்தர ஜமரா."
           },
           "images": {
-            "thumbnail": "assets/image/locations/jamarah_wusta.webp",
+            "thumbnail": "image/jamarah_wusta.webp",
             "gallery": [
-              "assets/image/locations/jamarah_wusta.webp"
+              "image/jamarah_wusta.webp"
             ]
           }
         },
@@ -1408,9 +1408,9 @@
             "ta": "மக்காவிற்கு மிக அருகில் உள்ள மூன்றாவது பெரிய ஜமரா."
           },
           "images": {
-            "thumbnail": "assets/image/locations/jamarah_aqabah.webp",
+            "thumbnail": "image/jamarah_aqabah.webp",
             "gallery": [
-              "assets/image/locations/jamarah_aqabah.webp"
+              "image/jamarah_aqabah.webp"
             ]
           }
         },
@@ -1435,9 +1435,9 @@
             "ta": "அப்பாசிய கலீபா அல்-மன்சூரால் கட்டப்பட்டது. இஸ்லாமிய வரலாற்றில் திருப்புமுனையான உடன்படிக்கை தளம்."
           },
           "images": {
-            "thumbnail": "assets/image/locations/masjid_al_bayah.webp",
+            "thumbnail": "image/masjid_al_bayah.webp",
             "gallery": [
-              "assets/image/locations/masjid_al_bayah.webp"
+              "image/masjid_al_bayah.webp"
             ]
           }
         }
@@ -1485,9 +1485,9 @@
             "ta": "மதீனா சாலையில் மஸ்ஜித் ஆயிஷாவுக்கு அருகில் அமைந்துள்ள வடக்கு ஹராம் எல்லை அடையாளம். கஅபாவிலிருந்து சுமார் 6.5 கி.மீ தொலைவில் உள்ளது."
           },
           "images": {
-            "thumbnail": "assets/image/locations/makkah.webp",
+            "thumbnail": "image/makkah.webp",
             "gallery": [
-              "assets/image/locations/makkah.webp"
+              "image/makkah.webp"
             ]
           }
         },
@@ -1515,9 +1515,9 @@
             "ta": "ஜிஃரானா சாலையில் அமைந்துள்ள வடகிழக்கு ஹராம் எல்லை அடையாளம்."
           },
           "images": {
-            "thumbnail": "assets/image/locations/makkah.webp",
+            "thumbnail": "image/makkah.webp",
             "gallery": [
-              "assets/image/locations/makkah.webp"
+              "image/makkah.webp"
             ]
           }
         },
@@ -1545,9 +1545,9 @@
             "ta": "தாயிஃப் சாலையில் அல்-ஷராயிஃ பகுதியில் அமைந்துள்ள கிழக்கு ஹராம் எல்லை அடையாளம்."
           },
           "images": {
-            "thumbnail": "assets/image/locations/makkah.webp",
+            "thumbnail": "image/makkah.webp",
             "gallery": [
-              "assets/image/locations/makkah.webp"
+              "image/makkah.webp"
             ]
           }
         },
@@ -1575,9 +1575,9 @@
             "ta": "அரஃபா மைதானத்தையும் புனித ஹரமையும் பிரிக்கும் தென்கிழக்கு எல்லை அடையாளம். மஸ்ஜித் நமிராவின் மையப்பகுதி வழியாக இவ்வெல்லை செல்கிறது."
           },
           "images": {
-            "thumbnail": "assets/image/locations/masjid_namirah.webp",
+            "thumbnail": "image/masjid_namirah.webp",
             "gallery": [
-              "assets/image/locations/masjid_namirah.webp"
+              "image/masjid_namirah.webp"
             ]
           }
         },
@@ -1605,9 +1605,9 @@
             "ta": "யலம்லம் செல்லும் வழியில் இதாஅத் லபன் பகுதியில் அமைந்துள்ள தெற்கு ஹராம் எல்லை அடையாளம்."
           },
           "images": {
-            "thumbnail": "assets/image/locations/makkah.webp",
+            "thumbnail": "image/makkah.webp",
             "gallery": [
-              "assets/image/locations/makkah.webp"
+              "image/makkah.webp"
             ]
           }
         },
@@ -1635,9 +1635,9 @@
             "ta": "பழைய ஜித்தா சாலையில் ஹுதைபிய்யா பகுதியில் அமைந்துள்ள மேற்கு ஹராம் எல்லை அடையாளம்."
           },
           "images": {
-            "thumbnail": "assets/image/locations/makkah.webp",
+            "thumbnail": "image/makkah.webp",
             "gallery": [
-              "assets/image/locations/makkah.webp"
+              "image/makkah.webp"
             ]
           }
         }
@@ -1680,9 +1680,9 @@
             "ta": "இப்னு அப்பாஸ் மகாமுடன் தாயிஃப் போரில் ஷஹீதான சஹாபாக்களின் அடக்கஸ்தலமும் இங்குள்ளது."
           },
           "images": {
-            "thumbnail": "assets/image/locations/masjid_ibn_abbas.webp",
+            "thumbnail": "image/masjid_ibn_abbas.webp",
             "gallery": [
-              "assets/image/locations/masjid_ibn_abbas.webp"
+              "image/masjid_ibn_abbas.webp"
             ]
           }
         },
@@ -1707,9 +1707,9 @@
             "ta": "அல்-மத்னா பள்ளத்தாக்கில் உள்ளது. தாயிஃப் மக்களின் தாக்குதலுக்குப் பின் நபிகள் இளைப்பாறிய தோட்டம்."
           },
           "images": {
-            "thumbnail": "assets/image/locations/masjid_addas.webp",
+            "thumbnail": "image/masjid_addas.webp",
             "gallery": [
-              "assets/image/locations/masjid_addas.webp"
+              "image/masjid_addas.webp"
             ]
           }
         },
@@ -1734,9 +1734,9 @@
             "ta": "அல்-மத்னாவில் அமைந்துள்ளது. நபிகளாரின் தாயிஃப் பிரச்சார சோதனைகளை நினைவூட்டும் இடம்."
           },
           "images": {
-            "thumbnail": "assets/image/locations/masjid_al_kouk.webp",
+            "thumbnail": "image/masjid_al_kouk.webp",
             "gallery": [
-              "assets/image/locations/masjid_al_kouk.webp"
+              "image/masjid_al_kouk.webp"
             ]
           }
         }
@@ -1781,9 +1781,9 @@
             "ta": "பள்ளத்தாக்கை நோக்கிய மேடான பகுதி. நபிகளார் துஆ செய்த போது அபூபக்கர் (ரலி) காவல் நின்ற இடம்."
           },
           "images": {
-            "thumbnail": "assets/image/locations/masjid_al_areesh.webp",
+            "thumbnail": "image/masjid_al_areesh.webp",
             "gallery": [
-              "assets/image/locations/masjid_al_areesh.webp"
+              "image/masjid_al_areesh.webp"
             ]
           }
         },
@@ -1808,9 +1808,9 @@
             "ta": "உபைதா இப்னுல் ஹாரிஸ் உள்ளிட்ட 14 தியாகிகளின் பெயர்கள் முகப்பில் பொறிக்கப்பட்டுள்ளன."
           },
           "images": {
-            "thumbnail": "assets/image/locations/shuhada_badr_graveyard.webp",
+            "thumbnail": "image/shuhada_badr_graveyard.webp",
             "gallery": [
-              "assets/image/locations/shuhada_badr_graveyard.webp"
+              "image/shuhada_badr_graveyard.webp"
             ]
           }
         },
@@ -1835,9 +1835,9 @@
             "ta": "சூரா அன்பாலில் குறிப்பிடப்பட்ட தளம். இறைவனின் உதவி வானவர்கள் வடிவில் இறங்கிய இடம்."
           },
           "images": {
-            "thumbnail": "assets/image/locations/jabal_al_malaikah.webp",
+            "thumbnail": "image/jabal_al_malaikah.webp",
             "gallery": [
-              "assets/image/locations/jabal_al_malaikah.webp"
+              "image/jabal_al_malaikah.webp"
             ]
           }
         },
@@ -1862,9 +1862,9 @@
             "ta": "தற்போது சமவெளி நிலமாக உள்ளது. வரலாற்று சிறப்புமிக்க பழைய கிணறுகள் மூடப்பட்டுவிட்டன."
           },
           "images": {
-            "thumbnail": "assets/image/locations/bir_badr_valley.webp",
+            "thumbnail": "image/bir_badr_valley.webp",
             "gallery": [
-              "assets/image/locations/bir_badr_valley.webp"
+              "image/bir_badr_valley.webp"
             ]
           }
         }
@@ -1907,9 +1907,9 @@
             "ta": "மதீனாவிலிருந்து 80 கிமீ தொலைவில் உள்ளது. பத்ரு செல்லும் வழியில் முஸ்லிம் படைகள் நீர் அருந்திய இடம்."
           },
           "images": {
-            "thumbnail": "assets/image/locations/bir_rawha_well.webp",
+            "thumbnail": "image/bir_rawha_well.webp",
             "gallery": [
-              "assets/image/locations/bir_rawha_well.webp"
+              "image/bir_rawha_well.webp"
             ]
           }
         },
@@ -1934,9 +1934,9 @@
             "ta": "எழுபது நபிமார்கள் ஹஜ்ஜிற்காக இவ்வழியாக நடந்து சென்றதாக ஹதீஸ்களில் கூறப்பட்டுள்ளது."
           },
           "images": {
-            "thumbnail": "assets/image/locations/masjid_ar_rawha.webp",
+            "thumbnail": "image/masjid_ar_rawha.webp",
             "gallery": [
-              "assets/image/locations/masjid_ar_rawha.webp"
+              "image/masjid_ar_rawha.webp"
             ]
           }
         }
@@ -1979,9 +1979,9 @@
             "ta": "ஹாஜிகள் தெற்குப் பாதையில் நின்று ஸலாம் கூறும் தங்க ஜன்னல் அமைந்த பகுதி."
           },
           "images": {
-            "thumbnail": "assets/image/locations/hujrah_sharifah.webp",
+            "thumbnail": "image/hujrah_sharifah.webp",
             "gallery": [
-              "assets/image/locations/hujrah_sharifah.webp"
+              "image/hujrah_sharifah.webp"
             ]
           }
         },
@@ -2006,9 +2006,9 @@
             "ta": "நபிகளார் நின்ற மர மிம்பரின் அதே இடத்தில் தற்போதைய உஸ்மானிய சலவைக்கல் மிம்பர் உள்ளது."
           },
           "images": {
-            "thumbnail": "assets/image/locations/minbar_nabawi.webp",
+            "thumbnail": "image/minbar_nabawi.webp",
             "gallery": [
-              "assets/image/locations/minbar_nabawi.webp"
+              "image/minbar_nabawi.webp"
             ]
           }
         },
@@ -2033,9 +2033,9 @@
             "ta": "இங்கு தொழுவதன் சிறப்பை மக்கள் அறிந்தால் சீட்டுப் போட்டு போட்டியிடுவார்கள் என ஆயிஷா கூறிய தூண்."
           },
           "images": {
-            "thumbnail": "assets/image/locations/ustuwanah_aisha.webp",
+            "thumbnail": "image/ustuwanah_aisha.webp",
             "gallery": [
-              "assets/image/locations/ustuwanah_aisha.webp"
+              "image/ustuwanah_aisha.webp"
             ]
           }
         },
@@ -2060,9 +2060,9 @@
             "ta": "பனூ குறைளா விஷயத்தில் ஏற்பட்ட தவறால் தன்னை கட்டிக்கொண்டார்; மன்னிப்பு வசனம் வந்த பின் நபிகளார் விடுவித்தார்."
           },
           "images": {
-            "thumbnail": "assets/image/locations/ustuwanah_tawbah.webp",
+            "thumbnail": "image/ustuwanah_tawbah.webp",
             "gallery": [
-              "assets/image/locations/ustuwanah_tawbah.webp"
+              "image/ustuwanah_tawbah.webp"
             ]
           }
         },
@@ -2087,9 +2087,9 @@
             "ta": "மிஹ்ராபுக்கு வலதுபுறம் உள்ளது. நபிகளார் இறங்கி வந்து கட்டியணைத்து அதை அமைதிப்படுத்தினார்."
           },
           "images": {
-            "thumbnail": "assets/image/locations/ustuwanah_hannanah.webp",
+            "thumbnail": "image/ustuwanah_hannanah.webp",
             "gallery": [
-              "assets/image/locations/ustuwanah_hannanah.webp"
+              "image/ustuwanah_hannanah.webp"
             ]
           }
         },
@@ -2114,9 +2114,9 @@
             "ta": "அல்லாஹ் மக்களை விட்டும் உம்மை பாதுகாப்பான் என்ற வசனம் இறங்கியதும் காவல் நிறுத்தப்பட்டது."
           },
           "images": {
-            "thumbnail": "assets/image/locations/ustuwanah_ali_haras.webp",
+            "thumbnail": "image/ustuwanah_ali_haras.webp",
             "gallery": [
-              "assets/image/locations/ustuwanah_ali_haras.webp"
+              "image/ustuwanah_ali_haras.webp"
             ]
           }
         },
@@ -2141,9 +2141,9 @@
             "ta": "அரசியல் மற்றும் தூதரக சந்திப்புகள் நடைபெற்ற முக்கிய தூண்."
           },
           "images": {
-            "thumbnail": "assets/image/locations/ustuwanah_wufud.webp",
+            "thumbnail": "image/ustuwanah_wufud.webp",
             "gallery": [
-              "assets/image/locations/ustuwanah_wufud.webp"
+              "image/ustuwanah_wufud.webp"
             ]
           }
         },
@@ -2168,9 +2168,9 @@
             "ta": "நபிகளாரின் இல்லத்திற்குப் பின்னால் அமைந்துள்ளது. மார்க்கக் கல்விக்காக அர்ப்பணித்தவர்களின் இல்லம்."
           },
           "images": {
-            "thumbnail": "assets/image/locations/al_suffah_platform.webp",
+            "thumbnail": "image/al_suffah_platform.webp",
             "gallery": [
-              "assets/image/locations/al_suffah_platform.webp"
+              "image/al_suffah_platform.webp"
             ]
           }
         }
@@ -2213,9 +2213,9 @@
             "ta": "உஸ்மான் (ரலி), அன்னை பாத்திமா, மற்றும் நபிகளாரின் மகள்கள் அடக்கம் செய்யப்பட்டுள்ளனர்."
           },
           "images": {
-            "thumbnail": "assets/image/locations/jannat_al_baqi.webp",
+            "thumbnail": "image/jannat_al_baqi.webp",
             "gallery": [
-              "assets/image/locations/jannat_al_baqi.webp"
+              "image/jannat_al_baqi.webp"
             ]
           }
         },
@@ -2240,9 +2240,9 @@
             "ta": "பாப் அஸ்ஸலாமிற்கு தென்மேற்கில் உள்ளது. நஜ்ஜாஷி மன்னருக்கு நபிகளார் மறைவான ஜனாஸா தொழுத இடம்."
           },
           "images": {
-            "thumbnail": "assets/image/locations/masjid_al_ghamama.webp",
+            "thumbnail": "image/masjid_al_ghamama.webp",
             "gallery": [
-              "assets/image/locations/masjid_al_ghamama.webp"
+              "image/masjid_al_ghamama.webp"
             ]
           }
         },
@@ -2267,9 +2267,9 @@
             "ta": "மஸ்ஜிது நபவியின் வடமேற்கில் தோட்டம் போன்ற சூழலில் பாதுகாக்கப்படுகிறது."
           },
           "images": {
-            "thumbnail": "assets/image/locations/saqifah_bani_saidah.webp",
+            "thumbnail": "image/saqifah_bani_saidah.webp",
             "gallery": [
-              "assets/image/locations/saqifah_bani_saidah.webp"
+              "image/saqifah_bani_saidah.webp"
             ]
           }
         }
@@ -2312,9 +2312,9 @@
             "ta": "கட்டளையை மீறி வில்லாளிகள் மலையிலிருந்து இறங்கியதால் போரின் போக்கு மாறிய இடம்."
           },
           "images": {
-            "thumbnail": "assets/image/locations/jabal_ar_rumat.webp",
+            "thumbnail": "image/jabal_ar_rumat.webp",
             "gallery": [
-              "assets/image/locations/jabal_ar_rumat.webp"
+              "image/jabal_ar_rumat.webp"
             ]
           }
         },
@@ -2339,9 +2339,9 @@
             "ta": "குளிப்பாட்டப்படாமல் இரத்தக் கறைகளுடனேயே நல்லடக்கம் செய்யப்பட்ட உன்னத தியாகிகள்."
           },
           "images": {
-            "thumbnail": "assets/image/locations/maqam_shuhada_uhud.webp",
+            "thumbnail": "image/maqam_shuhada_uhud.webp",
             "gallery": [
-              "assets/image/locations/maqam_shuhada_uhud.webp"
+              "image/maqam_shuhada_uhud.webp"
             ]
           }
         },
@@ -2366,9 +2366,9 @@
             "ta": "அன்னை பாத்திமா பாயைச் சுட்டு சாம்பலைக் கொண்டு நபிகளாரின் காயத்திற்கு மருந்திட்ட இடம்."
           },
           "images": {
-            "thumbnail": "assets/image/locations/ghar_uhud.webp",
+            "thumbnail": "image/ghar_uhud.webp",
             "gallery": [
-              "assets/image/locations/ghar_uhud.webp"
+              "image/ghar_uhud.webp"
             ]
           }
         },
@@ -2393,9 +2393,9 @@
             "ta": "மலையிடுக்கில் அமைந்துள்ளது. காயமுற்ற நிலையிலும் தொழுகையை விடாத நபியின் தியாக தளம்."
           },
           "images": {
-            "thumbnail": "assets/image/locations/masjid_al_fasah.webp",
+            "thumbnail": "image/masjid_al_fasah.webp",
             "gallery": [
-              "assets/image/locations/masjid_al_fasah.webp"
+              "image/masjid_al_fasah.webp"
             ]
           }
         }
@@ -2438,9 +2438,9 @@
             "ta": "தக்வாவின் அடிப்படையில் கட்டப்பட்டது. நபிகளார் ஒவ்வொரு சனிக்கிழமையும் இங்கு வருவது வழக்கம்."
           },
           "images": {
-            "thumbnail": "assets/image/locations/masjid_quba.webp",
+            "thumbnail": "image/masjid_quba.webp",
             "gallery": [
-              "assets/image/locations/masjid_quba.webp"
+              "image/masjid_quba.webp"
             ]
           }
         },
@@ -2465,9 +2465,9 @@
             "ta": "மூன்று கலீபாக்களுக்கு சொர்க்க நற்செய்தி கூறப்பட்ட இடம். தற்போது குபா பிளாசாவில் உள்ளது."
           },
           "images": {
-            "thumbnail": "assets/image/locations/bir_aris_khatam.webp",
+            "thumbnail": "image/bir_aris_khatam.webp",
             "gallery": [
-              "assets/image/locations/bir_aris_khatam.webp"
+              "image/bir_aris_khatam.webp"
             ]
           }
         },
@@ -2492,9 +2492,9 @@
             "ta": "குபா பள்ளிக்கு அருகில் அமைந்தது. அலி (ரலி) வரும் வரை நபிகளார் இங்கு தங்கியிருந்தார்."
           },
           "images": {
-            "thumbnail": "assets/image/locations/house_kulthum_hadm.webp",
+            "thumbnail": "image/house_kulthum_hadm.webp",
             "gallery": [
-              "assets/image/locations/house_kulthum_hadm.webp"
+              "image/house_kulthum_hadm.webp"
             ]
           }
         },
@@ -2519,9 +2519,9 @@
             "ta": "பகல் நேரங்களில் நபிகளார் போதனைகள் வழங்கி தோழர்களை சந்தித்த இல்லம்."
           },
           "images": {
-            "thumbnail": "assets/image/locations/house_sad_khaythamah.webp",
+            "thumbnail": "image/house_sad_khaythamah.webp",
             "gallery": [
-              "assets/image/locations/house_sad_khaythamah.webp"
+              "image/house_sad_khaythamah.webp"
             ]
           }
         },
@@ -2546,9 +2546,9 @@
             "ta": "குபாவிலிருந்து மதீனா செல்லும் வழியில் பனூ சாலிம் பகுதியில் முதல் ஜுமுஆ நடைபெற்றது."
           },
           "images": {
-            "thumbnail": "assets/image/locations/masjid_al_jumah.webp",
+            "thumbnail": "image/masjid_al_jumah.webp",
             "gallery": [
-              "assets/image/locations/masjid_al_jumah.webp"
+              "image/masjid_al_jumah.webp"
             ]
           }
         }
@@ -2593,9 +2593,9 @@
             "ta": "நபிகளாரின் துஆவிற்குப் பதிலாக அல்லாஹ் கடும் குளிர்காற்றை அனுப்பி எதிரிகளை விரட்டியடித்தான்."
           },
           "images": {
-            "thumbnail": "assets/image/locations/masjid_al_fath_khandaq.webp",
+            "thumbnail": "image/masjid_al_fath_khandaq.webp",
             "gallery": [
-              "assets/image/locations/masjid_al_fath_khandaq.webp"
+              "image/masjid_al_fath_khandaq.webp"
             ]
           }
         },
@@ -2620,9 +2620,9 @@
             "ta": "மஸ்ஜிதுல் ஃபத்தஹிற்கு சற்று கீழே உள்ளது. போரின் போது ஸல்மான் நிலைநிறுத்தப்பட்ட தளம்."
           },
           "images": {
-            "thumbnail": "assets/image/locations/masjid_salman_farsi.webp",
+            "thumbnail": "image/masjid_salman_farsi.webp",
             "gallery": [
-              "assets/image/locations/masjid_salman_farsi.webp"
+              "image/masjid_salman_farsi.webp"
             ]
           }
         },
@@ -2647,9 +2647,9 @@
             "ta": "பனூ ஸலமா பகுதியில் உள்ளது. தொழுகையில் இருக்கும் போதே சூரா பகராவின் 144-வது வசனம் இறங்கியது."
           },
           "images": {
-            "thumbnail": "assets/image/locations/masjid_al_qiblatayn.webp",
+            "thumbnail": "image/masjid_al_qiblatayn.webp",
             "gallery": [
-              "assets/image/locations/masjid_al_qiblatayn.webp"
+              "image/masjid_al_qiblatayn.webp"
             ]
           }
         },
@@ -2678,9 +2678,9 @@
             "longitude": 39.59497
           },
           "images": {
-            "thumbnail": "assets/image/locations/masjid_umar_khandaq.webp",
+            "thumbnail": "image/masjid_umar_khandaq.webp",
             "gallery": [
-              "assets/image/locations/masjid_umar_khandaq.webp"
+              "image/masjid_umar_khandaq.webp"
             ]
           }
         },
@@ -2709,9 +2709,9 @@
             "longitude": 39.59522
           },
           "images": {
-            "thumbnail": "assets/image/locations/masjid_abu_bakr_khandaq.webp",
+            "thumbnail": "image/masjid_abu_bakr_khandaq.webp",
             "gallery": [
-              "assets/image/locations/masjid_abu_bakr_khandaq.webp"
+              "image/masjid_abu_bakr_khandaq.webp"
             ]
           }
         },
@@ -2740,9 +2740,9 @@
             "longitude": 39.59562
           },
           "images": {
-            "thumbnail": "assets/image/locations/masjid_saad_muadh.webp",
+            "thumbnail": "image/masjid_saad_muadh.webp",
             "gallery": [
-              "assets/image/locations/masjid_saad_muadh.webp"
+              "image/masjid_saad_muadh.webp"
             ]
           }
         }
@@ -2785,9 +2785,9 @@
             "ta": "குபா பள்ளிக்கு வடகிழக்கில் உள்ளது. வரலாற்று பாணியில் அழகாக புதுப்பிக்கப்பட்டுள்ளது."
           },
           "images": {
-            "thumbnail": "assets/image/locations/bir_ghars.webp",
+            "thumbnail": "image/bir_ghars.webp",
             "gallery": [
-              "assets/image/locations/bir_ghars.webp"
+              "image/bir_ghars.webp"
             ]
           }
         },
@@ -2812,9 +2812,9 @@
             "ta": "இஸ்லாமிய வரலாற்றின் முக்கிய வக்ப் சொத்து. இதன் பேரீச்சை தோட்டம் இன்றும் செயல்பட்டு வருகிறது."
           },
           "images": {
-            "thumbnail": "assets/image/locations/bir_ruma_uthman.webp",
+            "thumbnail": "image/bir_ruma_uthman.webp",
             "gallery": [
-              "assets/image/locations/bir_ruma_uthman.webp"
+              "image/bir_ruma_uthman.webp"
             ]
           }
         },
@@ -2839,9 +2839,9 @@
             "ta": "மஸ்ஜிது நபவியின் மன்னர் ஃபஹத் வாசல் அருகே தரைத்தளத்தில் வட்ட வடிவில் குறிக்கப்பட்டுள்ளது."
           },
           "images": {
-            "thumbnail": "assets/image/locations/bir_ha_abu_talha.webp",
+            "thumbnail": "image/bir_ha_abu_talha.webp",
             "gallery": [
-              "assets/image/locations/bir_ha_abu_talha.webp"
+              "image/bir_ha_abu_talha.webp"
             ]
           }
         }
@@ -2884,9 +2884,9 @@
             "ta": "இரட்டை மினாராக்கள் மூலம் அடையாளம் காணக்கூடியது. தெற்குப் பகுதி ஹோட்டல்களிலிருந்து வரும் யாத்ரீகர்களுக்கு முதன்மையான வாசல்."
           },
           "images": {
-            "thumbnail": "assets/Ibadah/img/masjiddoors.webp",
+            "thumbnail": "image/masjiddoors.webp",
             "gallery": [
-              "assets/Ibadah/img/masjiddoors.webp"
+              "image/masjiddoors.webp"
             ]
           }
         },
@@ -2911,10 +2911,10 @@
             "ta": "இரட்டை மினாராக்கள் மூலம் எளிதில் அடையாளம் காணலாம். பல்வேறு தளங்களுக்குச் செல்ல எஸ்கலேட்டர் வசதிகள் உள்ளன."
           },
           "images": {
-            "thumbnail": "assets/image/locations/gate_fahad.webp",
+            "thumbnail": "image/gate_fahad.webp",
             "gallery": [
-              "assets/image/locations/gate_fahad.webp",
-              "assets/Ibadah/img/masjiddoors.webp"
+              "image/gate_fahad.webp",
+              "image/masjiddoors.webp"
             ]
           }
         },
@@ -2939,9 +2939,9 @@
             "ta": "மஸ்ஜிதின் மிக உயரமான வாசல். இரட்டை மினாராக்கள், நவீன எஸ்கலேட்டர்கள் மற்றும் குளிரூட்டப்பட்ட தொழுகைக் கூடங்கள் கொண்டது."
           },
           "images": {
-            "thumbnail": "assets/Ibadah/img/masjiddoors.webp",
+            "thumbnail": "image/masjiddoors.webp",
             "gallery": [
-              "assets/Ibadah/img/masjiddoors.webp"
+              "image/masjiddoors.webp"
             ]
           }
         },
@@ -2966,10 +2966,10 @@
             "ta": "மஸ்ஜித் ஆயிஷாவிலிருந்து வரும் மக்கள் தவாஃப் செய்ய நுழையும் பாரம்பரிய வாசல். இரட்டை மினாராக்கள் மூலம் அடையாளம் காணலாம்."
           },
           "images": {
-            "thumbnail": "assets/image/locations/gate_fahad.webp",
+            "thumbnail": "image/gate_fahad.webp",
             "gallery": [
-              "assets/image/locations/gate_fahad.webp",
-              "assets/Ibadah/img/masjiddoors.webp"
+              "image/gate_fahad.webp",
+              "image/masjiddoors.webp"
             ]
           }
         },
@@ -2994,10 +2994,10 @@
             "ta": "இரட்டை மினாராக்கள் கொண்ட சுன்னத்தான வாசல். நபி ﷺ அவர்கள் நுழைந்த வரலாற்றுச் சிறப்புடையது."
           },
           "images": {
-            "thumbnail": "assets/image/locations/bab_al_salam.webp",
+            "thumbnail": "image/bab_al_salam.webp",
             "gallery": [
-              "assets/image/locations/bab_al_salam.webp",
-              "assets/Ibadah/img/masjiddoors.webp"
+              "image/bab_al_salam.webp",
+              "image/masjiddoors.webp"
             ]
           }
         },
@@ -3022,10 +3022,10 @@
             "ta": "கம்பீரமான இரட்டை மினாராக்கள் கொண்டது. மக்காவின் அமைதியான வெற்றியின் நினைவாக விளங்குகிறது."
           },
           "images": {
-            "thumbnail": "assets/image/locations/bab_al_fatah.webp",
+            "thumbnail": "image/bab_al_fatah.webp",
             "gallery": [
-              "assets/image/locations/bab_al_fatah.webp",
-              "assets/Ibadah/img/masjiddoors.webp"
+              "image/bab_al_fatah.webp",
+              "image/masjiddoors.webp"
             ]
           }
         }
