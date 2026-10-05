@@ -1229,14 +1229,16 @@
     "name": {
       "en": "Bab al-Baqi (Exit Gate to Baqi)",
       "ms": "Pintu Bab al-Baqi",
+      "ta": "பாப் அல்-பகீ வாசல்",
       "ml": "ബാബുൽ ബഖീ വാതിൽ",
-      "ta": "பாப் அல்-பகீ வாசல்"
+      "ar": ""
     },
     "description": {
       "en": "The exit gate following the Salam corridor leading towards the Jannat al-Baqi cemetery.",
       "ms": "Pintu keluar selepas koridor Salam yang menuju ke perkuburan Jannat al-Baqi.",
+      "ta": "ஸலாம் பாதைக்கு பிறகு ஜன்னத்துல் பகீ அடக்கத்தலத்திற்கு செல்லும் வெளியேறும் வாசல்.",
       "ml": "സലാം പാതയ്ക്ക് ശേഷം ജന്നത്തുൽ ബഖീ ഖബർസ്ഥാനിലേക്ക് നയിക്കുന്ന പുറത്തുകടക്കൽ വാതിൽ.",
-      "ta": "ஸலாம் பாதைக்கு பிறகு ஜன்னத்துல் பகீ அடக்கத்தலத்திற்கு செல்லும் வெளியேறும் வாசல்."
+      "ar": ""
     },
     "latitude": 24.46745,
     "longitude": 39.61164,
@@ -1244,12 +1246,22 @@
     "subCategory": "Salam Trail",
     "clusterId": "salam_rasulullah_path",
     "city": "Madinah",
-    "imageUrls": [],
+    "imageUrls": [
+      {
+        "url": "image/bab_al_baqi_1791188925024.webp",
+        "thumbnail": "image/bab_al_baqi_1791188925024.webp",
+        "caption": {
+          "en": "Bab al-Baqi (Exit Gate to Baqi)",
+          "ms": "Pintu Bab al-Baqi",
+          "ar": ""
+        }
+      }
+    ],
     "videoUrls": [],
     "socialLinks": [],
     "cluster_id": "salam_rasulullah_path",
     "sub_category": "Salam Trail",
-    "thumbnail": "assets/image/locations/bab_al_baqi.webp"
+    "thumbnail": "image/bab_al_baqi_1791188925024.webp"
   },
   {
     "id": "jenazah_building",
@@ -1837,14 +1849,16 @@
     "name": {
       "en": "Bab al-Fatah (Gate of Victory)",
       "ms": "Bab al-Fatah (Pintu Kemenangan)",
+      "ta": "பாப் அல்-ஃபத்தஹ் (வெற்றி வாசல்)",
       "ml": "ബാബുൽ ഫത്ഹ് (വിജയ കവാടം)",
-      "ta": "பாப் அல்-ஃபத்தஹ் (வெற்றி வாசல்)"
+      "ar": ""
     },
     "description": {
       "en": "The historic entrance through which the Prophet entered upon the Conquest of Makkah. Situated on the northern face of the mosque. The victorious entry occurred in 8 AH without bloodshed.",
       "ms": "Pintu bersejarah di mana Baginda ﷺ masuk ke Masjidil Haram semasa Fath Makkah. Terletak di bahagian utara masjid. Pintu masuk pembebasan kota Makkah pada 8 Hijrah secara aman tanpa tumpahan darah.",
+      "ta": "மக்கா வெற்றியின் போது நபிகளார் மஸ்ஜிதுல் ஹராமுக்குள் நுழைந்த வரலாற்று வாசல். ஹிஜ்ரி 8-ல் மக்கா வெற்றியின் போது நபிகளார் அமைதியாக நுழைந்த வாசல்.",
       "ml": "മക്കാ ഫത്ഹിൽ നബി ﷺ മസ്ജിദുൽ ഹറാമിലേക്ക് പ്രവേശിച്ച വാതിൽ. മക്ക വിജയ വേളയിൽ നബി ﷺ സൈന്യത്തോടൊപ്പം പ്രവേശിച്ച കവാടം.",
-      "ta": "மக்கா வெற்றியின் போது நபிகளார் மஸ்ஜிதுல் ஹராமுக்குள் நுழைந்த வரலாற்று வாசல். ஹிஜ்ரி 8-ல் மக்கா வெற்றியின் போது நபிகளார் அமைதியாக நுழைந்த வாசல்."
+      "ar": ""
     },
     "latitude": 21.4238,
     "longitude": 39.8265,
@@ -1852,12 +1866,22 @@
     "subCategory": "The Mas'a Gallery & Major Gates",
     "clusterId": "masa_and_gates",
     "city": "Makkah",
-    "imageUrls": [],
+    "imageUrls": [
+      {
+        "url": "image/bab_al_fatah_1791189520068.webp",
+        "thumbnail": "image/bab_al_fatah_1791189520068.webp",
+        "caption": {
+          "en": "Bab al-Fatah (Gate of Victory)",
+          "ms": "Bab al-Fatah (Pintu Kemenangan)",
+          "ar": ""
+        }
+      }
+    ],
     "videoUrls": [],
     "socialLinks": [],
     "cluster_id": "masa_and_gates",
     "sub_category": "The Mas'a Gallery & Major Gates",
-    "thumbnail": "assets/image/locations/bab_al_fatah.webp"
+    "thumbnail": "image/bab_al_fatah_1791189520068.webp"
   },
   {
     "id": "khadijah_house_site",
@@ -1891,39 +1915,53 @@
     "name": {
       "en": "House of Abu Bakr r.a.",
       "ms": "Rumah Abu Bakar r.a.",
+      "ta": "அபூபக்கர் (ரலி) அவர்களின் இல்லம்",
       "ml": "അബൂബക്കർ സിദ്ദീഖ് (റ) വിൻ്റെ വീട്",
-      "ta": "அபூபக்கர் (ரலி) அவர்களின் இல்லம்"
+      "ar": ""
     },
     "description": {
       "en": "The site of the house of the first Caliph, Abu Bakr as-Siddiq r.a., where a mosque now stands integrated into the Makkah Clock Tower complex area.",
       "ms": "Tapak rumah Khalifah pertama, Abu Bakar as-Siddiq r.a., di mana sebuah masjid kini berdiri bersepadu dalam kawasan kompleks Menara Jam Mekah.",
+      "ta": "முதல் கலிபா அபூபக்கர் சித்திக் (ரலி) அவர்களின் இல்லம் இருந்த இடம், தற்போது மக்கா கடிகார கோபுர வளாகத்தில் ஒரு பள்ளிவாசல் உள்ளது.",
       "ml": "ഒന്നാം ഖലീഫ അബൂബക്കർ സിദ്ദീഖ് (റ) വിൻ്റെ വീട് നിന്നിരുന്ന സ്ഥലം. നിലവിൽ മക്ക ക്ലോക്ക് ടവർ കോംപ്ലക്സിന് സമീപം ഇവിടെ ഒരു പള്ളി സ്ഥിതി ചെയ്യുന്നു.",
-      "ta": "முதல் கலிபா அபூபக்கர் சித்திக் (ரலி) அவர்களின் இல்லம் இருந்த இடம், தற்போது மக்கா கடிகார கோபுர வளாகத்தில் ஒரு பள்ளிவாசல் உள்ளது."
+      "ar": ""
     },
     "latitude": 21.4189,
     "longitude": 39.8239,
     "type": "Historical",
     "clusterId": "sirah_makkah_houses",
     "city": "Makkah",
-    "imageUrls": [],
+    "imageUrls": [
+      {
+        "url": "image/abu_bakr_house_site_1791189556721.webp",
+        "thumbnail": "image/abu_bakr_house_site_1791189556721.webp",
+        "caption": {
+          "en": "House of Abu Bakr r.a.",
+          "ms": "Rumah Abu Bakar r.a.",
+          "ar": ""
+        }
+      }
+    ],
     "videoUrls": [],
     "socialLinks": [],
     "cluster_id": "sirah_makkah_houses",
-    "thumbnail": "assets/image/locations/abu_bakr_house.webp"
+    "thumbnail": "image/abu_bakr_house_site_1791189556721.webp"
   },
   {
     "id": "al_shubaikah_district",
     "name": {
       "en": "Al-Shubaikah (Martyrdom of Sumayyah)",
       "ms": "Al-Syubaikah (Tapak Syahid Sayyidatina Sumayyah)",
+      "ta": "அஷ்-ஷுபைகா (ஸுமய்யா ரலி ஷஹீதான இடம்)",
       "ml": "അശ്ശുബൈക (സുമയ്യ ബീവിയുടെ രക്തസാക്ഷിത്വം)",
-      "ta": "அஷ்-ஷுபைகா (ஸுமய்யா ரலி ஷஹீதான இடம்)"
+      "ar": ""
     },
     "description": {
       "en": "The open quarter where Yasir's family endured torture and Sumayyah became Islam's first martyr. Near the western base of Jabal Omar. Abu Jahal fatally speared Sumayyah here for refusing to recant her faith.",
       "ms": "Kawasan lapang di mana keluarga Yasir diseksa dan Sumayyah gugur sebagai syahid pertama Islam. Berhampiran kaki barat Jabal Omar. Abu Jahal merejam dan menikam Sumayyah r.a. kerana enggan murtad.",
+      "ta": "யாசிர் குடும்பத்தினர் சித்திரவதை செய்யப்பட்டு ஸுமய்யா (ரலி) முதல் தியாகியான பகுதி. ஜபல் உமரின் மேற்கு அடிவாரம். ஈமானை கைவிட மறுத்ததற்காக அபூஜஹ்லால் ஸுமய்யா கொல்லப்பட்ட இடம்.",
       "ml": "യാസിർ കുടുംബം പീഡിപ്പിക്കപ്പെടുകയും സുമയ്യ ബീവി ആദ്യത്തെ രക്തസാക്ഷിയാകുകയും ചെയ്ത സ്ഥലം. ജബൽ ഉമറിന്റെ പടിഞ്ഞാറ് ഭാഗം. അബൂജഹൽ സുമയ്യ ബീവിയെ കുത്തിക്കൊലപ്പെടുത്തിയ പ്രദേശം.",
-      "ta": "யாசிர் குடும்பத்தினர் சித்திரவதை செய்யப்பட்டு ஸுமய்யா (ரலி) முதல் தியாகியான பகுதி. ஜபல் உமரின் மேற்கு அடிவாரம். ஈமானை கைவிட மறுத்ததற்காக அபூஜஹ்லால் ஸுமய்யா கொல்லப்பட்ட இடம்."
+      "ar": ""
     },
     "latitude": 21.421,
     "longitude": 39.82,
@@ -1931,12 +1969,22 @@
     "subCategory": "Historic Houses & Early Sirah in Makkah",
     "clusterId": "sirah_makkah_houses",
     "city": "Makkah",
-    "imageUrls": [],
+    "imageUrls": [
+      {
+        "url": "image/al_shubaikah_district_1791189644513.webp",
+        "thumbnail": "image/al_shubaikah_district_1791189644513.webp",
+        "caption": {
+          "en": "Al-Shubaikah (Martyrdom of Sumayyah)",
+          "ms": "Al-Syubaikah (Tapak Syahid Sayyidatina Sumayyah)",
+          "ar": ""
+        }
+      }
+    ],
     "videoUrls": [],
     "socialLinks": [],
     "cluster_id": "sirah_makkah_houses",
     "sub_category": "Historic Houses & Early Sirah in Makkah",
-    "thumbnail": "assets/image/locations/al_shubaikah_district.webp"
+    "thumbnail": "image/al_shubaikah_district_1791189644513.webp"
   },
   {
     "id": "jannat_al_mualla",
@@ -1970,14 +2018,16 @@
     "name": {
       "en": "Masjid ash-Shajarah (Mosque of the Tree)",
       "ms": "Masjid ash-Shajarah (Masjid Pokok)",
+      "ta": "மஸ்ஜிதுஷ் ஷஜரா (மரத்தின் பள்ளிவாசல்)",
       "ml": "മസ്ജിദുശ്ശജറ (വൃക്ഷത്തിന്റെ പള്ളി)",
-      "ta": "மஸ்ஜிதுஷ் ஷஜரா (மரத்தின் பள்ளிவாசல்)"
+      "ar": ""
     },
     "description": {
       "en": "Site where a tree miraculously moved to the Prophet when summoned. Facing Masjid al-Jinn. Occurred when the polytheists demanded a physical sign proving his prophethood.",
       "ms": "Tapak di mana sepohon pokok bergerak menghampiri Baginda ﷺ sebagai mukjizat. Bertentangan Masjid al-Jinn. Peristiwa mukjizat apabila musyrikin meminta bukti kenabian.",
+      "ta": "நபிகளாரின் அழைப்பையேற்று மரம் ஒன்று வேரோடு நகர்ந்து வந்த அற்புதம் நிகழ்ந்த இடம். மஸ்ஜிதுல் ஜின்க்கு எதிரில் உள்ளது. குறைஷிகள் அத்தாட்சி கேட்டபோது நிகழ்ந்த அற்புதம்.",
       "ml": "നബിയുടെ കൽപ്പന കേട്ട് ഒരു മരം വേരോടെ നടന്നു വന്ന മുഅ്ജിസത്ത് നടന്ന സ്ഥലം. മുശ്‌രിക്കുകൾ ദൃഷ്ടാന്തം ആവശ്യപ്പെട്ടപ്പോൾ നബി കാണിച്ചുകൊടുത്ത മുഅ്ജിസത്തിന്റെ സ്മരണ.",
-      "ta": "நபிகளாரின் அழைப்பையேற்று மரம் ஒன்று வேரோடு நகர்ந்து வந்த அற்புதம் நிகழ்ந்த இடம். மஸ்ஜிதுல் ஜின்க்கு எதிரில் உள்ளது. குறைஷிகள் அத்தாட்சி கேட்டபோது நிகழ்ந்த அற்புதம்."
+      "ar": ""
     },
     "latitude": 21.431968,
     "longitude": 39.828122,
@@ -1985,26 +2035,38 @@
     "subCategory": "Historic Houses & Early Sirah in Makkah",
     "clusterId": "sirah_makkah_houses",
     "city": "Makkah",
-    "imageUrls": [],
+    "imageUrls": [
+      {
+        "url": "image/masjid_ash_shajarah_1791189758859.webp",
+        "thumbnail": "image/masjid_ash_shajarah_1791189758859.webp",
+        "caption": {
+          "en": "Masjid ash-Shajarah (Mosque of the Tree)",
+          "ms": "Masjid ash-Shajarah (Masjid Pokok)",
+          "ar": ""
+        }
+      }
+    ],
     "videoUrls": [],
     "socialLinks": [],
     "cluster_id": "sirah_makkah_houses",
     "sub_category": "Historic Houses & Early Sirah in Makkah",
-    "thumbnail": "assets/image/locations/masjid_ash_shajarah.webp"
+    "thumbnail": "image/masjid_ash_shajarah_1791189758859.webp"
   },
   {
     "id": "masjid_ar_rayah",
     "name": {
       "en": "Masjid ar-Rayah (Mosque of the Banner)",
       "ms": "Masjid ar-Rayah (Masjid Bendera)",
+      "ta": "மஸ்ஜிதுர் ராயா (கொடி பள்ளிவாசல்)",
       "ml": "മസ്ജിദുർറായ (പതാകയുടെ പള്ളി)",
-      "ta": "மஸ்ஜிதுர் ராயா (கொடி பள்ளிவாசல்)"
+      "ar": ""
     },
     "description": {
       "en": "The spot where the Prophet's flag was planted during the Conquest of Makkah. Located in Al-Judariyyah quarter near Hajun. Marks the military command assembly of the Prophet's battalion.",
       "ms": "Tapak bendera panji Islam dipacakkan semasa pembukaan kota Makkah. Terletak di kawasan Al-Judariyyah dekat Hajun. Tempat berkumpulnya batalion tentera Rasulullah ﷺ.",
+      "ta": "மக்கா வெற்றியின் போது இஸ்லாமிய வெற்றிக் கொடி நாட்டப்பட்ட இடம். ஹஜூன் அருகில் உள்ள இடம். நபிகளார் படைகளை வழிநடத்திய கட்டளை தளம்.",
       "ml": "മക്ക വിജയ വേളയിൽ ഇസ്ലാമിക പതാക നാട്ടിയ സ്ഥലം. ഹജൂൻ ഭാഗത്ത്. നബി ﷺ തന്റെ സൈന്യത്തിന് നിർദ്ദേശം നൽകിയ കേന്ദ്രം.",
-      "ta": "மக்கா வெற்றியின் போது இஸ்லாமிய வெற்றிக் கொடி நாட்டப்பட்ட இடம். ஹஜூன் அருகில் உள்ள இடம். நபிகளார் படைகளை வழிநடத்திய கட்டளை தளம்."
+      "ar": ""
     },
     "latitude": 21.4319,
     "longitude": 39.8294,
@@ -2012,12 +2074,22 @@
     "subCategory": "Historic Houses & Early Sirah in Makkah",
     "clusterId": "sirah_makkah_houses",
     "city": "Makkah",
-    "imageUrls": [],
+    "imageUrls": [
+      {
+        "url": "image/masjid_ar_rayah_1791189853218.webp",
+        "thumbnail": "image/masjid_ar_rayah_1791189853218.webp",
+        "caption": {
+          "en": "Masjid ar-Rayah (Mosque of the Banner)",
+          "ms": "Masjid ar-Rayah (Masjid Bendera)",
+          "ar": ""
+        }
+      }
+    ],
     "videoUrls": [],
     "socialLinks": [],
     "cluster_id": "sirah_makkah_houses",
     "sub_category": "Historic Houses & Early Sirah in Makkah",
-    "thumbnail": "assets/image/locations/masjid_ar_rayah.webp"
+    "thumbnail": "image/masjid_ar_rayah_1791189853218.webp"
   },
   {
     "id": "dhi_tuwa_valley",
@@ -2105,14 +2177,16 @@
     "name": {
       "en": "Jabal Abu Qubays",
       "ms": "Jabal Abu Qubays",
+      "ta": "ஜபல் அபூ குபைஸ்",
       "ml": "ജബൽ അബൂ ഖുബൈസ്",
-      "ta": "ஜபல் அபூ குபைஸ்"
+      "ar": ""
     },
     "description": {
       "en": "The sacred mountain immediately east of Safa, associated with the miracle of the split moon. Believed to be the first mountain created on earth. Housed the Black Stone during Noah's flood and witnessed the moon splitting.",
       "ms": "Gunung bersebelahan bukit Safa, tapak mukjizat bulan terbelah dua. Dipercayai gunung terawal diciptakan. Tempat menyimpan Hajarul Aswad semasa banjir Nabi Nuh a.s. dan saksi terbelahnya bulan.",
+      "ta": "ஸஃபாவுக்கு அருகில் சந்திரனைப் பிளந்த அற்புதம் நிகழ்ந்த மலை. பூமியில் படைக்கப்பட்ட முதல் மலையாகக் கருதப்படுகிறது. நூஹ் நபியின் காலத்தில் கருப்புக்கல் இங்கு பாதுகாக்கப்பட்டது.",
       "ml": "ചന്ദ്രൻ പിളർന്ന മുഅ്ജിസത്തിന് സാക്ഷ്യം വഹിച്ച സ്വഫായ്ക്ക് അടുത്തുള്ള മല. ഭൂമിയിൽ ആദ്യമായി പടക്കപ്പെട്ട മലയായി കണക്കാക്കപ്പെടുന്നു. നൂഹ് നബിയുടെ കാലത്തെ പ്രളയത്തിൽ ഹജറുൽ അസ്‌വദ് ഇവിടെ സൂക്ഷിച്ചിരുന്നു.",
-      "ta": "ஸஃபாவுக்கு அருகில் சந்திரனைப் பிளந்த அற்புதம் நிகழ்ந்த மலை. பூமியில் படைக்கப்பட்ட முதல் மலையாகக் கருதப்படுகிறது. நூஹ் நபியின் காலத்தில் கருப்புக்கல் இங்கு பாதுகாக்கப்பட்டது."
+      "ar": ""
     },
     "latitude": 21.421601,
     "longitude": 39.828229,
@@ -2120,26 +2194,38 @@
     "subCategory": "Sacred Mountains around Makkah",
     "clusterId": "mountains_makkah",
     "city": "Makkah",
-    "imageUrls": [],
+    "imageUrls": [
+      {
+        "url": "image/jabal_abu_qubays_1791189977766.webp",
+        "thumbnail": "image/jabal_abu_qubays_1791189977766.webp",
+        "caption": {
+          "en": "Jabal Abu Qubays",
+          "ms": "Jabal Abu Qubays",
+          "ar": ""
+        }
+      }
+    ],
     "videoUrls": [],
     "socialLinks": [],
     "cluster_id": "mountains_makkah",
     "sub_category": "Sacred Mountains around Makkah",
-    "thumbnail": "assets/image/locations/jabal_abu_qubays.webp"
+    "thumbnail": "image/jabal_abu_qubays_1791189977766.webp"
   },
   {
     "id": "jabal_quayqian",
     "name": {
       "en": "Jabal Qu'ayqi'an (Jabal Hindi)",
       "ms": "Jabal Qu'ayqi'an (Jabal Hindi)",
+      "ta": "ஜபல் குஐகிஆன் (ஜபல் ஹிந்தி)",
       "ml": "ജബൽ ഖുഐഖിആൻ",
-      "ta": "ஜபல் குஐகிஆன் (ஜபல் ஹிந்தி)"
+      "ar": ""
     },
     "description": {
       "en": "The western counter-peak balancing Abu Qubays, flanking the Haram basin. Formed the western defense of ancient Makkah; named after the clattering of arms in ancient tribal conflicts.",
       "ms": "Gunung bertentangan Abu Qubays di sebelah barat Masjidil Haram. Benteng barat Makkah lama; dinamakan sempena dentuman senjata dalam pertempuran kabilah Jurhum purba.",
+      "ta": "அபூ குபைஸுக்கு எதிரில் மஸ்ஜிதுல் ஹராமின் மேற்கு பகுதியில் உள்ள மலை. பண்டைய மக்காவின் மேற்கு எல்லையாக விளங்கியது; போர் ஆயுதங்களின் சத்தத்தால் இப்பெயர் பெற்றது.",
       "ml": "അബൂ ഖുബൈസിന് എതിർവശത്ത് മസ്ജിദുൽ ഹറാമിന്റെ പടിഞ്ഞാറുള്ള മല. പുരാതന മക്കയുടെ പടിഞ്ഞാറേ കോട്ട. ആയുധങ്ങളുടെ ശബ്ദം കാരണമാണ് ഈ പേര് ലഭിച്ചത്.",
-      "ta": "அபூ குபைஸுக்கு எதிரில் மஸ்ஜிதுல் ஹராமின் மேற்கு பகுதியில் உள்ள மலை. பண்டைய மக்காவின் மேற்கு எல்லையாக விளங்கியது; போர் ஆயுதங்களின் சத்தத்தால் இப்பெயர் பெற்றது."
+      "ar": ""
     },
     "latitude": 21.428742,
     "longitude": 39.823433,
@@ -2147,12 +2233,22 @@
     "subCategory": "Sacred Mountains around Makkah",
     "clusterId": "mountains_makkah",
     "city": "Makkah",
-    "imageUrls": [],
+    "imageUrls": [
+      {
+        "url": "image/jabal_quayqian_1791192440915.webp",
+        "thumbnail": "image/jabal_quayqian_1791192440915.webp",
+        "caption": {
+          "en": "Jabal Qu'ayqi'an (Jabal Hindi)",
+          "ms": "Jabal Qu'ayqi'an (Jabal Hindi)",
+          "ar": ""
+        }
+      }
+    ],
     "videoUrls": [],
     "socialLinks": [],
     "cluster_id": "mountains_makkah",
     "sub_category": "Sacred Mountains around Makkah",
-    "thumbnail": "assets/image/locations/jabal_quayqian.webp"
+    "thumbnail": "image/jabal_quayqian_1791192440915.webp"
   },
   {
     "id": "masjid_al_khayf",
