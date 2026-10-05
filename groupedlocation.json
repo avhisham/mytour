@@ -1,7 +1,7 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "version": "1.0.0",
-  "generated_at": "2026-10-05T10:17:42.339840Z",
+  "generated_at": "2026-10-05T23:33:41.118829Z",
   "groups": [
     {
       "id": "the_battle_of_uhud",
@@ -769,40 +769,46 @@
       "title": {
         "en": "Historic Houses & Early Sirah in Makkah",
         "ms": "Kediaman Bersejarah & Lokasi Awal Sirah di Makkah",
-        "ml": "മക്കയിലെ ചരിത്ര വീടുകളും പ്രവാചക ചരിത്രവും",
-        "ta": "மக்காவின் வரலாற்று இல்லங்கள் மற்றும் ஆரம்பகால சீரா"
+        "ar": "",
+        "ta": "மக்காவின் வரலாற்று இல்லங்கள் மற்றும் ஆரம்பகால சீரா",
+        "ml": "മക്കയിലെ ചരിത്ര വീടുകളും പ്രവാചക ചരിത്രവും"
       },
       "summary": {
         "en": "The birth and domestic sanctuaries of early Islam, as well as sites of oppression and sacrifice.",
         "ms": "Lokasi kelahiran, rumah kediaman sahabat, dan medan pengorbanan para syuhada terawal di Makkah.",
-        "ml": "നബിയുടെ ജന്മസ്ഥലം, വീടുകൾ, പ്രാരംഭകാല ഇസ്ലാമിക ത്യാഗങ്ങളുടെ കേന്ദ്രങ്ങൾ.",
-        "ta": "நபிகளாரின் பிறந்த இடம், வரலாற்று இல்லங்கள் மற்றும் ஆரம்பகால தியாக இடங்கள்."
+        "ar": "",
+        "ta": "நபிகளாரின் பிறந்த இடம், வரலாற்று இல்லங்கள் மற்றும் ஆரம்பகால தியாக இடங்கள்.",
+        "ml": "നബിയുടെ ജന്മസ്ഥലം, വീടുകൾ, പ്രാരംഭകാല ഇസ്ലാമിക ത്യാഗങ്ങളുടെ കേന്ദ്രങ്ങൾ."
       },
       "places": [
         {
-          "id": "bayt_al_mawlid",
+          "id": "rasul_birth_place",
           "title": {
-            "en": "Bayt al-Mawlid (Birthplace of the Prophet)",
-            "ms": "Bayt al-Mawlid (Tapak Kelahiran Nabi ﷺ)",
-            "ml": "മൗലിദുന്നബി (നബിയുടെ ജന്മസ്ഥലം)",
-            "ta": "மௌலிதுன் நபி (நபிகளார் பிறந்த இடம்)"
+            "en": "Birthplace of Rasulullah ﷺ (Makkah Library)",
+            "ms": "Tempat Lahir Rasulullah ﷺ (Perpustakaan Makkah)",
+            "ml": "മുഹമ്മദ് നബി ﷺ ജനിച്ച സ്ഥലം (മക്ക ലൈബ്രറി)",
+            "ta": "நபிகள் நாயகம் ﷺ பிறந்த இடம் (மக்கா நூலகம்)"
           },
           "summary": {
-            "en": "The ancestral home in Suq al-Layl where the Prophet was born, now Makkah Library.",
-            "ms": "Rumah keluarga Bani Hashim di mana Baginda ﷺ dilahirkan, kini Maktabah Makkah.",
-            "ml": "നബി ﷺ ജനിച്ച പ്രദേശം, നിലവിൽ മക്കാ ലൈബ്രറി സ്ഥിതി ചെയ്യുന്നയിടം.",
-            "ta": "நபிகளார் பிறந்த பனூ ஹாஷிம் பகுதியிலுள்ள இல்லம், தற்போது மக்கா நூலகம்."
+            "en": "The site where the Prophet Muhammad ﷺ was born. A library was later built on the site (Maktaba Makkah al-Mukarramah) to preserve its historical significance.",
+            "ms": "Tapak di mana Nabi Muhammad ﷺ dilahirkan. Sebuah perpustakaan kemudiannya dibina di tapak tersebut (Maktaba Makkah al-Mukarramah) untuk memelihara kepentingan sejarahnya.",
+            "ml": "മുഹമ്മദ് നബി ﷺ ജനിച്ച സ്ഥലം. അതിൻ്റെ ചരിത്രപരമായ പ്രാധാന്യം നിലനിർത്തുന്നതിനായി പിന്നീട് അവിടെ ഒരു ലൈബ്രറി (മക്തബ മക്കത്തുൽ മുകറമ) നിർമ്മിക്കപ്പെട്ടു.",
+            "ta": "நபிகள் நாயகம் ﷺ பிறந்த இடம். அதன் வரலாற்று முக்கியத்துவத்தைப் பாதுகாப்பதற்காக பின்னர் அவ்விடத்தில் ஒரு நூலகம் (மக்கா நூலகம்) கட்டப்பட்டது."
           },
           "details": {
-            "en": "Located in Shib Abi Talib/Suq al-Layl district east of the Haram. Rebuilt as a public library (Maktabat Makkah al-Mukarramah).",
-            "ms": "Terletak di kawasan Syi'ib Abi Talib di timur Masjidil Haram. Kini dijadikan perpustakaan awam.",
-            "ml": "ശീഅബ് അബീത്വാലിബിൽ സ്ഥിതി ചെയ്യുന്നു. നിലവിൽ ഇതൊരു ഗ്രന്ഥശാലയാണ്.",
-            "ta": "ஷியப் அபீதாலிப் பகுதியில் அமைந்தது. தற்போது மக்கா பொது நூலகமாக உள்ளது."
+            "en": "The site where the Prophet Muhammad ﷺ was born. A library was later built on the site (Maktaba Makkah al-Mukarramah) to preserve its historical significance.",
+            "ms": "Tapak di mana Nabi Muhammad ﷺ dilahirkan. Sebuah perpustakaan kemudiannya dibina di tapak tersebut (Maktaba Makkah al-Mukarramah) untuk memelihara kepentingan sejarahnya.",
+            "ml": "മുഹമ്മദ് നബി ﷺ ജനിച്ച സ്ഥലം. അതിൻ്റെ ചരിത്രപരമായ പ്രാധാന്യം നിലനിർത്തുന്നതിനായി പിന്നീട് അവിടെ ഒരു ലൈബ്രറി (മക്തബ മക്കത്തുൽ മുകറമ) നിർമ്മിക്കപ്പെട്ടു.",
+            "ta": "நபிகள் நாயகம் ﷺ பிறந்த இடம். அதன் வரலாற்று முக்கியத்துவத்தைப் பாதுகாப்பதற்காக பின்னர் அவ்விடத்தில் ஒரு நூலகம் (மக்கா நூலகம்) கட்டப்பட்டது."
+          },
+          "coordinates": {
+            "latitude": 21.424933447818912,
+            "longitude": 39.82985247400317
           },
           "images": {
-            "thumbnail": "image/bayt_al_mawlid.webp",
+            "thumbnail": "image/rasul_birth_place.webp",
             "gallery": [
-              "image/bayt_al_mawlid.webp"
+              "image/rasul_birth_place.webp"
             ]
           }
         },
@@ -857,168 +863,6 @@
             "thumbnail": "image/abu_bakr_house_site.webp",
             "gallery": [
               "image/abu_bakr_house_site.webp"
-            ]
-          }
-        },
-        {
-          "id": "al_shubaikah_district",
-          "title": {
-            "en": "Al-Shubaikah (Martyrdom of Sumayyah)",
-            "ms": "Al-Syubaikah (Tapak Syahid Sayyidatina Sumayyah)",
-            "ml": "അശ്ശുബൈക (സുമയ്യ ബീവിയുടെ രക്തസാക്ഷിത്വം)",
-            "ta": "அஷ்-ஷுபைகா (ஸுமய்யா ரலி ஷஹீதான இடம்)"
-          },
-          "summary": {
-            "en": "The open quarter where Yasir's family endured torture and Sumayyah became Islam's first martyr.",
-            "ms": "Kawasan lapang di mana keluarga Yasir diseksa dan Sumayyah gugur sebagai syahid pertama Islam.",
-            "ml": "യാസിർ കുടുംബം പീഡിപ്പിക്കപ്പെടുകയും സുമയ്യ ബീവി ആദ്യത്തെ രക്തസാക്ഷിയാകുകയും ചെയ്ത സ്ഥലം.",
-            "ta": "யாசிர் குடும்பத்தினர் சித்திரவதை செய்யப்பட்டு ஸுமய்யா (ரலி) முதல் தியாகியான பகுதி."
-          },
-          "details": {
-            "en": "Near the western base of Jabal Omar. Abu Jahal fatally speared Sumayyah here for refusing to recant her faith.",
-            "ms": "Berhampiran kaki barat Jabal Omar. Abu Jahal merejam dan menikam Sumayyah r.a. kerana enggan murtad.",
-            "ml": "ജബൽ ഉമറിന്റെ പടിഞ്ഞാറ് ഭാഗം. അബൂജഹൽ സുമയ്യ ബീവിയെ കുത്തിക്കൊലപ്പെടുത്തിയ പ്രദേശം.",
-            "ta": "ஜபல் உமரின் மேற்கு அடிவாரம். ஈமானை கைவிட மறுத்ததற்காக அபூஜஹ்லால் ஸுமய்யா கொல்லப்பட்ட இடம்."
-          },
-          "images": {
-            "thumbnail": "image/al_shubaikah_district.webp",
-            "gallery": [
-              "image/al_shubaikah_district.webp"
-            ]
-          }
-        },
-        {
-          "id": "jannat_al_mualla",
-          "title": {
-            "en": "Jannat al-Mu'alla (Al-Hajun Cemetery)",
-            "ms": "Jannat al-Mu'alla (Perkuburan Ma'la / Al-Hajun)",
-            "ml": "ജന്നത്തുൽ മുഅല്ല (ഹജൂൻ ഖബർസ്ഥാൻ)",
-            "ta": "ஜன்னத்துல் முஅல்லா (அல்-ஹஜூன் மையவாடி)"
-          },
-          "summary": {
-            "en": "The sacred ancient cemetery sheltering Khadijah, Abu Talib, and Abdul Muttalib.",
-            "ms": "Tanah perkuburan purba Makkah tempat makam Ummul Mukminin Khadijah, Abu Talib, dan Abdul Muttalib.",
-            "ml": "ഖദീജ (റ), അബൂത്വാലിബ്, അബ്ദുൽ മുത്വലിബ് എന്നിവരുടെ ഖബറുകൾ സ്ഥിതി ചെയ്യുന്ന ഖബർസ്ഥാൻ.",
-            "ta": "அன்னை கதீஜா (ரலி), அபூதாலிப், மற்றும் அப்துல் முத்தலிப் அடக்கம் செய்யப்பட்ட மையவாடி."
-          },
-          "details": {
-            "en": "Located along the road to Mina through Al-Hajun. Also rests Asma bint Abi Bakr and Abdullah ibn al-Zubayr.",
-            "ms": "Terletak di jalan Al-Hajun ke Mina. Juga bersemadi Asma' binti Abu Bakar dan Abdullah bin az-Zubair.",
-            "ml": "അൽ-ഹജൂൻ താഴ്‌വരയിൽ സ്ഥിതി ചെയ്യുന്നു. അസ്മാ ബിൻത് അബീബക്കറും ഇവിടെ അന്ത്യവിശ്രമം കൊള്ളുന്നു.",
-            "ta": "அல்-ஹஜூன் பகுதியில் அமைந்துள்ளது. அஸ்மா பின்த் அபீபக்கர் ஆகியோரும் இங்கு நல்லடக்கம் செய்யப்பட்டுள்ளனர்."
-          },
-          "images": {
-            "thumbnail": "image/jannat_al_mualla.webp",
-            "gallery": [
-              "image/jannat_al_mualla.webp"
-            ]
-          }
-        },
-        {
-          "id": "masjid_al_jinn",
-          "title": {
-            "en": "Masjid al-Jinn",
-            "ms": "Masjid al-Jinn",
-            "ml": "മസ്ജിദുൽ ജിന്ന്",
-            "ta": "மஸ்ஜிதுல் ஜின்"
-          },
-          "summary": {
-            "en": "Sanctuary where a delegation of jinn accepted Islam after hearing the Quran.",
-            "ms": "Masjid di tapak sekumpulan jin mendengar al-Quran dan berbai'ah memeluk Islam.",
-            "ml": "ജിന്നുകൾ നബിയിൽ നിന്ന് ഖുർആൻ കേട്ട് ഇസ്ലാം സ്വീകരിച്ച സ്ഥലം.",
-            "ta": "ஜின் கூட்டத்தினர் நபிகளாரிடம் குர்ஆனைக் கேட்டு இஸ்லாத்தை ஏற்ற இடம்."
-          },
-          "details": {
-            "en": "Near Jannat al-Mu'alla. The event prompted the revelation of Surah al-Jinn.",
-            "ms": "Berhampiran perkuburan Ma'la. Peristiwa ini melatarbelakangi penurunan Surah al-Jinn.",
-            "ml": "സൂറത്തുൽ ജിന്ന് അവതരിക്കാൻ കാരണമായ സംഭവം നടന്ന ചരിത്ര സ്ഥലം.",
-            "ta": "ஜன்னத்துல் முஅல்லா அருகில் உள்ளது. இங்கு தான் சூரத்துல் ஜின் வசனங்கள் அருளப்பட்டன."
-          },
-          "images": {
-            "thumbnail": "image/masjid_al_jinn.webp",
-            "gallery": [
-              "image/masjid_al_jinn.webp"
-            ]
-          }
-        },
-        {
-          "id": "masjid_ash_shajarah",
-          "title": {
-            "en": "Masjid ash-Shajarah (Mosque of the Tree)",
-            "ms": "Masjid ash-Shajarah (Masjid Pokok)",
-            "ml": "മസ്ജിദുശ്ശജറ (വൃക്ഷത്തിന്റെ പള്ളി)",
-            "ta": "மஸ்ஜிதுஷ் ஷஜரா (மரத்தின் பள்ளிவாசல்)"
-          },
-          "summary": {
-            "en": "Site where a tree miraculously moved to the Prophet when summoned.",
-            "ms": "Tapak di mana sepohon pokok bergerak menghampiri Baginda ﷺ sebagai mukjizat.",
-            "ml": "നബിയുടെ കൽപ്പന കേട്ട് ഒരു മരം വേരോടെ നടന്നു വന്ന മുഅ്ജിസത്ത് നടന്ന സ്ഥലം.",
-            "ta": "நபிகளாரின் அழைப்பையேற்று மரம் ஒன்று வேரோடு நகர்ந்து வந்த அற்புதம் நிகழ்ந்த இடம்."
-          },
-          "details": {
-            "en": "Facing Masjid al-Jinn. Occurred when the polytheists demanded a physical sign proving his prophethood.",
-            "ms": "Bertentangan Masjid al-Jinn. Peristiwa mukjizat apabila musyrikin meminta bukti kenabian.",
-            "ml": "മുശ്‌രിക്കുകൾ ദൃഷ്ടാന്തം ആവശ്യപ്പെട്ടപ്പോൾ നബി കാണിച്ചുകൊടുത്ത മുഅ്ജിസത്തിന്റെ സ്മരണ.",
-            "ta": "மஸ்ஜிதுல் ஜின்க்கு எதிரில் உள்ளது. குறைஷிகள் அத்தாட்சி கேட்டபோது நிகழ்ந்த அற்புதம்."
-          },
-          "images": {
-            "thumbnail": "image/masjid_ash_shajarah.webp",
-            "gallery": [
-              "image/masjid_ash_shajarah.webp"
-            ]
-          }
-        },
-        {
-          "id": "masjid_ar_rayah",
-          "title": {
-            "en": "Masjid ar-Rayah (Mosque of the Banner)",
-            "ms": "Masjid ar-Rayah (Masjid Bendera)",
-            "ml": "മസ്ജിദുർറായ (പതാകയുടെ പള്ളി)",
-            "ta": "மஸ்ஜிதுர் ராயா (கொடி பள்ளிவாசல்)"
-          },
-          "summary": {
-            "en": "The spot where the Prophet's flag was planted during the Conquest of Makkah.",
-            "ms": "Tapak bendera panji Islam dipacakkan semasa pembukaan kota Makkah.",
-            "ml": "മക്ക വിജയ വേളയിൽ ഇസ്ലാമിക പതാക നാട്ടിയ സ്ഥലം.",
-            "ta": "மக்கா வெற்றியின் போது இஸ்லாமிய வெற்றிக் கொடி நாட்டப்பட்ட இடம்."
-          },
-          "details": {
-            "en": "Located in Al-Judariyyah quarter near Hajun. Marks the military command assembly of the Prophet's battalion.",
-            "ms": "Terletak di kawasan Al-Judariyyah dekat Hajun. Tempat berkumpulnya batalion tentera Rasulullah ﷺ.",
-            "ml": "ഹജൂൻ ഭാഗത്ത്. നബി ﷺ തന്റെ സൈന്യത്തിന് നിർദ്ദേശം നൽകിയ കേന്ദ്രം.",
-            "ta": "ஹஜூன் அருகில் உள்ள இடம். நபிகளார் படைகளை வழிநடத்திய கட்டளை தளம்."
-          },
-          "images": {
-            "thumbnail": "image/masjid_ar_rayah.webp",
-            "gallery": [
-              "image/masjid_ar_rayah.webp"
-            ]
-          }
-        },
-        {
-          "id": "dhi_tuwa_valley",
-          "title": {
-            "en": "Dhi Tuwa Well & Encampment (Jarwal)",
-            "ms": "Lembah & Telaga Dhi Tuwa (Jarwal)",
-            "ml": "ദീ തുവ (ജർവൽ)",
-            "ta": "தீ துவா பள்ளத்தாக்கு (ஜர்வால்)"
-          },
-          "summary": {
-            "en": "Valley where the Prophet encamped and bathed before entering Makkah.",
-            "ms": "Lembah di Jarwal di mana Baginda ﷺ bermalam dan mandi sebelum memasuki Makkah.",
-            "ml": "മക്കയിലേക്ക് പ്രവേശിക്കുന്നതിന് മുമ്പ് നബി കുളിക്കുകയും തങ്ങുകയും ചെയ്ത കിണറും താഴ്‌വരയും.",
-            "ta": "மக்காவிற்குள் நுழைவதற்கு முன் நபிகளார் குளித்து தங்கிய பள்ளத்தாக்கு மற்றும் கிணறு."
-          },
-          "details": {
-            "en": "Located in modern Jarwal. Used as the staging encampment during the Conquest of Makkah and Hajjat al-Wada'.",
-            "ms": "Terletak di daerah Jarwal. Menjadi markas kemasukan tentera Fath Makkah dan tempat rehat Haji Wada'.",
-            "ml": "ജർവൽ ഭാഗത്താണ്. മക്കാ ഫത്ഹിലും ഹജ്ജത്തുൽ വിദാഇലും നബി ഇവിടെ തങ്ങിയിരുന്നു.",
-            "ta": "தற்கால ஜர்வால் பகுதியில் உள்ளது. மக்கா வெற்றியின் போதும் விடைபெறும் ஹஜ்ஜின் போதும் நபிகளார் இங்கு தங்கினார்."
-          },
-          "images": {
-            "thumbnail": "image/dhi_tuwa_valley.webp",
-            "gallery": [
-              "image/dhi_tuwa_valley.webp"
             ]
           }
         }
@@ -2279,123 +2123,206 @@
       "id": "uhud_precinct",
       "region": "madinah",
       "title": {
-        "en": "Uhud Battlefield & Landmarks",
+        "en": "Khandaq Battlefield & Landmarks",
         "ms": "Medan Perang & Mercu Tanda Uhud",
-        "ml": "ഉഹുദ് യുദ്ധക്കളവും സ്മാരകങ്ങളും",
-        "ta": "உஹுத் போர்க்களம் மற்றும் வரலாற்று இடங்கள்"
+        "ar": "ساحة معركة الخندق ومعالمها",
+        "ta": "உஹுத் போர்க்களம் மற்றும் வரலாற்று இடங்கள்",
+        "ml": "ഉഹുദ് യുദ്ധക്കളവും സ്മാരകങ്ങളും"
       },
       "summary": {
-        "en": "The sacred mountain beloved by the Prophet and the battlefield of the 70 martyrs (Shawwal 3 AH).",
+        "en": "In the 5th year of Hijrah. Madinah faced a seige by ava coalition of 10000 army led by the Quraish for 27 days. The Muslims of Madinah dug a trench along the northren approach to Madinah and defended it until the seige was over.",
         "ms": "Gunung yang mencintai umat Islam serta medan pertempuran 70 orang syuhada Uhud.",
-        "ml": "നബി സ്നേഹിക്കുകയും നബിയെ സ്നേഹിക്കുകയും ചെയ്ത ഉഹുദ് മലയും രക്തസാക്ഷികളുടെ മണ്ണും.",
-        "ta": "நபிகளாரால் பெரிதும் நேசிக்கப்பட்ட உஹுத் மலையும் 70 தியாகிகள் மடிந்த போர்க்களமும்."
+        "ar": "في السنة الخامسة من الهجرة. واجهت المدينة المنورة حصارًا من قبل تحالف قوامه 10000 جيش بقيادة قريش لمدة 27 يومًا. وحفر مسلمو المدينة خندقًا على طول المدخل الشمالي للمدينة ودافعوا عنه حتى انتهى الحصار.",
+        "ta": "நபிகளாரால் பெரிதும் நேசிக்கப்பட்ட உஹுத் மலையும் 70 தியாகிகள் மடிந்த போர்க்களமும்.",
+        "ml": "നബി സ്നേഹിക്കുകയും നബിയെ സ്നേഹിക്കുകയും ചെയ്ത ഉഹുദ് മലയും രക്തസാക്ഷികളുടെ മണ്ണും."
       },
       "places": [
         {
-          "id": "jabal_ar_rumat",
+          "id": "masjid_fatah",
           "title": {
-            "en": "Jabal ar-Rumat (Mount of the Archers)",
-            "ms": "Jabal ar-Rumat (Bukit Pemanah)",
-            "ml": "ജബലുർറുമത് (അമ്പെയ്ത്തുകാരുടെ കുന്ന്)",
-            "ta": "ஜபலுர் ருமத் (வில்லாளிகள் மலை)"
+            "en": "Masjid al-Fatah (Victory Mosque)",
+            "ms": "Masjid al-Fatah (Masjid Kemenangan)",
+            "ta": "மஸ்ஜித் அல்-பதஹ் (வெற்றி பள்ளி)",
+            "ml": "മസ്ജിദുൽ ഫതഹ് (വിജയ പള്ളി)",
+            "ar": ""
           },
           "summary": {
-            "en": "The small mound where 50 archers were stationed with strict instructions not to vacate.",
-            "ms": "Bukit kecil berbatu di mana 50 pemanah diarahkan bertahan di bawah pimpinan Abdullah bin Jubayr.",
-            "ml": "യുദ്ധവേളയിൽ നബി 50 അമ്പെയ്ത്തുകാരെ നിയോഗിച്ച ചെറിയ കുന്ന്.",
-            "ta": "போரின் போது நபிகளார் 50 வில்லாளிகளை நிலைநிறுத்திய சிறிய குன்று."
+            "en": "The largest and highest mosque on Mount Sela at Khandaq where Prophet Muhammad ﷺ supplicated for 3 days until divine victory was granted.",
+            "ms": "Masjid terbesar dan tertinggi di Gunung Sela di Khandaq tempat Rasulullah ﷺ berdoa selama 3 hari sehingga pertolongan Allah tiba.",
+            "ta": "கந்தக் சலா மலையில் அமைந்துள்ள பெரிய பள்ளிவாசல். நபிகள் நாயகம் ﷺ 3 நாட்கள் பிரார்த்தித்து அல்லாஹ்வின் வெற்றி பெறப்பட்ட இடம்.",
+            "ml": "ഖന്ദഖിൽ സലാ മലമുകളിൽ സ്ഥിതിചെയ്യുന്ന പള്ളി. പ്രവാചകൻ ﷺ 3 ദിവസം പ്രാർത്ഥിച്ച് അല്ലാഹുവിൻ്റെ വിജയം വന്നെത്തിയ സ്ഥലം.",
+            "ar": ""
           },
           "details": {
-            "en": "Positioned south of Wadi Qanat. When majority descended thinking the fight was won, Khalid ibn al-Walid's cavalry flanked the Muslims.",
-            "ms": "Terletak di hadapan perkuburan syuhada. Pasukan pemanah turun sebelum arahan rasmi menyebabkan tentera Islam dikepung.",
-            "ml": "അച്ചടക്കത്തിന്റെ പാഠം നൽകുന്ന ചരിത്ര കുന്ന്. അമ്പെയ്ത്തുകാർ കൽപ്പന മറന്ന് താഴെയിറങ്ങിയത് തിരിച്ചടിയായി.",
-            "ta": "கட்டளையை மீறி வில்லாளிகள் மலையிலிருந்து இறங்கியதால் போரின் போக்கு மாறிய இடம்."
+            "en": "The largest and highest mosque on Mount Sela at Khandaq where Prophet Muhammad ﷺ supplicated for 3 days until divine victory was granted.",
+            "ms": "Masjid terbesar dan tertinggi di Gunung Sela di Khandaq tempat Rasulullah ﷺ berdoa selama 3 hari sehingga pertolongan Allah tiba.",
+            "ta": "கந்தக் சலா மலையில் அமைந்துள்ள பெரிய பள்ளிவாசல். நபிகள் நாயகம் ﷺ 3 நாட்கள் பிரார்த்தித்து அல்லாஹ்வின் வெற்றி பெறப்பட்ட இடம்.",
+            "ml": "ഖന്ദഖിൽ സലാ മലമുകളിൽ സ്ഥിതിചെയ്യുന്ന പള്ളി. പ്രവാചകൻ ﷺ 3 ദിവസം പ്രാർത്ഥിച്ച് അല്ലാഹുവിൻ്റെ വിജയം വന്നെത്തിയ സ്ഥലം.",
+            "ar": ""
+          },
+          "coordinates": {
+            "latitude": 24.47786,
+            "longitude": 39.59568
           },
           "images": {
-            "thumbnail": "image/jabal_ar_rumat.webp",
+            "thumbnail": "image/masjid_fatah_1791193549137.webp",
             "gallery": [
-              "image/jabal_ar_rumat.webp"
+              "image/masjid_fatah_1791193549137.webp"
             ]
           }
         },
         {
-          "id": "maqam_shuhada_uhud",
+          "id": "masjid_salman_farsi",
           "title": {
-            "en": "Maqam Shuhada Uhud (Graves of Hamzah & Martyrs)",
-            "ms": "Makam Syuhada Uhud (Makam Hamzah & 70 Syuhada)",
-            "ml": "ഉഹുദ് ശുഹദാക്കളുടെ മഖ്ബറ (ഹംസയുടെ ഖബർ)",
-            "ta": "உஹுத் ஷுஹதாக்கள் அடக்கஸ்தலம் (ஹம்ஸா ரலி மகாப்)"
+            "en": "Masjid Salman al-Farsi",
+            "ms": "Masjid Salman al-Farsi",
+            "ml": "മസ്ജിദ് സൽമാനുൽ ഫാർസി",
+            "ta": "மஸ்ஜித் சல்மான் அல்-பார்சி"
           },
           "summary": {
-            "en": "Walled cemetery enclosing the 70 martyrs, prominently featuring Hamzah and Mus'ab ibn Umayr.",
-            "ms": "Tanah perkuburan bertembok menempatkan Sayyidush Shuhada Hamzah, Mus'ab bin Umayr, dan para syuhada.",
-            "ml": "ഹംസ (റ), മുസ്അബ് ബിൻ ഉമൈർ (റ) അടക്കം 70 രക്തസാക്ഷികൾ അന്ത്യവിശ്രമം കൊള്ളുന്ന ഇടം.",
-            "ta": "ஹம்ஸா (ரலி), முஸ்அப் இப்னு உமைர் (ரலி) உள்ளிட்ட 70 தியாகிகள் அடங்கிய மையவாடி."
+            "en": "Historic mosque honoring Companion Salman al-Farsi (RA) who proposed digging the defensive trench around Medina.",
+            "ms": "Masjid bersejarah mengingati sahabat Salman al-Farsi (RA) yang mencadangkan penggalian parit pertahanan di sekeliling Madinah.",
+            "ml": "മദീനയ്ക്ക് ചുറ്റും പ്രതിരോധ കിടങ്ങ് വെട്ടാൻ ആശയം നൽകിയ സൽമാനുൽ ഫാർസി (റ) യോടുള്ള ആദരവായുള്ള പള്ളി.",
+            "ta": "மதினாவைச் சுற்றி பாதுகாப்பு அகழி தோண்ட யோசனை அளித்த சல்மான் அல்-பார்சி (ரலி) நினைவாக அமைந்த பள்ளிவாசல்."
           },
           "details": {
-            "en": "Buried on the battlefield in their blood-stained clothes without ritual washing. The Prophet visited their graves annually.",
-            "ms": "Dimakamkan bersama darah syahid tanpa dimandikan. Baginda ﷺ sentiasa menziarahi mereka semasa hayatnya.",
-            "ml": "കുളിപ്പിക്കാതെ അവരുടെ രക്തം പുരണ്ട വസ്ത്രങ്ങളോടെയാണ് അവരെ ഇവിടെ മറവ് ചെയ്തത്.",
-            "ta": "குளிப்பாட்டப்படாமல் இரத்தக் கறைகளுடனேயே நல்லடக்கம் செய்யப்பட்ட உன்னத தியாகிகள்."
+            "en": "Historic mosque honoring Companion Salman al-Farsi (RA) who proposed digging the defensive trench around Medina.",
+            "ms": "Masjid bersejarah mengingati sahabat Salman al-Farsi (RA) yang mencadangkan penggalian parit pertahanan di sekeliling Madinah.",
+            "ml": "മദീനയ്ക്ക് ചുറ്റും പ്രതിരോധ കിടങ്ങ് വെട്ടാൻ ആശയം നൽകിയ സൽമാനുൽ ഫാർസി (റ) യോടുള്ള ആദരവായുള്ള പള്ളി.",
+            "ta": "மதினாவைச் சுற்றி பாதுகாப்பு அகழி தோண்ட யோசனை அளித்த சல்மான் அல்-பார்சி (ரலி) நினைவாக அமைந்த பள்ளிவாசல்."
+          },
+          "coordinates": {
+            "latitude": 24.47747,
+            "longitude": 39.59562
           },
           "images": {
-            "thumbnail": "image/maqam_shuhada_uhud.webp",
+            "thumbnail": "image/masjid_salman_farsi.webp",
             "gallery": [
-              "image/maqam_shuhada_uhud.webp"
+              "image/masjid_salman_farsi.webp"
             ]
           }
         },
         {
-          "id": "ghar_uhud",
+          "id": "masjid_umar_khandaq",
           "title": {
-            "en": "Ghar Uhud (Rasulullah's Resting Cave)",
-            "ms": "Ghar Uhud (Gua Tempat Rehat Rasulullah ﷺ)",
-            "ml": "ഉഹുദ് ഗുഹ (നബി വിശ്രമിച്ച ഗുഹ)",
-            "ta": "உஹுத் குகை (நபிகளார் ஓய்வெடுத்த குகை)"
+            "en": "Masjid Umar ibn al-Khattab",
+            "ms": "Masjid Umar ibn al-Khattab",
+            "ml": "മസ്ജിദ് ഉമർ ഇബ്നുൽ ഖത്താബ്",
+            "ta": "மஸ்ஜித் உமர் பின் அல்-கத்தாப்"
           },
           "summary": {
-            "en": "The mountain crevice where the injured Prophet was guided to rest and recover during the battle.",
-            "ms": "Rongga celah gunung Uhud tempat Baginda ﷺ yang cedera dibawa berehat dan dirawat oleh para sahabat.",
-            "ml": "യുദ്ധത്തിൽ പരിക്കേറ്റ നബിയെ സ്വഹാബികൾ വിശ്രമിക്കാനായി കൊണ്ടുപോയ മലയിലെ ഗുഹ.",
-            "ta": "போரில் காயமுற்ற நபிகளாரை சஹாபாக்கள் ஓய்வெடுக்க அழைத்துச் சென்ற மலைக் குகை."
+            "en": "Located south of Masjid al-Fatah, marking the station where Umar ibn al-Khattab (RA) commanded defense forces during the siege.",
+            "ms": "Terletak di selatan Masjid al-Fatah, menandakan tempat Umar ibn al-Khattab (RA) memimpin pasukan pertahanan semasa pengepungan.",
+            "ml": "മസ്ജിദുൽ ഫതഹിന് തെക്ക് സ്ഥിതിചെയ്യുന്നു, ഉപരോധ വേളയിൽ ഉമർ (റ) പ്രതിരോധ സേനയെ നയിച്ച സ്ഥലം.",
+            "ta": "மஸ்ஜித் அல்-பதஹ் தெற்கே அமைந்துள்ளது, முற்றுகையின் போது உமர் (ரலி) படைகளை வழிநடத்திய இடம்."
           },
           "details": {
-            "en": "Located along the southern cliff face of Uhud. Fatima washed the Prophet's wounds and burned mats to staunch the bleeding.",
-            "ms": "Terletak di dinding tebing gunung. Sayyidatina Fatimah membakar tikar untuk menghentikan darah luka di pipi baginda.",
-            "ml": "ഫാത്തിമ (റ) പായ കത്തിച്ച ചാരം ഉപയോഗിച്ച് നബിയുടെ രക്തസ്രാവം നിർത്തിയത് ഇവിടെ വെച്ചാണ്.",
-            "ta": "அன்னை பாத்திமா பாயைச் சுட்டு சாம்பலைக் கொண்டு நபிகளாரின் காயத்திற்கு மருந்திட்ட இடம்."
+            "en": "Located south of Masjid al-Fatah, marking the station where Umar ibn al-Khattab (RA) commanded defense forces during the siege.",
+            "ms": "Terletak di selatan Masjid al-Fatah, menandakan tempat Umar ibn al-Khattab (RA) memimpin pasukan pertahanan semasa pengepungan.",
+            "ml": "മസ്ജിദുൽ ഫതഹിന് തെക്ക് സ്ഥിതിചെയ്യുന്നു, ഉപരോധ വേളയിൽ ഉമർ (റ) പ്രതിരോധ സേനയെ നയിച്ച സ്ഥലം.",
+            "ta": "மஸ்ஜித் அல்-பதஹ் தெற்கே அமைந்துள்ளது, முற்றுகையின் போது உமர் (ரலி) படைகளை வழிநடத்திய இடம்."
+          },
+          "coordinates": {
+            "latitude": 24.47694,
+            "longitude": 39.59497
           },
           "images": {
-            "thumbnail": "image/ghar_uhud.webp",
+            "thumbnail": "image/masjid_umar_khandaq.webp",
             "gallery": [
-              "image/ghar_uhud.webp"
+              "image/masjid_umar_khandaq.webp"
             ]
           }
         },
         {
-          "id": "masjid_al_fasah",
+          "id": "masjid_ali_khandaq",
           "title": {
-            "en": "Masjid al-Fasah (Uhud Mosque)",
-            "ms": "Masjid al-Fasah (Masjid Uhud)",
-            "ml": "മസ്ജിദുൽ ഫസഹ്",
-            "ta": "மஸ்ஜிதுல் ஃபஸஹ் (உஹுத் பள்ளி)"
+            "en": "Masjid Ali ibn Abi Talib",
+            "ms": "Masjid Ali ibn Abi Talib",
+            "ml": "മസ്ജിദ് അലി ഇബ്നു അബീത്വാലിബ്",
+            "ta": "மஸ்ஜித் அலி பின் அபீ தாலிப்"
           },
           "summary": {
-            "en": "Ancient stone structure at the mountain foot where the Prophet prayed Dhuhr seated after being wounded.",
-            "ms": "Runtuhan masjid batu di kaki Uhud tempat Baginda ﷺ bersolat Zohor secara duduk akibat kecederaan.",
-            "ml": "പരിക്കേറ്റതിനെ തുടർന്ന് നബി ﷺ ഇരുന്നു നമസ്കരിച്ച മലയടിവാരത്തിലെ പഴയ പള്ളി.",
-            "ta": "காயம் காரணமாக நபிகளார் அமர்ந்து ளுஹர் தொழுத உஹுத் அடிவாரப் பள்ளி."
+            "en": "Historic mosque at the base of Mount Sela where Ali ibn Abi Talib (RA) engaged Amr ibn Abd Wudd in duel during the Battle of the Trench.",
+            "ms": "Masjid bersejarah di kaki Gunung Sela di mana Ali ibn Abi Talib (RA) menewaskan musuh dalam pertarungan semasa Perang Parit.",
+            "ml": "ഖന്ദഖ് യുദ്ധത്തിൽ അലി (റ) ശത്രുവിനെ നേരിട്ട സലാ മലയടിവാരത്തിലെ പള്ളി.",
+            "ta": "கந்தக் போரில் அலி (ரலி) எதிரியை எதிர்கொண்ட வரலாற்று சிறப்புமிக்க பள்ளிவாசல்."
           },
           "details": {
-            "en": "Nestled near the ravine trail. Associated with the Quranic verse in Surah al-Mujadila regarding making room (Tafassahu) in assemblies.",
-            "ms": "Terletak di laluan mendaki gaung Uhud. Saksi kecekalan sahabat solat di belakang imam yang terluka.",
-            "ml": "ഉഹുദിലെ മലയിടുക്കിൽ സ്ഥിതി ചെയ്യുന്നു. ചരിത്രപരമായ പ്രാധാന്യമുള്ള ചെറിയ കൽപള്ളി.",
-            "ta": "மலையிடுக்கில் அமைந்துள்ளது. காயமுற்ற நிலையிலும் தொழுகையை விடாத நபியின் தியாக தளம்."
+            "en": "Historic mosque at the base of Mount Sela where Ali ibn Abi Talib (RA) engaged Amr ibn Abd Wudd in duel during the Battle of the Trench.",
+            "ms": "Masjid bersejarah di kaki Gunung Sela di mana Ali ibn Abi Talib (RA) menewaskan musuh dalam pertarungan semasa Perang Parit.",
+            "ml": "ഖന്ദഖ് യുദ്ധത്തിൽ അലി (റ) ശത്രുവിനെ നേരിട്ട സലാ മലയടിവാരത്തിലെ പള്ളി.",
+            "ta": "கந்தக் போரில் அலி (ரலி) எதிரியை எதிர்கொண்ட வரலாற்று சிறப்புமிக்க பள்ளிவாசல்."
+          },
+          "coordinates": {
+            "latitude": 24.47581,
+            "longitude": 39.59501
           },
           "images": {
-            "thumbnail": "image/masjid_al_fasah.webp",
+            "thumbnail": "image/masjid_ali_khandaq.webp",
             "gallery": [
-              "image/masjid_al_fasah.webp"
+              "image/masjid_ali_khandaq.webp"
+            ]
+          }
+        },
+        {
+          "id": "masjid_abu_bakr_khandaq",
+          "title": {
+            "en": "Masjid Abu Bakr as-Siddiq",
+            "ms": "Masjid Abu Bakr as-Siddiq",
+            "ml": "മസ്ജിദ് അബൂബക്കർ സിദ്ദീഖ്",
+            "ta": "மஸ்ஜித் அபூபக்கர் சித்தீக்"
+          },
+          "summary": {
+            "en": "Historic mosque marking the defense outpost commanded by Abu Bakr as-Siddiq (RA) at the Seven Mosques site.",
+            "ms": "Masjid bersejarah menandakan pos pertahanan di bawah pimpinan Abu Bakr as-Siddiq (RA) di tapak Tujuh Masjid.",
+            "ml": "എഴ് പള്ളികളുടെ പരിസരത്ത് അബൂബക്കർ സിദ്ദീഖ് (റ) കാവൽ നിന്ന സ്ഥലം.",
+            "ta": "ஏழு பள்ளிவாசல் பகுதியில் அபூபக்கர் சித்தீக் (ரலி) காவல்படை அமைத்த இடம்."
+          },
+          "details": {
+            "en": "Historic mosque marking the defense outpost commanded by Abu Bakr as-Siddiq (RA) at the Seven Mosques site.",
+            "ms": "Masjid bersejarah menandakan pos pertahanan di bawah pimpinan Abu Bakr as-Siddiq (RA) di tapak Tujuh Masjid.",
+            "ml": "എഴ് പള്ളികളുടെ പരിസരത്ത് അബൂബക്കർ സിദ്ദീഖ് (റ) കാവൽ നിന്ന സ്ഥലം.",
+            "ta": "ஏழு பள்ளிவாசல் பகுதியில் அபூபக்கர் சித்தீக் (ரலி) காவல்படை அமைத்த இடம்."
+          },
+          "coordinates": {
+            "latitude": 24.47651,
+            "longitude": 39.59522
+          },
+          "images": {
+            "thumbnail": "image/masjid_abu_bakr_khandaq.webp",
+            "gallery": [
+              "image/masjid_abu_bakr_khandaq.webp"
+            ]
+          }
+        },
+        {
+          "id": "masjid_fatimah_khandaq",
+          "title": {
+            "en": "Masjid Fatimah az-Zahra",
+            "ms": "Masjid Fatimah az-Zahra",
+            "ml": "മസ്ജിദ് ഫാത്തിമത്തുസ്സഹ്റ",
+            "ta": "மஸ்ஜித் பாத்திமா அஸ்-ஸஹ்ரா"
+          },
+          "summary": {
+            "en": "Also known as Masjid Musalla an-Nisa, the smallest mosque at Khandaq commemorating Fatimah az-Zahra (RA) who brought food to the Prophet ﷺ during digging.",
+            "ms": "Juga dikenali sebagai Masjid Musalla an-Nisa, masjid terkecil di Khandaq mengenang Fatimah az-Zahra (RA) yang membawa makanan kepada Rasulullah ﷺ.",
+            "ml": "കിടങ്ങു വെട്ടുന്ന വേളയിൽ പ്രവാചകന് ഭക്ഷണം എത്തിച്ചു നൽകിയ ഫാത്തിമ (റ) യുടെ ഓർമ്മയ്ക്കുള്ള ചെറിയ പള്ളി.",
+            "ta": "அகழி தோண்டும் போது நபிகள் நாயகத்திற்கு உணவு கொண்டு வந்த பாத்திமா (ரலி) அவர்களின் நினைவாக அமைந்த பள்ளிவாசல்."
+          },
+          "details": {
+            "en": "Also known as Masjid Musalla an-Nisa, the smallest mosque at Khandaq commemorating Fatimah az-Zahra (RA) who brought food to the Prophet ﷺ during digging.",
+            "ms": "Juga dikenali sebagai Masjid Musalla an-Nisa, masjid terkecil di Khandaq mengenang Fatimah az-Zahra (RA) yang membawa makanan kepada Rasulullah ﷺ.",
+            "ml": "കിടങ്ങു വെട്ടുന്ന വേളയിൽ പ്രവാചകന് ഭക്ഷണം എത്തിച്ചു നൽകിയ ഫാത്തിമ (റ) യുടെ ഓർമ്മയ്ക്കുള്ള ചെറിയ പള്ളി.",
+            "ta": "அகழி தோண்டும் போது நபிகள் நாயகத்திற்கு உணவு கொண்டு வந்த பாத்திமா (ரலி) அவர்களின் நினைவாக அமைந்த பள்ளிவாசல்."
+          },
+          "coordinates": {
+            "latitude": 24.4762,
+            "longitude": 39.5956
+          },
+          "images": {
+            "thumbnail": "image/masjid_fatimah_khandaq.webp",
+            "gallery": [
+              "image/masjid_fatimah_khandaq.webp"
             ]
           }
         }
