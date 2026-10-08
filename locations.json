@@ -66,15 +66,15 @@
     "name": {
       "en": "Umrah Gate (Gate 62 - Bab al-Umrah)",
       "ms": "Pintu Umrah (Pintu 62 - Bab al-Umrah)",
-      "ml": "ഉംറ ഗേറ്റ് (ബാബുൽ ഉംറ - ഗേറ്റ് 62)",
       "ta": "உம்ரா வாசல் (பாப் அல்-உம்ரா - கேட் 62)",
+      "ml": "ഉംറ ഗേറ്റ് (ബാബുൽ ഉംറ - ഗേറ്റ് 62)",
       "ar": "باب العمرة (باب 62)"
     },
     "description": {
       "en": "Umrah Gate (Bab al-Umrah, Gate 62) is situated on the western facade of Masjid al-Haram between King Fahad Gate and the western courtyards. Crowned with grand twin minarets, it is named historically because pilgrims arriving from Tan'im (Masjid Aisha) traditionally enter through this portal to begin their Umrah Tawaf. It offers direct and accessible floor-level ingress toward the Mataf circumference.",
       "ms": "Pintu Umrah (Bab al-Umrah, Pintu 62) terletak di bahagian barat Masjidil Haram, bersebelahan dengan Pintu Raja Fahad. Ditandai dengan menara berkembar yang megah, ia dinamakan Pintu Umrah kerana merupakan pintu masuk tradisi bagi jemaah yang pulang berniat ihram dari Tan'im (Masjid Aisyah). Pintu ini menyediakan laluan landai dan mudah terus ke kawasan Mataf.",
-      "ml": "മസ്ജിദുൽ ഹറാമിന്റെ പടിഞ്ഞാറ് ഭാഗത്ത് സ്ഥിതി ചെയ്യുന്ന പ്രധാന കവാടമാണ് ബാബുൽ ഉംറ (ഗേറ്റ് 62). ഇരട്ട മിനാരങ്ങളാൽ അലംകൃതമായ ഈ കവാടത്തിലൂടെയാണ് തൻഈമിൽ (മസ്ജിദ് ആയിശ) നിന്ന് ഇഹ്‌റാം ചെയ്ത് എത്തുന്ന തീർത്ഥാടകർ പരമ്പരാഗതമായി ത്വവാഫിനായി പ്രവേശിക്കുന്നത്.",
       "ta": "மஸ்ஜிதுல் ஹராமின் மேற்கு பகுதியில் அமைந்துள்ள முக்கியமான வாசல் பாப் அல்-உம்ரா (கேட் 62) ஆகும். கம்பீரமான இரட்டை மினாராக்கள் கொண்ட இந்த வாசல் வழியாகவே தன்ஈமிலிருந்து (மஸ்ஜித் ஆயிஷா) இஹ்ராம் கட்டி வரும் யாத்ரீகர்கள் தவாஃப் செய்வதற்காக பாரம்பரியமாக நுழைகின்றனர்.",
+      "ml": "മസ്ജിദുൽ ഹറാമിന്റെ പടിഞ്ഞാറ് ഭാഗത്ത് സ്ഥിതി ചെയ്യുന്ന പ്രധാന കവാടമാണ് ബാബുൽ ഉംറ (ഗേറ്റ് 62). ഇരട്ട മിനാരങ്ങളാൽ അലംകൃതമായ ഈ കവാടത്തിലൂടെയാണ് തൻഈമിൽ (മസ്ജിദ് ആയിശ) നിന്ന് ഇഹ്‌റാം ചെയ്ത് എത്തുന്ന തീർത്ഥാടകർ പരമ്പരാഗതമായി ത്വവാഫിനായി പ്രവേശിക്കുന്നത്.",
       "ar": "باب العمرة (باب 62)، يقع في الجهة الغربية من المسجد الحرام وتعلوا البوابة مئذنتان شاخصتان، وسمي بذلك لأن المعتمرين القادمين من التنعيم يدخلون منه غالباً."
     },
     "latitude": 21.422705,
@@ -83,12 +83,31 @@
     "subCategory": "Major Gates of Masjid al-Haram",
     "clusterId": "main_doors_haram",
     "city": "Makkah",
-    "imageUrls": [],
+    "imageUrls": [
+      {
+        "url": "image/gate_umrah_1791495392550.webp",
+        "thumbnail": "image/gate_umrah_1791495392550.webp",
+        "caption": {
+          "en": "Umrah Gate (Gate 62 - Bab al-Umrah)",
+          "ms": "Pintu Umrah (Pintu 62 - Bab al-Umrah)",
+          "ar": "باب العمرة (باب 62)"
+        },
+        "overlay": {
+          "type": "arrow",
+          "x": 0.30197311780939046,
+          "y": 0.5692980200565698,
+          "width": 0.18,
+          "height": 0.2,
+          "angle": 45.0,
+          "color": "#ffd700"
+        }
+      }
+    ],
     "videoUrls": [],
     "socialLinks": [],
     "cluster_id": "main_doors_haram",
     "sub_category": "Major Gates of Masjid al-Haram",
-    "thumbnail": "image/gate_fahad.webp"
+    "thumbnail": "image/gate_umrah_1791495392550.webp"
   },
   {
     "id": "kaabah",
@@ -468,15 +487,15 @@
     "name": {
       "en": "King Fahad Gate (Gate 79)",
       "ms": "Pintu Raja Fahad (Pintu 79)",
-      "ml": "കിംഗ് ഫഹദ് ഗേറ്റ് (ഗേറ്റ് 79)",
       "ta": "மன்னர் ஃபஹத் வாசல் (கேட் 79)",
+      "ml": "കിംഗ് ഫഹദ് ഗേറ്റ് (ഗേറ്റ് 79)",
       "ar": "باب الملك فهد (باب 79)"
     },
     "description": {
       "en": "King Fahad Gate (Gate 79) is the imposing western grand entrance constructed during the Second Saudi Expansion. Flanked by majestic twin minarets that tower over the western courtyards and Umm Al-Qura approaches, this grand portal features massive multi-story halls, escalators, and dedicated access passages for high-volume pilgrim transit into both the Mataf and upper prayer decks.",
       "ms": "Pintu Raja Fahad (Pintu 79) adalah pintu gerbang barat yang tersergam indah, dibina semasa Peluasan Saudi Kedua. Ditandai dengan menara berkembar yang megah menjulang di atas dataran barat, pintu ini menyediakan dewan masuk bertingkat yang luas, eskalator, serta laluan khusus untuk melancarkan pergerakan jemaah ke Mataf dan tingkat solat atas.",
-      "ml": "രണ്ടാം സൗദി വിപുലീകരണ വേളയിൽ നിർമ്മിച്ച മസ്ജിദുൽ ഹറാമിന്റെ പടിഞ്ഞാറൻ പ്രധാന കവാടമാണ് കിംഗ് ഫഹദ് ഗേറ്റ് (ഗേറ്റ് 79). പടിഞ്ഞാറൻ മുറ്റത്തിന് മുകളിൽ തലയുയർത്തി നിൽക്കുന്ന ഇരട്ട മിനാരങ്ങൾ ഇതിന്റെ പ്രൗഢി വിളിച്ചോതുന്നു. ഉയർന്ന ശേഷിയുള്ള ലിഫ്റ്റുകളും വിശാലമായ ഇടനാഴികളും വഴി മത്വാഫിലേക്ക് പ്രവേശിക്കാം.",
       "ta": "இரண்டாவது சவூதி விரிவாக்கத்தின் கீழ் அமைக்கப்பட்ட கம்பீரமான மேற்கு வாசல் மன்னர் ஃபஹத் வாசல் (கேட் 79) ஆகும். மேற்கு முற்றம் மற்றும் உம்முல் குரா பகுதியிலிருந்து வரும் மக்களுக்கு இது முக்கிய வாசலாகும். இதன் கம்பீரமான இரட்டை மினாராக்கள் மிகத் தொலைவிலிருந்தே அடையாளம் காட்டுகின்றன.",
+      "ml": "രണ്ടാം സൗദി വിപുലീകരണ വേളയിൽ നിർമ്മിച്ച മസ്ജിദുൽ ഹറാമിന്റെ പടിഞ്ഞാറൻ പ്രധാന കവാടമാണ് കിംഗ് ഫഹദ് ഗേറ്റ് (ഗേറ്റ് 79). പടിഞ്ഞാറൻ മുറ്റത്തിന് മുകളിൽ തലയുയർത്തി നിൽക്കുന്ന ഇരട്ട മിനാരങ്ങൾ ഇതിന്റെ പ്രൗഢി വിളിച്ചോതുന്നു. ഉയർന്ന ശേഷിയുള്ള ലിഫ്റ്റുകളും വിശാലമായ ഇടനാഴികളും വഴി മത്വാഫിലേക്ക് പ്രവേശിക്കാം.",
       "ar": "باب الملك فهد (باب 79)، المدخل الغربي الكبير المنشأ ضمن التوسعة السعودية الثانية، وتتوج البوابة مئذنتان عملاقتان تطلان على الساحات الغربية وتتيح الوصول لصحن المطاف والأدوار العلوية."
     },
     "latitude": 21.42116,
@@ -485,12 +504,22 @@
     "subCategory": "Major Gates of Masjid al-Haram",
     "clusterId": "main_doors_haram",
     "city": "Makkah",
-    "imageUrls": [],
+    "imageUrls": [
+      {
+        "url": "image/gate_fahad_1791495473096.webp",
+        "thumbnail": "image/gate_fahad_1791495473096.webp",
+        "caption": {
+          "en": "King Fahad Gate (Gate 79)",
+          "ms": "Pintu Raja Fahad (Pintu 79)",
+          "ar": "باب الملك فهد (باب 79)"
+        }
+      }
+    ],
     "videoUrls": [],
     "socialLinks": [],
     "cluster_id": "main_doors_haram",
     "sub_category": "Major Gates of Masjid al-Haram",
-    "thumbnail": "image/gate_fahad.webp"
+    "thumbnail": "image/gate_fahad_1791495473096.webp"
   },
   {
     "id": "jabal_uhud",
@@ -798,23 +827,35 @@
     "name": {
       "en": "Masjid Ali bin Abi Talib",
       "ms": "Masjid Ali bin Abi Talib",
+      "ta": "மஸ்ஜித் அலி பின் அபீ தாலிப்",
       "ml": "മസ്ജിദ് അലി ബിൻ അബീത്വാലിബ്",
-      "ta": "மஸ்ஜித் அலி பின் அபீ தாலிப்"
+      "ar": ""
     },
     "description": {
       "en": "One of the historical mosques in Madinah, located close to Masjid Ghamamah.",
       "ms": "Salah satu masjid bersejarah di Madinah, terletak berhampiran Masjid Ghamamah.",
+      "ta": "மதினாவில் உள்ள வரலாற்று சிறப்புமிக்க பள்ளிவாசல்களில் ஒன்று, இது மஸ்ஜித் கமாமாவிற்கு அருகில் அமைந்துள்ளது.",
       "ml": "മദീനയിലെ ചരിത്രപ്രസിദ്ധമായ പള്ളികളിൽ ഒന്ന്. ഇത് മസ്ജിദ് ഗമാമയ്ക്ക് അടുത്തായാണ് സ്ഥിതി ചെയ്യുന്നത്.",
-      "ta": "மதினாவில் உள்ள வரலாற்று சிறப்புமிக்க பள்ளிவாசல்களில் ஒன்று, இது மஸ்ஜித் கமாமாவிற்கு அருகில் அமைந்துள்ளது."
+      "ar": ""
     },
     "latitude": 24.466978,
     "longitude": 39.606409,
     "type": "Historical",
     "city": "Madinah",
-    "imageUrls": [],
+    "imageUrls": [
+      {
+        "url": "image/masjid_ali_madinah_1791495795807.webp",
+        "thumbnail": "image/masjid_ali_madinah_1791495795807.webp",
+        "caption": {
+          "en": "Masjid Ali bin Abi Talib",
+          "ms": "Masjid Ali bin Abi Talib",
+          "ar": ""
+        }
+      }
+    ],
     "videoUrls": [],
     "socialLinks": [],
-    "thumbnail": "image/masjid_ali_madinah.webp"
+    "thumbnail": "image/masjid_ali_madinah_1791495795807.webp"
   },
   {
     "id": "makkah",
@@ -1141,14 +1182,16 @@
     "name": {
       "en": "House of Ali & Fatima (RA)",
       "ms": "Rumah Ali & Fatima (RA)",
+      "ta": "அலி & பாத்திமா (ரலி) இல்லம்",
       "ml": "അലി & ഫാത്തിമ (റ) യുടെ വീട്",
-      "ta": "அலி & பாத்திமா (ரலி) இல்லம்"
+      "ar": ""
     },
     "description": {
       "en": "The home of Ali ibn Abi Talib (RA) and Fatima az-Zahra (RA), located adjacent to the Prophet's house.",
       "ms": "Rumah Ali ibn Abi Talib (RA) dan Fatima az-Zahra (RA), terletak bersebelahan rumah Rasulullah ﷺ.",
+      "ta": "நபிகள் நாயகம் ﷺ இல்லத்திற்கு அருகில் அமைந்துள்ள அலி (ரலி) மற்றும் பாத்திமா (ரலி) அவர்களின் இல்லம்.",
       "ml": "അലി (റ), ഫാത്തിമ (റ) എന്നിവരുടെ വീട്, പ്രവാചകൻ്റെ വീടിന് തൊട്ടടുത്ത്.",
-      "ta": "நபிகள் நாயகம் ﷺ இல்லத்திற்கு அருகில் அமைந்துள்ள அலி (ரலி) மற்றும் பாத்திமா (ரலி) அவர்களின் இல்லம்."
+      "ar": ""
     },
     "latitude": 24.467615,
     "longitude": 39.61153,
@@ -1156,7 +1199,21 @@
     "subCategory": "Rawdah Pillars",
     "clusterId": "rawdah_pillars",
     "city": "Madinah",
-    "imageUrls": [],
+    "imageUrls": [
+      {
+        "url": "assets/image/locations/house_ali.webp",
+        "thumbnail": "assets/image/locations/house_ali.webp",
+        "overlay": {
+          "type": "arrow",
+          "x": 0.6566234987173507,
+          "y": 0.2064053713483546,
+          "width": 0.18,
+          "height": 0.2,
+          "angle": 45.0,
+          "color": "#ff5252"
+        }
+      }
+    ],
     "videoUrls": [],
     "socialLinks": [],
     "cluster_id": "rawdah_pillars",
@@ -1332,33 +1389,6 @@
     "cluster_id": "quba_area",
     "sub_category": "Quba Area",
     "thumbnail": "image/bir_al_khatam.webp"
-  },
-  {
-    "id": "ansar_historic_houses",
-    "name": {
-      "en": "Historic Houses of Ansar at Quba",
-      "ms": "Rumah Bersejarah Ansar di Quba",
-      "ml": "ഖുബായിലെ അൻസാറുകളുടെ ചരിത്ര വീടുകൾ",
-      "ta": "குபாவில் உள்ள அன்சாரிகளின் வரலாற்று இல்லங்கள்"
-    },
-    "description": {
-      "en": "The neighborhood sites of Kulthum ibn al-Hadam (RA) and Saad ibn Khaithamah (RA) where Prophet Muhammad ﷺ stayed upon arriving in Quba during Hijrah.",
-      "ms": "Kawasan kediaman Kulthum ibn al-Hadam (RA) dan Saad ibn Khaithamah (RA) di mana Rasulullah ﷺ menginap semasa tiba di Quba semasa Hijrah.",
-      "ml": "ഹിജ്റ വേളയിൽ പ്രവാചകൻ ﷺ താമസിച്ച അൻസാരി സഹാബികളുടെ വീടുകൾ.",
-      "ta": "ஹிஜ்ரத்தின் போது நபிகள் நாயകം ﷺ தங்கியிருந்த அன்சாரி தோழர்களின் வரலாற்று இல்லங்கள்."
-    },
-    "latitude": 24.438559,
-    "longitude": 39.616941,
-    "type": "Historical",
-    "subCategory": "Quba Area",
-    "clusterId": "quba_area",
-    "city": "Madinah",
-    "imageUrls": [],
-    "videoUrls": [],
-    "socialLinks": [],
-    "cluster_id": "quba_area",
-    "sub_category": "Quba Area",
-    "thumbnail": "image/ansar_historic_houses.webp"
   },
   {
     "id": "maqam_rasulullah",
