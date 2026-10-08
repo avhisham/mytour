@@ -1,31 +1,5 @@
 [
   {
-    "id": "new_site_1791193516417",
-    "name": {
-      "en": "",
-      "ms": "",
-      "ta": "",
-      "ml": "",
-      "ar": ""
-    },
-    "description": {
-      "en": "",
-      "ms": "",
-      "ta": "",
-      "ml": "",
-      "ar": ""
-    },
-    "latitude": 21.4225,
-    "longitude": 39.8262,
-    "type": "Historical",
-    "region": "makkah",
-    "city": "Makkah",
-    "thumbnail": "image/masjid_fatah.webp",
-    "imageUrls": [
-      "image/masjid_fatah.webp"
-    ]
-  },
-  {
     "id": "gate_babus_salam",
     "name": {
       "en": "Bab al-Salam (Gate of Peace - Masjid al-Haram)",
@@ -78,12 +52,17 @@
     "subCategory": "Major Gates of Masjid al-Haram",
     "clusterId": "main_doors_haram",
     "city": "Makkah",
-    "imageUrls": [],
+    "imageUrls": [
+      {
+        "url": "image/gate_abdullah.webp",
+        "thumbnail": "image/gate_abdullah.webp"
+      }
+    ],
     "videoUrls": [],
     "socialLinks": [],
     "cluster_id": "main_doors_haram",
     "sub_category": "Major Gates of Masjid al-Haram",
-    "thumbnail": "image/masjid_haram.webp"
+    "thumbnail": "image/gate_abdullah.webp"
   },
   {
     "id": "gate_umrah",
@@ -2587,7 +2566,7 @@
     "socialLinks": [],
     "cluster_id": "badr_battlefield",
     "sub_category": "Badr Battlefield & Memorials",
-    "thumbnail": "image/bir_badr_valley.webp"
+    "thumbnail": "image/shuhada_badr_graveyard.webp"
   },
   {
     "id": "al_qalib_pit",
@@ -2614,7 +2593,7 @@
     "socialLinks": [],
     "cluster_id": "badr_battlefield",
     "sub_category": "Badr Battlefield & Memorials",
-    "thumbnail": "image/al_qalib_pit.webp"
+    "thumbnail": "image/shuhada_badr_graveyard.webp"
   },
   {
     "id": "bir_rawha_well",
