@@ -53,10 +53,7 @@
     "clusterId": "main_doors_haram",
     "city": "Makkah",
     "imageUrls": [
-      {
-        "url": "image/gate_abdullah.webp",
-        "thumbnail": "image/gate_abdullah.webp"
-      }
+      "image/gate_abdullah.webp"
     ],
     "videoUrls": [],
     "socialLinks": [],
