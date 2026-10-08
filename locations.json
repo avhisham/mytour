@@ -505,15 +505,7 @@
     "clusterId": "main_doors_haram",
     "city": "Makkah",
     "imageUrls": [
-      {
-        "url": "image/gate_fahad_1791495473096.webp",
-        "thumbnail": "image/gate_fahad_1791495473096.webp",
-        "caption": {
-          "en": "King Fahad Gate (Gate 79)",
-          "ms": "Pintu Raja Fahad (Pintu 79)",
-          "ar": "باب الملك فهد (باب 79)"
-        }
-      }
+      "image/gate_fahad_1791495473096.webp"
     ],
     "videoUrls": [],
     "socialLinks": [],
@@ -843,15 +835,7 @@
     "type": "Historical",
     "city": "Madinah",
     "imageUrls": [
-      {
-        "url": "image/masjid_ali_madinah_1791495795807.webp",
-        "thumbnail": "image/masjid_ali_madinah_1791495795807.webp",
-        "caption": {
-          "en": "Masjid Ali bin Abi Talib",
-          "ms": "Masjid Ali bin Abi Talib",
-          "ar": ""
-        }
-      }
+      "image/masjid_ali_madinah_1791495795807.webp"
     ],
     "videoUrls": [],
     "socialLinks": [],
@@ -1835,15 +1819,15 @@
     "name": {
       "en": "Mount Safa (Starting Point of Sa'i)",
       "ms": "Bukit Safa (Permulaan Sa'ie)",
-      "ml": "സ്വഫാ മല (സഈയുടെ തുടക്കം)",
       "ta": "ஸஃபா மலை (சயீ தொடங்குமிடம்)",
+      "ml": "സ്വഫാ മല (സഈയുടെ തുടക്കം)",
       "ar": "جبل الصفا (بداية السعي)"
     },
     "description": {
       "en": "The sacred rocky hill inside Masjid al-Haram from which pilgrims commence the seven laps of Sa'i towards Marwah. Historically, this is the venerable outcrop where Prophet Muhammad ﷺ stood to openly declare monotheism to Quraysh (the Call of Safa). Pilgrims ascend the hill, face the Holy Kaaba, raise their hands, and recite the Sunnah supplications before beginning lap 1.",
       "ms": "Bukit batuan suci di dalam Masjidil Haram di mana jemaah memulakan 7 pusingan Sa'ie menuju ke Marwah. Dari segi sejarah, di sinilah Rasulullah ﷺ berdiri menyeru kaum Quraisy kepada tauhid secara terang-terangan (Seruan Safa). Jemaah menaiki bukit ini, menghadap Kaabah, mengangkat tangan, dan membaca doa-doa Sunnah sebelum memulakan pusingan pertama.",
-      "ml": "മസ്ജിദുൽ ഹറാമിനുള്ളിലെ വിശുദ്ധമായ സ്വഫാ മല. ഇവിടെ നിന്നാണ് മർവ്വയിലേക്കുള്ള ഏഴ് സഅ്‌യ് തീർത്ഥാടകർ ആരംഭിക്കുന്നത്. നബി ﷺ പരസ്യ പ്രബോധനം ആരംഭിച്ച ചരിത്രപ്രസിദ്ധമായ മലയാണിത്. കഅ്ബയിലേക്ക് തിരിഞ്ഞുനിന്ന് പ്രാർത്ഥിച്ചുകൊണ്ടാണ് ഇവിടെ നിന്നും സഅ്‌യ് തുടങ്ങുന്നത്.",
       "ta": "மஸ்ஜிதுல் ஹராமிற்குள் அமைந்துள்ள புனித ஸஃபா மலை. இங்கிருந்தே மர்வாவை நோக்கிய 7 சயீ சுற்றுகள் தொடங்குகின்றன. நபிகள் நாயகம் ﷺ பகிரங்கமாக ஓரிறைக் கொள்கையை பிரகடனம் செய்த வரலாற்றுச் சிறப்புமிக்க இடமாகும். கஅபாவை நோக்கி கையேந்தி சுன்னத்தான துஆக்களை ஓதி சயீயைத் துவங்குகின்றனர்.",
+      "ml": "മസ്ജിദുൽ ഹറാമിനുള്ളിലെ വിശുദ്ധമായ സ്വഫാ മല. ഇവിടെ നിന്നാണ് മർവ്വയിലേക്കുള്ള ഏഴ് സഅ്‌യ് തീർത്ഥാടകർ ആരംഭിക്കുന്നത്. നബി ﷺ പരസ്യ പ്രബോധനം ആരംഭിച്ച ചരിത്രപ്രസിദ്ധമായ മലയാണിത്. കഅ്ബയിലേക്ക് തിരിഞ്ഞുനിന്ന് പ്രാർത്ഥിച്ചുകൊണ്ടാണ് ഇവിടെ നിന്നും സഅ്‌യ് തുടങ്ങുന്നത്.",
       "ar": "جبل الصفا، المرتفع الصخري داخل المسجد الحرام الذي يبدأ منه الحجاج والمعتمرون أشواط السعي السبعة باتجاه المروة، وهو الموقع الذي صدع فيه النبي ﷺ بالدعوة لقريش."
     },
     "latitude": 21.421681,
@@ -1852,26 +1836,38 @@
     "subCategory": "The Mas'a Gallery & Major Gates",
     "clusterId": "masa_and_gates",
     "city": "Makkah",
-    "imageUrls": [],
+    "imageUrls": [
+      {
+        "url": "image/saeisafa.webp",
+        "thumbnail": "image/saeisafa.webp",
+        "caption": {
+          "en": "Mount Safa (Starting Point of Sa'i)",
+          "ms": "Bukit Safa (Permulaan Sa'ie)",
+          "ar": "جبل الصفا (بداية السعي)"
+        }
+      }
+    ],
     "videoUrls": [],
     "socialLinks": [],
     "cluster_id": "masa_and_gates",
     "sub_category": "The Mas'a Gallery & Major Gates",
-    "thumbnail": "image/jabal_safa.webp"
+    "thumbnail": "image/saeisafa.webp"
   },
   {
     "id": "milayn_al_akhdarayn",
     "name": {
       "en": "The Green Marker Run Section",
       "ms": "Kawasan Lampu Hijau (Lari Anak)",
+      "ta": "பச்சை விளக்கு பகுதி (மெதுவோட்டம்)",
       "ml": "പച്ച ലൈറ്റുകൾ ഉള്ള സഈ പാത",
-      "ta": "பச்சை விளக்கு பகுதி (மெதுவோட்டம்)"
+      "ar": ""
     },
     "description": {
       "en": "The lighted gallery section where male pilgrims perform gentle jogging. Commemorates the area of the dry bed where Lady Hajar ran swiftly to maintain sight of infant Ismail.",
       "ms": "Kawasan bertanda tiub lampu hijau di mana jemaah lelaki disunatkan berlari anak. Memperingati kawasan lembah di mana Sayyidatina Hajar berlari pantas mencari air sambil memerhatikan Nabi Ismail a.s.",
+      "ta": "சயீயின் போது ஆண்கள் மெதுவாக ஓட வேண்டிய பச்சை விளக்கு பகுதி. இஸ்மாயீல் நபியை கவனித்தவாறு அன்னை ஹாஜர் வேகமாக ஓடிய பள்ளத்தாக்கு பகுதி.",
       "ml": "സഈ ചെയ്യുമ്പോൾ പുരുഷന്മാർ വേഗത്തിൽ നടക്കേണ്ട പച്ച വെളിച്ചമുള്ള പ്രദേശം. ഇസ്മാഈൽ നബിയെ കാണാൻ ഹാജർ ബീവി വേഗത്തിൽ ഓടിയ ചരിത്ര ഭാഗം.",
-      "ta": "சயீயின் போது ஆண்கள் மெதுவாக ஓட வேண்டிய பச்சை விளக்கு பகுதி. இஸ்மாயீல் நபியை கவனித்தவாறு அன்னை ஹாஜர் வேகமாக ஓடிய பள்ளத்தாக்கு பகுதி."
+      "ar": ""
     },
     "latitude": 21.422734,
     "longitude": 39.82743,
@@ -1879,12 +1875,22 @@
     "subCategory": "The Mas'a Gallery & Major Gates",
     "clusterId": "masa_and_gates",
     "city": "Makkah",
-    "imageUrls": [],
+    "imageUrls": [
+      {
+        "url": "image/milayn_al_akhdarayn_1791497000192.webp",
+        "thumbnail": "image/milayn_al_akhdarayn_1791497000192.webp",
+        "caption": {
+          "en": "The Green Marker Run Section",
+          "ms": "Kawasan Lampu Hijau (Lari Anak)",
+          "ar": ""
+        }
+      }
+    ],
     "videoUrls": [],
     "socialLinks": [],
     "cluster_id": "masa_and_gates",
     "sub_category": "The Mas'a Gallery & Major Gates",
-    "thumbnail": "image/milayn_al_akhdarayn.webp"
+    "thumbnail": "image/milayn_al_akhdarayn_1791497000192.webp"
   },
   {
     "id": "bab_al_fatah",
@@ -2438,21 +2444,23 @@
     "name": {
       "en": "Masjid Addas (Vineyard of Utbah)",
       "ms": "Masjid Addas (Kebun Anggur Addas)",
+      "ta": "மஸ்ஜிது அத்தாஸ் (திராட்சைத் தோட்டம்)",
       "ml": "മസ്ജിദ് അദ്ദാസ് (മുന്തിരിത്തോട്ടം)",
-      "ta": "மஸ்ஜிது அத்தாஸ் (திராட்சைத் தோட்டம்)"
+      "ar": ""
     },
     "description": {
       "en": "Historic garden site where the Christian servant Addas offered grapes and embraced Islam. Located in Al-Mathnah valley. The Prophet ﷺ sheltered here after being pelted with stones by the chiefs of Thaqif.",
       "ms": "Tapak kebun anggur di mana Addas menghulurkan buah anggur lalu memeluk Islam mendengar lafaz Bismillah. Terletak di lembah Al-Mathnah. Tempat Baginda ﷺ berehat dan bermunajat selepas dihalau oleh pembesar Taif.",
+      "ta": "அத்தாஸ் என்ற கிறிஸ்தவ அடிமை நபிகளாருக்கு திராட்சை வழங்கி இஸ்லாத்தை ஏற்ற இடம். அல்-மத்னா பள்ளத்தாக்கில் உள்ளது. தாயிஃப் மக்களின் தாக்குதலுக்குப் பின் நபிகள் இளைப்பாறிய தோட்டம்.",
       "ml": "അദ്ദാസ് എന്ന ക്രിസ്ത്യൻ അടിമ നബിക്ക് മുന്തിരി നൽകുകയും ഇസ്ലാം സ്വീകരിക്കുകയും ചെയ്ത സ്ഥലം. അൽ-മഥ്ന താഴ്‌വരയിലാണ്. ത്വാഇഫുകാരുടെ കല്ലേറുകൊണ്ട് പരിക്കേറ്റ നബി ആശ്വസിച്ച ഇടം.",
-      "ta": "அத்தாஸ் என்ற கிறிஸ்தவ அடிமை நபிகளாருக்கு திராட்சை வழங்கி இஸ்லாத்தை ஏற்ற இடம். அல்-மத்னா பள்ளத்தாக்கில் உள்ளது. தாயிஃப் மக்களின் தாக்குதலுக்குப் பின் நபிகள் இளைப்பாறிய தோட்டம்."
+      "ar": ""
     },
     "latitude": 21.2842,
     "longitude": 40.4079,
     "type": "Mosque",
     "subCategory": "Historical Sites of Taif",
     "clusterId": "taif_locations",
-    "city": "Makkah",
+    "city": "Taif",
     "imageUrls": [],
     "videoUrls": [],
     "socialLinks": [],
@@ -2519,21 +2527,23 @@
     "name": {
       "en": "Badr Shuhada Graveyard",
       "ms": "Makam 14 Syuhada Badar",
+      "ta": "பத்ரு ஷுஹதாக்கள் மையவாடி",
       "ml": "ബദർ ശുഹദാക്കളുടെ മഖ്ബറ",
-      "ta": "பத்ரு ஷுஹதாக்கள் மையவாடி"
+      "ar": ""
     },
     "description": {
       "en": "Walled cemetery enclosing the 14 noble companions martyred in the battle. Names of all 14 martyrs (including Ubaydah ibn al-Harith and Umayr ibn Abi Waqqas) are commemorated outside the enclosure gates.",
       "ms": "Kawasan perkuburan berdinding menempatkan 14 sahabat (Muhajirin & Ansar) yang gugur syahid di Badar. Nama-nama 14 syuhada terpahat pada papan tanda di luar pintu pagar makam.",
+      "ta": "பத்ரு போரில் வீரமரணமடைந்த 14 சஹாபாக்களின் அடக்கஸ்தலம். உபைதா இப்னுல் ஹாரிஸ் உள்ளிட்ட 14 தியாகிகளின் பெயர்கள் முகப்பில் பொறிக்கப்பட்டுள்ளன.",
       "ml": "ബദർ യുദ്ധത്തിൽ രക്തസാക്ഷികളായ 14 സ്വഹാബികളുടെ ഖബറുകൾ അടങ്ങിയ ഇടം. ഉബൈദത്ത് ബിൻ അൽ-ഹാരിഥ് ഉൾപ്പെടെയുള്ള 14 ശുഹദാക്കളുടെ പേരുകൾ കവാടത്തിൽ ആലേഖനം ചെയ്തിട്ടുണ്ട്.",
-      "ta": "பத்ரு போரில் வீரமரணமடைந்த 14 சஹாபாக்களின் அடக்கஸ்தலம். உபைதா இப்னுல் ஹாரிஸ் உள்ளிட்ட 14 தியாகிகளின் பெயர்கள் முகப்பில் பொறிக்கப்பட்டுள்ளன."
+      "ar": ""
     },
     "latitude": 23.7725,
     "longitude": 38.7885,
     "type": "Battlefield",
     "subCategory": "Badr Battlefield & Memorials",
     "clusterId": "badr_battlefield",
-    "city": "Madinah",
+    "city": "Badr",
     "imageUrls": [],
     "videoUrls": [],
     "socialLinks": [],
@@ -2546,21 +2556,23 @@
     "name": {
       "en": "Jabal Al-Mala'ikah (Mountain of the Angels)",
       "ms": "Jabal Al-Mala'ikah (Bukit Malaikat)",
+      "ta": "ஜபலுல் மலாயிகா (வானவர்களின் மலை)",
       "ml": "ജബലുൽ മലായിക (മലക്കുകളുടെ മല)",
-      "ta": "ஜபலுல் மலாயிகா (வானவர்களின் மலை)"
+      "ar": ""
     },
     "description": {
       "en": "The clean white sand dune ridge where angels descended to fight alongside the believers. Situated on the western fringe of the battlefield plain. Mentioned in Surah Al-Anfal and Ali 'Imran as divine reinforcement.",
       "ms": "Bukit rabung pasir putih bersih di mana bala tentera malaikat turun membantu kaum muslimin. Terletak di sebelah barat daya medan. Disebut dalam al-Quran mengenai bantuan ribuan malaikat berpasukan.",
+      "ta": "முஸ்லிம்களுக்கு உதவ வானவர்கள் இறங்கிய வெள்ளை மணல் குன்று. சூரா அன்பாலில் குறிப்பிடப்பட்ட தளம். இறைவனின் உதவி வானவர்கள் வடிவில் இறங்கிய இடம்.",
       "ml": "മുസ്‌ലിംകളെ സഹായിക്കാൻ മലക്കുകൾ ഇറങ്ങിവന്ന വെളുത്ത മണൽക്കുന്ന്. സൂറത്തുൽ അൻഫാലിൽ പരാമർശിച്ച മണൽക്കുന്ന്. അല്ലാഹു മലക്കുകളെ അയച്ച ചരിത്ര ഭൂമി.",
-      "ta": "முஸ்லிம்களுக்கு உதவ வானவர்கள் இறங்கிய வெள்ளை மணல் குன்று. சூரா அன்பாலில் குறிப்பிடப்பட்ட தளம். இறைவனின் உதவி வானவர்கள் வடிவில் இறங்கிய இடம்."
+      "ar": ""
     },
-    "latitude": 23.768,
-    "longitude": 38.781,
+    "latitude": 23.803258877045156,
+    "longitude": 38.76677052885957,
     "type": "Battlefield",
     "subCategory": "Badr Battlefield & Memorials",
     "clusterId": "badr_battlefield",
-    "city": "Madinah",
+    "city": "Badr",
     "imageUrls": [],
     "videoUrls": [],
     "socialLinks": [],
@@ -2897,14 +2909,16 @@
     "name": {
       "en": "Mount Marwah (End of Sa'i & Tahallul)",
       "ms": "Bukit Marwah (Penamat Sa'ie & Tahallul)",
+      "ta": "மர்வா மலை (சயீ முடிவடையும் இடம்)",
       "ml": "മർവ്വാ മല (സഈയുടെ പൂർത്തീകരണം)",
-      "ta": "மர்வா மலை (சயீ முடிவடையும் இடம்)"
+      "ar": ""
     },
     "description": {
       "en": "The rocky mound where the seventh lap of Sa'i finishes prior to tahallul. Facing southwest toward the Kaaba for du'a at the end of each arrival from Safa. Lap 7 concludes here.",
       "ms": "Batuan bukit di mana pusingan ketujuh sa'ie berakhir sebelum bercukur atau bertahalul. Menghadap ke arah barat daya ke Kaabah untuk berdoa di setiap penghujung pusingan. Pusingan ketujuh tamat di sini.",
+      "ta": "சயீயின் ஏழாவது சுற்று நிறைவடைந்து தஹல்லுல் செய்யும் மலை. ஒவ்வொரு சுற்றின் முடிவிலும் தென்மேற்கு திசையிலுள்ள கஅபாவை நோக்கி துஆ செய்யும் இடம். ஏழாவது சுற்று இங்கு நிறவடைகிறது.",
       "ml": "സഈയുടെ ഏഴാം ഘട്ടം ഇവിടെ അവസാനിക്കുന്നു. ഇവിടെ വെച്ച് കഅ്ബയിലേക്ക് തിരിഞ്ഞു ദുആ ചെയ്യൽ സുന്നത്താണ്.",
-      "ta": "சயீயின் ஏழாவது சுற்று நிறைவடைந்து தஹல்லுல் செய்யும் மலை. ஒவ்வொரு சுற்றின் முடிவிலும் தென்மேற்கு திசையிலுள்ள கஅபாவை நோக்கி துஆ செய்யும் இடம். ஏழாவது சுற்று இங்கு நிறவடைகிறது."
+      "ar": ""
     },
     "latitude": 21.425052,
     "longitude": 39.827178,
@@ -2912,12 +2926,22 @@
     "subCategory": "The Mas'a Gallery & Major Gates",
     "clusterId": "masa_and_gates",
     "city": "Makkah",
-    "imageUrls": [],
+    "imageUrls": [
+      {
+        "url": "image/saeimarwa.webp",
+        "thumbnail": "image/saeimarwa.webp",
+        "caption": {
+          "en": "Mount Marwah (End of Sa'i & Tahallul)",
+          "ms": "Bukit Marwah (Penamat Sa'ie & Tahallul)",
+          "ar": ""
+        }
+      }
+    ],
     "videoUrls": [],
     "socialLinks": [],
     "cluster_id": "masa_and_gates",
     "sub_category": "The Mas'a Gallery & Major Gates",
-    "thumbnail": "image/jabal_marwah.webp"
+    "thumbnail": "image/saeimarwa.webp"
   },
   {
     "id": "boundary_taneem",
