@@ -46,9 +46,9 @@
             "longitude": 39.608862
           },
           "images": {
-            "thumbnail": "image/masjid_shaikhain_1791160696457.webp",
+            "thumbnail": "image/masjid_shaikhain.webp",
             "gallery": [
-              "image/masjid_shaikhain_1791160696457.webp"
+              "image/masjid_shaikhain.webp"
             ]
           }
         },
@@ -80,9 +80,9 @@
             "longitude": 39.61205819115529
           },
           "images": {
-            "thumbnail": "image/jabal_rumat_1791193796523.webp",
+            "thumbnail": "image/jabal_rumat.webp",
             "gallery": [
-              "image/jabal_rumat_1791193796523.webp"
+              "image/jabal_rumat.webp"
             ]
           }
         },
@@ -145,9 +145,9 @@
             "longitude": 39.612877
           },
           "images": {
-            "thumbnail": "image/masjid_fasah_1791193662951.webp",
+            "thumbnail": "image/masjid_fasah.webp",
             "gallery": [
-              "image/masjid_fasah_1791193662951.webp"
+              "image/masjid_fasah.webp"
             ]
           }
         },
@@ -210,9 +210,9 @@
             "longitude": 39.60968454539441
           },
           "images": {
-            "thumbnail": "image/masjid_mustarahah_1791193419598.webp",
+            "thumbnail": "image/masjid_mustarahah.webp",
             "gallery": [
-              "image/masjid_mustarahah_1791193419598.webp"
+              "image/masjid_mustarahah.webp"
             ]
           }
         }
@@ -266,7 +266,7 @@
           "images": {
             "thumbnail": "image/gate_abdulaziz.webp",
             "gallery": [
-              "image/gate_abdulaziz_1791105564997.jpg"
+              "image/gate_abdulaziz.webp"
             ]
           }
         },
@@ -2165,9 +2165,9 @@
             "longitude": 39.59568
           },
           "images": {
-            "thumbnail": "image/masjid_fatah_1791193549137.webp",
+            "thumbnail": "image/masjid_fatah.webp",
             "gallery": [
-              "image/masjid_fatah_1791193549137.webp"
+              "image/masjid_fatah.webp"
             ]
           }
         },
