@@ -84,6 +84,7 @@
     "clusterId": "main_doors_haram",
     "city": "Makkah",
     "imageUrls": [
+      "image/gate_umrah_1791495392550.webp",
       {
         "url": "image/gate_umrah_1791495392550.webp",
         "thumbnail": "image/gate_umrah_1791495392550.webp",
@@ -127,7 +128,9 @@
     "longitude": 39.826789,
     "type": "Holy Site",
     "city": "Makkah",
-    "imageUrls": [],
+    "imageUrls": [
+      "image/kaabah.webp"
+    ],
     "videoUrls": [],
     "socialLinks": [],
     "thumbnail": "image/kaabah.webp"
@@ -150,7 +153,9 @@
     "longitude": 39.825182,
     "type": "Mosque",
     "city": "Makkah",
-    "imageUrls": [],
+    "imageUrls": [
+      "image/masjid_haram.webp"
+    ],
     "videoUrls": [],
     "socialLinks": [],
     "thumbnail": "image/masjid_haram.webp"
@@ -175,7 +180,9 @@
     "subCategory": "The Sacred Hajj Pilgrimage Sites (Al-Masha'ir)",
     "clusterId": "hajj_mashair",
     "city": "Makkah",
-    "imageUrls": [],
+    "imageUrls": [
+      "image/jabal_rahmah.webp"
+    ],
     "videoUrls": [],
     "socialLinks": [],
     "cluster_id": "hajj_mashair",
@@ -200,7 +207,9 @@
     "longitude": 39.54325,
     "type": "Miqat",
     "city": "Madinah",
-    "imageUrls": [],
+    "imageUrls": [
+      "image/miqat_dhul_hulaifah.webp"
+    ],
     "videoUrls": [],
     "socialLinks": [],
     "thumbnail": "image/miqat_dhul_hulaifah.webp"
@@ -225,7 +234,9 @@
     "subCategory": "Battle of the Trench (The Seven Mosques)",
     "clusterId": "seven_mosques_khandaq",
     "city": "Madinah",
-    "imageUrls": [],
+    "imageUrls": [
+      "image/masjid_qiblatayn.webp"
+    ],
     "videoUrls": [],
     "socialLinks": [],
     "cluster_id": "seven_mosques_khandaq",
@@ -250,7 +261,9 @@
     "longitude": 39.6114,
     "type": "Mosque",
     "city": "Madinah",
-    "imageUrls": [],
+    "imageUrls": [
+      "image/masjid_nabawi.webp"
+    ],
     "videoUrls": [],
     "socialLinks": [],
     "thumbnail": "image/masjid_nabawi.webp"
@@ -275,7 +288,9 @@
     "subCategory": "Historic Houses & Early Sirah in Makkah",
     "clusterId": "sirah_makkah_houses",
     "city": "Makkah",
-    "imageUrls": [],
+    "imageUrls": [
+      "image/rasul_birth_place.webp"
+    ],
     "videoUrls": [],
     "socialLinks": [],
     "promptImages": [
@@ -318,7 +333,9 @@
     "longitude": 39.82618,
     "type": "Holy Site",
     "city": "Makkah",
-    "imageUrls": [],
+    "imageUrls": [
+      "image/rukun_yamani.webp"
+    ],
     "videoUrls": [],
     "socialLinks": [],
     "thumbnail": "image/rukun_yamani.webp"
@@ -341,7 +358,9 @@
     "longitude": 39.826118,
     "type": "Holy Site",
     "city": "Makkah",
-    "imageUrls": [],
+    "imageUrls": [
+      "image/rukun_shami.webp"
+    ],
     "videoUrls": [],
     "socialLinks": [],
     "thumbnail": "image/rukun_shami.webp"
@@ -366,7 +385,9 @@
     "type": "Holy Site",
     "clusterId": "hajj_mashair",
     "city": "Makkah",
-    "imageUrls": [],
+    "imageUrls": [
+      "image/jamarah_ula.webp"
+    ],
     "videoUrls": [],
     "socialLinks": [],
     "cluster_id": "hajj_mashair",
@@ -392,7 +413,9 @@
     "type": "Holy Site",
     "clusterId": "hajj_mashair",
     "city": "Makkah",
-    "imageUrls": [],
+    "imageUrls": [
+      "image/jamarah_wusta.webp"
+    ],
     "videoUrls": [],
     "socialLinks": [],
     "cluster_id": "hajj_mashair",
@@ -418,7 +441,9 @@
     "type": "Holy Site",
     "clusterId": "hajj_mashair",
     "city": "Makkah",
-    "imageUrls": [],
+    "imageUrls": [
+      "image/jamarah_aqabah.webp"
+    ],
     "videoUrls": [],
     "socialLinks": [],
     "cluster_id": "hajj_mashair",
@@ -444,7 +469,9 @@
     "subCategory": "Historic Houses & Early Sirah in Makkah",
     "clusterId": "sirah_makkah_houses",
     "city": "Makkah",
-    "imageUrls": [],
+    "imageUrls": [
+      "image/masjid_jinn.webp"
+    ],
     "videoUrls": [],
     "socialLinks": [],
     "cluster_id": "sirah_makkah_houses",
@@ -531,7 +558,9 @@
     "longitude": 39.62625,
     "type": "Historical",
     "city": "Madinah",
-    "imageUrls": [],
+    "imageUrls": [
+      "image/jabal_uhud.webp"
+    ],
     "videoUrls": [],
     "socialLinks": [],
     "thumbnail": "image/jabal_uhud.webp"
@@ -556,7 +585,9 @@
     "subCategory": "The Quba Precinct & Sahabah Residences",
     "clusterId": "quba_precinct",
     "city": "Madinah",
-    "imageUrls": [],
+    "imageUrls": [
+      "image/masjid_quba.webp"
+    ],
     "videoUrls": [],
     "socialLinks": [],
     "cluster_id": "quba_precinct",
@@ -758,7 +789,9 @@
     "type": "Historical",
     "clusterId": "uhud_precinct",
     "city": "Madinah",
-    "imageUrls": [],
+    "imageUrls": [
+      "image/battlefield_uhud.webp"
+    ],
     "videoUrls": [],
     "socialLinks": [],
     "cluster_id": "uhud_precinct",
@@ -784,7 +817,9 @@
     "subCategory": "Immediate Perimeter of Masjid Nabawi",
     "clusterId": "perimeter_nabawi",
     "city": "Madinah",
-    "imageUrls": [],
+    "imageUrls": [
+      "image/masjid_ghamamah.webp"
+    ],
     "videoUrls": [],
     "socialLinks": [],
     "cluster_id": "perimeter_nabawi",
@@ -809,7 +844,9 @@
     "longitude": 39.606397,
     "type": "Historical",
     "city": "Madinah",
-    "imageUrls": [],
+    "imageUrls": [
+      "image/masjid_abu_bakr_madinah.webp"
+    ],
     "videoUrls": [],
     "socialLinks": [],
     "thumbnail": "image/masjid_abu_bakr_madinah.webp"
@@ -859,7 +896,9 @@
     "longitude": 39.827953,
     "type": "Historical",
     "city": "Makkah",
-    "imageUrls": [],
+    "imageUrls": [
+      "image/makkah.webp"
+    ],
     "videoUrls": [],
     "socialLinks": [],
     "thumbnail": "image/makkah.webp"
@@ -884,7 +923,9 @@
     "subCategory": "Rawdah Pillars",
     "clusterId": "rawdah_pillars",
     "city": "Madinah",
-    "imageUrls": [],
+    "imageUrls": [
+      "image/ustuwanah_tahajjud.webp"
+    ],
     "videoUrls": [],
     "socialLinks": [],
     "cluster_id": "rawdah_pillars",
@@ -911,7 +952,9 @@
     "subCategory": "Rawdah Pillars",
     "clusterId": "rawdah_pillars",
     "city": "Madinah",
-    "imageUrls": [],
+    "imageUrls": [
+      "image/ustuwanah_wufud.webp"
+    ],
     "videoUrls": [],
     "socialLinks": [],
     "cluster_id": "rawdah_pillars",
@@ -938,7 +981,9 @@
     "subCategory": "Rawdah Pillars",
     "clusterId": "rawdah_pillars",
     "city": "Madinah",
-    "imageUrls": [],
+    "imageUrls": [
+      "image/ustuwanah_ali.webp"
+    ],
     "videoUrls": [],
     "socialLinks": [],
     "cluster_id": "rawdah_pillars",
@@ -965,7 +1010,9 @@
     "subCategory": "Rawdah Pillars",
     "clusterId": "rawdah_pillars",
     "city": "Madinah",
-    "imageUrls": [],
+    "imageUrls": [
+      "image/ustuwanah_sarir.webp"
+    ],
     "videoUrls": [],
     "socialLinks": [],
     "cluster_id": "rawdah_pillars",
@@ -992,7 +1039,9 @@
     "subCategory": "Rawdah Pillars",
     "clusterId": "rawdah_pillars",
     "city": "Madinah",
-    "imageUrls": [],
+    "imageUrls": [
+      "image/ustuwanah_tawbah.webp"
+    ],
     "videoUrls": [],
     "socialLinks": [],
     "cluster_id": "rawdah_pillars",
@@ -1019,7 +1068,9 @@
     "subCategory": "Rawdah Pillars",
     "clusterId": "rawdah_pillars",
     "city": "Madinah",
-    "imageUrls": [],
+    "imageUrls": [
+      "image/ustuwanah_aisha.webp"
+    ],
     "videoUrls": [],
     "socialLinks": [],
     "cluster_id": "rawdah_pillars",
@@ -1046,7 +1097,9 @@
     "subCategory": "Rawdah Pillars",
     "clusterId": "rawdah_pillars",
     "city": "Madinah",
-    "imageUrls": [],
+    "imageUrls": [
+      "image/ustuwanah_mukhallaqah.webp"
+    ],
     "videoUrls": [],
     "socialLinks": [],
     "cluster_id": "rawdah_pillars",
@@ -1073,7 +1126,9 @@
     "subCategory": "Rawdah Pillars",
     "clusterId": "rawdah_pillars",
     "city": "Madinah",
-    "imageUrls": [],
+    "imageUrls": [
+      "image/prophet_minbar.webp"
+    ],
     "videoUrls": [],
     "socialLinks": [],
     "cluster_id": "rawdah_pillars",
@@ -1100,7 +1155,9 @@
     "subCategory": "Rawdah Pillars",
     "clusterId": "rawdah_pillars",
     "city": "Madinah",
-    "imageUrls": [],
+    "imageUrls": [
+      "image/prophet_mihrab.webp"
+    ],
     "videoUrls": [],
     "socialLinks": [],
     "cluster_id": "rawdah_pillars",
@@ -1127,7 +1184,9 @@
     "subCategory": "Rawdah Pillars",
     "clusterId": "rawdah_pillars",
     "city": "Madinah",
-    "imageUrls": [],
+    "imageUrls": [
+      "image/hujrah_aisha_direction.webp"
+    ],
     "videoUrls": [],
     "socialLinks": [],
     "cluster_id": "rawdah_pillars",
@@ -1154,7 +1213,9 @@
     "subCategory": "Rawdah Pillars",
     "clusterId": "rawdah_pillars",
     "city": "Madinah",
-    "imageUrls": [],
+    "imageUrls": [
+      "image/house_hafsah.webp"
+    ],
     "videoUrls": [],
     "socialLinks": [],
     "cluster_id": "rawdah_pillars",
@@ -1184,6 +1245,7 @@
     "clusterId": "rawdah_pillars",
     "city": "Madinah",
     "imageUrls": [
+      "image/house_ali.webp",
       {
         "url": "assets/image/locations/house_ali.webp",
         "thumbnail": "assets/image/locations/house_ali.webp",
@@ -1224,7 +1286,9 @@
     "subCategory": "Uhud Battlefield",
     "clusterId": "uhud_precinct",
     "city": "Madinah",
-    "imageUrls": [],
+    "imageUrls": [
+      "image/maqam_shuhada_uhud.webp"
+    ],
     "videoUrls": [],
     "socialLinks": [],
     "cluster_id": "uhud_precinct",
@@ -1251,7 +1315,9 @@
     "subCategory": "Salam Trail",
     "clusterId": "salam_rasulullah_path",
     "city": "Madinah",
-    "imageUrls": [],
+    "imageUrls": [
+      "image/bab_al_salam.webp"
+    ],
     "videoUrls": [],
     "socialLinks": [],
     "cluster_id": "salam_rasulullah_path",
@@ -1278,7 +1344,9 @@
     "subCategory": "Salam Trail",
     "clusterId": "salam_rasulullah_path",
     "city": "Madinah",
-    "imageUrls": [],
+    "imageUrls": [
+      "image/window_house_hafsah.webp"
+    ],
     "videoUrls": [],
     "socialLinks": [],
     "cluster_id": "salam_rasulullah_path",
@@ -1336,7 +1404,9 @@
     "subCategory": "Salam Trail",
     "clusterId": "salam_rasulullah_path",
     "city": "Madinah",
-    "imageUrls": [],
+    "imageUrls": [
+      "image/jenazah_building.webp"
+    ],
     "videoUrls": [],
     "socialLinks": [],
     "cluster_id": "salam_rasulullah_path",
@@ -1394,7 +1464,9 @@
     "subCategory": "Rawdah Pillars",
     "clusterId": "rawdah_pillars",
     "city": "Madinah",
-    "imageUrls": [],
+    "imageUrls": [
+      "image/maqam_rasulullah.webp"
+    ],
     "videoUrls": [],
     "socialLinks": [],
     "cluster_id": "rawdah_pillars",
@@ -1421,7 +1493,9 @@
     "subCategory": "Rawdah Pillars",
     "clusterId": "rawdah_pillars",
     "city": "Madinah",
-    "imageUrls": [],
+    "imageUrls": [
+      "image/ustuwanah_hannana.webp"
+    ],
     "videoUrls": [],
     "socialLinks": [],
     "cluster_id": "rawdah_pillars",
@@ -1510,7 +1584,9 @@
     "subCategory": "Prophet's Wells",
     "clusterId": "madinah_wells",
     "city": "Madinah",
-    "imageUrls": [],
+    "imageUrls": [
+      "image/bir_osman.webp"
+    ],
     "videoUrls": [],
     "socialLinks": [],
     "cluster_id": "madinah_wells",
@@ -1537,7 +1613,9 @@
     "subCategory": "Khandaq Mosques",
     "clusterId": "khandaq_cluster",
     "city": "Madinah",
-    "imageUrls": [],
+    "imageUrls": [
+      "image/masjid_salman_farsi.webp"
+    ],
     "videoUrls": [],
     "socialLinks": [],
     "cluster_id": "khandaq_cluster",
@@ -1564,7 +1642,9 @@
     "subCategory": "Khandaq Mosques",
     "clusterId": "khandaq_cluster",
     "city": "Madinah",
-    "imageUrls": [],
+    "imageUrls": [
+      "image/masjid_umar_khandaq.webp"
+    ],
     "videoUrls": [],
     "socialLinks": [],
     "cluster_id": "khandaq_cluster",
@@ -1591,7 +1671,9 @@
     "subCategory": "Khandaq Mosques",
     "clusterId": "khandaq_cluster",
     "city": "Madinah",
-    "imageUrls": [],
+    "imageUrls": [
+      "image/masjid_ali_khandaq.webp"
+    ],
     "videoUrls": [],
     "socialLinks": [],
     "cluster_id": "khandaq_cluster",
@@ -1618,7 +1700,9 @@
     "subCategory": "Khandaq Mosques",
     "clusterId": "khandaq_cluster",
     "city": "Madinah",
-    "imageUrls": [],
+    "imageUrls": [
+      "image/masjid_saad_muadh.webp"
+    ],
     "videoUrls": [],
     "socialLinks": [],
     "cluster_id": "khandaq_cluster",
@@ -1645,7 +1729,9 @@
     "subCategory": "Khandaq Mosques",
     "clusterId": "khandaq_cluster",
     "city": "Madinah",
-    "imageUrls": [],
+    "imageUrls": [
+      "image/masjid_abu_bakr_khandaq.webp"
+    ],
     "videoUrls": [],
     "socialLinks": [],
     "cluster_id": "khandaq_cluster",
@@ -1672,7 +1758,9 @@
     "subCategory": "Khandaq Mosques",
     "clusterId": "khandaq_cluster",
     "city": "Madinah",
-    "imageUrls": [],
+    "imageUrls": [
+      "image/masjid_fatimah_khandaq.webp"
+    ],
     "videoUrls": [],
     "socialLinks": [],
     "cluster_id": "khandaq_cluster",
@@ -1699,7 +1787,9 @@
     "subCategory": "Inside the Mataf & The Holy Kaaba",
     "clusterId": "mataf_kaabah",
     "city": "Makkah",
-    "imageUrls": [],
+    "imageUrls": [
+      "image/bab_al_kaaba.webp"
+    ],
     "videoUrls": [],
     "socialLinks": [],
     "cluster_id": "mataf_kaabah",
@@ -1726,7 +1816,9 @@
     "subCategory": "Inside the Mataf & The Holy Kaaba",
     "clusterId": "mataf_kaabah",
     "city": "Makkah",
-    "imageUrls": [],
+    "imageUrls": [
+      "image/hijr_ismail.webp"
+    ],
     "videoUrls": [],
     "socialLinks": [],
     "cluster_id": "mataf_kaabah",
@@ -1753,7 +1845,9 @@
     "subCategory": "Inside the Mataf & The Holy Kaaba",
     "clusterId": "mataf_kaabah",
     "city": "Makkah",
-    "imageUrls": [],
+    "imageUrls": [
+      "image/maqam_ibrahim.webp"
+    ],
     "videoUrls": [],
     "socialLinks": [],
     "cluster_id": "mataf_kaabah",
@@ -1780,7 +1874,9 @@
     "subCategory": "Inside the Mataf & The Holy Kaaba",
     "clusterId": "mataf_kaabah",
     "city": "Makkah",
-    "imageUrls": [],
+    "imageUrls": [
+      "image/zamzam_site.webp"
+    ],
     "videoUrls": [],
     "socialLinks": [],
     "cluster_id": "mataf_kaabah",
@@ -1807,7 +1903,9 @@
     "subCategory": "Inside the Mataf & The Holy Kaaba",
     "clusterId": "mataf_kaabah",
     "city": "Makkah",
-    "imageUrls": [],
+    "imageUrls": [
+      "image/umm_hani_house_site.webp"
+    ],
     "videoUrls": [],
     "socialLinks": [],
     "cluster_id": "mataf_kaabah",
@@ -1927,7 +2025,9 @@
     "subCategory": "Historic Houses & Early Sirah in Makkah",
     "clusterId": "sirah_makkah_houses",
     "city": "Makkah",
-    "imageUrls": [],
+    "imageUrls": [
+      "image/khadijah_house_site.webp"
+    ],
     "videoUrls": [],
     "socialLinks": [],
     "cluster_id": "sirah_makkah_houses",
@@ -2014,7 +2114,9 @@
     "subCategory": "Historic Houses & Early Sirah in Makkah",
     "clusterId": "sirah_makkah_houses",
     "city": "Makkah",
-    "imageUrls": [],
+    "imageUrls": [
+      "image/jannat_al_mualla.webp"
+    ],
     "videoUrls": [],
     "socialLinks": [],
     "cluster_id": "sirah_makkah_houses",
@@ -2134,7 +2236,9 @@
     "subCategory": "Sacred Mountains around Makkah",
     "clusterId": "mountains_makkah",
     "city": "Makkah",
-    "imageUrls": [],
+    "imageUrls": [
+      "image/jabal_an_nur.webp"
+    ],
     "videoUrls": [],
     "socialLinks": [],
     "cluster_id": "mountains_makkah",
@@ -2161,7 +2265,9 @@
     "subCategory": "Sacred Mountains around Makkah",
     "clusterId": "mountains_makkah",
     "city": "Makkah",
-    "imageUrls": [],
+    "imageUrls": [
+      "image/jabal_thawr.webp"
+    ],
     "videoUrls": [],
     "socialLinks": [],
     "cluster_id": "mountains_makkah",
@@ -2250,7 +2356,9 @@
     "subCategory": "The Sacred Hajj Pilgrimage Sites (Al-Masha'ir)",
     "clusterId": "hajj_mashair",
     "city": "Makkah",
-    "imageUrls": [],
+    "imageUrls": [
+      "image/masjid_al_khayf.webp"
+    ],
     "videoUrls": [],
     "socialLinks": [],
     "cluster_id": "hajj_mashair",
@@ -2277,7 +2385,9 @@
     "subCategory": "The Sacred Hajj Pilgrimage Sites (Al-Masha'ir)",
     "clusterId": "hajj_mashair",
     "city": "Makkah",
-    "imageUrls": [],
+    "imageUrls": [
+      "image/masjid_al_bayah.webp"
+    ],
     "videoUrls": [],
     "socialLinks": [],
     "cluster_id": "hajj_mashair",
@@ -2304,7 +2414,9 @@
     "subCategory": "The Sacred Hajj Pilgrimage Sites (Al-Masha'ir)",
     "clusterId": "hajj_mashair",
     "city": "Makkah",
-    "imageUrls": [],
+    "imageUrls": [
+      "image/masjid_mashar_al_haram.webp"
+    ],
     "videoUrls": [],
     "socialLinks": [],
     "cluster_id": "hajj_mashair",
@@ -2331,7 +2443,9 @@
     "subCategory": "The Sacred Hajj Pilgrimage Sites (Al-Masha'ir)",
     "clusterId": "hajj_mashair",
     "city": "Makkah",
-    "imageUrls": [],
+    "imageUrls": [
+      "image/wadi_muhassir.webp"
+    ],
     "videoUrls": [],
     "socialLinks": [],
     "cluster_id": "hajj_mashair",
@@ -2358,7 +2472,9 @@
     "subCategory": "The Sacred Hajj Pilgrimage Sites (Al-Masha'ir)",
     "clusterId": "hajj_mashair",
     "city": "Makkah",
-    "imageUrls": [],
+    "imageUrls": [
+      "image/masjid_namirah.webp"
+    ],
     "videoUrls": [],
     "socialLinks": [],
     "cluster_id": "hajj_mashair",
@@ -2385,7 +2501,9 @@
     "subCategory": "The Sacred Hajj Pilgrimage Sites (Al-Masha'ir)",
     "clusterId": "hajj_mashair",
     "city": "Makkah",
-    "imageUrls": [],
+    "imageUrls": [
+      "image/ain_zubaydah_ruins.webp"
+    ],
     "videoUrls": [],
     "socialLinks": [],
     "cluster_id": "hajj_mashair",
@@ -2445,7 +2563,9 @@
     "subCategory": "Historical Sites of Taif",
     "clusterId": "taif_locations",
     "city": "Taif",
-    "imageUrls": [],
+    "imageUrls": [
+      "image/masjid_addas.webp"
+    ],
     "videoUrls": [],
     "socialLinks": [],
     "cluster_id": "taif_locations",
@@ -2474,7 +2594,9 @@
     "subCategory": "Historical Sites of Taif",
     "clusterId": "taif_locations",
     "city": "Taif",
-    "imageUrls": [],
+    "imageUrls": [
+      "image/masjid_al_kouk.webp"
+    ],
     "videoUrls": [],
     "socialLinks": [],
     "cluster_id": "taif_locations",
@@ -2503,7 +2625,9 @@
     "subCategory": "Badr Battlefield & Memorials",
     "clusterId": "badr_battlefield",
     "city": "Badr",
-    "imageUrls": [],
+    "imageUrls": [
+      "image/masjid_al_areesh.webp"
+    ],
     "videoUrls": [],
     "socialLinks": [],
     "cluster_id": "badr_battlefield",
@@ -2532,7 +2656,9 @@
     "subCategory": "Badr Battlefield & Memorials",
     "clusterId": "badr_battlefield",
     "city": "Badr",
-    "imageUrls": [],
+    "imageUrls": [
+      "image/shuhada_badr_graveyard.webp"
+    ],
     "videoUrls": [],
     "socialLinks": [],
     "cluster_id": "badr_battlefield",
@@ -2561,7 +2687,9 @@
     "subCategory": "Badr Battlefield & Memorials",
     "clusterId": "badr_battlefield",
     "city": "Badr",
-    "imageUrls": [],
+    "imageUrls": [
+      "image/jabal_al_malaikah.webp"
+    ],
     "videoUrls": [],
     "socialLinks": [],
     "cluster_id": "badr_battlefield",
@@ -2590,7 +2718,9 @@
     "subCategory": "Badr Battlefield & Memorials",
     "clusterId": "badr_battlefield",
     "city": "Badr",
-    "imageUrls": [],
+    "imageUrls": [
+      "image/shuhada_badr_graveyard.webp"
+    ],
     "videoUrls": [],
     "socialLinks": [],
     "cluster_id": "badr_battlefield",
@@ -2617,7 +2747,9 @@
     "subCategory": "Wadi & Well of Ar-Rawha",
     "clusterId": "bir_ar_rawha",
     "city": "Madinah",
-    "imageUrls": [],
+    "imageUrls": [
+      "image/bir_rawha_well.webp"
+    ],
     "videoUrls": [],
     "socialLinks": [],
     "cluster_id": "bir_ar_rawha",
@@ -2644,7 +2776,9 @@
     "subCategory": "Wadi & Well of Ar-Rawha",
     "clusterId": "bir_ar_rawha",
     "city": "Madinah",
-    "imageUrls": [],
+    "imageUrls": [
+      "image/masjid_ar_rawha.webp"
+    ],
     "videoUrls": [],
     "socialLinks": [],
     "cluster_id": "bir_ar_rawha",
@@ -2671,7 +2805,9 @@
     "subCategory": "Inside Masjid Nabawi: Rawdah Mubarak & Historical Pillars",
     "clusterId": "rawdah_nabawi",
     "city": "Madinah",
-    "imageUrls": [],
+    "imageUrls": [
+      "image/al_suffah_platform.webp"
+    ],
     "videoUrls": [],
     "socialLinks": [],
     "cluster_id": "rawdah_nabawi",
@@ -2698,7 +2834,9 @@
     "subCategory": "Immediate Perimeter of Masjid Nabawi",
     "clusterId": "perimeter_nabawi",
     "city": "Madinah",
-    "imageUrls": [],
+    "imageUrls": [
+      "image/jannat_al_baqi.webp"
+    ],
     "videoUrls": [],
     "socialLinks": [],
     "cluster_id": "perimeter_nabawi",
@@ -2725,7 +2863,9 @@
     "subCategory": "Immediate Perimeter of Masjid Nabawi",
     "clusterId": "perimeter_nabawi",
     "city": "Madinah",
-    "imageUrls": [],
+    "imageUrls": [
+      "image/saqifah_bani_saidah.webp"
+    ],
     "videoUrls": [],
     "socialLinks": [],
     "cluster_id": "perimeter_nabawi",
@@ -2752,7 +2892,9 @@
     "subCategory": "Uhud Battlefield & Landmarks",
     "clusterId": "uhud_precinct",
     "city": "Madinah",
-    "imageUrls": [],
+    "imageUrls": [
+      "image/ghar_uhud.webp"
+    ],
     "videoUrls": [],
     "socialLinks": [],
     "cluster_id": "uhud_precinct",
@@ -2779,7 +2921,9 @@
     "subCategory": "The Quba Precinct & Sahabah Residences",
     "clusterId": "quba_precinct",
     "city": "Madinah",
-    "imageUrls": [],
+    "imageUrls": [
+      "image/house_kulthum_hadm.webp"
+    ],
     "videoUrls": [],
     "socialLinks": [],
     "cluster_id": "quba_precinct",
@@ -2806,7 +2950,9 @@
     "subCategory": "The Quba Precinct & Sahabah Residences",
     "clusterId": "quba_precinct",
     "city": "Madinah",
-    "imageUrls": [],
+    "imageUrls": [
+      "image/house_sad_khaythamah.webp"
+    ],
     "videoUrls": [],
     "socialLinks": [],
     "cluster_id": "quba_precinct",
@@ -2833,7 +2979,9 @@
     "subCategory": "Inside the Mataf & The Holy Kaaba",
     "clusterId": "mataf_kaabah",
     "city": "Makkah",
-    "imageUrls": [],
+    "imageUrls": [
+      "image/rukun_hajar.webp"
+    ],
     "videoUrls": [],
     "socialLinks": [],
     "cluster_id": "mataf_kaabah",
@@ -2860,7 +3008,9 @@
     "subCategory": "Inside the Mataf & The Holy Kaaba",
     "clusterId": "mataf_kaabah",
     "city": "Makkah",
-    "imageUrls": [],
+    "imageUrls": [
+      "image/darul_nadwah.webp"
+    ],
     "videoUrls": [],
     "socialLinks": [],
     "cluster_id": "mataf_kaabah",
@@ -2920,7 +3070,9 @@
     "subCategory": "Makkah Sacred Sanctuary Boundary",
     "clusterId": "haram_boundaries",
     "city": "Makkah",
-    "imageUrls": [],
+    "imageUrls": [
+      "image/makkah.webp"
+    ],
     "videoUrls": [],
     "socialLinks": [],
     "cluster_id": "haram_boundaries",
@@ -2949,7 +3101,9 @@
     "subCategory": "Makkah Sacred Sanctuary Boundary",
     "clusterId": "haram_boundaries",
     "city": "Makkah",
-    "imageUrls": [],
+    "imageUrls": [
+      "image/makkah.webp"
+    ],
     "videoUrls": [],
     "socialLinks": [],
     "cluster_id": "haram_boundaries",
@@ -2978,7 +3132,9 @@
     "subCategory": "Makkah Sacred Sanctuary Boundary",
     "clusterId": "haram_boundaries",
     "city": "Makkah",
-    "imageUrls": [],
+    "imageUrls": [
+      "image/makkah.webp"
+    ],
     "videoUrls": [],
     "socialLinks": [],
     "cluster_id": "haram_boundaries",
@@ -3007,7 +3163,9 @@
     "subCategory": "Makkah Sacred Sanctuary Boundary",
     "clusterId": "haram_boundaries",
     "city": "Makkah",
-    "imageUrls": [],
+    "imageUrls": [
+      "image/masjid_namirah.webp"
+    ],
     "videoUrls": [],
     "socialLinks": [],
     "cluster_id": "haram_boundaries",
@@ -3036,7 +3194,9 @@
     "subCategory": "Makkah Sacred Sanctuary Boundary",
     "clusterId": "haram_boundaries",
     "city": "Makkah",
-    "imageUrls": [],
+    "imageUrls": [
+      "image/makkah.webp"
+    ],
     "videoUrls": [],
     "socialLinks": [],
     "cluster_id": "haram_boundaries",
@@ -3065,7 +3225,9 @@
     "subCategory": "Makkah Sacred Sanctuary Boundary",
     "clusterId": "haram_boundaries",
     "city": "Makkah",
-    "imageUrls": [],
+    "imageUrls": [
+      "image/makkah.webp"
+    ],
     "videoUrls": [],
     "socialLinks": [],
     "cluster_id": "haram_boundaries",
