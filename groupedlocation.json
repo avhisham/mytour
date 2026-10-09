@@ -1,7 +1,7 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "version": "1.0.0",
-  "generated_at": "2026-10-08T22:43:04.020219Z",
+  "generated_at": "2026-10-09T00:25:26.401864Z",
   "groups": [
     {
       "id": "the_battle_of_uhud",
@@ -1632,24 +1632,28 @@
           }
         },
         {
-          "id": "shuhada_badr_graveyard",
+          "id": "bir_badr_valley",
           "title": {
-            "en": "Badr Shuhada Graveyard",
-            "ms": "Makam 14 Syuhada Badar",
-            "ml": "ബദർ ശുഹദാക്കളുടെ മഖ്ബറ",
-            "ta": "பத்ரு ஷுஹதாக்கள் மையவாடி"
+            "en": "Valley Bed of the Badr Wells",
+            "ms": "Lembah Telaga Badr Purba",
+            "ml": "ബദറിലെ കിണറുകൾ നിലനിന്ന താഴ്‌വര",
+            "ta": "பத்ரு கிணறுகள் இருந்த பள்ளத்தாக்கு"
           },
           "summary": {
-            "en": "Walled cemetery enclosing the 14 noble companions martyred in the battle.",
-            "ms": "Kawasan perkuburan berdinding menempatkan 14 sahabat (Muhajirin & Ansar) yang gugur syahid di Badar.",
-            "ml": "ബദർ യുദ്ധത്തിൽ രക്തസാക്ഷികളായ 14 സ്വഹാബികളുടെ ഖബറുകൾ അടങ്ങിയ ഇടം.",
-            "ta": "பத்ரு போரில் வீரமரணமடைந்த 14 சஹாபாக்களின் அடக்கஸ்தலம்."
+            "en": "The aquifer valley where the Muslims secured the water supply before combat. Now a level open historic terrain in front of Masjid Al-Areesh; the original ancient individual well pits are sealed.",
+            "ms": "Lembah sumber air di mana tentera Islam menguasai telaga atas cadangan Al-Hubab bin Al-Mundhir. Kini kawasan tanah lapang bersejarah di hadapan Masjid Al-Areesh; telaga-telaga purba tidak lagi terbuka.",
+            "ml": "ഹുബാബ് ബിൻ മുൻദിറിന്റെ ഉപദേശപ്രകാരം മുസ്ലിംകൾ വെള്ളം ശേഖരിച്ച കിണറുകളുടെ താഴ്‌വര. ഇന്ന് തുറന്ന മൈതാനമാണ്. അന്ന് നിലനിന്നിരുന്ന പഴയ കിണറുകൾ പിന്നീട് മൂടപ്പെട്ടു.",
+            "ta": "ஹுபாப் இப்னு முன்திரின் ஆலோசனையின்படி முஸ்லிம்கள் வசப்படுத்திய நீரூற்று பகுதி. தற்போது சமவெளி நிலமாக உள்ளது. வரலாற்று சிறப்புமிக்க பழைய கிணறுகள் மூடப்பட்டுவிட்டன."
           },
           "details": {
-            "en": "Names of all 14 martyrs (including Ubaydah ibn al-Harith and Umayr ibn Abi Waqqas) are commemorated outside the enclosure gates.",
-            "ms": "Nama-nama 14 syuhada terpahat pada papan tanda di luar pintu pagar makam.",
-            "ml": "ഉബൈദത്ത് ബിൻ അൽ-ഹാരിഥ് ഉൾപ്പെടെയുള്ള 14 ശുഹദാക്കളുടെ പേരുകൾ കവാടത്തിൽ ആലേഖനം ചെയ്തിട്ടുണ്ട്.",
-            "ta": "உபைதா இப்னுல் ஹாரிஸ் உள்ளிட்ட 14 தியாகிகளின் பெயர்கள் முகப்பில் பொறிக்கப்பட்டுள்ளன."
+            "en": "The aquifer valley where the Muslims secured the water supply before combat. Now a level open historic terrain in front of Masjid Al-Areesh; the original ancient individual well pits are sealed.",
+            "ms": "Lembah sumber air di mana tentera Islam menguasai telaga atas cadangan Al-Hubab bin Al-Mundhir. Kini kawasan tanah lapang bersejarah di hadapan Masjid Al-Areesh; telaga-telaga purba tidak lagi terbuka.",
+            "ml": "ഹുബാബ് ബിൻ മുൻദിറിന്റെ ഉപദേശപ്രകാരം മുസ്ലിംകൾ വെള്ളം ശേഖരിച്ച കിണറുകളുടെ താഴ്‌വര. ഇന്ന് തുറന്ന മൈതാനമാണ്. അന്ന് നിലനിന്നിരുന്ന പഴയ കിണറുകൾ പിന്നീട് മൂടപ്പെട്ടു.",
+            "ta": "ஹுபாப் இப்னு முன்திரின் ஆலோசனையின்படி முஸ்லிம்கள் வசப்படுத்திய நீரூற்று பகுதி. தற்போது சமவெளி நிலமாக உள்ளது. வரலாற்று சிறப்புமிக்க பழைய கிணறுகள் மூடப்பட்டுவிட்டன."
+          },
+          "coordinates": {
+            "latitude": 23.7765,
+            "longitude": 38.7905
           },
           "images": {
             "thumbnail": "image/shuhada_badr_graveyard.webp",
@@ -1686,24 +1690,24 @@
           }
         },
         {
-          "id": "bir_badr_valley",
+          "id": "shuhada_badr_graveyard",
           "title": {
-            "en": "Valley Bed of the Badr Wells",
-            "ms": "Lembah Telaga Badr Purba",
-            "ml": "ബദറിലെ കിണറുകൾ നിലനിന്ന താഴ്‌വര",
-            "ta": "பத்ரு கிணறுகள் இருந்த பள்ளத்தாக்கு"
+            "en": "Badr Shuhada Graveyard",
+            "ms": "Makam 14 Syuhada Badar",
+            "ml": "ബദർ ശുഹദാക്കളുടെ മഖ്ബറ",
+            "ta": "பத்ரு ஷுஹதாக்கள் மையவாடி"
           },
           "summary": {
-            "en": "The aquifer valley where the Muslims secured the water supply before combat.",
-            "ms": "Lembah sumber air di mana tentera Islam menguasai telaga atas cadangan Al-Hubab bin Al-Mundhir.",
-            "ml": "ഹുബാബ് ബിൻ മുൻദിറിന്റെ ഉപദേശപ്രകാരം മുസ്ലിംകൾ വെള്ളം ശേഖരിച്ച കിണറുകളുടെ താഴ്‌വര.",
-            "ta": "ஹுபாப் இப்னு முன்திரின் ஆலோசனையின்படி முஸ்லிம்கள் வசப்படுத்திய நீரூற்று பகுதி."
+            "en": "Walled cemetery enclosing the 14 noble companions martyred in the battle.",
+            "ms": "Kawasan perkuburan berdinding menempatkan 14 sahabat (Muhajirin & Ansar) yang gugur syahid di Badar.",
+            "ml": "ബദർ യുദ്ധത്തിൽ രക്തസാക്ഷികളായ 14 സ്വഹാബികളുടെ ഖബറുകൾ അടങ്ങിയ ഇടം.",
+            "ta": "பத்ரு போரில் வீரமரணமடைந்த 14 சஹாபாக்களின் அடக்கஸ்தலம்."
           },
           "details": {
-            "en": "Now a level open historic terrain in front of Masjid Al-Areesh; the original ancient individual well pits are sealed.",
-            "ms": "Kini kawasan tanah lapang bersejarah di hadapan Masjid Al-Areesh; telaga-telaga purba tidak lagi terbuka.",
-            "ml": "ഇന്ന് തുറന്ന മൈതാനമാണ്. അന്ന് നിലനിന്നിരുന്ന പഴയ കിണറുകൾ പിന്നീട് മൂടപ്പെട്ടു.",
-            "ta": "தற்போது சமவெளி நிலமாக உள்ளது. வரலாற்று சிறப்புமிக்க பழைய கிணறுகள் மூடப்பட்டுவிட்டன."
+            "en": "Names of all 14 martyrs (including Ubaydah ibn al-Harith and Umayr ibn Abi Waqqas) are commemorated outside the enclosure gates.",
+            "ms": "Nama-nama 14 syuhada terpahat pada papan tanda di luar pintu pagar makam.",
+            "ml": "ഉബൈദത്ത് ബിൻ അൽ-ഹാരിഥ് ഉൾപ്പെടെയുള്ള 14 ശുഹദാക്കളുടെ പേരുകൾ കവാടത്തിൽ ആലേഖനം ചെയ്തിട്ടുണ്ട്.",
+            "ta": "உபைதா இப்னுல் ஹாரிஸ் உள்ளிட்ட 14 தியாகிகளின் பெயர்கள் முகப்பில் பொறிக்கப்பட்டுள்ளன."
           },
           "images": {
             "thumbnail": "image/shuhada_badr_graveyard.webp",

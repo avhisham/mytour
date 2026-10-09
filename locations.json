@@ -1837,15 +1837,7 @@
     "clusterId": "masa_and_gates",
     "city": "Makkah",
     "imageUrls": [
-      {
-        "url": "image/saeisafa.webp",
-        "thumbnail": "image/saeisafa.webp",
-        "caption": {
-          "en": "Mount Safa (Starting Point of Sa'i)",
-          "ms": "Bukit Safa (Permulaan Sa'ie)",
-          "ar": "جبل الصفا (بداية السعي)"
-        }
-      }
+      "image/saeisafa.webp"
     ],
     "videoUrls": [],
     "socialLinks": [],
@@ -1876,15 +1868,7 @@
     "clusterId": "masa_and_gates",
     "city": "Makkah",
     "imageUrls": [
-      {
-        "url": "image/milayn_al_akhdarayn_1791497000192.webp",
-        "thumbnail": "image/milayn_al_akhdarayn_1791497000192.webp",
-        "caption": {
-          "en": "The Green Marker Run Section",
-          "ms": "Kawasan Lampu Hijau (Lari Anak)",
-          "ar": ""
-        }
-      }
+      "image/milayn_al_akhdarayn_1791497000192.webp"
     ],
     "videoUrls": [],
     "socialLinks": [],
@@ -2473,21 +2457,23 @@
     "name": {
       "en": "Masjid Al-Kouk (The Elbow Mosque)",
       "ms": "Masjid Al-Kouk (Masjid Siku)",
+      "ta": "மஸ்ஜிதுல் கூக் (முழங்கை பள்ளி)",
       "ml": "മസ്ജിദുൽ കൂഅ് (മുട്ടിന്റെ പള്ളി)",
-      "ta": "மஸ்ஜிதுல் கூக் (முழங்கை பள்ளி)"
+      "ar": ""
     },
     "description": {
       "en": "Small mountain-edge mosque where the Prophet leaned his elbow against a rock to rest. Situated in Al-Mathnah near the ridge. Known historically as Masjid al-Kou' for the stone impression where he reclined during hardship.",
       "ms": "Masjid kecil di mana terdapat kesan batu tempat Baginda ﷺ menyandarkan siku untuk berehat. Terletak di lereng batu Al-Mathnah. Mengenang kepayahan dan kesabaran dakwah Baginda ﷺ di Taif.",
+      "ta": "தாயிஃபில் நபிகளார் முழங்கையை ஊன்றி ஓய்வெடுத்த இடத்தில் கட்டப்பட்ட பள்ளி. அல்-மத்னாவில் அமைந்துள்ளது. நபிகளாரின் தாயிஃப் பிரச்சார சோதனைகளை நினைவூட்டும் இடம்.",
       "ml": "നബി ﷺ ത്വാഇഫിൽ വെച്ച് കൈമുട്ട് ചാരി വിശ്രമിച്ച സ്ഥലത്ത് നിർമ്മിച്ച പള്ളി. അൽ-മഥ്നയിലെ മലയടിവാരം. പ്രവാചകന്റെ കഠിന ത്യാഗങ്ങളെ ഓർമ്മിപ്പിക്കുന്ന പുരാതന പള്ളി.",
-      "ta": "தாயிஃபில் நபிகளார் முழங்கையை ஊன்றி ஓய்வெடுத்த இடத்தில் கட்டப்பட்ட பள்ளி. அல்-மத்னாவில் அமைந்துள்ளது. நபிகளாரின் தாயிஃப் பிரச்சார சோதனைகளை நினைவூட்டும் இடம்."
+      "ar": ""
     },
     "latitude": 21.2825,
     "longitude": 40.4063,
     "type": "Mosque",
     "subCategory": "Historical Sites of Taif",
     "clusterId": "taif_locations",
-    "city": "Makkah",
+    "city": "Taif",
     "imageUrls": [],
     "videoUrls": [],
     "socialLinks": [],
@@ -2500,21 +2486,23 @@
     "name": {
       "en": "Masjid Al-Areesh",
       "ms": "Masjid Al-'Areesh",
+      "ta": "மஸ்ஜிதுல் அரீஷ்",
       "ml": "മസ്ജിദുൽ അരീഷ്",
-      "ta": "மஸ்ஜிதுல் அரீஷ்"
+      "ar": ""
     },
     "description": {
       "en": "Mosque built atop the command pavilion where the Prophet wept in deep supplication. Stands elevated overlooking the southern valley bed. Abu Bakr stood guard outside while the Prophet poured his heartfelt prayer for victory.",
       "ms": "Masjid di tapak khemah markas kayu kurma di mana Rasulullah ﷺ memimpin perang dan bermunajat. Terletak di atas rabung tinggi menghadap medan perigi. Sayyidina Abu Bakar berkawal di hadapan khemah tersebut semasa baginda berdoa.",
+      "ta": "பத்ரு போரில் நபிகளார் கூடாரம் அமைத்து கண்ணீருடன் இறைவனிடம் மன்றாடிய இடம். பள்ளத்தாக்கை நோக்கிய மேடான பகுதி. நபிகளார் துஆ செய்த போது அபூபக்கர் (ரலி) காவல் நின்ற இடம்.",
       "ml": "നബി ﷺ ബദറിൽ സൈന്യത്തെ നയിക്കുകയും കണ്ണീരോടെ പ്രാർത്ഥിക്കുകയും ചെയ്ത കൂടാരത്തിന്റെ സ്ഥാനം. താഴ്‌വരയിലേക്ക് ദർശനമുള്ള ഉയർന്ന പ്രദേശം. അബൂബക്കർ (റ) കാവൽ നിന്ന നബിയുടെ കമാൻഡ് സെന്റർ.",
-      "ta": "பத்ரு போரில் நபிகளார் கூடாரம் அமைத்து கண்ணீருடன் இறைவனிடம் மன்றாடிய இடம். பள்ளத்தாக்கை நோக்கிய மேடான பகுதி. நபிகளார் துஆ செய்த போது அபூபக்கர் (ரலி) காவல் நின்ற இடம்."
+      "ar": ""
     },
     "latitude": 23.7781,
     "longitude": 38.7915,
     "type": "Mosque",
     "subCategory": "Badr Battlefield & Memorials",
     "clusterId": "badr_battlefield",
-    "city": "Madinah",
+    "city": "Badr",
     "imageUrls": [],
     "videoUrls": [],
     "socialLinks": [],
@@ -2597,33 +2585,6 @@
     "latitude": 23.7765,
     "longitude": 38.7905,
     "type": "Prophetic Well",
-    "subCategory": "Badr Battlefield & Memorials",
-    "clusterId": "badr_battlefield",
-    "city": "Madinah",
-    "imageUrls": [],
-    "videoUrls": [],
-    "socialLinks": [],
-    "cluster_id": "badr_battlefield",
-    "sub_category": "Badr Battlefield & Memorials",
-    "thumbnail": "image/shuhada_badr_graveyard.webp"
-  },
-  {
-    "id": "al_qalib_pit",
-    "name": {
-      "en": "Site of Al-Qalib (Disposal Pit of Quraysh)",
-      "ms": "Tapak Al-Qalib (Telaga Mayat Pembesar Quraisy)",
-      "ml": "അൽ-ഖലീബ് (ഖുറൈശി നേതാക്കളെ മറവുചെയ്ത കിണർ)",
-      "ta": "அல்-கலீப் (குறைஷி தலைவர்கள் புதைக்கப்பட்ட கிணறு)"
-    },
-    "description": {
-      "en": "Dry pit where bodies of 24 slain Qurayshi tyrants (including Abu Jahl) were buried. Located southwest of the martyrs' cemetery. The Prophet ﷺ stood at its edge and addressed the dead leaders three days after the battle.",
-      "ms": "Telaga kering di mana 24 jenazah pemimpin kafir Quraisy termasuk Abu Jahal dihumban dan ditimbus. Terletak di arah barat daya makam syuhada. Baginda ﷺ berbicara kepada mayat mereka tiga hari selepas kemenangan.",
-      "ml": "അബൂജഹൽ അടക്കമുള്ള 24 ഖുറൈശി പ്രമുഖരുടെ മൃതദേഹങ്ങൾ ഇട്ടുമൂടിയ ഉണങ്ങിയ കിണർ. യുദ്ധത്തിന് മൂന്ന് ദിവസത്തിന് ശേഷം നബി ഈ കിണറിനരികിൽ നിന്ന് അവരോട് സംസാരിച്ചു.",
-      "ta": "அபூஜஹ்ல் உள்ளிட்ட 24 குறைஷி தலைவர்களின் உடல்கள் போடப்பட்டு மூடப்பட்ட கிணறு. போர் முடிந்த மூன்று நாட்களுக்குப் பின் நபிகளார் இக்கிணற்றின் அருகே நின்று உரையாற்றினார்."
-    },
-    "latitude": 23.7705,
-    "longitude": 38.785,
-    "type": "Battlefield",
     "subCategory": "Badr Battlefield & Memorials",
     "clusterId": "badr_battlefield",
     "city": "Madinah",
@@ -2927,15 +2888,7 @@
     "clusterId": "masa_and_gates",
     "city": "Makkah",
     "imageUrls": [
-      {
-        "url": "image/saeimarwa.webp",
-        "thumbnail": "image/saeimarwa.webp",
-        "caption": {
-          "en": "Mount Marwah (End of Sa'i & Tahallul)",
-          "ms": "Bukit Marwah (Penamat Sa'ie & Tahallul)",
-          "ar": ""
-        }
-      }
+      "image/saeimarwa.webp"
     ],
     "videoUrls": [],
     "socialLinks": [],
