@@ -2573,21 +2573,23 @@
     "name": {
       "en": "Valley Bed of the Badr Wells",
       "ms": "Lembah Telaga Badr Purba",
+      "ta": "பத்ரு கிணறுகள் இருந்த பள்ளத்தாக்கு",
       "ml": "ബദറിലെ കിണറുകൾ നിലനിന്ന താഴ്‌വര",
-      "ta": "பத்ரு கிணறுகள் இருந்த பள்ளத்தாக்கு"
+      "ar": ""
     },
     "description": {
       "en": "The aquifer valley where the Muslims secured the water supply before combat. Now a level open historic terrain in front of Masjid Al-Areesh; the original ancient individual well pits are sealed.",
       "ms": "Lembah sumber air di mana tentera Islam menguasai telaga atas cadangan Al-Hubab bin Al-Mundhir. Kini kawasan tanah lapang bersejarah di hadapan Masjid Al-Areesh; telaga-telaga purba tidak lagi terbuka.",
+      "ta": "ஹுபாப் இப்னு முன்திரின் ஆலோசனையின்படி முஸ்லிம்கள் வசப்படுத்திய நீரூற்று பகுதி. தற்போது சமவெளி நிலமாக உள்ளது. வரலாற்று சிறப்புமிக்க பழைய கிணறுகள் மூடப்பட்டுவிட்டன.",
       "ml": "ഹുബാബ് ബിൻ മുൻദിറിന്റെ ഉപദേശപ്രകാരം മുസ്ലിംകൾ വെള്ളം ശേഖരിച്ച കിണറുകളുടെ താഴ്‌വര. ഇന്ന് തുറന്ന മൈതാനമാണ്. അന്ന് നിലനിന്നിരുന്ന പഴയ കിണറുകൾ പിന്നീട് മൂടപ്പെട്ടു.",
-      "ta": "ஹுபாப் இப்னு முன்திரின் ஆலோசனையின்படி முஸ்லிம்கள் வசப்படுத்திய நீரூற்று பகுதி. தற்போது சமவெளி நிலமாக உள்ளது. வரலாற்று சிறப்புமிக்க பழைய கிணறுகள் மூடப்பட்டுவிட்டன."
+      "ar": ""
     },
     "latitude": 23.7765,
     "longitude": 38.7905,
     "type": "Prophetic Well",
     "subCategory": "Badr Battlefield & Memorials",
     "clusterId": "badr_battlefield",
-    "city": "Madinah",
+    "city": "Badr",
     "imageUrls": [],
     "videoUrls": [],
     "socialLinks": [],
