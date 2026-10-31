@@ -3084,16 +3084,16 @@
     "name": {
       "en": "Ji'ranah Haram Boundary (North-Eastern Marker)",
       "ms": "Sempadan Tanah Haram Ji'ranah (Timur Laut)",
-      "ar": "حد الحرم بالجعرانة (الشمال الشرقي)",
+      "ta": "ஜிஃரானா ஹராம் எல்லை (வடகிழக்கு)",
       "ml": "ജിഅ്റാന ഹറം അതിർത്തി (വടക്കുകിഴക്ക്)",
-      "ta": "ஜிஃரானா ஹராம் எல்லை (வடகிழக்கு)"
+      "ar": "حد الحرم بالجعرانة (الشمال الشرقي)"
     },
     "description": {
       "en": "The north-eastern boundary marker of Tanah Haram located along Wadi Nakhlah on the road to Ji'ranah, approx 15 km from the Kaaba. This marks the entry point into the sanctuary for pilgrims coming from Masjid Ji'ranah where the Prophet ﷺ entered into Ihram after the Battle of Hunayn.",
       "ms": "Batu tanda sempadan timur laut Tanah Haram di Wadi Nakhlah menghala ke Ji'ranah, kira-kira 15 km dari Kaabah. Menandakan tempat masuk ke Tanah Suci bagi jemaah dari Masjid Ji'ranah.",
-      "ar": "علامة حد الحرم الشمالية الشرقية بوادي نخلة على طريق الجعرانة، وتبعد حوالي 15 كم عن الكعبة المشرفة.",
+      "ta": "ஜிஃரானா சாலையில் அமைந்துள்ள வடகிழக்கு ஹராம் எல்லை அடையாளம்.",
       "ml": "ജിഅ്റാനയിലേക്കുള്ള വഴിയിൽ വാദി നഖ്‌ലയിലുള്ള വടക്കുകിഴക്കൻ ഹറം അതിർത്തി അടയാളം.",
-      "ta": "ஜிஃரானா சாலையில் அமைந்துள்ள வடகிழக்கு ஹராம் எல்லை அடையாளம்."
+      "ar": "علامة حد الحرم الشمالية الشرقية بوادي نخلة على طريق الجعرانة، وتبعد حوالي 15 كم عن الكعبة المشرفة."
     },
     "latitude": 21.5097,
     "longitude": 39.94,
@@ -3102,13 +3102,22 @@
     "clusterId": "haram_boundaries",
     "city": "Makkah",
     "imageUrls": [
+      {
+        "url": "image/boundary_jiranah_1793431654382.webp",
+        "thumbnail": "image/boundary_jiranah_1793431654382.webp",
+        "caption": {
+          "en": "Ji'ranah Haram Boundary (North-Eastern Marker)",
+          "ms": "Sempadan Tanah Haram Ji'ranah (Timur Laut)",
+          "ar": "حد الحرم بالجعرانة (الشمال الشرقي)"
+        }
+      },
       "image/makkah.webp"
     ],
     "videoUrls": [],
     "socialLinks": [],
     "cluster_id": "haram_boundaries",
     "sub_category": "Makkah Sacred Sanctuary Boundary",
-    "thumbnail": "image/makkah.webp"
+    "thumbnail": "image/boundary_jiranah_1793431654382.webp"
   },
   {
     "id": "boundary_sharayi",
