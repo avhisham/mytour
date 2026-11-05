@@ -1,7 +1,7 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "version": "1.0.0",
-  "generated_at": "2026-11-05T21:59:18.853651Z",
+  "generated_at": "2026-11-05T22:13:26.065876Z",
   "groups": [
     {
       "id": "the_battle_of_uhud",
@@ -1067,24 +1067,28 @@
           }
         },
         {
-          "id": "jabal_ar_rahmah",
+          "id": "jabal_rahmah",
           "title": {
-            "en": "Jabal ar-Rahmah (Mount of Mercy, Arafat)",
-            "ms": "Jabal ar-Rahmah (Bukit Rahmat, Arafah)",
-            "ml": "ജബലുറഹ്മ (കാരുണ്യത്തിന്റെ മല)",
-            "ta": "ஜபலுர் ரஹ்மா (அருள் மலை, அரஃபா)"
+            "en": "Jabal ar-Rahmah",
+            "ms": "Jabal ar-Rahmah",
+            "ml": "ജബൽ അർ-റഹ്മ",
+            "ta": "ஜபல் அர்-ரஹ்மா"
           },
           "summary": {
-            "en": "The prominent granite hill on the plain of Arafat marking the Prophet's stand in prayer.",
-            "ms": "Bukit batu di tengah Arafah berhampiran tempat Baginda ﷺ berdiri berdoa di atas untanya.",
-            "ml": "നബി ﷺ ഹജ്ജത്തുൽ വിദാഇൽ ദുആ ചെയ്തു നിന്ന അറഫാത്തിലെ ചരിത്ര പ്രസിദ്ധമായ മല.",
-            "ta": "விடைபெறும் ஹஜ்ஜின் போது நபிகளார் நின்று துஆ செய்த அரஃபாவின் புகழ்பெற்ற மலை."
+            "en": "Where the Prophet ﷺ gave his Farewell Sermon during the Hajj of 632 CE. Standing here (Wuquf) is the most important pillar of Hajj.",
+            "ms": "Tempat di mana Rasulullah ﷺ menyampaikan Khutbah Wida' semasa Haji pada tahun 632 M. Berdiri di sini (Wuquf) adalah rukun Haji yang paling penting.",
+            "ml": "ക്രിസ്തുവർഷം 632-ലെ ഹജ്ജ് വേളയിൽ പ്രവാചകൻ ﷺ തൻ്റെ വിടവാങ്ങൽ പ്രസംഗം നടത്തിയ സ്ഥലം. ഇവിടെ നിൽക്കുന്നത് (വുഖൂഫ്) ഹജ്ജിൻ്റെ ഏറ്റവും പ്രധാനപ്പെട്ട തൂണാണ്.",
+            "ta": "கி.பி 632 ஆம் ஆண்டு ஹஜ்ஜின் போது நபிகள் நாயகம் ﷺ அவர்கள் தனது இறுதிப் பேருரையை நிகழ்த்திய இடம். இங்கு நிற்பது (வுக்கூப்) ஹஜ்ஜின் மிக முக்கியமான தூணாகும்."
           },
           "details": {
-            "en": "Features a white pillar marker at its summit. Supplication anywhere within the plain of Arafat fulfills the rite of Wuquf.",
-            "ms": "Mempunyai monumen putih di puncaknya. Berdoa di mana-mana bahagian padang Arafah mencukupi syarat wukuf.",
-            "ml": "മുകളിൽ ഒരു വെളുത്ത സ്തംഭമുണ്ട്. അറഫാ മൈതാനത്ത് എവിടെ നിന്നും വുഖൂഫ് നിർവ്വഹിക്കാവുന്നതാണ്.",
-            "ta": "உச்சியில் வெள்ளை தூண் உள்ளது. அரஃபா மைதானத்தின் எந்தப் பகுதியிலும் வுகூஃப் நிறைவேற்றலாம்."
+            "en": "Where the Prophet ﷺ gave his Farewell Sermon during the Hajj of 632 CE. Standing here (Wuquf) is the most important pillar of Hajj.",
+            "ms": "Tempat di mana Rasulullah ﷺ menyampaikan Khutbah Wida' semasa Haji pada tahun 632 M. Berdiri di sini (Wuquf) adalah rukun Haji yang paling penting.",
+            "ml": "ക്രിസ്തുവർഷം 632-ലെ ഹജ്ജ് വേളയിൽ പ്രവാചകൻ ﷺ തൻ്റെ വിടവാങ്ങൽ പ്രസംഗം നടത്തിയ സ്ഥലം. ഇവിടെ നിൽക്കുന്നത് (വുഖൂഫ്) ഹജ്ജിൻ്റെ ഏറ്റവും പ്രധാനപ്പെട്ട തൂണാണ്.",
+            "ta": "கி.பி 632 ஆம் ஆண்டு ஹஜ்ஜின் போது நபிகள் நாயகம் ﷺ அவர்கள் தனது இறுதிப் பேருரையை நிகழ்த்திய இடம். இங்கு நிற்பது (வுக்கூப்) ஹஜ்ஜின் மிக முக்கியமான தூணாகும்."
+          },
+          "coordinates": {
+            "latitude": 21.354768895347497,
+            "longitude": 39.983705255403706
           },
           "images": {
             "thumbnail": "image/jabal_rahmah.webp",
