@@ -1502,7 +1502,7 @@
       "ms": "King Abdullah dialysis Center",
       "ml": "King Abdullah dialysis Center",
       "ta": "King Abdullah dialysis Center",
-      "ar": "مركز الملك عبد الله لغسيل الكلي الصناعي"
+      "ar": "مركز الملك عبد اللّٰه لغسيل الكلي الصناعي"
     },
     "description": {
       "en": "Medical facility (hospital) in Makkah.",
@@ -1564,11 +1564,11 @@
   {
     "id": "poi_makkah_63",
     "name": {
-      "en": "Masjid As-Sayyidah Khadijah (RA) مسجد السيدة خديجة رضي الله عنها",
-      "ms": "Masjid As-Sayyidah Khadijah (RA) مسجد السيدة خديجة رضي الله عنها",
-      "ml": "Masjid As-Sayyidah Khadijah (RA) مسجد السيدة خديجة رضي الله عنها",
-      "ta": "Masjid As-Sayyidah Khadijah (RA) مسجد السيدة خديجة رضي الله عنها",
-      "ar": "مسجد السيدة خديجة رضي الله عنها"
+      "en": "Masjid As-Sayyidah Khadijah (RA) مسجد السيدة خديجة رضي اللّٰه عنها",
+      "ms": "Masjid As-Sayyidah Khadijah (RA) مسجد السيدة خديجة رضي اللّٰه عنها",
+      "ml": "Masjid As-Sayyidah Khadijah (RA) مسجد السيدة خديجة رضي اللّٰه عنها",
+      "ta": "Masjid As-Sayyidah Khadijah (RA) مسجد السيدة خديجة رضي اللّٰه عنها",
+      "ar": "مسجد السيدة خديجة رضي اللّٰه عنها"
     },
     "description": {
       "en": "Masjids facility (muslim) in Makkah.",
@@ -12366,11 +12366,11 @@
   {
     "id": "poi_makkah_620",
     "name": {
-      "en": "Masjid Dayfu Allah Adaimiمسجد ضيف الله الدعيمي",
-      "ms": "Masjid Dayfu Allah Adaimiمسجد ضيف الله الدعيمي",
-      "ml": "Masjid Dayfu Allah Adaimiمسجد ضيف الله الدعيمي",
-      "ta": "Masjid Dayfu Allah Adaimiمسجد ضيف الله الدعيمي",
-      "ar": "مسجد ضيف الله الدعيمي"
+      "en": "Masjid Dayfu Allah Adaimiمسجد ضيف اللّٰه الدعيمي",
+      "ms": "Masjid Dayfu Allah Adaimiمسجد ضيف اللّٰه الدعيمي",
+      "ml": "Masjid Dayfu Allah Adaimiمسجد ضيف اللّٰه الدعيمي",
+      "ta": "Masjid Dayfu Allah Adaimiمسجد ضيف اللّٰه الدعيمي",
+      "ar": "مسجد ضيف اللّٰه الدعيمي"
     },
     "description": {
       "en": "Masjids facility (muslim) in Makkah.",
@@ -12696,11 +12696,11 @@
   {
     "id": "poi_makkah_642",
     "name": {
-      "en": "مسجد عبد الله السديس",
-      "ms": "مسجد عبد الله السديس",
-      "ml": "مسجد عبد الله السديس",
-      "ta": "مسجد عبد الله السديس",
-      "ar": "مسجد عبد الله السديس"
+      "en": "مسجد عبد اللّٰه السديس",
+      "ms": "مسجد عبد اللّٰه السديس",
+      "ml": "مسجد عبد اللّٰه السديس",
+      "ta": "مسجد عبد اللّٰه السديس",
+      "ar": "مسجد عبد اللّٰه السديس"
     },
     "description": {
       "en": "Masjids facility (muslim) in Makkah.",
@@ -14174,7 +14174,7 @@
       "ms": "abdullah mohammed",
       "ml": "abdullah mohammed",
       "ta": "abdullah mohammed",
-      "ar": "عبد الله"
+      "ar": "عبد اللّٰه"
     },
     "description": {
       "en": "Shopping facility (mobile_phone) in Makkah.",

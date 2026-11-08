@@ -37,14 +37,14 @@
       "ms": "Pintu Raja Abdullah (Pintu 100)",
       "ml": "കിംഗ് അബ്ദുള്ള ഗേറ്റ് (ഗേറ്റ് 100)",
       "ta": "மன்னர் அப்துல்லாஹ் வாசல் (கேட் 100)",
-      "ar": "باب الملك عبد الله (باب 100)"
+      "ar": "باب الملك عبد اللّٰه (باب 100)"
     },
     "description": {
       "en": "King Abdullah Gate (Gate 100) is the monumental northern grand portal of Masjid al-Haram, standing as the tallest and most magnificent entrance of the Third Saudi Expansion. Crowned with twin 133-meter minarets that make it identifiable from kilometers away, it provides multi-tiered high-capacity ingress, modern escalators, and air-conditioned pathways directly connecting northern plazas to the expansive prayer halls and Mataf.",
       "ms": "Pintu Raja Abdullah (Pintu 100) merupakan pintu gerbang utama yang megah di sebelah utara Masjidil Haram di bawah Peluasan Saudi Ketiga. Ditandai dengan menara berkembar setinggi 133 meter yang boleh dilihat dari kejauhan, pintu ini dilengkapi eskalator bertingkat, ruang solat berhawa dingin, serta laluan luas yang menampung ratusan ribu jemaah.",
       "ml": "മസ്ജിദുൽ ഹറാമിന്റെ മൂന്നാം സൗദി വികസനത്തിന്റെ ഭാഗമായുള്ള ഏറ്റവും വലിയ പ്രധാന കവാടമാണ് കിംഗ് അബ്ദുള്ള ഗേറ്റ് (ഗേറ്റ് 100). കവാടത്തിന് മുകളിലെ 133 മീറ്റർ ഉയരമുള്ള ഇരട്ട മിനാരങ്ങൾ ഇതിന്റെ പ്രധാന അടയാളമാണ്. അത്യാധുനിക ലിഫ്റ്റുകൾ, എസ്കലേറ്ററുകൾ, ശീതീകരിച്ച വലിയ പ്രാർത്ഥനാ ഹാളുകൾ എന്നിവയിലേക്ക് പ്രവേശിക്കാൻ ഇത് സൗകര്യമൊരുക്കുന്നു.",
       "ta": "மஸ்ஜிதுல் ஹராமின் மூன்றாவது சவூதி விரிவாக்கத்தின் கீழ் அமைக்கப்பட்ட பிரமாண்டமான வடக்கு வாசல் மன்னர் அப்துல்லாஹ் வாசல் (கேட் 100) ஆகும். 133 மீட்டர் உயரமுள்ள இரட்டை மினாராக்கள் இதன் கம்பீர அடையாளமாகும். நவீன எஸ்கலேட்டர்கள் மற்றும் குளிரூட்டப்பட்ட தொழுகைக் கூடங்களுக்கு இது நேரடி வழியைத் தருகிறது.",
-      "ar": "باب الملك عبد الله (باب 100) هو البوابة الكبرى للجهة الشمالية ضمن التوسعة السعودية الثالثة، يتميز بارتفاعه الشاهق ومئذنتيه التوأمتين بارتفاع 133 متراً ومسارات الحركة الضخمة."
+      "ar": "باب الملك عبد اللّٰه (باب 100) هو البوابة الكبرى للجهة الشمالية ضمن التوسعة السعودية الثالثة، يتميز بارتفاعه الشاهق ومئذنتيه التوأمتين بارتفاع 133 متراً ومسارات الحركة الضخمة."
     },
     "latitude": 21.423713,
     "longitude": 39.825311,
@@ -532,13 +532,13 @@
     "clusterId": "main_doors_haram",
     "city": "Makkah",
     "imageUrls": [
-      "image/gate_fahad_1791495473096.webp"
+      "image/gate_fahad.webp"
     ],
     "videoUrls": [],
     "socialLinks": [],
     "cluster_id": "main_doors_haram",
     "sub_category": "Major Gates of Masjid al-Haram",
-    "thumbnail": "image/gate_fahad_1791495473096.webp"
+    "thumbnail": "image/gate_fahad.webp"
   },
   {
     "id": "jabal_uhud",
@@ -3060,7 +3060,7 @@
     "description": {
       "en": "The northern boundary marker of the Sacred Sanctuary of Makkah on the Madinah Road, located approximately 6.5 km from the Holy Kaaba near Masjid Aisha (Tan'im). Pilgrims entering from Madinah or completing Ihram at Tan'im cross this landmark into the sacred territory.",
       "ms": "Batu tanda sempadan utara Tanah Haram Makkah di Jalan Madinah Lama, terletak kira-kira 6.5 km dari Kaabah berhampiran Masjid Aisha (Tan'im). Jemaah yang datang dari Madinah atau berniat Ihram di Tan'im melepasi tanda ini untuk memasuki Tanah Suci.",
-      "ar": "علامة حد الحرم الشمالية الواقعة على طريق المدينة المنورة القديم بالقرب من مسجد السيدة عائشة رضي الله عنها بالتنعيم، وتبعد حوالي 6.5 كم عن الكعبة المشرفة.",
+      "ar": "علامة حد الحرم الشمالية الواقعة على طريق المدينة المنورة القديم بالقرب من مسجد السيدة عائشة رضي اللّٰه عنها بالتنعيم، وتبعد حوالي 6.5 كم عن الكعبة المشرفة.",
       "ml": "മദീന റോഡിൽ മസ്ജിദ് ആയിശക്ക് സമീപമുള്ള വടക്കൻ ഹറം അതിർത്തി അടയാളം. കഅ്ബയിൽ നിന്ന് ഏകദേശം 6.5 കി.മീ അകലെ സ്ഥിതി ചെയ്യുന്നു.",
       "ta": "மதீனா சாலையில் மஸ்ஜித் ஆயிஷாவுக்கு அருகில் அமைந்துள்ள வடக்கு ஹராம் எல்லை அடையாளம். கஅபாவிலிருந்து சுமார் 6.5 கி.மீ தொலைவில் உள்ளது."
     },

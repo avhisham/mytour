@@ -5,7 +5,7 @@
       "start": "00:00:00,000",
       "end": "00:00:01,605",
       "text": {
-        "ar": "بِسْمِ اللهِ",
+        "ar": "بِسْمِ اللّٰهِ",
         "tl": "Bismillahi",
         "ms": "Dengan nama Allah",
         "en": "In the name of Allah",
@@ -17,7 +17,7 @@
       "start": "00:00:01,605",
       "end": "00:00:03,646",
       "text": {
-        "ar": "آمَنْتُ بِاللهِ",
+        "ar": "آمَنْتُ بِاللّٰهِِ",
         "tl": "amantu billahi",
         "ms": "Aku beriman kepada Allah",
         "en": "I believe in Allah",
@@ -29,7 +29,7 @@
       "start": "00:00:03,623",
       "end": "00:00:05,458",
       "text": {
-        "ar": "تَوَكَّلْتُ عَلَى اللهِ",
+        "ar": "تَوَكَّلْتُ عَلَى اللّٰهِ",
         "tl": "tawakkaltu 'alallahi",
         "ms": "Aku bertawakkal kepada Allah",
         "en": "I trust in Allah",
@@ -41,7 +41,7 @@
       "start": "00:00:05,435",
       "end": "00:00:08,737",
       "text": {
-        "ar": "وَ لَا حَوْلَ وَ لَا قُوَّةَ إِلَّا بِاللهِ",
+        "ar": "وَ لَا حَوْلَ وَ لَا قُوَّةَ إِلَّا بِاللّٰهِِ",
         "tl": "wa la hawla wa la quwwata illa billahi",
         "ms": "Tiada daya dan kekuatan melainkan dengan Allah",
         "en": "There is no power nor might except with Allah",
@@ -113,7 +113,7 @@
       "start": "00:00:21,098",
       "end": "00:00:23,093",
       "text": {
-        "ar": "عَلَيَّ اللَّهُمَّ إِنِّي",
+        "ar": "عَلَيَّ اللّٰهُمََّّ إِنِّي",
         "tl": "alayya Allahumma inni",
         "ms": "Ke atasku. Ya Allah sesungguhnya aku",
         "en": "O Allah, indeed I",

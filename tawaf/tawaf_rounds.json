@@ -27,7 +27,7 @@
         "url": "audio/tawafaswad.mp3",
         "subtitles": "tawaf/tawafaswad.json"
       },
-      "arabic": "بِسْمِ اللَّهِ وَاللَّهُ أَكْبَرُ",
+      "arabic": "بِسْمِ اللّٰهِ وَاللّٰهُ أَكْبَرُ",
       "transliteration": "Bismillāhi wallāhu Akbar"
     },
     "aswad_end": {
@@ -54,7 +54,7 @@
         "url": "audio/tawafaswad.mp3",
         "subtitles": "tawaf/tawafaswad.json"
       },
-      "arabic": "بِسْمِ اللَّهِ وَاللَّهُ أَكْبَرُ، وَلِلَّهِ الْحَمْدُ",
+      "arabic": "بِسْمِ اللّٰهِ وَاللّٰهُ أَكْبَرُ، وَلِلّٰهِ الْحَمْدُ",
       "transliteration": "Bismillāhi wallāhu Akbar, wa lillāhil-ḥamd"
     },
     "yamani": {
@@ -113,7 +113,7 @@
           "url": "audio/tawaf1.mp3",
           "subtitles": "tawaf/tawaf1.json"
         },
-        "arabic": "سُبْحَانَ اللَّهِ، وَالْحَمْدُ لِلَّهِ، وَلَا إِلَهَ إِلَّا اللَّهُ، وَاللَّهُ أَكْبَرُ، وَلَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللَّهِ الْعَلِيِّ الْعَظِيمِ",
+        "arabic": "سُبْحَانَ اللّٰهِ، وَالْحَمْدُ لِلّٰهِِ، وَلَا إِاللّٰهَ إِلَّا اللّٰهُ، وَاللّٰهُ أَكْبَرُ، وَلَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللّٰهِِ الْعَلِيِّ الْعَظِيمِ",
         "transliteration": "Subḥānallāh, wal-ḥamdu lillāh, wa lā ilāha illallāh, wallāhu Akbar, wa lā ḥawla wa lā quwwata illā billāhil-ʿAliyyil-ʿAẓīm."
       }
     },
@@ -144,7 +144,7 @@
           "url": "audio/tawaf2.mp3",
           "subtitles": "tawaf/tawaf2.json"
         },
-        "arabic": "اللَّهُمَّ إِنَّ هَذَا الْبَيْتَ بَيْتُكَ، وَالْحَرَمَ حَرَمُكَ، وَالأَمْنَ أَمْنُكَ، وَهَذَا مَقَامُ الْعَائِذِ بِكَ مِنَ النَّارِ",
+        "arabic": "اللّٰهُمََّّ إِنَّ هَذَا الْبَيْتَ بَيْتُكَ، وَالْحَرَمَ حَرَمُكَ، وَالأَمْنَ أَمْنُكَ، وَهَذَا مَقَامُ الْعَائِذِ بِكَ مِنَ النَّارِ",
         "transliteration": "Allāhumma inna hādhal-bayta baytuk, wal-ḥarama ḥaramuk, wal-amna amnuk, wa hādhā maqāmul-ʿā’idhi bika minan-nār."
       }
     },
@@ -175,7 +175,7 @@
           "url": "audio/tawaf3.mp3",
           "subtitles": "tawaf/tawaf3.json"
         },
-        "arabic": "اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ الشَّكِّ وَالشِّرْكِ وَالشِّقَاقِ وَالنِّفَاقِ وَسُوءِ الأَخْلَاقِ وَسُوءِ الْمُنْقَلَبِ فِي الْمَالِ وَالأَهْلِ وَالْوَلَدِ",
+        "arabic": "اللّٰهُمََّّ إِنِّي أَعُوذُ بِكَ مِنَ الشَّكِّ وَالشِّرْكِ وَالشِّقَاقِ وَالنِّفَاقِ وَسُوءِ الأَخْلَاقِ وَسُوءِ الْمُنْقَلَبِ فِي الْمَالِ وَالأَهْلِ وَالْوَلَدِ",
         "transliteration": "Allāhumma innī aʿūdhu bika minash-shakki wash-shirki wash-shiqāqi wan-nifāqi wa sū’il-akhlāqi wa sū’il-munqalabi fil-māli wal-ahli wal-walad."
       }
     },
@@ -206,7 +206,7 @@
           "url": "audio/tawaf4.mp3",
           "subtitles": "tawaf/tawaf4.json"
         },
-        "arabic": "اللَّهُمَّ اجْعَلْهُ حَجّاً مَبْرُوراً، وَسَعْياً مَشْكُوراً، وَذَنْباً مَغْفُوراً، وَعَمَلاً صَالِحاً مَقْبُولاً، وَتِجَارَةً لَنْ تَبُورَ",
+        "arabic": "اللّٰهُمََّّ اجْعَاللّٰهُ حَجّاً مَبْرُوراً، وَسَعْياً مَشْكُوراً، وَذَنْباً مَغْفُوراً، وَعَمَلاً صَالِحاً مَقْبُولاً، وَتِجَارَةً لَنْ تَبُورَ",
         "transliteration": "Allāhummajʿalhu ḥajjan mabrūran, wa saʿyan mashkūran, wa dhanban maghfūran, wa ʿamalan ṣāliḥan maqbūlan, wa tijāratan lan tabūr."
       }
     },
@@ -237,7 +237,7 @@
           "url": "audio/tawaf5.mp3",
           "subtitles": "tawaf/tawaf5.json"
         },
-        "arabic": "اللَّهُمَّ أَظِلَّنِي تَحْتَ ظِلِّ عَرْشِكَ يَوْمَ لَا ظِلَّ إِلَّا ظِلُّكَ، وَلَا بَاقِيَ إِلَّا وَجْهُكَ، وَاسْقِنِي مِنْ حَوْضِ نَبِيِّكَ مُحَمَّدٍ ﷺ",
+        "arabic": "اللّٰهُمََّّ أَظِلَّنِي تَحْتَ ظِلِّ عَرْشِكَ يَوْمَ لَا ظِلَّ إِلَّا ظِلُّكَ، وَلَا بَاقِيَ إِلَّا وَجْهُكَ، وَاسْقِنِي مِنْ حَوْضِ نَبِيِّكَ مُحَمَّدٍ ﷺ",
         "transliteration": "Allāhumma aẓillanī taḥta ẓilli ʿarshika yawma lā ẓilla illā ẓilluk, wa lā bāqiya illā wajhuk, wasqinī min ḥawḍi nabiyyika Muḥammadin ﷺ."
       }
     },
@@ -268,7 +268,7 @@
           "url": "audio/tawaf6.mp3",
           "subtitles": "tawaf/tawaf6.json"
         },
-        "arabic": "اللَّهُمَّ إِنَّ لَكَ عَلَيَّ حُقُوقاً كَثِيرَةً فِيمَا بَيْنِي وَبَيْنَكَ، وَحُقُوقاً كَثِيرَةً فِيمَا بَيْنِي وَبَيْنَ خَلْقِكَ، فَاغْفِرْ لِي مَا كَانَ لَكَ، وَتَحَمَّلْ عَنِّي مَا كَانَ لِخَلْقِكَ",
+        "arabic": "اللّٰهُمََّّ إِنَّ لَكَ عَلَيَّ حُقُوقاً كَثِيرَةً فِيمَا بَيْنِي وَبَيْنَكَ، وَحُقُوقاً كَثِيرَةً فِيمَا بَيْنِي وَبَيْنَ خَلْقِكَ، فَاغْفِرْ لِي مَا كَانَ لَكَ، وَتَحَمَّلْ عَنِّي مَا كَانَ لِخَلْقِكَ",
         "transliteration": "Allāhumma inna laka ʿalayya ḥuqūqan kathīratan fīmā baynī wa baynak, wa ḥuqūqan kathīratan fīmā baynī wa bayna khalqik, faghfir lī mā kāna lak, wa taḥammal ʿannī mā kāna li-khalqik."
       }
     },
@@ -299,7 +299,7 @@
           "url": "audio/tawaf7.mp3",
           "subtitles": "tawaf/tawaf7.json"
         },
-        "arabic": "اللَّهُمَّ إِنِّي أَسْأَلُكَ إِيمَاناً كَامِلاً، وَيَقِيناً صَادِقاً، وَرِزْقاً وَاسِعاً، وَقَلْباً خَاشِعاً، وَلِسَاناً ذَاكِراً، وَحَلَالاً طَيِّباً، وَتَوْبَةً نَصُوحاً قَبْلَ الْمَوْتِ",
+        "arabic": "اللّٰهُمََّّ إِنِّي أَسْأَلُكَ إِيمَاناً كَامِلاً، وَيَقِيناً صَادِقاً، وَرِزْقاً وَاسِعاً، وَقَلْباً خَاشِعاً، وَلِسَاناً ذَاكِراً، وَحَلَالاً طَيِّباً، وَتَوْبَةً نَصُوحاً قَبْلَ الْمَوْتِ",
         "transliteration": "Allāhumma innī as’aluka īmānan kāmilan, wa yaqīnan ṣādiqan, wa rizqan wāsiʿan, wa qalban khāshiʿan, wa lisānan dhākiran, wa ḥalālan ṭayyiban, wa tawbatan naṣūḥan qablal-mawt."
       }
     }

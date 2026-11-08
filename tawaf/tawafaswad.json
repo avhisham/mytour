@@ -5,7 +5,7 @@
       "start": "00:00:00,000",
       "end": "00:00:01,500",
       "text": {
-        "ar": "بِسْمِ اللهِ",
+        "ar": "بِسْمِ اللّٰهِ",
         "tl": "Bismillahi",
         "ms": "Dengan nama Allah",
         "en": "In the name of Allah",
@@ -17,7 +17,7 @@
       "start": "00:00:01,500",
       "end": "00:00:03,000",
       "text": {
-        "ar": "اللهُ أَكْبَرُ",
+        "ar": "اللّٰهُ أَكْبَرُ",
         "tl": "Allahu akbar",
         "ms": "Allah Maha Besar",
         "en": "Allah is Greatest",
@@ -29,7 +29,7 @@
       "start": "00:00:03,000",
       "end": "00:00:05,000",
       "text": {
-        "ar": "وَللهِ الْحَمْدُ",
+        "ar": "وَلِلّٰهِ الْحَمْدُ",
         "tl": "wa lillahil hamd",
         "ms": "Dan bagi Allah segala puji",
         "en": "And to Allah belongs all praise",

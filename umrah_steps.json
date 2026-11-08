@@ -96,6 +96,22 @@
           {
             "type": "image",
             "url": "image/masjiddoors.webp"
+          },
+          {
+            "type": "image",
+            "url": "image/bab_al_fatah.webp"
+          },
+          {
+            "type": "image",
+            "url": "image/gate_abdulaziz.webp"
+          },
+          {
+            "type": "image",
+            "url": "image/gate_abdullah.webp"
+          },
+          {
+            "type": "image",
+            "url": "image/gate_fahad.webp"
           }
         ],
         "audio": {
@@ -251,7 +267,7 @@
           "subtitles": null
         },
         "autoPlay": true,
-        "arabic": "لَبَّيْكَ اللَّهُمَّ عُمْرَةً\n\nنَوَيْتُ الْعُمْرَةَ وَأَحْرَمْتُ بِهَا لِلَّهِ تَعَالَىٰ",
+        "arabic": "لَبَّيْكَ اللّٰهُمََّّ عُمْرَةً\n\nنَوَيْتُ الْعُمْرَةَ وَأَحْرَمْتُ بِهَا لِلّٰهِِ تَعَالَىٰ",
         "transliteration": "Labbayk Allāhumma ʿUmratan.\nNawaytul-ʿUmrata wa aḥramtu bihā lillāhi Taʿālā."
       },
       {
@@ -292,7 +308,7 @@
           "ta": "தல்பியா"
         },
         "description": {
-          "ar": "لَبَّيْكَ اللهمَّ لَبَّيْكَ، لَبَّيْكَ لَا شَرِيْكَ لَكَ لَبَّيْكَ، إِنَّ الْحَمْدَ وَالنِّعْمَةَ لَكَ وَالْمُلْكَ، لَا شَرِيْكَ لَكَ",
+          "ar": "لَبَّيْكَ اللّٰهُمََّّ لَبَّيْكَ، لَبَّيْكَ لَا شَرِيْكَ لَكَ لَبَّيْكَ، إِنَّ الْحَمْدَ وَالنِّعْمَةَ لَكَ وَالْمُلْكَ، لَا شَرِيْكَ لَكَ",
           "ms": "(Hamba-Mu datang menyahut panggilan-Mu ya Allah, hamba-Mu datang menyahut panggilan-Mu. Hamba-Mu datang menyahut panggilan-Mu, tiada sekutu bagi-Mu, hamba-Mu datang menyahut panggilan-Mu. Sesungguhnya segala pujian, nikmat dan pemerintahan adalah kepunyaan-Mu, tiada sekutu bagi-Mu).",
           "en": "(Here I am at Thy service, O Allah, here I am. Here I am, there is no partner unto Thee, here I am. Truly the praise and the grace are Thine, and the dominion, there is no partner unto Thee).",
           "ml": "(അല്ലാഹുവേ, നിൻ്റെ വിളിക്ക് ഉത്തരം നൽകി ഞാനിതാ വന്നിരിക്കുന്നു... നിനക്ക് പങ്കുകാരില്ല...).",
@@ -304,7 +320,7 @@
           "subtitles": null
         },
         "autoPlay": true,
-        "arabic": "لَبَّيْكَ اللَّهُمَّ لَبَّيْكَ، لَبَّيْكَ لَا شَرِيكَ لَكَ لَبَّيْكَ، إِنَّ الْحَمْدَ وَالنِّعْمَةَ لَكَ وَالْمُلْكَ، لَا شَرِيكَ لَكَ",
+        "arabic": "لَبَّيْكَ اللّٰهُمََّّ لَبَّيْكَ، لَبَّيْكَ لَا شَرِيكَ لَكَ لَبَّيْكَ، إِنَّ الْحَمْدَ وَالنِّعْمَةَ لَكَ وَالْمُلْكَ، لَا شَرِيكَ لَكَ",
         "transliteration": "Labbayk Allāhumma labbayk, labbayka lā sharīka laka labbayk, innal-ḥamda wan-niʿmata laka wal-mulk, lā sharīka lak."
       },
       {
@@ -316,7 +332,7 @@
           "ta": "புனித பூமிக்குள் நுழையும் போது ஓதும் துஆ"
         },
         "description": {
-          "ar": "اللهمَّ إِنَّ هَذَا الْحَرَمَ حَرَمُكَ، وَالْبَلَدَ بَلَدُكَ، وَالأَمْنَ أَمْنُكَ",
+          "ar": "اللّٰهُمََّّ إِنَّ هَذَا الْحَرَمَ حَرَمُكَ، وَالْبَلَدَ بَلَدُكَ، وَالأَمْنَ أَمْنُكَ",
           "ms": "(Ya Allah, tanah haram ini tanah haram-Mu, negeri ini negeri-Mu, dan keamanan ini keamanan-Mu).",
           "en": "(O Allah, this sanctuary is Your sanctuary, this land is Your land, and this peace is Your peace).",
           "ml": "(അല്ലാഹുവേ, ഈ പുണ്യഭൂമി നിൻ്റെ പുണ്യഭൂമിയാണ്, ഈ നാട് നിൻ്റെ നാടാണ്, ഈ അഭയം നിൻ്റെ അഭയമാണ്).",
@@ -339,7 +355,7 @@
           "subtitles": "rituals/doa_haram.json"
         },
         "autoPlay": true,
-        "arabic": "اللَّهُمَّ هَذَا حَرَمُكَ وَأَمْنُكَ فَحَرِّمْ لَحْمِي وَدَمِي وَشَعْرِي وَبَشَرِي عَلَى النَّارِ",
+        "arabic": "اللّٰهُمََّّ هَذَا حَرَمُكَ وَأَمْنُكَ فَحَرِّمْ لَحْمِي وَدَمِي وَشَعْرِي وَبَشَرِي عَلَى النَّارِ",
         "transliteration": "Allāhumma hādhā ḥaramuka wa amnuka faḥarrim laḥmī wa damī wa shaʿrī wa basharī ʿalan-nār."
       }
     ],
@@ -381,7 +397,7 @@
           "ta": "கஃபாவைப் பார்க்கும் போது ஓதும் துஆ"
         },
         "description": {
-          "ar": "اللهمَّ زِدْ هَذَا الْبَيْتَ تَشْرِيْفًا وَتَعْظِيْمًا وَتَكْرِيْمًا وَمَهَابَةً",
+          "ar": "اللّٰهُمََّّ زِدْ هَذَا الْبَيْتَ تَشْرِيْفًا وَتَعْظِيْمًا وَتَكْرِيْمًا وَمَهَابَةً",
           "ms": "(Ya Allah, tambahkanlah rumah ini dengan kemuliaan, keagungan, kehormatan, dan kehebatan).",
           "en": "(O Allah, increase this House in honor, greatness, respect, and awe).",
           "ml": "(അല്ലാഹുവേ, ഈ ഭവനത്തിന് കൂടുതൽ ആദരവും മഹനീയതയും ബഹുമാനവും ഗാംഭീര്യവും നീ വർദ്ധിപ്പിക്കേണമേ).",
@@ -404,7 +420,7 @@
           "subtitles": "rituals/seeing_kaaba.json"
         },
         "autoPlay": true,
-        "arabic": "اللَّهُمَّ زِدْ هَذَا الْبَيْتَ تَشْرِيفاً وَتَعْظِيماً وَتَكْرِيماً وَمَهَابَةً، وَزِدْ مَنْ شَرَّفَهُ وَعَظَّمَهُ مِمَّنْ حَجَّهُ أَوِ اعْتَمَرَهُ تَشْرِيفاً وَتَكْرِيماً وَتَعْظِيماً وَبِرّاً",
+        "arabic": "اللّٰهُمََّّ زِدْ هَذَا الْبَيْتَ تَشْرِيفاً وَتَعْظِيماً وَتَكْرِيماً وَمَهَابَةً، وَزِدْ مَنْ شَرَّفَهُ وَعَظَّمَهُ مِمَّنْ حَجَّهُ أَوِ اعْتَمَرَهُ تَشْرِيفاً وَتَكْرِيماً وَتَعْظِيماً وَبِرّاً",
         "transliteration": "Allāhumma zid hādhal-bayta tashrīfan wa taʿẓīman wa takrīman wa mahābah, wa zid man sharrafahū wa ʿaẓẓamahū mimman ḥajjahū awiʿtamarahū tashrīfan wa takrīman wa taʿẓīman wa birrā."
       }
     ],
@@ -464,7 +480,7 @@
           "ta": "இரண்டாம் சுற்று"
         },
         "description": {
-          "ar": "اللهمَّ إِنِّي أَسْأَلُكَ الْعَفْوَ وَالْعَافِيَةَ فِي الدُّنْيَا وَالآخِرَةِ",
+          "ar": "اللّٰهُمََّّ إِنِّي أَسْأَلُكَ الْعَفْوَ وَالْعَافِيَةَ فِي الدُّنْيَا وَالآخِرَةِ",
           "en": "(O Allah, I ask You for forgiveness and well-being in this world and the Hereafter).",
           "ms": "(Ya Allah, sesungguhnya aku memohon keampunan dan kesejahteraan-Mu di dunia dan di akhirat).",
           "ml": "(അല്ലാഹുവേ, ദുനിയാവിലും ആഖിറത്തിലും മാപ്പും സമാധാനവും ഞാൻ നിന്നോട് ചോദിക്കുന്നു).",
@@ -500,7 +516,7 @@
           "ta": "நான்காம் சுற்று"
         },
         "description": {
-          "ar": "اللهمَّ اجْعَلْهُ حَجًّا مَبْرُوْرًا وَذَنْبًا مَغْفُوْرًا وَسَعْيًا مَشْكُوْرًا",
+          "ar": "اللّٰهُمََّّ اجْعَاللّٰهُ حَجًّا مَبْرُوْرًا وَذَنْبًا مَغْفُوْرًا وَسَعْيًا مَشْكُوْرًا",
           "en": "(O Allah, make it an accepted Hajj, a forgiven sin, and a recognized effort).",
           "ms": "(Ya Allah, jadikanlah ia haji yang mabrur, dosa yang diampuni, dan usaha yang diterima).",
           "ml": "(അല്ലാഹുവേ, ഇതിനെ സ്വീകരിക്കപ്പെട്ട ഹജ്ജും പൊറുക്കപ്പെട്ട പാപവും നന്ദി പറയപ്പെട്ട പരിശ്രമവുമാക്കേണമേ).",
@@ -518,7 +534,7 @@
           "ta": "ஐந்தாம் சுற்று"
         },
         "description": {
-          "ar": "اللهمَّ إِنِّي أَعُوْذُ بِكَ مِنَ الْكُفْرِ وَالْفَقْرِ وَعَذَابِ الْقَبْرِ",
+          "ar": "اللّٰهُمََّّ إِنِّي أَعُوْذُ بِكَ مِنَ الْكُفْرِ وَالْفَقْرِ وَعَذَابِ الْقَبْرِ",
           "en": "(O Allah, I seek refuge in You from disbelief, poverty, and the punishment of the grave).",
           "ms": "(Ya Allah, aku berlindung dengan-Mu daripada kekufuran, kefakiran, dan azab kubur).",
           "ml": "(അല്ലാഹുവേ, കുഫ്‌റിൽ നിന്നും ദാരിദ്ര്യത്തിൽ നിന്നും ഖബർ ശിക്ഷയിൽ നിന്നും ഞാൻ നിന്നോട് കാവൽ തേടുന്നു).",
@@ -536,7 +552,7 @@
           "ta": "ஆറாம் சுற்று"
         },
         "description": {
-          "ar": "اللهمَّ هَذَا بَيْتُكَ الْحَرَمُ وَأَنَا عَبْدُكَ الْحَقِيْرُ",
+          "ar": "اللّٰهُمََّّ هَذَا بَيْتُكَ الْحَرَمُ وَأَنَا عَبْدُكَ الْحَقِيْرُ",
           "en": "(O Allah, this is Your Sacred House, and I am Your humble servant).",
           "ms": "(Ya Allah, rumah ini adalah rumah-Mu yang haram, dan aku adalah hamba-Mu yang hina).",
           "ml": "(അല്ലാഹുവേ, ഇത് നിൻ്റെ പരിശുദ്ധ ഭവനമാണ്, ഞാൻ നിൻ്റെ എളിയ അടിമയാണ്).",
@@ -554,7 +570,7 @@
           "ta": "ஏழாம் சுற்று"
         },
         "description": {
-          "ar": "اللهمَّ تَقَبَّلْ مِنَّا وَعَافِنَا وَاعْفُ عَنَّا وَأَدْخِلْنَا الْجَنَّةَ مَعَ الأَبْرَارِ",
+          "ar": "اللّٰهُمََّّ تَقَبَّلْ مِنَّا وَعَافِنَا وَاعْفُ عَنَّا وَأَدْخِلْنَا الْجَنَّةَ مَعَ الأَبْرَارِ",
           "en": "(O Allah, accept from us, grant us well-being, forgive us, and admit us into Paradise with the righteous).",
           "ms": "(Ya Allah, terimalah daripada kami, sejahterakanlah kami, ampunilah kami, dan masukkanlah kami ke dalam syurga bersama orang-orang yang berbakti).",
           "ml": "(അല്ലാഹുവേ, ഞങ്ങളിൽ നിന്ന് ഇത് സ്വീകരിക്കേണമേ, ഞങ്ങൾക്ക് മാപ്പ് നൽകേണമേ, പുണ്യവാന്മാരോടൊപ്പം ഞങ്ങളെ സ്വർഗ്ഗത്തിൽ പ്രവേശിപ്പിക്കേണമേ).",
@@ -602,7 +618,7 @@
           "ta": "முல்தஸம் மற்றும் ஹஜருல் அஸ்வத்"
         },
         "description": {
-          "ar": "بِسْمِ اللَّهِ، اَللَّهُ أَكْبَرُ",
+          "ar": "بِسْمِ اللّٰهِ، اَاللّٰهُ أَكْبَرُ",
           "en": "As you complete your seventh and final round of Tawaf, you will find yourself back near the Black Stone. The Multazam (optional) is the specific area located between the Black Stone and the door of the Kaaba. It is considered a highly virtuous place where supplications (duas) are accepted. Many of the companions used to cling to this wall with their chests and forearms to make earnest dua. Kissing Hajar al-Aswad (optional): It is a noble Sunnah to kiss, touch, or point to the Black Stone upon completing your Tawaf. However, the sources strongly emphasize that harming others is Haram (forbidden). If the area around the Multazam or the Black Stone is dangerously crowded, you must not push or hurt others to get there. Instead, you can simply face it from a distance, raise your right hand, point to it, say \"Bismillah, Allahu Akbar\" (In the name of Allah, Allah is the Greatest), and move on.",
           "ms": "Sebaik sahaja anda melengkapkan pusingan Tawaf ketujuh dan terakhir, anda akan berada berhampiran Hajarul Aswad. Multazam (pilihan) ialah kawasan antara Hajarul Aswad dan pintu Kaabah. Ia merupakan tempat yang sangat mulia di mana doa dimakbulkan. Para sahabat sering merapatkan dada dan lengan ke dinding ini untuk berdoa dengan bersungguh-sungguh. Mencium Hajar Aswad (pilihan) adalah sunnah yang mulia. Namun, mencederakan orang lain adalah Haram. Jika kawasan tersebut terlalu sesak dan berbahaya, jangan tolak atau cederakan orang lain. Sebaliknya, menghadaplah dari jauh, angkat tangan kanan, tunjuk ke arahnya, sebut \"Bismillah, Allahu Akbar\", dan teruskan berjalan.",
           "ml": "ത്വവാഫിന്റെ ഏഴാമത്തെയും അവസാനത്തെയും ചുറ്റ് പൂർത്തിയാക്കുമ്പോൾ നിങ്ങൾ ഹജറുൽ അസ്വദിന് സമീപമെത്തും. മുൽതസം (ഹജറുൽ അസ്വദിനും കഅബയുടെ വാതിലിനും ഇടയിലുള്ള സ്ഥലം) ദുആ സ്വീകരിക്കപ്പെടുന്ന പുണ്യസ്ഥലമാണ്. ഹജറുൽ അസ്വദ് ചുംബിക്കുകയോ തൊടുകയോ ചൂണ്ടുകയോ ചെയ്യുന്നത് സുന്നത്താണ്. എന്നാൽ മറ്റുള്ളവരെ ഉപദ്രവിക്കുന്നത് ഹറാമാണ്. തിരക്കാണെങ്കിൽ ദൂരെ നിന്ന് അതിന് നേരെ തിരിഞ്ഞ് വലതു കൈ ഉയർത്തി ചൂണ്ടി \"ബിസ്മില്ലാഹ്, അല്ലാഹു അക്ബർ\" എന്ന് പറഞ്ഞ് മുന്നോട്ട് പോകുക.",
@@ -620,7 +636,7 @@
           "ta": "ஹிஜ்ர் இஸ்மாயிலில் வருகை மற்றும் தொழுகை"
         },
         "description": {
-          "ar": "اللَّهُمَّ أَنْتَ رَبِّي لاَ إِلَهَ إِلاَّ أَنْتَ خَلَقْتَنِي وَأَنَا عَبْدُكَ، وَأَنَا عَلَى عَهْدِكَ وَوَعْدِكَ مَا اسْتَطَعْتُ، أَعُوذُ بِكَ مِنْ شَرِّ مَا صَنَعْتُ، أَبُوءُ لَكَ بِنِعْمَتِكَ عَلَيَّ، وَأَبُوءُ بِذَنْبِي فَاغْفِرْ لِي فَإِنَّهُ لاَ يَغْفِرُ الذُّنُوبَ إِلاَّ أَنْتَ",
+          "ar": "اللّٰهُمََّّ أَنْتَ رَبِّي لاَ إِاللّٰهَ إِلَّا أَنْتَ خَلَقْتَنِي وَأَنَا عَبْدُكَ، وَأَنَا عَلَى عَهْدِكَ وَوَعْدِكَ مَا اسْتَطَعْتُ، أَعُوذُ بِكَ مِنْ شَرِّ مَا صَنَعْتُ، أَبُوءُ لَكَ بِنِعْمَتِكَ عَلَيَّ، وَأَبُوءُ بِذَنْبِي فَاغْفِرْ لِي فَإِنَّهُ لاَ يَغْفِرُ الذُّنُوبَ إِلَّا أَنْتَ",
           "en": "Visiting and Praying in Hijr Ismail (optional): Hijr Ismail is the semi-circular wall adjacent to the Kaaba. The first 3 meters of this enclosed area are actually part of the original footprint of the Kaaba. Because it is technically inside the Kaaba, it is considered a highly virtuous place to visit. Making Dua: It is an excellent place for supplication. Standing under the Mizab al-Rahman (the water spout located inside the Hijr Ismail area) is specifically listed as one of the 15 places where dua is most readily accepted (mustajab). A recommended dua is the Sayyidul Istighfar: \"O Allah, You are my Lord, none has the right to be worshipped except You, You created me and I am Your servant, and I abide to Your covenant and promise as best I can, I take refuge in You from the evil of which I have committed... forgive me, for none forgives sins except You.\" Solat (Praying) in Hijr Ismail: Many pilgrims queue up to perform prayers inside this area because it is part of the Kaaba.",
           "ms": "Ziarah dan solat di Hijir Ismail (pilihan): Hijir Ismail adalah dinding separuh bulatan bersebelahan Kaabah. 3 meter pertama kawasan ini merupakan sebahagian daripada tapak asal Kaabah, menjadikannya tempat yang sangat mulia untuk diziarahi. Ia adalah tempat yang mustajab untuk berdoa, terutamanya jika berdiri di bawah Mizab al-Rahman (pancur air emas). Doa yang sangat digalakkan ialah Penghulu Istighfar: \"Ya Allah! Engkau Tuhanku, tiada Tuhan melainkan Engkau yang menjadikan aku... maka ampunilah aku, kerana tiada siapa yang dapat mengampuni dosa melainkan Engkau.\" Ramai jemaah beratur untuk mendirikan solat di sini kerana ia adalah sebahagian daripada Kaabah.",
           "ml": "കഅബയോട് ചേർന്നുള്ള അർദ്ധവൃത്താകൃതിയിലുള്ള മതിലാണ് ഹിജ്ർ ഇസ്മായിൽ. ഇതിന്റെ ആദ്യത്തെ 3 മീറ്റർ കഅബയുടെ ഭാഗമാണ്, അതിനാൽ ഇവിടെ സന്ദർശിക്കുന്നതും നിസ്കരിക്കുന്നതും പുണ്യകരമാണ്. പ്രാർത്ഥിക്കാൻ ഏറ്റവും ഉത്തമമായ സ്ഥലമാണിത്, പ്രത്യേകിച്ച് മീസാബുർറഹ്മാന്റെ (വെള്ളം വീഴുന്ന പാത്തി) താഴെ നിൽക്കുന്നത് ദുആ സ്വീകരിക്കപ്പെടുന്ന 15 സ്ഥലങ്ങളിൽ ഒന്നാണ്. (ദുആ: അല്ലാഹുവേ, നീയാണ് എന്റെ രക്ഷിതാവ്, നീയല്ലാതെ ആരാധനയ്ക്കർഹനായി മറ്റാരുമില്ല...). ധാരാളം തീർത്ഥാടകർ ഇവിടെ നിസ്കരിക്കാനായി വരി നിൽക്കാറുണ്ട്.",
@@ -632,7 +648,7 @@
           "subtitles": "rituals/hijr_ismail.json"
         },
         "autoPlay": false,
-        "arabic": "اللَّهُمَّ أَنْتَ رَبِّي لاَ إِلَهَ إِلاَّ أَنْتَ خَلَقْتَنِي وَأَنَا عَبْدُكَ، وَأَنَا عَلَى عهدِكَ وَوَعْدِكَ مَا اسْتَطَعْتُ، أَعُوذُ بِكَ مِنْ شَرِّ مَا صَنَعْتُ، أَبُوءُ لَكَ بِنِعْمَتِكَ عَلَيَّ، وَأَبُوءُ بِذَنْبِي فَاغْفِرْ لِي فَإِنَّهُ لاَ يَغْفِرُ الذُّنُوبَ إِلاَّ أَنْتَ",
+        "arabic": "اللّٰهُمََّّ أَنْتَ رَبِّي لاَ إِاللّٰهَ إِلَّا أَنْتَ خَلَقْتَنِي وَأَنَا عَبْدُكَ، وَأَنَا عَلَى عهدِكَ وَوَعْدِكَ مَا اسْتَطَعْتُ، أَعُوذُ بِكَ مِنْ شَرِّ مَا صَنَعْتُ، أَبُوءُ لَكَ بِنِعْمَتِكَ عَلَيَّ، وَأَبُوءُ بِذَنْبِي فَاغْفِرْ لِي فَإِنَّهُ لاَ يَغْفِرُ الذُّنُوبَ إِلَّا أَنْتَ",
         "transliteration": "Allāhumma Anta Rabbī lā ilāha illā Ant, khalaqtanī wa anā ‘abduk, wa anā ‘alā ‘ahdika wa wa‘dika mastata‘t, a‘ūdhu bika min sharri mā ṣana‘t, abū’u laka bini‘matika ‘alayy, wa abū’u bidhanbī faghfir lī fa-innahū lā yaghfirudh-dhunūba illā Ant."
       },
       {
@@ -700,7 +716,7 @@
           }
         ],
         "autoPlay": false,
-        "arabic": "اللَّهُمَّ إِنِّي أَسْأَلُكَ عِلْمًا نَافِعًا وَرِزْقًا وَاسِعًا وَشِفَاءً مِنْ كُلِّ دَاءٍ",
+        "arabic": "اللّٰهُمََّّ إِنِّي أَسْأَلُكَ عِلْمًا نَافِعًا وَرِزْقًا وَاسِعًا وَشِفَاءً مِنْ كُلِّ دَاءٍ",
         "transliteration": "Allāhumma innī as’aluka ʿilman nāfiʿan wa rizqan wāsiʿan wa shifā’an min kulli dā’."
       },
       {
@@ -712,7 +728,7 @@
           "ta": "ஸயீயை தொடங்க ஸஃபாவை நோக்கிச் செல்லுதல்"
         },
         "description": {
-          "ar": "إِنَّ الصَّفَا وَالْمَرْوَةَ مِن شَعَائِرِ اللَّهِ",
+          "ar": "إِنَّ الصَّفَا وَالْمَرْوَةَ مِن شَعَائِرِ اللّٰهِ",
           "en": "Once you have prayed and refreshed yourself with Zamzam, you will head toward the Mas'aa (the area where Sa'ie is performed). Before heading there, you may put your slippers or comfortable walking shoes back on, as the Sa'ie area spans a long distance. As you approach Safa, you recite: \"Indeed, Safa and Marwah are among the symbols of Allah.\"",
           "ms": "Setelah anda selesai bersolat dan menyegarkan diri dengan air Zamzam, anda akan menuju ke Mas'aa (kawasan di mana Sa'ie dilakukan). Sebelum ke sana, anda boleh memakai semula selipar atau kasut berjalan yang selesa, memandangkan kawasan Sa'ie meliputi jarak yang jauh. Ketika menghampiri Safa, bacalah: \"Sesungguhnya Safa dan Marwah adalah sebahagian daripada syiar-syiar Allah.\"",
           "ml": "നിസ്കരിച്ച് സംസം കുടിച്ച് ഉന്മേഷവാനായ ശേഷം, സഅയ് ചെയ്യുന്ന സ്ഥലത്തേക്ക് (മസ്അ) നടക്കുക. സഅയ് ചെയ്യുന്ന ദൂരം കൂടുതലായതിനാൽ അതിനുമുമ്പ് നിങ്ങൾക്ക് സുഖപ്രദമായ പാദരക്ഷകൾ വീണ്ടും ധരിക്കാവുന്നതാണ്. സഫയിലേക്ക് നടക്കുമ്പോൾ ഈ ദുആ ചൊല്ലുക: \"തീർച്ചയായും സഫയും മർവയും അല്ലാഹുവിന്റെ അടയാളങ്ങളിൽ പെട്ടതാണ്.\"",
@@ -720,7 +736,7 @@
         },
         "mediaItems": [],
         "autoPlay": false,
-        "arabic": "إِنَّ الصَّفَا وَالْمَرْوَةَ مِنْ شَعَائِرِ اللَّهِ ۖ فَمَنْ حَجَّ الْبَيْتَ أَوِ اعْتَمَرَ فَلَا جُنَاحَ عَلَيْهِ أَنْ يَطَّوَّفَ بِهِمَا. نَبْدَأُ بِمَا بَدَأَ اللَّهُ بِهِ",
+        "arabic": "إِنَّ الصَّفَا وَالْمَرْوَةَ مِنْ شَعَائِرِ اللّٰهِ ۖ فَمَنْ حَجَّ الْبَيْتَ أَوِ اعْتَمَرَ فَلَا جُنَاحَ عَلَيْهِ أَنْ يَطَّوَّفَ بِهِمَا. نَبْدَأُ بِمَا بَدَأَ اللّٰهُ بِهِ",
         "transliteration": "Innaṣ-ṣafā wal-marwata min shaʿā’irillāh... Nabda’u bimā bada’allāhu bih."
       }
     ],
@@ -761,7 +777,7 @@
           "ta": "முதல் நடை"
         },
         "description": {
-          "ar": "إِنَّ الصَّفَا وَالْمَرْوَةَ مِنْ شَعَائِرِ اللهِ. أَبْدَأُ بِمَا بَدَأَ اللهُ بِهِ",
+          "ar": "إِنَّ الصَّفَا وَالْمَرْوَةَ مِنْ شَعَائِرِ اللّٰهِ. أَبْدَأُ بِمَا بَدَأَ اللّٰهُ بِهِ",
           "en": "(Verily, Safa and Marwah are among the signs of Allah. I begin with that which Allah began with).",
           "ms": "(Sesungguhnya Safa dan Marwah adalah sebahagian daripada syiar Allah. Aku mulakan dengan apa yang Allah mulakan).",
           "ml": "(തീർച്ചയായും സഫയും മർവയും അല്ലാഹുവിൻ്റെ ചിഹ്നങ്ങളിൽ പെട്ടതാണ്. അല്ലാഹു ആരംഭിച്ചത് കൊണ്ട് ഞാൻ ആരംഭിക്കുന്നു).",
@@ -779,7 +795,7 @@
           "ta": "இரண்டாம் நடை"
         },
         "description": {
-          "ar": "اللهُ أَكْبَرُ، اللهُ أَكْبَرُ، اللهُ أَكْبَرُ وَلِلهِ الْحَمْدُ",
+          "ar": "اللّٰهُ أَكْبَرُ، اللّٰهُ أَكْبَرُ، اللّٰهُ أَكْبَرُ وَلِلّٰهِ الْحَمْدُ",
           "en": "(Allah is the Greatest, Allah is the Greatest, Allah is the Greatest, and for Allah is all praise).",
           "ms": "(Allah Maha Besar, Allah Maha Besar, Allah Maha Besar, dan bagi Allah segala puji).",
           "ml": "(അല്ലാഹു ഏറ്റവും വലിയവനാണ്, അല്ലാഹു ഏറ്റവും വലിയവനാണ്, അല്ലാഹു ഏറ്റവും വലിയവനാണ്, സർവ്വ സ്തുതിയും അല്ലാഹുവിനാണ്).",
@@ -815,7 +831,7 @@
           "ta": "நான்காம் நடை"
         },
         "description": {
-          "ar": "لَا إِلٰهَ إِلَّا اللهُ وَحْدَهُ لَا شَرِيْكَ لَهُ، لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ وَهُوَ عَلَىٰ كُلِّ شَيْءٍ قَدِيْرٌ",
+          "ar": "لَا إِلٰهَ إِلَّا اللّٰهُ وَحْدَهُ لَا شَرِيْكَ اللّٰهُ، اللّٰهُ الْمُلْكُ وَاللّٰهُ الْحَمْدُ وَهُوَ عَلَىٰ كُلِّ شَيْءٍ قَدِيْرٌ",
           "en": "(There is no god but Allah alone, no partner has He, to Him belongs the dominion and to Him belongs the praise, and He is over all things Powerful).",
           "ms": "(Tiada tuhan melainkan Allah Yang Maha Esa, tiada sekutu bagi-Nya, bagi-Nya segala kekuasaan dan bagi-Nya segala pujian, dan Dia Maha Kuasa atas segala sesuatu).",
           "ml": "(അല്ലാഹു അല്ലാതെ മറ്റൊരു ദൈവവുമില്ല, അവൻ ഏകനാണ്, അവന് പങ്കുകാരില്ല. സർവ്വ ആധിപത്യവും സ്തുതിയും അവനാണ്).",
@@ -833,7 +849,7 @@
           "ta": "ஐந்தாம் நடை"
         },
         "description": {
-          "ar": "اللهمَّ إِنِّي أَسْأَلُكَ الْعَفْوَ وَالْعَافِيَةَ فِي الدُّنْيَا وَالآخِرَةِ",
+          "ar": "اللّٰهُمََّّ إِنِّي أَسْأَلُكَ الْعَفْوَ وَالْعَافِيَةَ فِي الدُّنْيَا وَالآخِرَةِ",
           "en": "(O Allah, I ask You for forgiveness and well-being in this world and the Hereafter).",
           "ms": "(Ya Allah, sesungguhnya aku memohon keampunan dan kesejahteraan-Mu di dunia dan di akhirat).",
           "ml": "(അല്ലാഹുവേ, ദുനിയാവിലും ആഖിറത്തിലും മാപ്പും സമാധാനവും ഞാൻ നിന്നോട് ചോദിക്കുന്നു).",
@@ -869,7 +885,7 @@
           "ta": "ஏழாம் நடை"
         },
         "description": {
-          "ar": "اللهمَّ تَقَبَّلْ مِنَّا سَعْيَنَا كَمَا تَقَبَّلْتَ مِنْ نَبِيِّكَ إِبْرَاهِيْمَ عَلَيْهِ السَّلَامُ",
+          "ar": "اللّٰهُمََّّ تَقَبَّلْ مِنَّا سَعْيَنَا كَمَا تَقَبَّلْتَ مِنْ نَبِيِّكَ إِبْرَاهِيْمَ عَلَيْهِ السَّلَامُ",
           "en": "(O Allah, accept our Sa'i as You accepted from Your Prophet Ibrahim, peace be upon him).",
           "ms": "(Ya Allah, terimalah Sa'i kami sepertimana Engkau menerima daripada Nabi-Mu Ibrahim alayhis-salam).",
           "ml": "(അല്ലാഹുവേ, നിൻ്റെ പ്രവാചകൻ ഇബ്രാഹിം നബിയിൽ നിന്ന് സ്വീകരിച്ചത് പോലെ ഞങ്ങളുടെ ഈ സഅയ് സ്വീകരിക്കേണമേ).",
@@ -916,7 +932,7 @@
           "ml": "മുടി മുണ്ഡനം ചെയ്യുമ്പോഴുള്ള ദുആ",
           "ta": "முடி கத்தரிக்கும் போது ஓதும் துஆ"
         },
-        "arabic": "اللَّهُمَّ اجْعَلْ لِكُلِّ شَعْرَةٍ نُوراً يَوْمَ الْقِيَامَةِ، وَاغْفِرْ لِي ذَنْبِي، وَتَقَبَّلْ مِنِّي عُمْرَتِي",
+        "arabic": "اللّٰهُمََّّ اجْعَلْ لِكُلِّ شَعْرَةٍ نُوراً يَوْمَ الْقِيَامَةِ، وَاغْفِرْ لِي ذَنْبِي، وَتَقَبَّلْ مِنِّي عُمْرَتِي",
         "transliteration": "Allāhummajʿal likulli shaʿratin nūran yawmal-qiyāmah, waghfir lī dhanbī, wa taqabbal minnī ʿumratī.",
         "description": {
           "en": "O Allah, make for every single hair a light for me on the Day of Resurrection, forgive my sins, and accept my Umrah from me.",

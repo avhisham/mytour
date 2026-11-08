@@ -5,7 +5,7 @@
       "start": "00:00:00,000",
       "end": "00:00:02,803",
       "text": {
-        "ar": "سُبْحَانَ اللهِ وَالْحَمْدُ للهِ",
+        "ar": "سُبْحَانَ اللّٰهِ وَالْحَمْدُ اللّٰهِ",
         "tl": "Subhanallahi wal hamdu lillah",
         "ms": "Maha Suci Allah dan segala puji bagi Allah",
         "en": "Glory be to Allah, and all praise is to Allah",
@@ -17,7 +17,7 @@
       "start": "00:00:02,803",
       "end": "00:00:06,920",
       "text": {
-        "ar": "وَلَا إِلَهَ إِلَّا اللهُ وَاللهُ أَكْبَرُ",
+        "ar": "وَلَا إِاللّٰهَ إِلَّا اللّٰهُ وَاللّٰهُ أَكْبَرُ",
         "tl": "wa la ilaha illallahu wallahu akbar",
         "ms": "Tiada Tuhan melainkan Allah dan Allah Maha Besar",
         "en": "There is no god but Allah, and Allah is Greatest",
@@ -29,7 +29,7 @@
       "start": "00:00:06,920",
       "end": "00:00:12,351",
       "text": {
-        "ar": "وَلَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللَّهِ الْعَلِيِّ الْعَظِيمِ",
+        "ar": "وَلَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللّٰهِِ الْعَلِيِّ الْعَظِيمِ",
         "tl": "wa la hawla wa la quwwata illa billahil 'aliyyil 'adheem",
         "ms": "Tiada daya dan kekuatan melainkan dengan pertolongan Allah Yang Maha Tinggi lagi Maha Agung",
         "en": "There is no power nor might except with Allah, the Most High, the Supreme",
@@ -41,7 +41,7 @@
       "start": "00:00:12,438",
       "end": "00:00:18,263",
       "text": {
-        "ar": "وَالصَّلَاةُ وَالسَّلَامُ عَلَى رَسُولِ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ",
+        "ar": "وَالصَّلَاةُ وَالسَّلَامُ عَلَى رَسُولِ اللّٰهِ صَلَّى اللّٰهُ عَلَيْهِ وَسَلَّمَ",
         "tl": "was-salatu was-salamu 'ala rasulillahi sallallahu 'alayhi wa sallam",
         "ms": "Selawat dan salam ke atas Rasulullah SAW",
         "en": "Blessings and peace be upon the Messenger of Allah, peace be upon him",
@@ -53,7 +53,7 @@
       "start": "00:00:18,263",
       "end": "00:00:22,074",
       "text": {
-        "ar": "اللَّهُمَّ إِيمَانًا بِكَ",
+        "ar": "اللّٰهُمََّّ إِيمَانًا بِكَ",
         "tl": "Allahumma imanan bika",
         "ms": "Ya Allah, hamba beriman kepada-Mu",
         "en": "O Allah, out of faith in You",
@@ -101,7 +101,7 @@
       "start": "00:00:30,702",
       "end": "00:00:33,505",
       "text": {
-        "ar": "صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ",
+        "ar": "صَلَّى اللّٰهُ عَلَيْهِ وَسَلَّمَ",
         "tl": "sallallahu 'alayhi wa sallam",
         "ms": "Selawat Allah ke atasnya dan salam",
         "en": "May Allah's peace and blessings be upon him",
@@ -113,7 +113,7 @@
       "start": "00:00:33,505",
       "end": "00:00:38,060",
       "text": {
-        "ar": "اللَّهُمَّ إِنِّي أَسْأَلُكَ الْعَفْوَ وَالْعَافِيَةَ",
+        "ar": "اللّٰهُمََّّ إِنِّي أَسْأَلُكَ الْعَفْوَ وَالْعَافِيَةَ",
         "tl": "Allahumma inni as'alukal 'afwa wal 'afiyah",
         "ms": "Ya Allah, sesungguhnya hamba memohon kepada-Mu keampunan dan kesejahteraan",
         "en": "O Allah, I ask You for forgiveness and well-being",

@@ -5,7 +5,7 @@
       "start": "00:00:00,000",
       "end": "00:00:04,500",
       "text": {
-        "ar": "اللَّهُ أَكْبَرُ، اللَّهُ أَكْبَرُ، اللَّهُ أَكْبَرُ، وَلِلَّهِ الْحَمْدُ",
+        "ar": "اللّٰهُ أَكْبَرُ، اللّٰهُ أَكْبَرُ، اللّٰهُ أَكْبَرُ، وَلِلّٰهِ الْحَمْدُ",
         "tl": "Allāhu Akbar, Allāhu Akbar, Allāhu Akbar, wa lillāhil-ḥamd",
         "en": "Allah is the Greatest, Allah is the Greatest, Allah is the Greatest, and to Allah belongs all praise.",
         "ms": "Allah Maha Besar, Allah Maha Besar, Allah Maha Besar, dan bagi Allah segala puji-pujian.",
@@ -17,7 +17,7 @@
       "start": "00:00:07,500",
       "end": "00:00:11,000",
       "text": {
-        "ar": "سُبْحَانَ اللَّهِ وَالْحَمْدُ لِلَّهِ",
+        "ar": "سُبْحَانَ اللّٰهِ وَالْحَمْدُ لِلّٰهِِ",
         "tl": "Subḥānallāhi wal-ḥamdu lillāh",
         "en": "Glory be to Allah, and all praise is due to Allah,",
         "ms": "Maha Suci Allah, dan segala puji bagi Allah,",
@@ -29,7 +29,7 @@
       "start": "00:00:14,000",
       "end": "00:00:18,500",
       "text": {
-        "ar": "وَلَا إِلَهَ إِلَّا اللَّهُ وَاللَّهُ أَكْبَرُ",
+        "ar": "وَلَا إِاللّٰهَ إِلَّا اللّٰهُ وَاللّٰهُ أَكْبَرُ",
         "tl": "wa lā ilāha illallāhu wallāhu Akbar",
         "en": "and there is no god but Allah, and Allah is the Greatest.",
         "ms": "dan tiada tuhan selain Allah, dan Allah Maha Besar.",
