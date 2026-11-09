@@ -22,7 +22,7 @@
           "url": "audio/umrah_definition.mp3",
           "subtitles": null
         },
-        "autoPlay": true
+        "autoPlay": false
       },
       {
         "card": 2,
@@ -170,7 +170,7 @@
           "url": "audio/home_prep.mp3",
           "subtitles": "audio/home_prep.json"
         },
-        "autoPlay": true
+        "autoPlay": false
       },
       {
         "card": 2,
@@ -203,7 +203,7 @@
           "url": "audio/solat_ihram.mp3",
           "subtitles": null
         },
-        "autoPlay": true
+        "autoPlay": false
       }
     ],
     "media": [
@@ -266,7 +266,7 @@
           "url": "audio/niyyah_umrah.mp3",
           "subtitles": null
         },
-        "autoPlay": true,
+        "autoPlay": false,
         "arabic": "لَبَّيْكَ اللّٰهُمََّّ عُمْرَةً\n\nنَوَيْتُ الْعُمْرَةَ وَأَحْرَمْتُ بِهَا لِلّٰهِِ تَعَالَىٰ",
         "transliteration": "Labbayk Allāhumma ʿUmratan.\nNawaytul-ʿUmrata wa aḥramtu bihā lillāhi Taʿālā."
       },
@@ -319,7 +319,7 @@
           "url": "audio/talbiyah.mp3",
           "subtitles": null
         },
-        "autoPlay": true,
+        "autoPlay": false,
         "arabic": "لَبَّيْكَ اللّٰهُمََّّ لَبَّيْكَ، لَبَّيْكَ لَا شَرِيكَ لَكَ لَبَّيْكَ، إِنَّ الْحَمْدَ وَالنِّعْمَةَ لَكَ وَالْمُلْكَ، لَا شَرِيكَ لَكَ",
         "transliteration": "Labbayk Allāhumma labbayk, labbayka lā sharīka laka labbayk, innal-ḥamda wan-niʿmata laka wal-mulk, lā sharīka lak."
       },
@@ -354,7 +354,7 @@
           "url": "audio/doa_haram.mp3",
           "subtitles": "rituals/doa_haram.json"
         },
-        "autoPlay": true,
+        "autoPlay": false,
         "arabic": "اللّٰهُمََّّ هَذَا حَرَمُكَ وَأَمْنُكَ فَحَرِّمْ لَحْمِي وَدَمِي وَشَعْرِي وَبَشَرِي عَلَى النَّارِ",
         "transliteration": "Allāhumma hādhā ḥaramuka wa amnuka faḥarrim laḥmī wa damī wa shaʿrī wa basharī ʿalan-nār."
       }
@@ -419,7 +419,7 @@
           "url": "audio/seeing_kaaba.mp3",
           "subtitles": "rituals/seeing_kaaba.json"
         },
-        "autoPlay": true,
+        "autoPlay": false,
         "arabic": "اللّٰهُمََّّ زِدْ هَذَا الْبَيْتَ تَشْرِيفاً وَتَعْظِيماً وَتَكْرِيماً وَمَهَابَةً، وَزِدْ مَنْ شَرَّفَهُ وَعَظَّمَهُ مِمَّنْ حَجَّهُ أَوِ اعْتَمَرَهُ تَشْرِيفاً وَتَكْرِيماً وَتَعْظِيماً وَبِرّاً",
         "transliteration": "Allāhumma zid hādhal-bayta tashrīfan wa taʿẓīman wa takrīman wa mahābah, wa zid man sharrafahū wa ʿaẓẓamahū mimman ḥajjahū awiʿtamarahū tashrīfan wa takrīman wa taʿẓīman wa birrā."
       }
@@ -945,7 +945,8 @@
             "type": "image",
             "url": "image/tahallul.png"
           }
-        ]
+        ],
+        "autoPlay": false
       }
     ],
     "media": [
